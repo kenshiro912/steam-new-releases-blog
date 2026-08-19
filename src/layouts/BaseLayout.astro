@@ -19,7 +19,7 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
     <meta name="description" content={description} />
     <title>{pageTitle}</title>
     <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-    <style>
+    <style is:global>
       :root {
         color-scheme: light dark;
         --bg: #0f1115;
