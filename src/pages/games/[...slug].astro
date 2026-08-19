@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { title, titleJa, descriptionJa, price, tags, audienceJa, releaseDate, heroImage, sourceUrl, pubDate, steamAppId } = article.data;
+const displayTitle = titleJa || title;
+const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+---
+
+<BaseLayout title={displayTitle} description={descriptionJa.slice(0, 120)}>
+  <article>
+    <h1>{displayTitle}</h1>
+    {titleJa && titleJa !== title && <p class="original-title">原題: {title}</p>}
+
+    {heroImage && <img class="hero" src={heroImage} alt={displayTitle} loading="lazy" />}
+
+    <dl class="meta-list">
+      <div><dt>価格</dt><dd>{price}</dd></div>
+      {releaseDate && <div><dt>発売日</dt><dd>{releaseDate}</dd></div>}
+      <div><dt>掲載日</dt><dd><time datetime={pubDate.toISOString()}>{dateLabel}</time></dd></div>
+      <div><dt>Steamストア</dt><dd><a href={sourceUrl} target="_blank" rel="noopener noreferrer">appid {steamAppId} で見る</a></dd></div>
+    </dl>
+
+    <div class="tag-cloud">
+      {tags.map((tag) => (
+        <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag}</a>
+      ))}
+    </div>
+
+    <h2>ゲーム紹介</h2>
+    <p>{descriptionJa}</p>
+
+    <h2>どんな人におすすめか</h2>
+    <p>{audienceJa}</p>
+
+    <p><a href="/">&larr; ホームに戻る</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .original-title { color: var(--muted); font-size: 0.9rem; margin-top: -0.5rem; }
+  .hero { max-width: 100%; border-radius: 8px; margin: 1rem 0; }
+  .meta-list {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.4rem 1rem;
+    margin: 1rem 0;
+  }
+  .meta-list dt { color: var(--muted); font-size: 0.85rem; }
+  .meta-list dd { margin: 0; }
+  .tag-cloud { margin-bottom: 1.5rem; }
+</style>

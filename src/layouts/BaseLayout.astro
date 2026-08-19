@@ -1,0 +1,90 @@
+---
+import { siteConfig } from '../site.config';
+import AdSlot from '../components/AdSlot.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = siteConfig.description } = Astro.props;
+const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.title}`;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{pageTitle}</title>
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0f1115;
+        --fg: #e8e8ec;
+        --muted: #9a9aa5;
+        --accent: #66c0f4;
+        --card-bg: #1a1d24;
+        --border: #2a2d36;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+        background: var(--bg);
+        color: var(--fg);
+        line-height: 1.7;
+      }
+      a { color: var(--accent); }
+      header.site-header {
+        padding: 1.25rem 1rem;
+        border-bottom: 1px solid var(--border);
+      }
+      header.site-header .brand {
+        font-size: 1.25rem;
+        font-weight: 700;
+        text-decoration: none;
+        color: var(--fg);
+      }
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 4rem;
+      }
+      footer {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+        color: var(--muted);
+        font-size: 0.85rem;
+        border-top: 1px solid var(--border);
+      }
+      .tag {
+        display: inline-block;
+        font-size: 0.75rem;
+        padding: 0.15rem 0.6rem;
+        border-radius: 999px;
+        background: var(--card-bg);
+        border: 1px solid var(--border);
+        color: var(--muted);
+        text-decoration: none;
+        margin: 0 0.35rem 0.35rem 0;
+      }
+      .tag:hover { color: var(--accent); border-color: var(--accent); }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">{siteConfig.title}</a>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <AdSlot />
+    <footer>
+      <p>{siteConfig.title} — Steam公式ストアAPIをもとに自動生成された紹介記事を掲載しています。</p>
+    </footer>
+  </body>
+</html>

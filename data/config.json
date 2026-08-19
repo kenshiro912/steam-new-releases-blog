@@ -1,0 +1,7 @@
+{
+  "maxNewAppsPerRun": 25,
+  "maxArticlesPerRun": 8,
+  "requestDelayMs": 400,
+  "adultContentDescriptorIds": [1, 3, 4],
+  "adultKeywords": ["nudity", "sexual", "adult content", "adult only", "ヌーディティ", "性的な内容", "アダルト"]
+}

@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { siteConfig } from '../site.config';
+import { getCollection } from 'astro:content';
+
+const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const latestArticles = allArticles.slice(0, 30);
+
+const tagCounts = new Map<string, number>();
+for (const article of allArticles) {
+  for (const tag of article.data.tags) {
+    tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+  }
+}
+const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title={siteConfig.title}>
+  <section class="search-section">
+    <h2>フリーワード検索</h2>
+    <div id="search"></div>
+  </section>
+
+  <section class="tag-section">
+    <h2>タグで探す</h2>
+    <div class="tag-cloud">
+      {tags.length === 0 && <p class="muted">まだ記事がありません。</p>}
+      {tags.map(([tag, count]) => (
+        <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag} ({count})</a>
+      ))}
+    </div>
+  </section>
+
+  <section class="latest-section">
+    <div class="latest-header">
+      <h2>新着記事</h2>
+      <input
+        type="text"
+        id="tag-filter-input"
+        placeholder="表示中の記事をタグで絞り込み"
+        aria-label="タグで絞り込み"
+      />
+    </div>
+    <div id="latest-list">
+      {latestArticles.length === 0 && <p class="muted">新着記事は準備中です。Steam監視スクリプトが新規ゲームを検出すると、ここに自動で追加されます。</p>}
+      {latestArticles.map((article) => (
+        <ArticleCard
+          slug={article.id}
+          title={article.data.title}
+          titleJa={article.data.titleJa}
+          price={article.data.price}
+          tags={article.data.tags}
+          pubDate={article.data.pubDate}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById('tag-filter-input') as HTMLInputElement | null;
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.article-card'));
+
+  input?.addEventListener('input', () => {
+    const query = input.value.trim().toLowerCase();
+    for (const card of cards) {
+      const tags = (card.dataset.tags ?? '').toLowerCase();
+      card.style.display = !query || tags.includes(query) ? '' : 'none';
+    }
+  });
+</script>
+
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (window.PagefindUI) {
+      new window.PagefindUI({ element: '#search', showSubResults: true });
+    }
+  });
+</script>
+
+<style>
+  h2 { font-size: 1.1rem; margin: 2rem 0 0.75rem; }
+  .search-section h2 { margin-top: 0; }
+  .tag-cloud { display: flex; flex-wrap: wrap; }
+  .latest-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  #tag-filter-input {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    color: var(--fg);
+    border-radius: 6px;
+    padding: 0.4rem 0.7rem;
+    font-size: 0.85rem;
+    min-width: 220px;
+  }
+  .muted { color: var(--muted); }
+</style>

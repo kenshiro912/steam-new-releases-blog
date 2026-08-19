@@ -1,0 +1,22 @@
+---
+import { siteConfig } from '../site.config';
+---
+
+{siteConfig.adsenseEnabled && siteConfig.adsensePublisherId && (
+  <>
+    <script
+      async
+      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsensePublisherId}`}
+      crossorigin="anonymous"
+    ></script>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={siteConfig.adsensePublisherId}
+      data-ad-slot="auto"
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    ></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </>
+)}
