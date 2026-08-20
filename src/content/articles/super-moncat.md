@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "反射神経が試される高難度アーケードゲームに挑戦したい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356680/c7c32a91f84b75b99d4a7267a3f416eabc389363/header.jpg?t=1787169474"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

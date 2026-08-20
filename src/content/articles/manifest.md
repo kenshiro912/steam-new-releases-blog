@@ -9,5 +9,6 @@ tags: ["インディー", "シミュレーション", "ストラテジー", "シ
 audienceJa: "数字とスケジュールを睨みながら経営を最適化するのが好きな人、現実的な設定の宇宙シミュレーションに惹かれる人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004290/f881d278d72f5bef389364211cd13b36585e89dc/header.jpg?t=1787170878"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

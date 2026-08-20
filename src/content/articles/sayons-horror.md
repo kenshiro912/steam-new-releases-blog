@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "ストラテジー", "シングルプレイヤ�
 audienceJa: "じっくりと探索しながら恐怖を味わいたい人、謎解きとサバイバル要素の組み合わせが好きな人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4042640/7e54cea43372d769272c712da902b20daf0570ce/header.jpg?t=1787174331"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

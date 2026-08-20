@@ -9,5 +9,6 @@ tags: ["インディー", "ストラテジー", "マルチプレイヤー"]
 audienceJa: "友人との短時間の対戦や心理的な読み合いを楽しみたい人、運と判断が絡むパーティーゲームが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438170/42899dab1444bf4e2bb9ff3be6a4dfca1f202aef/header.jpg?t=1787194527"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

@@ -8,5 +8,6 @@ tags: ["シミュレーション", "ストラテジー", "早期アクセス", "
 audienceJa: "デッキ構築型ローグライトを繰り返し遊ぶのが好きな人、経済や相場をテーマにしたゲームに興味がある人におすすめです。"
 releaseDate: "2026年第3四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991910/693959b173d7613b24ae357e510df8adfb987798/header.jpg?t=1787182064"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

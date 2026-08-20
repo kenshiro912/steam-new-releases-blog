@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "シング
 audienceJa: "脱出ゲームやパズルアドベンチャーをじっくり遊びたい人、風変わりな世界観と皮肉の効いた設定を楽しめる人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980220/6cd1daf53a30ff971455260f8bfeada0037d55bc/header.jpg?t=1787175683"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

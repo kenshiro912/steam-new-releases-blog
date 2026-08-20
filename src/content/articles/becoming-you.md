@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "カジュアル", "インデ
 audienceJa: "好きな曲を持ち込んで遊べるゲームに興味がある人、音楽と連動する高速アクションを試したい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777180/4d962b6a24c16f8c9b6009b3aa3dd7e6678a1bfc/header.jpg?t=1787175506"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

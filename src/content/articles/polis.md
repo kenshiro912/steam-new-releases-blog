@@ -9,5 +9,6 @@ tags: ["シミュレーション", "シングルプレイヤー"]
 audienceJa: "数字の最適化だけでなく、住民との関係や選択の後始末まで含めて楽しみたい人、皮肉の効いた政治もののシミュレーションが好きな人におすすめです。"
 releaseDate: "2026年9月"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026520/da18ae9f1859819cb7a1aa8eb056c2ad256614e2/header.jpg?t=1787170065"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

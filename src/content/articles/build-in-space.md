@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "シミュレーション", "シングルプレ�
 audienceJa: "農場経営や施設拡張をコツコツ進めるのが好きな人、友人と一緒にのんびり拠点づくりを楽しみたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691050/12084914ac7a8bb66144802d7de8dd7b7f9fb58a/header.jpg?t=1787199735"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

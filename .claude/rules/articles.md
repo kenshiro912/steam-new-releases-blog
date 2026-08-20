@@ -21,9 +21,16 @@ tags: ["Action", "Indie", "Co-op"]
 audienceJa: "(AIによる「どんな人が好きか」分析。日本人読者に自然な日本語で、具体的に。例: 『じっくり探索するのが好きな人、レトロなドット絵に魅力を感じる人におすすめ』)"
 releaseDate: "2026年8月20日"
 heroImage: "https://cdn.akamai.steamstatic.com/steam/apps/123456/header.jpg"
+japaneseSupport: "full"
 pubDate: 2026-08-20
 ---
 ```
+
+`japaneseSupport` は `scripts/check-new-steam-games.mjs` の `detectJapaneseSupport()` が
+`pending-games.json` に既に算出済みの値をそのまま転記する（`"full"` = 字幕+フル音声対応、
+`"text"` = 字幕/UIのみ対応、`"none"` = 日本語非対応）。Claude自身で判定し直さない。
+このフィールド追加より前にキューされたエントリには値が無いことがあるが、その場合は
+無理に推測せず `japaneseSupport` の行ごと省略してよい（スキーマ上optional）。
 
 本文（frontmatter以下）は空でよい（記事ページは frontmatter の `descriptionJa` / `audienceJa` を表示するテンプレート構成のため）。
 

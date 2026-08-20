@@ -9,5 +9,6 @@ tags: ["アクション", "アドベンチャー", "RPG", "シングルプレイ
 audienceJa: "「キングダム ハーツ」シリーズのファンや、スピーディーなアクションRPGを遊びたい人におすすめです。"
 releaseDate: "2027年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216600/ed20342b43630ff0647b0185fce1e720c350e030/header_japanese.jpg?t=1786766413"
+japaneseSupport: "full"
 pubDate: 2026-08-20
 ---

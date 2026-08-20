@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "ストラテジー", "シングル
 audienceJa: "シンプルなルールの中に奥深さがあるパズルゲームが好きな人、昔ながらのアーケード風カジュアルゲームで気軽に頭を使いたい人におすすめです。"
 releaseDate: "2026年9月11日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078560/635d944ee647de7bef0b5a3795d80d5dba991c1e/header.jpg?t=1787162156"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

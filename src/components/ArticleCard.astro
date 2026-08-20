@@ -7,13 +7,15 @@ interface Props {
   tags: string[];
   pubDate: Date;
   heroImage?: string;
+  japaneseSupport?: 'full' | 'text' | 'none';
 }
 
-const { slug, title, titleJa, price, tags, pubDate, heroImage } = Astro.props;
+const { slug, title, titleJa, price, tags, pubDate, heroImage, japaneseSupport } = Astro.props;
 const displayTitle = titleJa || title;
 const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
 const isNew = Date.now() - pubDate.getTime() < 3 * 24 * 60 * 60 * 1000;
 const visibleTags = tags.slice(0, 3);
+const jaLabel = { full: '日本語音声対応', text: '日本語字幕対応', none: '日本語非対応' }[japaneseSupport ?? ''];
 ---
 
 <article class="article-card" data-tags={tags.join(',')}>
@@ -30,6 +32,9 @@ const visibleTags = tags.slice(0, 3);
       <span class="price">{price}</span>
       <time datetime={pubDate.toISOString()}>{dateLabel}</time>
     </div>
+    {jaLabel && (
+      <span class={`ja-support ja-support-${japaneseSupport}`}>{jaLabel}</span>
+    )}
     <div class="card-tags">
       {visibleTags.map((tag) => (
         <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag}</a>
@@ -135,6 +140,25 @@ const visibleTags = tags.slice(0, 3);
     font-family: var(--font-display);
     font-weight: 700;
     color: var(--lime);
+  }
+  .ja-support {
+    display: inline-flex;
+    align-self: flex-start;
+    align-items: center;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.15rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+  }
+  .ja-support-full,
+  .ja-support-text {
+    color: var(--cyan);
+    border-color: rgba(34, 226, 245, 0.35);
+    background: rgba(34, 226, 245, 0.08);
+  }
+  .ja-support-none {
+    color: var(--muted);
   }
   .card-tags {
     display: flex;

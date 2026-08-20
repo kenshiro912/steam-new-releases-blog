@@ -9,5 +9,6 @@ tags: ["ストラテジー", "早期アクセス", "シングルプレイヤー"
 audienceJa: "タワーディフェンスでユニットの組み合わせを試行錯誤するのが好きな人、魔王側・モンスター側から物語を見る作品に惹かれる人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003150/36e162e33df8e0830371bc3464aa8ec3ad04667f/header.jpg?t=1787168763"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

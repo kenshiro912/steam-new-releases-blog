@@ -9,5 +9,6 @@ tags: ["アクション", "アドベンチャー", "カジュアル", "インデ
 audienceJa: "友人と装備を集めながらダンジョンに潜るのが好きな人、クラスを選んで英雄を育てるアクションRPGを探している人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022580/fd88e00ea10e66ad5c4ebe3c7496ba1405978cc6/header.jpg?t=1787167009"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

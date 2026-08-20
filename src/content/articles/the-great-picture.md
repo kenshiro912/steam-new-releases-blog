@@ -9,5 +9,6 @@ tags: ["カジュアル", "シミュレーション", "無料プレイ", "シン
 audienceJa: "写真や現代アートに関心がある人、VRでバーチャル展示をゆっくり見て回るのが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980520/3c01c33955b5f4cf6d94d6092432a41b345781dd/header.jpg?t=1787184388"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

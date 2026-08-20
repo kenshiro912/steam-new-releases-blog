@@ -9,5 +9,6 @@ tags: ["アクション", "アドベンチャー", "カジュアル", "インデ
 audienceJa: "ドット絵の2Dアクションを腰を据えて遊びたい人、幻想的な森を舞台にした冒険譚に惹かれる人におすすめです。"
 releaseDate: "2026年9月4日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023220/04ac83f4a4c8328e0090147f98d092c35758ef8d/header.jpg?t=1787166264"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

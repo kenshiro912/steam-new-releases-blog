@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "インディー", "RPG", "シングルプレイ
 audienceJa: "証拠を集めて推理を組み立てる物語重視のアドベンチャーが好きな人、レトロな時代設定と静かな緊張感のある雰囲気に惹かれる人におすすめです。"
 releaseDate: "2026年第3四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968280/6c69b8dc06b2e39ddfbf53766fecde5610a63071/header.jpg?t=1787196394"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

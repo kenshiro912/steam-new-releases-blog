@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "ストラテジー", "シングル
 audienceJa: "要塞を作り込む構築要素と、破壊し合う対戦の駆け引きを両方楽しみたい人におすすめです。"
 releaseDate: "2026年9月"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522730/efa524d13a351c540418daea84d215a347efa78a/header.jpg?t=1787169105"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

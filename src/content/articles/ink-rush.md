@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "無料プ
 audienceJa: "一人称の移動アクションを詰めていくのが好きな人、能力を増やしながら進むプラットフォーマーを気軽に試したい人におすすめです。"
 releaseDate: "2026年8月23日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919760/241d6a7be808e2552930f160ee69a573748cd2c8/header.jpg?t=1787184617"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

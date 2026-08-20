@@ -86,6 +86,16 @@ function hasPublisherInfo(data) {
   return developers.length > 0 && publishers.length > 0;
 }
 
+// supported_languages はl=japaneseで取得しているため、対応していれば
+// 言語名が「日本語」として現れる。直後に<strong>*</strong>があれば
+// フル音声対応（それ以外はテキスト/字幕のみ）。
+function detectJapaneseSupport(data) {
+  const raw = data.supported_languages ?? '';
+  if (!raw.includes('日本語')) return 'none';
+  const match = raw.match(/日本語(<strong>\*<\/strong>)?/);
+  return match?.[1] ? 'full' : 'text';
+}
+
 function isAdultContent(data, config) {
   // content_descriptors.ids は非公開の内部IDで、実データで検証した結果
   // 1/3/4 がヌーディティ・性的コンテンツ系、2 が暴力表現、5 は汎用の
@@ -226,6 +236,7 @@ async function main() {
         tags,
         releaseDate: data.release_date?.date ?? undefined,
         heroImage: data.header_image ?? undefined,
+        japaneseSupport: detectJapaneseSupport(data),
         shortDescription: truncate(stripHtml(data.short_description ?? ''), 400),
         aboutTheGame: truncate(stripHtml(data.about_the_game ?? data.detailed_description ?? ''), 600),
         detectedAt: new Date().toISOString(),

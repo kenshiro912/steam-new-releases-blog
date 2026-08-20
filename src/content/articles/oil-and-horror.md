@@ -8,5 +8,6 @@ tags: ["アクション", "ストラテジー", "シングルプレイヤー"]
 audienceJa: "撤退か続行かの判断を迫られるリスク管理型のゲームが好きな人、寒冷地サバイバルの緊張感を味わいたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903770/a07c40f868172f4d552b8eb66c3a16986b02d9a9/header.jpg?t=1787170026"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

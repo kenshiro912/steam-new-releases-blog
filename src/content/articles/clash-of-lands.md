@@ -9,5 +9,6 @@ tags: ["インディー", "シングルプレイヤー"]
 audienceJa: "デッキ構築と街づくりの両方を1本で味わいたい人、少しずつ拠点と行動範囲を広げていく遊びが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880390/0fa6d649db446acdd61d507f1e408bb5d7095fde/header.jpg?t=1787189993"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

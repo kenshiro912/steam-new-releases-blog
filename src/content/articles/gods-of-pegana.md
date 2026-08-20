@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "インディー", "RPG", "シミュレーショ
 audienceJa: "オンラインの煩わしさなしにMMORPG的な育成とハクスラを楽しみたい人、ビルドを練り込むのが好きな人におすすめです。"
 releaseDate: "2027年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010710/0ead551ab838d6b677787494f90afaa6c0ea86ad/header.jpg?t=1787173897"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "インディー", "無料プ
 audienceJa: "レトロなCommodore 64風のビジュアルが好きな人、失われたゲームの発掘というストーリーに惹かれる人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3677630/ed75c8914de42d8db12d26a45821d0eea06ad95e/header.jpg?t=1787172354"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

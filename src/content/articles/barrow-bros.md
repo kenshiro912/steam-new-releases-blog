@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "カジュアル", "シング
 audienceJa: "友達と息を合わせて協力プレイを楽しみたい人、時間制限のあるパニック系アクションが好きな人におすすめです。"
 releaseDate: "2026年第4四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590870/5aab891d02474af250cd384e01a9cc4410cdc471/header.jpg?t=1787171233"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

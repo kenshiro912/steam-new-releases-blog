@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "シングルプレイヤー", "マ
 audienceJa: "アニメ調のキャラクターが動く2D格闘ゲームが好きな人、複雑な操作より手軽な爽快感を求める人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4874370/15522143263f8e4342f15a2c65fd36b6dccc6f7c/header.jpg?t=1787197652"
+japaneseSupport: "full"
 pubDate: 2026-08-20
 ---

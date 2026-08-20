@@ -9,5 +9,6 @@ tags: ["アクション", "インディー", "シングルプレイヤー", "マ
 audienceJa: "往年のアーケードシューティングが好きな人、テンポの速い全方位シューティングで爽快感を味わいたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076170/9435e0032b616239740dd64469963e306d989bfe/header.jpg?t=1787162552"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

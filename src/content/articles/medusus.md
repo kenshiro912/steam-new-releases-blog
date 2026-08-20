@@ -8,5 +8,6 @@ tags: ["アクション", "カジュアル", "インディー", "マルチプレ
 audienceJa: "友人同士で疑い合う人狼系のパーティゲームが好きな人や、隠れる・探すという駆け引きを楽しみたい人に向いています。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965800/23c4433338a225ada85c18573f5680670f780433/header.jpg?t=1787162078"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

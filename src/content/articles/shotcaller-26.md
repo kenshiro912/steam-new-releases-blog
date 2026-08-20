@@ -8,5 +8,6 @@ tags: ["インディー", "シミュレーション", "スポーツ", "ストラ
 audienceJa: "eスポーツ業界の裏側に興味がある人、経営シミュレーションでチームを一から育てる過程を楽しみたい人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1878980/c66a6d7e1a31742a760fd26a1f53cc0f344dbf13/header.jpg?t=1787183236"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

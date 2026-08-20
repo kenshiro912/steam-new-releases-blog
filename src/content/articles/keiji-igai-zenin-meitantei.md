@@ -8,5 +8,6 @@ tags: ["インディー", "シングルプレイヤー"]
 audienceJa: "証拠を一つひとつ積み重ねて真相に迫る、じっくり型の推理ゲームが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5085300/b34f2bb02ef75fe74f08925f1d4d0a5ceb0d9e32/header_japanese.jpg?t=1787162711"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

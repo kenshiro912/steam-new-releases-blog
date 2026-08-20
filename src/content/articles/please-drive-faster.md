@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "レース
 audienceJa: "配達や運転そのものを味わうゲームが好きな人、少し不穏な雰囲気のある仕事シミュレーションに惹かれる人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908590/44ec53959d70bf78f7a5b9ba4c61c6d1b1dcbd93/header.jpg?t=1787171136"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

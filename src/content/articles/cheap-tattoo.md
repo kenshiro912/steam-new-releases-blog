@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シミュレーション", "早期
 audienceJa: "手先の作業を丁寧に再現したシミュレーションが好きな人、経営要素と技術の上達を同時に楽しみたい人におすすめです。"
 releaseDate: "2026年9月18日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965700/563fe268072d5888f371875ba0844d05fc0305ac/header.jpg?t=1787183715"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

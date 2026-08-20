@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "RPG", "�
 audienceJa: "スキマ時間でコツコツ育成を進めたい人、RPG要素のある放置ゲームが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586650/b2aff9b77f69e6ae8f283d6ffdd6da2a9c7ddbfb/header.jpg?t=1787175231"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

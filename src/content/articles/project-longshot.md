@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "シミュレーション", "
 audienceJa: "実際の宇宙開発に近い手触りのシミュレーションが好きな人、じっくり基地を広げていく遊びを求める人におすすめです。"
 releaseDate: "2027年第1四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892530/f18f391ae62b984101511f94c515e80d1fc9649a/header.jpg?t=1787188253"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

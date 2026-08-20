@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "カジュアル", "シミュレーション", "
 audienceJa: "短時間で区切りよく遊べる作業系のゲームが好きな人、脱力したユーモアのある小品を探している人におすすめです。"
 releaseDate: "2026年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825380/1ee50e46dd53d1b3b70bdede4b7d50005f56bf1b/header.jpg?t=1787192206"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

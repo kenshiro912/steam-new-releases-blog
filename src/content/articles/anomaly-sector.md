@@ -9,5 +9,6 @@ tags: ["アクション", "アドベンチャー", "インディー", "シミュ
 audienceJa: "観察力や記憶力を試される協力プレイが好きな人、仲間と相談しながら緊張感のあるゲームを楽しみたい人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699560/6ed03cc0bfbb58abb3f77c8c2eb94908abc6a247/header.jpg?t=1787163092"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

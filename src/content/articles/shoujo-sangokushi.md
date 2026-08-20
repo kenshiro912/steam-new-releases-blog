@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "RPG", "ストラテジー", 
 audienceJa: "キャラクター収集と編成を練るタイプの戦略RPGが好きな人、三国志のモチーフを美少女キャラで描く作品に惹かれる人におすすめです。"
 releaseDate: "2026年10月"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000500/794fdefd08046edc436d6865d1b57e925684bb05/header.jpg?t=1787184325"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

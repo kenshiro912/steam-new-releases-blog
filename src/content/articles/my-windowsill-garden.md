@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "タイマーに追われずのんびり遊べるゲームが好きな人、植物や猫のいる穏やかな空間を眺めていたい人におすすめです。"
 releaseDate: "2027年2月3日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631870/b3a2d2a96d279c88c9d62a790963e5079bbcf3e5/header.jpg?t=1787191210"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

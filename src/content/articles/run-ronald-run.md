@@ -9,5 +9,6 @@ tags: ["アクション", "カジュアル", "インディー", "シングルプ
 audienceJa: "短時間で1周できるアリーナシューティングを繰り返し遊びたい人、アップグレードで自機が強くなっていく感覚が好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530170/a706ecf13b7f9993b53aba557f23dc8d46cce290/header.jpg?t=1787195981"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

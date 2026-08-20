@@ -9,5 +9,6 @@ tags: ["インディー", "シミュレーション", "シングルプレイヤ�
 audienceJa: "散らかった空間が片付いていく過程に達成感を覚える人、静かに手を動かす作業系シミュレーターが好きな人におすすめです。"
 releaseDate: "2026年9月16日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930980/131d31a674b1a1b2af89cf218743e7f741350d49/header.jpg?t=1787198756"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

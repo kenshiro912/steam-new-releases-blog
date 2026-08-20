@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "シングルプレイヤー"]
 audienceJa: "立ち止まらずに動き続ける弾幕アクションが好きな人、SF色の強い世界観に惹かれる人におすすめです。"
 releaseDate: "2027年1月"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628970/8182e805f256461d2ce3cf154c336c830b26281f/header.jpg?t=1787173485"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

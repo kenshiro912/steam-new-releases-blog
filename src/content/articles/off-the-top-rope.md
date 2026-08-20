@@ -9,5 +9,6 @@ tags: ["アクション", "インディー", "スポーツ", "早期アクセス
 audienceJa: "プロレス好きでVR機器を持っている人、体を動かして遊ぶスポーツゲームを探している人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532050/8db0c94955f4ab59b2b81e2bf8a31201687aca57/header.jpg?t=1787198840"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

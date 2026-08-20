@@ -14,6 +14,7 @@ const articles = defineCollection({
     audienceJa: z.string(),
     releaseDate: z.string().optional(),
     heroImage: z.string().optional(),
+    japaneseSupport: z.enum(['full', 'text', 'none']).optional(),
     pubDate: z.coerce.date(),
     draft: z.boolean().default(false),
   }),

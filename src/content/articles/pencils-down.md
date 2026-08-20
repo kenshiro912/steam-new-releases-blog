@@ -9,5 +9,6 @@ tags: ["アドベンチャー", "インディー", "シングルプレイヤー"
 audienceJa: "静かな不安感を積み上げるタイプのホラーが好きな人、リスクを賭ける判断が絡むローグライクを探している人におすすめです。"
 releaseDate: "2026年9月4日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980030/e07087afc2ad200413bb98c6ce450014c0db8375/header.jpg?t=1787196081"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---
