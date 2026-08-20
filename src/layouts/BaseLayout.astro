@@ -74,6 +74,13 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
       }
       .tag:hover { color: var(--accent); border-color: var(--accent); }
     </style>
+    {siteConfig.cfAnalyticsToken && (
+      <script
+        defer
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon={`{"token": "${siteConfig.cfAnalyticsToken}"}`}
+      />
+    )}
   </head>
   <body>
     <header class="site-header">
