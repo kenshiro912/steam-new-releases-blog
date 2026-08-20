@@ -6,30 +6,91 @@ interface Props {
   price: string;
   tags: string[];
   pubDate: Date;
+  heroImage?: string;
 }
 
-const { slug, title, titleJa, price, tags, pubDate } = Astro.props;
+const { slug, title, titleJa, price, tags, pubDate, heroImage } = Astro.props;
 const displayTitle = titleJa || title;
 const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+const isNew = Date.now() - pubDate.getTime() < 3 * 24 * 60 * 60 * 1000;
 ---
 
 <article class="article-card" data-tags={tags.join(',')}>
-  <a href={`/games/${slug}/`} class="card-title">{displayTitle}</a>
-  <div class="card-meta">
-    <span class="price">{price}</span>
-    <time datetime={pubDate.toISOString()}>{dateLabel}</time>
-  </div>
-  <div class="card-tags">
-    {tags.map((tag) => (
-      <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag}</a>
-    ))}
+  <a href={`/games/${slug}/`} class="card-thumb-link">
+    {heroImage
+      ? <img class="card-thumb" src={heroImage} alt={displayTitle} loading="lazy" width="460" height="215" />
+      : <div class="card-thumb card-thumb-placeholder" aria-hidden="true">{displayTitle.slice(0, 1)}</div>}
+    {isNew && <span class="new-badge">NEW</span>}
+  </a>
+  <div class="card-body">
+    <a href={`/games/${slug}/`} class="card-title">{displayTitle}</a>
+    <div class="card-meta">
+      <span class="price">{price}</span>
+      <time datetime={pubDate.toISOString()}>{dateLabel}</time>
+    </div>
+    <div class="card-tags">
+      {tags.map((tag) => (
+        <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag}</a>
+      ))}
+    </div>
   </div>
 </article>
 
 <style>
   .article-card {
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 1rem;
+    padding: 0.85rem;
+    margin: 0.6rem 0;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+  }
+  .article-card:hover {
+    background: var(--card-bg-hover);
+    border-color: var(--accent);
+  }
+  .card-thumb-link {
+    position: relative;
+    flex: 0 0 auto;
+    display: block;
+    width: 138px;
+    height: 64px;
+    overflow: hidden;
+    border-radius: 6px;
+  }
+  .card-thumb {
+    width: 138px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+    background: var(--border);
+  }
+  .card-thumb-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--muted);
+    font-size: 1.4rem;
+    font-weight: 700;
+  }
+  .new-badge {
+    position: absolute;
+    top: -6px;
+    left: -6px;
+    background: var(--accent-warm);
+    color: #1a0d05;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+  }
+  .card-body {
+    min-width: 0;
+    flex: 1 1 auto;
   }
   .card-title {
     font-size: 1.05rem;
@@ -46,4 +107,7 @@ const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 
     margin: 0.35rem 0 0.5rem;
   }
   .card-tags { margin-top: 0.25rem; }
+  @media (max-width: 480px) {
+    .card-thumb-link, .card-thumb { width: 96px; height: 45px; }
+  }
 </style>
