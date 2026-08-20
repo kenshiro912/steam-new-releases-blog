@@ -80,6 +80,12 @@ function formatPrice(data) {
   return '価格情報なし';
 }
 
+function hasPublisherInfo(data) {
+  const developers = (data.developers ?? []).filter((name) => name?.trim());
+  const publishers = (data.publishers ?? []).filter((name) => name?.trim());
+  return developers.length > 0 && publishers.length > 0;
+}
+
 function isAdultContent(data, config) {
   // content_descriptors.ids は非公開の内部IDで、実データで検証した結果
   // 1/3/4 がヌーディティ・性的コンテンツ系、2 が暴力表現、5 は汎用の
@@ -178,6 +184,7 @@ async function main() {
   let skippedAdult = 0;
   let skippedNonGame = 0;
   let skippedNoData = 0;
+  let skippedNoPublisher = 0;
 
   for (const appid of batch) {
     const data = await fetchAppDetails(appid);
@@ -193,6 +200,11 @@ async function main() {
     }
     if (isAdultContent(data, config)) {
       skippedAdult += 1;
+      continue;
+    }
+    // 開発元・発売元が明記されていない出品（テンプレ量産・投げっぱなし出品が多い）は除外する
+    if (!hasPublisherInfo(data)) {
+      skippedNoPublisher += 1;
       continue;
     }
 
@@ -231,6 +243,7 @@ async function main() {
   console.log(`採用（記事化キューに追加）: ${adopted}`);
   console.log(`除外（アダルト/性的コンテンツ）: ${skippedAdult}`);
   console.log(`除外（ゲーム以外: DLC/ツール等）: ${skippedNonGame}`);
+  console.log(`除外（開発元・発売元が未記載）: ${skippedNoPublisher}`);
   console.log(`除外（詳細取得失敗）: ${skippedNoData}`);
   console.log(`記事化待ちキュー総数: ${pending.length}件（data/pending-games.json）`);
 }
