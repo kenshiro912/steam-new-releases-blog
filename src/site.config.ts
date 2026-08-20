@@ -7,5 +7,5 @@ export const siteConfig = {
   adsensePublisherId: 'ca-pub-2346926246133358',
   // Cloudflareダッシュボード（Analytics & Logs > Web Analytics）でこのサイトを追加すると
   // 発行される「サイトトークン」をここに設定すると有効化される。
-  cfAnalyticsToken: '',
+  cfAnalyticsToken: 'ca010b6094a44cf196fbde9acdee76e6',
 };

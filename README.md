@@ -60,6 +60,49 @@ npm run check-steam
 2. 審査後、`src/site.config.ts` の `adsenseEnabled` を `true` にし、`adsensePublisherId` に発行された `ca-pub-xxxxxxxxxxxxxxxx` を設定する
 3. `public/ads.txt` に、AdSenseが指定する1行（`google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0`）を追記する
 
+## Discord通知（更新ログ・アクセス数レポート）
+
+ブログ更新時のログと、1日1回のアクセス数レポートをDiscordに送信できます。
+
+### 1. Discord Webhook URLを発行する
+
+1. 通知を送りたいDiscordチャンネルの設定を開く
+2. 「連携サービス」→「ウェブフック」→「新しいウェブフック」を作成する
+3. 発行された「ウェブフックURLをコピー」する
+4. `.env` に追記する（`.env` はgit管理外です）
+
+```
+DISCORD_WEBHOOK_URL=コピーしたURL
+```
+
+動作確認: `node scripts/notify-discord.mjs "テスト送信"`
+
+### 2. Cloudflare Web Analyticsを有効化する
+
+1. Cloudflareダッシュボード → 「Analytics & Logs」→「Web Analytics」→サイトを追加
+2. ホスト名に `steam-new-releases-blog.pages.dev`（実際の公開ドメイン）を指定して発行される
+   「サイトトークン」をコピーし、`src/site.config.ts` の `cfAnalyticsToken` に設定してコミットする
+   （このトークン自体はページに埋め込まれる公開情報のため、秘密情報ではない）
+3. 同じ画面でサイトの詳細を開き、URL等から「Site Tag」を確認する（`cfAnalyticsToken` と同じ値）
+4. Cloudflareダッシュボード右上のアカウントメニュー、または「概要」ページから「アカウントID」を確認する
+5. [My Profile > API Tokens](https://dash.cloudflare.com/profile/api-tokens) で
+   「Account」→「Account Analytics」→「Read」権限を持つカスタムAPIトークンを発行する
+6. `.env` に追記する
+
+```
+CLOUDFLARE_API_TOKEN=発行したAPIトークン
+CLOUDFLARE_ACCOUNT_ID=アカウントID
+CF_ANALYTICS_SITE_TAG=サイトトークン（cfAnalyticsTokenと同じ値）
+```
+
+動作確認: `node scripts/report-analytics.mjs --dry-run`（Discordへは送らずコンソール出力のみ）
+
+### 3. スケジュール登録
+
+`update-blog` の実行末尾（記事を追加した回のみ）に更新ログ通知が組み込まれています。
+アクセス数レポートは別スキル `.claude/skills/report-analytics/SKILL.md`（`/report-analytics`）として
+1日1回、`schedule` スキルで別途cron登録してください。
+
 ## 自動更新（定期実行）について
 
 想定頻度は4時間ごと（1日6回）で、`CLAUDE.md` に運用ルールとして記載しています。実際のスケジュール（cron）は Claude Code の `schedule` スキルで別途有効化します。これは Anthropic のクラウド側で実行されるため、**ローカルMacが起動していなくても止まりません**。ただしそのためには以下が揃っている必要があります。

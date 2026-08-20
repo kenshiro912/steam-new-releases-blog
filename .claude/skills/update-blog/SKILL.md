@@ -28,11 +28,22 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep
    - 1記事につき一発生成・確定。下書き→推敲→再生成のような複数ターンの往復はしない
 5. 記事を作成したエントリは `data/pending-games.json` から削除する
 6. 変更を `git add` → コミット → `git push` する（Cloudflare Pagesがpushを検知して自動デプロイする）
+7. pushが成功し、1件以上の記事を作成した場合のみ、更新ログをDiscordに通知する
+   - `node scripts/notify-discord.mjs "<メッセージ>"` を実行する
+   - メッセージには「追加した記事タイトル一覧（ゲーム名）」と件数を含める。例:
+     ```
+     ✅ ブログ更新: 3件の新着記事を追加しました
+     - ポリス
+     - マニフェスト
+     - ソーンウェイク：フォレスト・アドベンチャー
+     ```
+   - `DISCORD_WEBHOOK_URL` が未設定などで送信に失敗しても、記事の更新自体は既にpush済みなので
+     タスク全体を失敗扱いにはしない（送信エラーを報告するだけでよい）
 
 ## 厳守ルール
 
 - 読み書きするファイルは `data/pending-games.json`・生成する記事Markdown・`data/seen-appids.json` に限定する。
   無関係なファイルの探索やリポジトリ全体の走査はしない
 - ローカルビルド（`npm run build`）はこのタスクでは実行しない。ビルド・デプロイはpush後にCloudflare Pages側で自動的に行われる
-- 新規ゲームが検知されない、または `pending-games.json` が空の場合は、何もコミットせずに終了してよい
+- 新規ゲームが検知されない、または `pending-games.json` が空の場合は、何もコミットせず（Discord通知もせず）終了してよい
 - 同一runで例外・エラーが発生した場合は、そこまでの正常分のみコミットし、エラー内容をコミットメッセージかログに残す
