@@ -1,141 +1,5 @@
 [
   {
-    "steamAppId": 4970080,
-    "title": "Drop Order",
-    "sourceUrl": "https://store.steampowered.com/app/4970080/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970080/7eaffd44ab4c09774ba8655dcd24d2251a7ec9d2/header.jpg?t=1787169915",
-    "shortDescription": "『Drop Order』は、タレットの配置が火力だけでなく敵の進行ルートも変える、ダークSFの戦術タワーディフェンスです。タレット同士のシナジーを活かして防衛線と致命的な迷路を築き、カードと自ら操縦するドローンでエイリアンの大群を迎え撃ちましょう。",
-    "aboutTheGame": "戦いはまだ終わっていない 人類は、かつて故郷と呼んだ惑星の上空に浮かぶ軌道ステーション「UNION-9」で生き延びている。異星艦隊はすでにこの星系を去ったが、地表はいまなお、奴らが残した生物に覆い尽くされている。 もはや人命を危険にさらす余裕はない。奪還作戦はすべて遠隔で行われる。自動降下モジュールを地表へ送り込み、資源を回収し、新たな拠点を築き、確保した物資を軌道上へ送り返す。作戦を成功させるたび、新たな技術と兵器が手の届くものになる。 あなたは新任オペレーターの一人。最初の降下任務は、ここから始まる。 防衛線を築け。敵の道を作り変えろ。 Drop Orderでは、防衛そのものが空間配置のパズルになる。カードを使ってタレットや支援施設を展開し、強力なシナジーを組み上げ、配置するたびに敵の進行ルートを変えていこう。 決められたタワー設置枠に縛られることはない。ボトルネックを作り、敵の大群をより長いルートへ誘導し、基地までの最短経路を致命的な迷路へと変えよう。 一度の降下が、次の作戦を強くする 地表は危険に満ちているが、UNION-9が生き延びるために必要な資源も残されている。作戦中に貴重な資源を確保し、その成果をステーションの発展へと還元しよう。 エンジニアリングを拡張し、設計図から新たなカードを解放して、今後の任務で使える兵装を増やそう。作戦を成功させるほど、建設と適応の選択肢が…",
-    "detectedAt": "2026-08-20T01:39:17.745Z"
-  },
-  {
-    "steamAppId": 4980220,
-    "title": "Hell Chambers",
-    "sourceUrl": "https://store.steampowered.com/app/4980220/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980220/6cd1daf53a30ff971455260f8bfeada0037d55bc/header.jpg?t=1787175683",
-    "shortDescription": "Have you ever wondered what Hell looks like? In this adventure escape room, you'll have the chance not only to see it for yourself, but even to escape from it! In Hell Chambers, you'll solve puzzles, meet the inhabitants of Hell, and uncover the secrets of Hell Corp.",
-    "aboutTheGame": "Have you ever wondered why there are only four stable isotopes of sulfur? Neither have we. But in Hell Chambers , you'll descend into a version of Hell unlike anything you've ever seen before. You play as Roy, an ordinary guy who accidentally becomes the victim of a hellish conspiracy. As the only living person in Hell, he has one goal: escape. Standing in his way are precisely designed puzzles created by Belle, the Head of the Sinners' Punishment Department. Will you manage to make it back home? Hell Chambers is an adventure escape room set inside a mysterious hellish corporation filled with…",
-    "detectedAt": "2026-08-20T01:39:18.310Z"
-  },
-  {
-    "steamAppId": 4980520,
-    "title": "The Great Picture",
-    "sourceUrl": "https://store.steampowered.com/app/4980520/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "シミュレーション",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980520/3c01c33955b5f4cf6d94d6092432a41b345781dd/header.jpg?t=1787184388",
-    "shortDescription": "Through First Person and VR, users can explore the world's largest print photograph, The Great Picture.",
-    "aboutTheGame": "In 2006, six artists—Jerry Burchfield, Mark Chamberlain, Jacques Garnier, Rob Johnson, Douglas McCulloh, and Clayton Spada—transformed an abandoned jet hangar at a decommissioned military air base in Irvine, California into a pinhole camera and made the world's largest print photograph. This immersive experience re-creates both the hangar and the image they produced, The Great Picture, on its 20th anniversary.",
-    "detectedAt": "2026-08-20T01:39:18.849Z"
-  },
-  {
-    "steamAppId": 4991910,
-    "title": "ドンキー・オブ・ウォールストリート",
-    "sourceUrl": "https://store.steampowered.com/app/4991910/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第3四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991910/693959b173d7613b24ae357e510df8adfb987798/header.jpg?t=1787182064",
-    "shortDescription": "Wall Street Donkey is a beautifully unhinged stock-market deckbuilding roguelite. Relive a century of crashes, bubbles, pandemics, and tariff wars. Read the news, rig the market, stack 20× leverage—and become either a Wall Street legend or its highest-flying donkey.",
-    "aboutTheGame": "🫏 BRING A LITTLE DONKEY-FUELED CHAOS TO WALL STREET! MAKE MONEY. MAKE MORE MONEY. THEN MAKE MONEY AGAIN. Use your wits to survive the blood-soaked markets of Wall Street—or stack 20× leverage and launch yourself directly into the stratosphere! Wall Street Donkey is a beautifully unhinged stock-market deckbuilding roguelite. And no, it was absolutely NOT created after the developer blew up their portfolio. Definitely not. Hee... haw... sob... Read the news, predict the market, trade stocks, and use Bullish, Bearish, Leverage, and Utility cards to bend prices to your will. Preserve your capital…",
-    "detectedAt": "2026-08-20T01:39:19.397Z"
-  },
-  {
-    "steamAppId": 5000500,
-    "title": "少女三国志",
-    "sourceUrl": "https://store.steampowered.com/app/5000500/",
-    "price": "無料",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "RPG",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000500/794fdefd08046edc436d6865d1b57e925684bb05/header.jpg?t=1787184325",
-    "shortDescription": "《少女三国志》是一款融合三国历史与异世界幻想的二次元策略RPG。三国英魂因时空裂隙降临星魂大陆，以少女之身重获力量，与魔魇军团展开跨越世界的战争。收集传奇英魂，组建最强阵容，探索隐藏真相，开启属于你的全新三国篇章。",
-    "aboutTheGame": "三国英魂，少女重生 在《少女三国志》中，你将见到熟悉而又陌生的三国人物。 她们拥有曾经的记忆、信念与荣耀，却在星魂大陆开启了一段全新的命运。 曾经驰骋沙场的武将，如今将掌握新的力量； 曾经运筹天下的谋士，将面对更加未知的棋局； 曾经敌对的阵营，也将在共同危机面前暂时联手。 为了回到原本的世界，她们必须组成“英魂军”，携手对抗席卷大陆的魔魇灾厄。 但过去的恩怨真的能够放下吗？ 友情、信念、野心与宿命，将在这片异世界重新交织。 魔魇降临，世界濒临毁灭 千年前，一场改变世界规则的“逆乱之劫”降临。 星魂大陆的力量法则发生扭曲。 原本所有生命都能够与魔魇抗衡，但如今，魔魇拥有无法突破的“阳煞护甲”。 只有特殊的“阴之力”才能真正伤害它们。 随着漫长战争持续，人类逐渐失去希望。 而隐藏在黑暗中的“魇主”，正在不断扩张自己的力量。 与此同时，一些人类选择背叛自己的世界，成为—— 叛天者。 他们获得魇主赐予的力量，操控魔魇大军，与人类为敌。 面对内忧外患，来自三国的少女英魂成为了这个世界最后的希望。 策略为王，重新书写三国天下 你将带领三国少女英魂，在星魂大陆建立属于自己的势力。 收集传奇武将，培养专属阵容。 不同角色拥有独特的战斗定位： · 统帅千军的绝世武将 · 运筹帷幄的智谋军师 · 攻守兼备的传奇英雄 · 掌控特殊力量的异界英魂 合理搭配阵容，利用角色之间的羁绊与技能组合，在战场上击败强…",
-    "detectedAt": "2026-08-20T01:39:20.118Z"
-  },
-  {
-    "steamAppId": 5003150,
-    "title": "Guild of Monsters",
-    "sourceUrl": "https://store.steampowered.com/app/5003150/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003150/36e162e33df8e0830371bc3464aa8ec3ad04667f/header.jpg?t=1787168763",
-    "shortDescription": "Amass an army of monsters and wield a variety of game-changing Powers to defeat the evil King in this lane-based tower defense game!",
-    "aboutTheGame": "Guild of Monsters is a lane-based tower defense game in which you control the monsters being raided by heroes! Join Cassidy, a princess who ran away from her deadbeat father, in gathering up an army of ragtag monsters and enacting revenge for all of his wrongdoings. Gather an army of tons of different monsters to battle with! Every tower has their own ways of doing things, whether it's long-range attacks, close-range combat, protecting your allies, generating money, or even stranger behavior. And if that wasn't enough, each monster has 4 purchasable upgrades split between 2 paths , to amplify…",
-    "detectedAt": "2026-08-20T01:39:20.669Z"
-  },
-  {
-    "steamAppId": 5004290,
-    "title": "MANIFEST",
-    "sourceUrl": "https://store.steampowered.com/app/5004290/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004290/f881d278d72f5bef389364211cd13b36585e89dc/header.jpg?t=1787170878",
-    "shortDescription": "This is a game about the pressure of keeping ships productive. Idle ships bleed money. Late deliveries hurt your reputation. Old hulls develop histories. Captains become known quantities. A quiet ore run can suddenly become a rescue problem, a customs problem, or a piracy problem.",
-    "aboutTheGame": "MANIFEST is a hard-SF space logistics tycoon set in a single living solar system. You are not the pilot. You are the dispatcher. Take contracts, assign ships, plan trajectories, manage captains, and keep your company profitable while your fleet moves between planets, moons, stations, and industrial ports. Every decision lives in the planning layer: what cargo to specialise in, which ship to buy, how hard to burn, when to depart, and what risks you are willing to accept when something goes wrong halfway to Mars. This is a game about the pressure of keeping ships productive. Idle ships bleed mon…",
-    "detectedAt": "2026-08-20T01:39:21.232Z"
-  },
-  {
-    "steamAppId": 4438170,
-    "title": "Riskline",
-    "sourceUrl": "https://store.steampowered.com/app/4438170/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438170/42899dab1444bf4e2bb9ff3be6a4dfca1f202aef/header.jpg?t=1787194527",
-    "shortDescription": "Riskline is a multiplayer game about risk, greed, and outplaying your rivals. Spin slots, bet on roulette, challenge other players to duels, grab limited items, and decide when to cash out. Whoever hides the most money in the bank by the end of the match wins.",
-    "aboutTheGame": "Riskline is a competitive multiplayer game where fortunes can change hands several times during a single fast-paced match. Spin slot machines for money and tickets, test your luck on prize wheels, place bets at the roulette table, and challenge other players to quick head-to-head duels. Spend your winnings on limited items from the shop — or move your money into the bank before your luck runs out. The catch: you never know how much your opponents have already secured. Risk It for an Edge There is no single correct way to play. Build your bankroll slowly, hunt for rare tickets, make huge roulet…",
-    "detectedAt": "2026-08-20T04:29:29.961Z"
-  },
-  {
     "steamAppId": 4530170,
     "title": "Run, Ronald, Run",
     "sourceUrl": "https://store.steampowered.com/app/4530170/",
@@ -502,5 +366,407 @@
     "shortDescription": "Horsin' Around in a casual task-management game where each new day adds another responsibility. Complete hands-on care tasks, earn money, buy helpful upgrades, and unlock powerful abilities as you keep an ever-growing routine under control.",
     "aboutTheGame": "Horsin' Around is a task-management game about the surprisingly chaotic everyday responsibilities of taking care of a horse. Start your first day with just five care tasks. Feed your horse, clean up, handle chores, and finish everything before the day is over. Sounds easy enough, right? Well... every new day adds another task to your routine. Tasks don't disappear once they're introduced, meaning your peaceful little schedule will slowly grow into an increasingly frantic juggling act. You'll need to work faster, plan ahead, and figure out the most efficient way to keep everything under control…",
     "detectedAt": "2026-08-20T04:29:41.756Z"
+  },
+  {
+    "steamAppId": 2191780,
+    "title": "Project Burnout",
+    "sourceUrl": "https://store.steampowered.com/app/2191780/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191780/e98c025fbe774c498a7cb07c5ef0afcf2a97f27d/header.jpg?t=1787206053",
+    "shortDescription": "A turn-based management strategy game about leading a traveling fixer crew hired to rescue game studios in crisis. Plan the week, split dependent tasks across five disciplines, beat deadlines, and protect your crew from burnout.",
+    "aboutTheGame": "When a game studio is in trouble, your crew gets the call. Project Burnout is a turn-based management strategy game about a traveling fixer crew. Studios own the games. You arrive when their production plan is already slipping, take responsibility for the week, and help the team get work moving again. Each engagement starts with a different mix of projects, deadlines, and missing capacity. Decide what must happen now, what can wait, and how much pressure the crew can carry before committing the plan. Plan the week before the week hits back. Every job unfolds on a Monday-to-Friday calendar. Pro…",
+    "detectedAt": "2026-08-20T08:29:37.693Z"
+  },
+  {
+    "steamAppId": 4320150,
+    "title": "Graviton Reloaded",
+    "sourceUrl": "https://store.steampowered.com/app/4320150/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320150/07786c9836a80c705ce6c6c5a9554bf3e38fbad5/header.jpg?t=1787208767",
+    "shortDescription": "Graviton Reloaded is a 2D-Platformer inspired by other metroidvanias and indie games. In-game, you play as an alien, Xeon, who traverses a facility which has succumbed to the sands of time, but somehow Xeon remembers this place when it was clean. ...almost as if the facility aged without her.",
+    "aboutTheGame": "You've just been taken from space, brought down by shadowy figures. Humanoid, you think. Hands reach into the pod you were captured in and take you down, deep into the earth. Then, you finally come to consiousness; trapped within a cold glass pod, being slowly lowered down. What is this place, and why are you here? All you know is that a strange man is talking, and it's probably a very good idea to listen to him. \" A SYSTEM-WIDE BROADCAST DETECTED ACROSS ALL SURVIVING MACHINE NETWORKS RADIO BROADCASTERS EMIT AN ANNOUNCEMENT. ONLY ANTENNAE OF THE CONSTRUCTED REMAIN TO LISTEN \" Graviton Reloaded…",
+    "detectedAt": "2026-08-20T08:29:38.215Z"
+  },
+  {
+    "steamAppId": 4755950,
+    "title": "Absolute Dap",
+    "sourceUrl": "https://store.steampowered.com/app/4755950/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755950/3fd157cf08724501d46aee275e44062252bb06de/header.jpg?t=1787212878",
+    "shortDescription": "Absolute Dap is a co-op action boss rush where you play as 2 Best friend Kaligo and Yakhsa that uses the power of the Dap to stop an alien invasion from ruining your best friend first date! Defeat all of the aliens and uncover the true secret behind the invasion through your Absolute Dap.",
+    "aboutTheGame": "Absolute Dap is a co-op action boss rush where you play as 2 Best friend Kaligo and Yakhsa Both of you have a mission to stop an alien invasion that currently attacking Bandung, Indonesia. Both of you did this not to save the world but because your third best friend Dimas is having a first date with his girlfriend in Jatinangor after being single for a long time, you want him to have a smooth first date because you three are just such a good fren. Synchronize your right clap to execute a Perfect Dap to deal damage to enemies Synchronize your left clap to execute a Perfect Block to defend yours…",
+    "detectedAt": "2026-08-20T08:29:38.768Z"
+  },
+  {
+    "steamAppId": 4812370,
+    "title": "How To Ride Elevators Like A Human",
+    "sourceUrl": "https://store.steampowered.com/app/4812370/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812370/0bef8e213f348f21e682e952023cdfa15adb8a1e/header.jpg?t=1787201761",
+    "shortDescription": "A chill puzzle game about an alien trying to understand one of humanity’s strangest social rules: why does everyone avoid eye contact in elevators?",
+    "aboutTheGame": "Me: I came to Earth to study humans, and I noticed a strange ritual involving groups of them standing inside a vertically moving metal box. They call it an elevator. Once inside, they mostly avoid eye contact. Research suggests that making eye contact in an elevator causes an increase in human heart rate, which may eventually lead to death. Isn’t that weird? Adults: The standard human model. They are pretty tall, though, especially by our standards. Perhaps the atmosphere at that elevation is more suitable for their respiratory systems. Kids: Humans produce smaller versions of themselves that…",
+    "detectedAt": "2026-08-20T08:29:39.280Z"
+  },
+  {
+    "steamAppId": 4825730,
+    "title": "My Friends Below",
+    "sourceUrl": "https://store.steampowered.com/app/4825730/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825730/99b10a1fa22999347ca610293a42292d1ff17e67/header.jpg?t=1787210755",
+    "shortDescription": "A 2D top-down, narrative focused horror game. Play as an orphan in a calm but bleak orphanage. Use puzzle-like gameplay to avoid the dangers creeping around. Learn about the orphanage’s past and what lies beneath. Maybe you will make some new friends.",
+    "aboutTheGame": "My Friends Below is a 2D top down horror game. It has a strong focus on narrative, atmosphere and exploration, along with puzzle-like gameplay to survive the dangers that you might come across. Figure out how various dangerous encounters work in order to maneuver through them and survive. During the day, interact with your peers and adults that manage the orphanage, go through the mishaps of the institution and learn about its clouded past. During the night, encounter your other friends and try to figure out their mystery while also trying to survive the night. Gameplay My Friends below is a n…",
+    "detectedAt": "2026-08-20T08:29:39.794Z"
+  },
+  {
+    "steamAppId": 4834460,
+    "title": "Zero Boundary Line",
+    "sourceUrl": "https://store.steampowered.com/app/4834460/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834460/f3fcbb9e8eab75cf635426c4fbb4daffa4b195cd/header.jpg?t=1787208353",
+    "shortDescription": "This indie sci-fi TD has easy controls. Play as a futuristic commander defending humanity from mutants across diverse maps. Beat levels to unlock units: defenders, melee fighters, crowd controllers. Buy unique shop units, mix ability units for powerful custom defense lines.",
+    "aboutTheGame": "This is a tower defense game with an independent sci-fi style. You will play as a future commander, deploying defenses to combat mutated lifeforms. As you progress through the levels, you can acquire various powerful new characters, and you can also earn coins in-game to purchase some more interesting special characters in the store. You can freely mix and match different characters to create a unique defense line. The mutants won't just sit and wait to be defeated; many of them possess special abilities. You need to unleash your imagination and flexibly adjust your deployment based on their a…",
+    "detectedAt": "2026-08-20T08:29:40.318Z"
+  },
+  {
+    "steamAppId": 4915560,
+    "title": "Carbon Rain",
+    "sourceUrl": "https://store.steampowered.com/app/4915560/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915560/b151246a02afdd1ed2ba6ae605bb4f272dce419b/header.jpg?t=1787210939",
+    "shortDescription": "Explore a beautiful yet hostile post-apocalyptic world in this pixel-art action-adventure. Leave your bunker, battle mutated creatures, gather resources, upgrade your gear, and push deeper into dangerous new biomes.",
+    "aboutTheGame": "The world outside the bunker is dangerous, but staying inside won't get you very far. Head out into abandoned and overgrown areas, fight off hostile creatures and search for whatever you can bring back with you. Resources are limited, and what you find matters. Use the resources you gather to improve your gear, craft more ammo and prepare for the next trip. As you get stronger, you'll be able to reach new biomes and explore farther from home. Combat is fast and direct, with many different weapons to use against the creatures you come across. Ammo and supplies aren't endless, so sometimes getti…",
+    "detectedAt": "2026-08-20T08:29:40.924Z"
+  },
+  {
+    "steamAppId": 4934240,
+    "title": "Blackjack Training",
+    "sourceUrl": "https://store.steampowered.com/app/4934240/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934240/fe6614e5d064ae9bdfaccda41aecfd3222a60fbb/header.jpg?t=1787211062",
+    "shortDescription": "Learn Basic Strategy, practice card counting, manage your bankroll, or simply enjoy Blackjack in a realistic 3D casino. Customize casino rules, train with a dynamic strategy system, and experience Blackjack under authentic casino conditions.",
+    "aboutTheGame": "Learn Basic Strategy, practice card counting, or simply enjoy a realistic game of Blackjack in a fully interactive 3D casino. Every rule, table, and training option can be customized to match your preferred style of play. Practice Blackjack Under Realistic Casino Conditions Learning the correct decision is only part of becoming a better Blackjack player. Managing your bankroll, maintaining a count, handling distractions, and making decisions under realistic casino conditions are equally important. Blackjack Training combines professional training tools with an immersive 3D casino environment,…",
+    "detectedAt": "2026-08-20T08:29:41.431Z"
+  },
+  {
+    "steamAppId": 4939280,
+    "title": "Etched",
+    "sourceUrl": "https://store.steampowered.com/app/4939280/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939280/388263856884f2f45d2902c9844c3c6de9a34533/header.jpg?t=1787213801",
+    "shortDescription": "A top-down action roguelite about a little mage who carves lightning itself. Etch engravings into your spells to reshape how they behave, weave engraving synergies into your own build, mow down monster packs, hunt buffed elites, and descend into ever-deeper arenas. What's carved cannot be undone.",
+    "aboutTheGame": "ecome the Carver You don't write your spells on paper — you carve them in stone. Etched is a top-down action roguelite where you sculpt your skills themselves. ⚡ The Engraving System — the Heart of the Game Etch engravings earned in battle into your skill slots to change how each spell behaves. Lightning pierces through foes, residual current scatters on hit, chains arc across entire packs. The same spell becomes a completely different weapon depending on which engravings you carve, and in what order. Every engraving demands a price — choose carefully. What's carved cannot be undone. 🐢 Fight…",
+    "detectedAt": "2026-08-20T08:29:41.949Z"
+  },
+  {
+    "steamAppId": 4969000,
+    "title": "Regradable",
+    "sourceUrl": "https://store.steampowered.com/app/4969000/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月11日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969000/1484065e9fe9cb5359112d8b5f2b338b60d3d0f7/header.jpg?t=1787203851",
+    "shortDescription": "A single-player third-person linear action platformer. Use your vine arms to swing through three levels, grapple and launch yourself off of enemies, and throw two seeds to tether two objects as you master the fast-paced traversal and platforming.",
+    "aboutTheGame": "In Regradable , you play as ELI, a discarded worker robot revived by the last Tree of Life. This action-platformer follows ELI's journey through a city overrun by technology as he carries the tree's final seed, determined to restore nature to a world that has forgotten it. Swing through the city, battle dangerous enemies, and protect the seedling as you fight to bring life back to a dying world.",
+    "detectedAt": "2026-08-20T08:29:42.464Z"
+  },
+  {
+    "steamAppId": 4983920,
+    "title": "Beyond the First Star",
+    "sourceUrl": "https://store.steampowered.com/app/4983920/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年12月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983920/65fa4f70db4c8341f1a91e8274b4cbd19151a288/header.jpg?t=1787207886",
+    "shortDescription": "『Beyond the First Star』はテンポの速い2D横スクロールシューティングです。個性の異なるパイロットから選び、多彩な武器を集めて切り替えながら、丁寧に作り込まれたステージを突破し、独自の攻撃パターンを持つボスに挑みましょう。",
+    "aboutTheGame": "Beyond the First Starは、複数のプレイアブルキャラクター、多彩な武器、ステージごとのアーケードアクションを中心に作られた、テンポの速い2D横スクロールシューティングです。 パイロットを選び、装備を組み替えながら、押し寄せる敵と、それぞれ異なる攻撃パターンを持つボスに立ち向かいましょう。武器によって戦い方は大きく変わり、敵の排除、空間の制圧、大ダメージを狙う手段など、さまざまな選択肢が生まれます。 主な特徴 • 複数のプレイアブルキャラクター 個性の異なるパイロットたちから選択でき、それぞれ違った形でキャンペーンを楽しめます。 • 幅広い武器のバリエーション 発射パターン、強み、戦術的な使い道が異なる約20種類の武器を入手して使いこなせます。 • 手作りのアーケードステージ 敵の編隊、危険地帯、見せ場、ボス戦が詰まったステージを突破しましょう。 • キャラクター別のエンディング 異なるキャラクターで旅を完走し、それぞれのエンディングを確かめましょう。 • クラシックなシューティングアクション シンプルな操作と即座に始まるアクション、アーケードシューターに着想を得た反復プレイ重視のゲーム性。 • 繰り返し遊ぶための設計 さまざまなキャラクターと武器を試し、プレイを磨き上げ、各ステージへの新たな攻略法を見つけましょう。",
+    "detectedAt": "2026-08-20T08:29:42.978Z"
+  },
+  {
+    "steamAppId": 4986690,
+    "title": "Bottlecappers",
+    "sourceUrl": "https://store.steampowered.com/app/4986690/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986690/9d23690f6f9e14abd22aad2a2e814775837956c7/header.jpg?t=1787212483",
+    "shortDescription": "やることはキャップ作りだけ。作って、売る。実直な仕事。もちろん、君を信じてくれた投資家はいる。四半期ごとに数字も見たがるだろう。それでも、君の仕事はキャップ作りだけ。……のはずだ。",
+    "aboutTheGame": "あなたの仕事は、キャップを作ること。それだけです。 ラインを組み、流れを自動化し、注文を出荷する。コルク、プラスチック、アルミ。すべてのキャップは一枚の原料板から生まれ、工場を通り抜けて積み込みドックへ向かいます。単純な仕事。実直な仕事。ほとんど癒やしと言ってもいいくらいに。 ところが、彼らがいます。 6人の投資家があなたの会社に出資しており、それぞれ求めるものが違います。ある者は量だけを求め、品質を軽蔑する。ある者はプラスチックに手を出すと眉をひそめる。またある者は利益率しか見ておらず、あなたが何を作っているかすら覚えていない。四半期ごとに彼らは席に着き、たったひとつの数字であるKPIを眺め、あなたにまだ利用価値があるかを判断します。 ゲームの特徴 完全な生産チェーン :3素材×5段階の加工工程。原料板から認証済みキャップまで。ラインを設計し、動き続ける様子を眺めましょう。 顔と個性を持つ6人の投資家 :ここではボスは怪物ではありません。あなたの敵は給料の出どころであり、四半期レビューこそが本当の戦いです。 繰り返し遊べるラン、高い緊張感 :毎回のランは独立した勝負。変動する市場、更新される目標、プレッシャーの中で選ぶ強化。 目指す結末はただひとつ、「独立」 :投資家の課題を乗り越え、すべての株式を買い戻し、最終日に目の前でドアを閉めてやりましょう。オーナーはいない。あなたと工場…",
+    "detectedAt": "2026-08-20T08:29:43.487Z"
+  },
+  {
+    "steamAppId": 4996790,
+    "title": "qurld",
+    "sourceUrl": "https://store.steampowered.com/app/4996790/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996790/328539a4760628dbc1bc0d3c0a4b79871c90f41c/header.jpg?t=1787209982",
+    "shortDescription": "qurld is a 3D grid puzzle game where you paint a world made of cubes. Move in straight lines across the faces of the cube world and colour it all to win!",
+    "aboutTheGame": "qurld is a 3D grid puzzle game with a minimalist style where you paint a world made of cubes. The puzzle is that you can only move in straight lines across the faces of the cube world and move onto another face once you hit an edge. When you go over grid tiles, you paint them, paint all the grid tiles in the level to win! The controls are WASD or arrow keys to move, that's it! This game is a casual, level-based 3D puzzle game. Levels take 1-5 minutes to complete.",
+    "detectedAt": "2026-08-20T08:29:44.017Z"
+  },
+  {
+    "steamAppId": 5010240,
+    "title": "RESET-0: Entropy Architect",
+    "sourceUrl": "https://store.steampowered.com/app/5010240/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010240/0f31984ed3e314c87e4dfb194cba26a8b6e3eea4/header.jpg?t=1787201938",
+    "shortDescription": "宇宙放置ゲーム。滅びゆく宇宙を再建し、次の宇宙を設計せよ。",
+    "aboutTheGame": "『RESET-0：エントロピー・アーキテクト』は、宇宙規模で現実を再構築するインクリメンタル放置クリッカーです。宇宙はノイズへと滅びゆく——その終わりを拒むのが、あなたです。 エントロピーは増え続けるばかり。星また星と、宇宙は秩序をノイズへ費やし、熱的死へと滑り落ちていきます。その淵に立つエントロピー・アーキテクトとして、あなたは宇宙を情報として読み解き、宇宙史のすべてを通じてそれを集め、終わりを始まりへと変えるのです。 オメガ（Ω）はあなたが保持する情報そのもの。量子ゆらぎをタップして手で集め、離れている間も生産し続けるオートメーションを築きましょう——Ωはオフラインでも増え続け、進行は決して止まりません。十分に集めれば、リセットはもはや終わりではありません。それは設計となる——次の宇宙をコード化し、それが生まれ持つ定数を、光速（c）から重力（G）まで選び取るのです。 あなたを尊重するプレミアム放置ゲーム - 買い切り——広告は一切なし - スタミナ制限なし、ペイウォールなし、無意味な待ち時間なし - オフライン収益：ゲームを閉じていてもΩを生産し続ける - 能動的なクリックと放置オートメーション、その両方が最後まで意味を持つ 八つの宇宙フェーズを駆け上がれ - 宇宙マイクロ波背景を読み解き、原初のノイズから秩序を引き出す - 星々を点火し、採掘し、超新星の残骸を再利用する -…",
+    "detectedAt": "2026-08-20T08:29:44.519Z"
+  },
+  {
+    "steamAppId": 5020730,
+    "title": "RingOut",
+    "sourceUrl": "https://store.steampowered.com/app/5020730/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020730/9bab16263c1adc4696c6918beef44c69c0b5bda8/header.jpg?t=1787214548",
+    "shortDescription": "武器を掴んでライバルをアリーナの外へ吹き飛ばせ！『RingOut』は爆速でカオスな3Dアリーナブロウラー。23人のファイター、13種の武器、29のアリーナ。ボット相手のソロやオンラインで、チーム戦やバトルロイヤルなど6つの爆発的モードを楽しめる。",
+    "aboutTheGame": "『RingOut』は、シンプルな目標を掲げたスピーディな3Dアリーナブロウラー——最後の一人になれ。ぶっ飛んだ武器を掴み、強力なアルティメットを放ち、爆発的なバトルロイヤルとチーム戦でライバルをステージの外へ吹き飛ばそう。 場外へ叩き出せ 退屈なにらみ合いは無し。すべてのアリーナが死の遊び場だ——敵を端から突き落とし、空高く吹き飛ばし、マルチキルを重ねよう。移動・エイム・タイミングを極めてリングを支配しろ。 23人のファイター それぞれ独自のスタイルと、試合をまるごと覆せる必殺アルティメットを持つ23人のユニークなファイターから選ぼう。 13種の武器 ハンマー、バズーカ、レールガン、ミニガン、スナイパー、ケミガン、フロストガン、プラズマグレネードなど——アリーナを制す13種のぶっ飛び武器。 29のアリーナ 古代のコロシアムや幽霊墓地から、ジャングルの神殿、軌道上の宇宙ステーションまで、手作りの29アリーナで戦え。 6つのゲームモード バトルロイヤル、チーム戦、キング・オブ・ザ・ヒルなど——ソロでも仲間とでも極められる6モード。 ソロまたはオンライン ボット相手のソロマッチで腕を磨き、そのままオンラインへ——チーム戦やバトルロイヤルで世界中のプレイヤーと戦おう。 ファイターを選べ。場外へ叩き出せ。 今すぐウィッシュリストに追加して、カオスの始まりに備えよう。",
+    "detectedAt": "2026-08-20T08:29:45.026Z"
+  },
+  {
+    "steamAppId": 5029720,
+    "title": "ʘmʘchim",
+    "sourceUrl": "https://store.steampowered.com/app/5029720/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "レース",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029720/8e0de84fc9b06197ea6dd98a6c59015da07bba17/header.jpg?t=1787214488",
+    "shortDescription": "『ʘmʘchim』は、身近なモノでなんでも作れちゃう物理サンドボックス。空き缶で浮かぶ船、自律するドローン、街じゅうを巻き込む大連鎖から、庭を丸ごと遊園地にするアトラクションまで。思いつく限り、好奇心を形にしよう。うまくいかなくても大丈夫。落ちる、壊れる、吹っ飛ぶ。その失敗すら、次の発明になる。",
+    "aboutTheGame": "思いついたこと、なんでも試しちゃおう OmOchim(オモチム)は、身近なモノを組み合わせて、物理で動く仕掛けを作るサンドボックスゲーム。川を渡ったり、荷物を運んだり、街を救ったり。お題はシンプル。でも、解き方はひとつじゃない。船を作ってもいいし、飛び越えたっていい。解くのに飽きたら、ステージを作って、世界中の人たちに遊んでもらおう。 頼もしい相棒、オモチム オモチムは、手のひらに乗るくらい小さなロボット。タイヤを6つ付けても、背中にジェットを積んでも、文句ひとつ言わずに走り出す。バラバラに吹っ飛んでも、組み直せばまた動く働き者だ。 物理と遊ぼう 磁力で鉄球を集めたり、浮力で海を渡ったり、てこの原理で大きな岩を動かしたり。この世界のモノは物理法則に従って動くから、現実でやるのは難しい実験も、ここなら好きなだけ試せる。 もっともっと作ろう 普通のオモチムじゃ物足りない？じゃあ、プログラミングを試してみよう。自動で動くドローンや、砲弾を撃てる戦車、ゲームセンターだって、思うままに作れる。オモチムを俳優がわりに、映画のワンシーンを再現することだってできる。ブロックを並べるだけのビジュアルプログラミングだから、初めてでも大丈夫。一度動けばわかる、自分の命令どおりにオモチムが動き出す瞬間は、何度やっても気持ちいい。 ステージも作れる パークビルダーを使えば、コースも、罠も、ゴールも、ステージ…",
+    "detectedAt": "2026-08-20T08:29:45.546Z"
+  },
+  {
+    "steamAppId": 5030960,
+    "title": "PAWN SHIFT",
+    "sourceUrl": "https://store.steampowered.com/app/5030960/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030960/fa89ebf3973d13eabad0169ba6216b7a1974a2c1/header.jpg?t=1787202287",
+    "shortDescription": "You're working the night shift at a pawn shop on an isolated road. Haggle with every customer who walks in, inspect what they bring you, and decide what goes on your shelf. Some of it should not be here. Nothing is supernatural, and that is the scariest part. A PSX-style horror shift.",
+    "aboutTheGame": "THE LAST GUY DIDN'T COME BACK You're the new night shift worker at a pawn shop on a quiet road outside town. The guy who worked nights before you, Dale, stopped showing up a few days ago. The boss hired you fast and asked no questions. Open the register. Turn on the lights. Wait for the door. EVERY CUSTOMER IS A NEGOTIATION There's no combat and no chase. There's a counter, and there are people who walk up to it. Haggle. They name a price, you counter with yours. They accept, push back, or walk out. Inspect. Pick the item up and turn it over before you buy. Odd seams. Engravings. Initials that…",
+    "detectedAt": "2026-08-20T08:29:46.071Z"
+  },
+  {
+    "steamAppId": 5043430,
+    "title": "PROJECT_JUMP",
+    "sourceUrl": "https://store.steampowered.com/app/5043430/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043430/bb0332c78c8f8ec3dd7f1ec741df1f77dda8f547/header.jpg?t=1787171492",
+    "shortDescription": "A precision first-person movement game. Air-strafe, bounce, and rocket-jump through hand-crafted jump maps with faithfully recreated 2000s-era physics, and chase records on leaderboards that track every route, category, and discipline.",
+    "aboutTheGame": "A first-person movement game with faithfully recreated 2000s-era jump physics. No enemies, no story - just maps, your movement and a timer. Movement Air-strafe, bounce, and rocket-jump. The physics are recreated from the ground up to match the originals exactly — every jump, bounce, and speed gain works the way veterans remember. Runs Every finished run is timed and ranked. Leaderboards track your time, rockets used, and saves/loads per run. Categories are earned, not picked: no speedometer is Hardcore, with it is Normal. Off-rate physics or exploit tricks tag your entry instead of disqualifyi…",
+    "detectedAt": "2026-08-20T08:29:46.724Z"
+  },
+  {
+    "steamAppId": 5044730,
+    "title": "The woods",
+    "sourceUrl": "https://store.steampowered.com/app/5044730/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年8月27日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044730/045a0e842b8e8323a4f6e9770e8159c3b10b703a/header.jpg?t=1787185175",
+    "shortDescription": "The Woodsはサイコロジカルホラーゲーム。 夜の森で道に迷ったハイカーとなり、心の中に棲む怪物に追われる。灯りを絶やさなければ、怪物は近づいてこない。ストレスを抑えれば、頭の中の囁きは静まる。目に映るものが現実とは限らない…",
+    "aboutTheGame": "ゲーム概要： 夜の森をさまようハイカーとなる ホラー ゲーム。彼は森に幽霊が出ると信じ、実際に幽霊を目にする…しかしやがて、彼は\"森\"そのものが生きていることに気づく… 目に映るものが現実とは限らない。",
+    "detectedAt": "2026-08-20T08:29:47.266Z"
+  },
+  {
+    "steamAppId": 5044800,
+    "title": "Leeway",
+    "sourceUrl": "https://store.steampowered.com/app/5044800/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044800/417e15b88871349560c5a56972ac251a338feb19/header.jpg?t=1787204583",
+    "shortDescription": "Buy cheap, sell dear, and don't sink. Or rob everyone and spend the gold before the navy catches you. Leeway is a physics-first age-of-sail game where every knot of wind and every ton of cargo matters. Peer-to-peer multiplayer.",
+    "aboutTheGame": "The wind is real. The sea wants to sink you. The cargo won't pay for itself. Leeway is a physics-first sailing game set in a procedurally generated age-of-sail archipelago. Every wind shift, every wave and every cannon shot is simulated. There are no canned animations, no invisible walls - just you, the breeze, and the consequences. MERCHANT Buy goods cheap at one island, sell them dear at another. But a fat hold sits low in the water, and the pirates know it. Use the wind, the weather and your wits to reach port before they do. Real sail physics: trim your main and jib to the groove, or go so…",
+    "detectedAt": "2026-08-20T08:29:47.783Z"
+  },
+  {
+    "steamAppId": 5053020,
+    "title": "Mosaic Melt",
+    "sourceUrl": "https://store.steampowered.com/app/5053020/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月7日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053020/5dfc7d11bb4b879e3bcfe30b0fe032bbe38dd12d/header.jpg?t=1787194241",
+    "shortDescription": "同じ色をまとめて大きく消す、爽快カラーパズル。右クリックで盤面を切り替え、素早い連続クリアを狙おう。Match3アクションパズル『CHROMA LINEBREAK』も収録。",
+    "aboutTheGame": "Mosaic Melt is a color puzzle game where you clear connected blocks of the same color, complete a variety of objectives, and aim for high scores. Make split-second decisions as you quickly refresh the board with a right-click, searching for your next big clear through fast-paced play. In Color Trial, complete each of five color goals before time runs out. Choose a target size in Practice Mode for focused training, chase records in High Score and Time Score modes, or test your strategy with full-clear puzzles and randomly generated boards. Mosaic Melt also includes CHROMA LINEBREAK, a Match-3 a…",
+    "detectedAt": "2026-08-20T08:29:48.296Z"
+  },
+  {
+    "steamAppId": 5055670,
+    "title": "Cosmic Seance",
+    "sourceUrl": "https://store.steampowered.com/app/5055670/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055670/d13d51fb034b4948132177d2cc081d985ef3d9fa/header.jpg?t=1787171964",
+    "shortDescription": "COSMIC SEANCE is a narrative investigation game. You are the Royal Medium of a dying realm. Summon cosmic entities, trade sanity for truth, decipher their visions... or the abyss will consume you.",
+    "aboutTheGame": "A DEMO will be available SOON. Add Cosmic Seance to your wishlist and don't miss the launch. Cosmic Seance is a narrative investigation game blended with cosmic horror. As a Medium, your mission is to summon cosmic entities to uncover the truth that can save the realm. But the ancient gods do not speak like humans. They do not lie, but they do not give direct answers either. They show you fragments: loose visions, images with no apparent connection. Your job is to interpret those fragments, give them shape, and piece together the truth one piece at a time. The problem: every question you ask b…",
+    "detectedAt": "2026-08-20T08:29:48.812Z"
+  },
+  {
+    "steamAppId": 5056260,
+    "title": "BUNNYBALL: Arcade Basketball Roguelike",
+    "sourceUrl": "https://store.steampowered.com/app/5056260/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "スポーツ",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056260/18836b7150ffd4e0ae7d26b96da1d5c9bd1b1c68/header.jpg?t=1787198895",
+    "shortDescription": "BUNNYBALL is an addictive arcade basketball roguelike game where you create incredible combos by combining balls with special power-ups, collectible cards, and powerful charms. Defeat bosses, break records, and fill the machine with gold.",
+    "aboutTheGame": "BUNNYBALL is an arcade basketball roguelike about throwing real shots and building unreal combos. Every basket is a physics throw under a ticking clock - and every five shots form a poker hand. Pair up your balls, break the scoring, and beat the machine one impossible run at a time. Step up to the machine Forget simulation basketball - this is the coin-op hoops cabinet from the arcade, rebuilt as a full roguelike. Each round gives you a target score and not enough time. Your aim earns the baskets; your build decides what they're worth. Sink five shots and they're scored like a poker hand - a P…",
+    "detectedAt": "2026-08-20T08:29:49.312Z"
   }
 ]
