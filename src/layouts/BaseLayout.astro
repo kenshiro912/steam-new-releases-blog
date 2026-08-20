@@ -38,6 +38,7 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
         background: var(--bg);
         color: var(--fg);
         line-height: 1.7;
+        overflow-x: hidden;
       }
       a { color: var(--accent); }
       header.site-header {
@@ -64,17 +65,26 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
         border-top: 1px solid var(--border);
       }
       .tag {
-        display: inline-block;
+        display: inline-flex;
+        align-items: center;
+        min-height: 34px;
+        min-width: 0;
+        max-width: 100%;
         font-size: 0.75rem;
-        padding: 0.15rem 0.6rem;
+        padding: 0.3rem 0.7rem;
         border-radius: 999px;
         background: var(--card-bg);
         border: 1px solid var(--border);
         color: var(--muted);
         text-decoration: none;
         margin: 0 0.35rem 0.35rem 0;
+        overflow-wrap: anywhere;
       }
       .tag:hover { color: var(--accent); border-color: var(--accent); }
+      @media (max-width: 600px) {
+        main { padding: 1rem 0.85rem 3rem; }
+        header.site-header { padding: 1rem 0.85rem; }
+      }
     </style>
     {siteConfig.cfAnalyticsToken && (
       <script

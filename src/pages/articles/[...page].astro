@@ -1,0 +1,42 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Pagination from '../../components/Pagination.astro';
+import { getCollection } from 'astro:content';
+import { sortArticles } from '../../lib/articles';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allArticles = sortArticles(await getCollection('articles', ({ data }) => !data.draft));
+  return paginate(allArticles, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<BaseLayout title={page.currentPage > 1 ? `記事一覧 ${page.currentPage}ページ目` : '記事一覧'}>
+  <h1>記事一覧</h1>
+  <p class="muted">全{page.total}件中 {page.start + 1}〜{page.end + 1}件目</p>
+
+  <div class="article-list">
+    {page.data.map((article) => (
+      <ArticleCard
+        slug={article.id}
+        title={article.data.title}
+        titleJa={article.data.titleJa}
+        price={article.data.price}
+        tags={article.data.tags}
+        pubDate={article.data.pubDate}
+        heroImage={article.data.heroImage}
+      />
+    ))}
+  </div>
+
+  <Pagination page={page} />
+
+  <p><a href="/">&larr; ホームに戻る</a></p>
+</BaseLayout>
+
+<style>
+  .muted { color: var(--muted); font-size: 0.9rem; }
+</style>

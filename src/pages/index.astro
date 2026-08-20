@@ -3,15 +3,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { siteConfig } from '../site.config';
 import { getCollection } from 'astro:content';
+import { sortArticles } from '../lib/articles';
 
-const allArticles = (await getCollection('articles', ({ data }) => !data.draft))
-  .sort((a, b) => {
-    const dateDiff = b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
-    if (dateDiff !== 0) return dateDiff;
-    return b.data.steamAppId - a.data.steamAppId;
-  });
+const HOME_ARTICLE_COUNT = 8;
 
-const latestArticles = allArticles.slice(0, 30);
+const allArticles = sortArticles(await getCollection('articles', ({ data }) => !data.draft));
+
+const latestArticles = allArticles.slice(0, HOME_ARTICLE_COUNT);
+const hasMore = allArticles.length > HOME_ARTICLE_COUNT;
 
 const tagCounts = new Map<string, number>();
 for (const article of allArticles) {
@@ -62,6 +61,9 @@ const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
         />
       ))}
     </div>
+    {hasMore && (
+      <a class="more-link" href="/articles/">記事一覧をもっと見る（全{allArticles.length}件）&rarr;</a>
+    )}
   </section>
 </BaseLayout>
 
@@ -103,9 +105,25 @@ const tags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
     border: 1px solid var(--border);
     color: var(--fg);
     border-radius: 6px;
-    padding: 0.4rem 0.7rem;
+    padding: 0.5rem 0.7rem;
     font-size: 0.85rem;
     min-width: 220px;
+    flex: 1 1 220px;
   }
   .muted { color: var(--muted); }
+  .more-link {
+    display: block;
+    text-align: center;
+    margin-top: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--accent);
+    font-size: 0.9rem;
+  }
+  .more-link:hover { border-color: var(--accent); background: var(--card-bg); }
+  @media (max-width: 480px) {
+    #tag-filter-input { min-width: 0; width: 100%; }
+  }
 </style>
