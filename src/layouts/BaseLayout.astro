@@ -19,20 +19,49 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
     <meta name="description" content={description} />
     <title>{pageTitle}</title>
     <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
     <style is:global>
       :root {
-        color-scheme: light dark;
-        --bg: #0f1115;
-        --fg: #e8e8ec;
-        --muted: #9a9aa5;
-        --accent: #66c0f4;
-        --accent-warm: #ff6b35;
-        --card-bg: #1a1d24;
-        --card-bg-hover: #20242e;
-        --border: #2a2d36;
+        color-scheme: dark;
+        --bg: #06070f;
+        --bg-elevated: #0c0e1c;
+        --fg: #f2f3fb;
+        --muted: #9497b8;
+        --card-bg: rgba(255, 255, 255, 0.045);
+        --card-bg-hover: rgba(255, 255, 255, 0.08);
+        --border: rgba(255, 255, 255, 0.1);
+
+        --cyan: #22e2f5;
+        --purple: #b25bf7;
+        --lime: #baf23a;
+        --pink: #ff5fae;
+
+        --accent: var(--cyan);
+        --accent-warm: var(--lime);
+        --gradient-brand: linear-gradient(135deg, var(--cyan), var(--purple) 55%, var(--pink));
+        --glow-cyan: 0 0 1.5rem rgba(34, 226, 245, 0.35);
+        --glow-purple: 0 0 1.5rem rgba(178, 91, 247, 0.35);
+        --font-display: "Space Grotesk", system-ui, sans-serif;
+
+        /* Pagefind検索UIをダークネオンテーマに合わせる */
+        --pagefind-ui-primary: var(--cyan);
+        --pagefind-ui-text: var(--fg);
+        --pagefind-ui-background: var(--bg-elevated);
+        --pagefind-ui-border: var(--border);
+        --pagefind-ui-tag: var(--card-bg);
+        --pagefind-ui-border-radius: 10px;
+        --pagefind-ui-border-width: 1px;
+        --pagefind-ui-font: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
       }
       * { box-sizing: border-box; }
+      html { background: var(--bg); }
       body {
+        position: relative;
         margin: 0;
         font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
         background: var(--bg);
@@ -40,24 +69,79 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
         line-height: 1.7;
         overflow-x: hidden;
       }
+
+      /* --- 背景演出: グリッドパターン + ネオンのぼかしブロブ --- */
+      .bg-decor {
+        position: fixed;
+        inset: 0;
+        z-index: -1;
+        overflow: hidden;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+        background-size: 42px 42px;
+        -webkit-mask-image: radial-gradient(ellipse 90% 70% at 50% 0%, #000 40%, transparent 90%);
+        mask-image: radial-gradient(ellipse 90% 70% at 50% 0%, #000 40%, transparent 90%);
+      }
+      .bg-decor::before,
+      .bg-decor::after {
+        content: "";
+        position: absolute;
+        width: 42vw;
+        height: 42vw;
+        max-width: 560px;
+        max-height: 560px;
+        border-radius: 50%;
+        filter: blur(110px);
+        opacity: 0.28;
+      }
+      .bg-decor::before {
+        top: -12vw;
+        left: -8vw;
+        background: var(--cyan);
+      }
+      .bg-decor::after {
+        top: 8vw;
+        right: -10vw;
+        background: var(--purple);
+      }
+
       a { color: var(--accent); }
+      h1, h2, h3 {
+        font-family: var(--font-display);
+        letter-spacing: 0.01em;
+      }
+      .gradient-text {
+        background: var(--gradient-brand);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+
       header.site-header {
         padding: 1.25rem 1rem;
         border-bottom: 1px solid var(--border);
+        backdrop-filter: blur(10px);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: rgba(6, 7, 15, 0.75);
       }
       header.site-header .brand {
-        font-size: 1.25rem;
+        font-family: var(--font-display);
+        font-size: 1.3rem;
         font-weight: 700;
         text-decoration: none;
-        color: var(--fg);
+        letter-spacing: 0.01em;
       }
       main {
-        max-width: 960px;
+        max-width: 1120px;
         margin: 0 auto;
         padding: 1.5rem 1rem 4rem;
       }
       footer {
-        max-width: 960px;
+        max-width: 1120px;
         margin: 0 auto;
         padding: 2rem 1rem;
         color: var(--muted);
@@ -71,7 +155,8 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
         min-width: 0;
         max-width: 100%;
         font-size: 0.75rem;
-        padding: 0.3rem 0.7rem;
+        font-weight: 600;
+        padding: 0.3rem 0.75rem;
         border-radius: 999px;
         background: var(--card-bg);
         border: 1px solid var(--border);
@@ -79,11 +164,17 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
         text-decoration: none;
         margin: 0 0.35rem 0.35rem 0;
         overflow-wrap: anywhere;
+        transition: color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
       }
-      .tag:hover { color: var(--accent); border-color: var(--accent); }
+      @media (hover: hover) {
+        .tag:hover { color: var(--cyan); border-color: var(--cyan); box-shadow: 0 0 0.75rem rgba(34, 226, 245, 0.25); }
+      }
       @media (max-width: 600px) {
         main { padding: 1rem 0.85rem 3rem; }
-        header.site-header { padding: 1rem 0.85rem; }
+        header.site-header { padding: 0.9rem 0.85rem; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
       }
     </style>
     {siteConfig.cfAnalyticsToken && (
@@ -95,8 +186,9 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
     )}
   </head>
   <body>
+    <div class="bg-decor" aria-hidden="true"></div>
     <header class="site-header">
-      <a class="brand" href="/">{siteConfig.title}</a>
+      <a class="brand gradient-text" href="/">{siteConfig.title}</a>
     </header>
     <main>
       <slot />

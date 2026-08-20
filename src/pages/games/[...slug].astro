@@ -18,16 +18,20 @@ const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 
 
 <BaseLayout title={displayTitle} description={descriptionJa.slice(0, 120)}>
   <article>
-    <h1>{displayTitle}</h1>
+    <h1 class="gradient-text">{displayTitle}</h1>
     {titleJa && titleJa !== title && <p class="original-title">原題: {title}</p>}
 
-    {heroImage && <img class="hero" src={heroImage} alt={displayTitle} loading="lazy" />}
+    {heroImage && (
+      <div class="hero-frame">
+        <img class="hero" src={heroImage} alt={displayTitle} loading="lazy" />
+      </div>
+    )}
 
     <dl class="meta-list">
-      <div><dt>価格</dt><dd>{price}</dd></div>
+      <div><dt>価格</dt><dd class="price-value">{price}</dd></div>
       {releaseDate && <div><dt>発売日</dt><dd>{releaseDate}</dd></div>}
       <div><dt>掲載日</dt><dd><time datetime={pubDate.toISOString()}>{dateLabel}</time></dd></div>
-      <div><dt>Steamストア</dt><dd><a href={sourceUrl} target="_blank" rel="noopener noreferrer">appid {steamAppId} で見る</a></dd></div>
+      <div><dt>Steamストア</dt><dd><a class="store-link" href={sourceUrl} target="_blank" rel="noopener noreferrer">appid {steamAppId} で見る &rarr;</a></dd></div>
     </dl>
 
     <div class="tag-cloud">
@@ -36,26 +40,51 @@ const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 
       ))}
     </div>
 
-    <h2>ゲーム紹介</h2>
+    <h2 class="gradient-text">ゲーム紹介</h2>
     <p>{descriptionJa}</p>
 
-    <h2>どんな人におすすめか</h2>
+    <h2 class="gradient-text">どんな人におすすめか</h2>
     <p>{audienceJa}</p>
 
-    <p><a href="/">&larr; ホームに戻る</a></p>
+    <p><a class="back-link" href="/">&larr; ホームに戻る</a></p>
   </article>
 </BaseLayout>
 
 <style>
-  .original-title { color: var(--muted); font-size: 0.9rem; margin-top: -0.5rem; }
-  .hero { max-width: 100%; border-radius: 8px; margin: 1rem 0; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.4rem; }
+  h2 { font-size: 1.2rem; font-weight: 700; margin: 2rem 0 0.75rem; }
+  .original-title { color: var(--muted); font-size: 0.9rem; margin-top: -0.2rem; }
+  .hero-frame {
+    margin: 1.25rem 0;
+    padding: 3px;
+    border-radius: 16px;
+    background: var(--gradient-brand);
+  }
+  .hero {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 13px;
+  }
   .meta-list {
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 0.4rem 1rem;
-    margin: 1rem 0;
+    gap: 0.5rem 1.25rem;
+    margin: 1.25rem 0;
+    padding: 1rem 1.1rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
   }
   .meta-list dt { color: var(--muted); font-size: 0.85rem; }
   .meta-list dd { margin: 0; }
-  .tag-cloud { margin-bottom: 1.5rem; }
+  .price-value { font-family: var(--font-display); font-weight: 700; color: var(--lime); }
+  .store-link { font-weight: 700; }
+  .tag-cloud { margin-bottom: 1.75rem; }
+  .back-link {
+    display: inline-block;
+    color: var(--muted);
+    text-decoration: none;
+  }
+  .back-link:hover { color: var(--cyan); }
 </style>

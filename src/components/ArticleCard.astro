@@ -13,13 +13,15 @@ const { slug, title, titleJa, price, tags, pubDate, heroImage } = Astro.props;
 const displayTitle = titleJa || title;
 const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
 const isNew = Date.now() - pubDate.getTime() < 3 * 24 * 60 * 60 * 1000;
+const visibleTags = tags.slice(0, 3);
 ---
 
 <article class="article-card" data-tags={tags.join(',')}>
-  <a href={`/games/${slug}/`} class="card-thumb-link">
+  <a href={`/games/${slug}/`} class="card-thumb-link" tabindex="-1" aria-hidden="true">
     {heroImage
-      ? <img class="card-thumb" src={heroImage} alt={displayTitle} loading="lazy" width="460" height="215" />
-      : <div class="card-thumb card-thumb-placeholder" aria-hidden="true">{displayTitle.slice(0, 1)}</div>}
+      ? <img class="card-thumb" src={heroImage} alt="" loading="lazy" width="460" height="215" />
+      : <div class="card-thumb card-thumb-placeholder">{displayTitle.slice(0, 1)}</div>}
+    <span class="thumb-fade"></span>
     {isNew && <span class="new-badge">NEW</span>}
   </a>
   <div class="card-body">
@@ -29,7 +31,7 @@ const isNew = Date.now() - pubDate.getTime() < 3 * 24 * 60 * 60 * 1000;
       <time datetime={pubDate.toISOString()}>{dateLabel}</time>
     </div>
     <div class="card-tags">
-      {tags.map((tag) => (
+      {visibleTags.map((tag) => (
         <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>{tag}</a>
       ))}
     </div>
@@ -39,75 +41,106 @@ const isNew = Date.now() - pubDate.getTime() < 3 * 24 * 60 * 60 * 1000;
 <style>
   .article-card {
     display: flex;
-    gap: 1rem;
-    padding: 0.85rem;
-    margin: 0.6rem 0;
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    transition: background-color 0.15s ease, border-color 0.15s ease;
+    flex-direction: column;
+    border-radius: 14px;
+    border: 1px solid transparent;
+    background:
+      linear-gradient(var(--card-bg), var(--card-bg)) padding-box,
+      linear-gradient(135deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.04)) border-box;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
   }
-  .article-card:hover {
-    background: var(--card-bg-hover);
-    border-color: var(--accent);
+  @media (hover: hover) {
+    .article-card:hover {
+      transform: translateY(-4px) scale(1.015);
+      box-shadow: var(--glow-cyan);
+      background:
+        linear-gradient(var(--card-bg-hover), var(--card-bg-hover)) padding-box,
+        var(--gradient-brand) border-box;
+    }
+    .article-card:hover .card-title { color: var(--cyan); }
   }
   .card-thumb-link {
     position: relative;
-    flex: 0 0 auto;
     display: block;
-    width: 138px;
-    height: 64px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
     overflow: hidden;
-    border-radius: 6px;
   }
   .card-thumb {
-    width: 138px;
-    height: 64px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border-radius: 6px;
     display: block;
-    background: var(--border);
+    background: var(--bg-elevated);
   }
   .card-thumb-placeholder {
     display: flex;
     align-items: center;
     justify-content: center;
     color: var(--muted);
-    font-size: 1.4rem;
+    font-family: var(--font-display);
+    font-size: 2.2rem;
     font-weight: 700;
+  }
+  .thumb-fade {
+    position: absolute;
+    inset: auto 0 0 0;
+    height: 45%;
+    background: linear-gradient(to top, rgba(6, 7, 15, 0.85), transparent);
+    pointer-events: none;
   }
   .new-badge {
     position: absolute;
-    top: -6px;
-    left: -6px;
-    background: var(--accent-warm);
-    color: #1a0d05;
+    top: 0.6rem;
+    left: 0.6rem;
+    background: var(--lime);
+    color: #0b1400;
+    font-family: var(--font-display);
     font-size: 0.65rem;
     font-weight: 700;
-    letter-spacing: 0.03em;
-    padding: 0.1rem 0.4rem;
-    border-radius: 4px;
+    letter-spacing: 0.05em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    box-shadow: 0 0 0.9rem rgba(186, 242, 58, 0.55);
   }
   .card-body {
-    min-width: 0;
+    display: flex;
+    flex-direction: column;
     flex: 1 1 auto;
+    min-width: 0;
+    padding: 0.9rem 1rem 1rem;
+    gap: 0.5rem;
   }
   .card-title {
-    font-size: 1.05rem;
-    font-weight: 600;
+    font-size: 1rem;
+    font-weight: 700;
     text-decoration: none;
     color: var(--fg);
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: color 0.15s ease;
   }
-  .card-title:hover { color: var(--accent); }
   .card-meta {
     display: flex;
-    gap: 0.75rem;
-    font-size: 0.85rem;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.8rem;
     color: var(--muted);
-    margin: 0.35rem 0 0.5rem;
   }
-  .card-tags { margin-top: 0.25rem; }
-  @media (max-width: 480px) {
-    .card-thumb-link, .card-thumb { width: 96px; height: 45px; }
+  .price {
+    font-family: var(--font-display);
+    font-weight: 700;
+    color: var(--lime);
   }
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: auto;
+  }
+  .card-tags .tag { margin: 0; min-height: 28px; padding: 0.2rem 0.6rem; font-size: 0.7rem; }
 </style>

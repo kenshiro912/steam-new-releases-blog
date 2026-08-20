@@ -33,17 +33,27 @@ const { page } = Astro.props;
     align-items: center;
     justify-content: center;
     min-height: 44px;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.1rem;
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 10px;
     text-decoration: none;
-    color: var(--accent);
+    color: var(--fg);
+    font-weight: 700;
     font-size: 0.9rem;
     white-space: nowrap;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
   }
-  .page-link:hover { border-color: var(--accent); background: var(--card-bg); }
-  .page-link.disabled { color: var(--muted); pointer-events: none; opacity: 0.5; }
-  .page-status { color: var(--muted); font-size: 0.85rem; flex: 0 0 auto; }
+  @media (hover: hover) {
+    .page-link:not(.disabled):hover { border-color: var(--cyan); box-shadow: var(--glow-cyan); color: var(--cyan); }
+  }
+  .page-link.disabled { color: var(--muted); pointer-events: none; opacity: 0.4; }
+  .page-status {
+    color: var(--fg);
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 0.85rem;
+    flex: 0 0 auto;
+  }
   @media (max-width: 480px) {
     .page-link { flex: 1 1 0; padding: 0.5rem 0.5rem; font-size: 0.85rem; }
   }

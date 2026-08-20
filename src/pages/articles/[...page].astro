@@ -15,7 +15,7 @@ const { page } = Astro.props;
 ---
 
 <BaseLayout title={page.currentPage > 1 ? `記事一覧 ${page.currentPage}ページ目` : '記事一覧'}>
-  <h1>記事一覧</h1>
+  <h1 class="gradient-text">記事一覧</h1>
   <p class="muted">全{page.total}件中 {page.start + 1}〜{page.end + 1}件目</p>
 
   <div class="article-list">
@@ -39,4 +39,10 @@ const { page } = Astro.props;
 
 <style>
   .muted { color: var(--muted); font-size: 0.9rem; }
+  .article-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.1rem;
+    margin: 1.25rem 0;
+  }
 </style>
