@@ -1,1 +1,267 @@
-[]
+[
+  {
+    "steamAppId": 4628970,
+    "title": "Bullet Beast",
+    "sourceUrl": "https://store.steampowered.com/app/4628970/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年1月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628970/8182e805f256461d2ce3cf154c336c830b26281f/header.jpg?t=1787173485",
+    "shortDescription": "A 3d movement based horde bullet hell where you swing, dodge and use abilities to stay alive.",
+    "aboutTheGame": "On an alien world where life evolved to incorporate explosive materials into its biology, you'll play as L.A.N.K to defend your home against calamities and save your people from extinction.",
+    "detectedAt": "2026-08-20T01:39:13.304Z"
+  },
+  {
+    "steamAppId": 4776060,
+    "title": "Doctor Plague",
+    "sourceUrl": "https://store.steampowered.com/app/4776060/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776060/3b2469628b16810b80ea234c7e5a376f47e0f88b/header.jpg?t=1787182859",
+    "shortDescription": "It tells the legendary story of Doctor Plague, who slays demons and cures diseases. Medical skills are honed through battles, and knife skills are refined through treating patients. The combat part adopts Metroidvania, while the healing part uses rhythm game.",
+    "aboutTheGame": "A light roguelike pixel art game that combines Metroidvania and rhythm game. The player has multiple growable attributes and can use skills, magic and shooting. The enemies will upgrade to a certain extent based on the player's growth. There are various types of tasks in the game for the player to explore. Combat Rhythm Menu",
+    "detectedAt": "2026-08-20T01:39:13.907Z"
+  },
+  {
+    "steamAppId": 4777180,
+    "title": "Becoming You",
+    "sourceUrl": "https://store.steampowered.com/app/4777180/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777180/4d962b6a24c16f8c9b6009b3aa3dd7e6678a1bfc/header.jpg?t=1787175506",
+    "shortDescription": "An action game where your music shapes the world. Analyze any track, stream, or system audio in real time to transform movement, combat, enemies, visual effects, and procedural boss encounters.",
+    "aboutTheGame": "Becoming You is an action game where the music you love becomes the rules of the world. Tracks, streams, and system audio are analyzed in real time, shaping your movement, camera, combat, enemies, VFX, and procedural boss encounters. We are building a game that feels less like playing along to music and more like stepping inside it: fast, strange, reactive, and deeply personal.",
+    "detectedAt": "2026-08-20T01:39:14.459Z"
+  },
+  {
+    "steamAppId": 4892530,
+    "title": "Project Longshot",
+    "sourceUrl": "https://store.steampowered.com/app/4892530/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892530/f18f391ae62b984101511f94c515e80d1fc9649a/header.jpg?t=1787188253",
+    "shortDescription": "Launch from a familiar world into a 1:1 scale solar system of beautiful, unforgiving planets. Colonise, mine, and explore real places that people may walk upon within your lifetime. Project Longshot hands you a space program and asks only one question. How far can your program go?",
+    "aboutTheGame": "Inspired by the machines, the physics, and the sheer scale of real spaceflight. Project Longshot hands you a struggling space program and asks only one question. How far can your program go? Launch from a familiar world into a to scale solar system of beautiful, unforgiving planets. Then step out and build the colony infrastructure, drills, habitats and factories that carry you to the next world. A SOLAR SYSTEM BUILT FROM THE REAL ONE Land and walk where the Apollo astronauts took their first steps. Then go further, out to 31 more worlds that have only ever been seen by a passing probe. Fly a…",
+    "detectedAt": "2026-08-20T01:39:14.989Z"
+  },
+  {
+    "steamAppId": 4903770,
+    "title": "OIL & HORROR",
+    "sourceUrl": "https://store.steampowered.com/app/4903770/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903770/a07c40f868172f4d552b8eb66c3a16986b02d9a9/header.jpg?t=1787170026",
+    "shortDescription": "高リスク・高リターンの石油探査サバイバルゲーム。戦略的にセクターと掘削深度を選べ。石油を掘り当てるか、穴を放棄するか。氷のスパイク、胞子、変異モンスター、そして復讐に燃えるワーロックを生き延びろ。信頼のマシンガンとグレネードランチャーで身を守り、一攫千金を狙え！",
+    "aboutTheGame": "一攫千金を狙うか……凍死するか。 あなたは地球上で最も過酷な場所の一つ、凍てついたモンスターだらけの北極の荒地で石油探査をしている。石油は氷の下のどこかにある。それを見つける唯一の方法は、すべてを賭けること——金、燃料、そして命を。 セクターを選んで掘削を始めろ。深さのレベルごとに、貴重な現金と燃料を消費する。噴出を期待して掘り進め続けるか……損切りして破産する前に穴を放棄するか。空井戸はあなたを壊す。たった一度の幸運な発見が億万長者にすることもできる。——だが、氷は空っぽではない。 氷のスパイクが予告なく噴き出す。致死性の胞子の雲がエイリアンの虫から漂ってくる。そして本当の脅威があなたを狩っている：巨大な変異ナメクジ、デダイツ、巨大変異クモ、アンデッドのレイザーバックイノシシ、巨大な腐ったホッキョクグマ……そして地球上からあなたを消し去りたいワーロック。ランダムな攻撃が数秒でランを終わらせることもある。 マシンガンはここで最高の相棒だ。弾を込め、撃ち続け、油断するな。プレッシャーが高まったらグレネードを買い、敵が粉々に爆散するのを楽しめ。ワンヒットキルはいつまでも飽きない。 緑のキノコは体力を回復する。赤いキノコは毒になる。散らばった体力・弾薬・燃料のキャッシュを見逃すな——取れるときに取れ。次の攻撃は決して遠くない。 これは高リスクの石油探査を、容赦ないサバイバル戦略ゲームに変…",
+    "detectedAt": "2026-08-20T01:39:15.534Z"
+  },
+  {
+    "steamAppId": 4908590,
+    "title": "Please Drive Faster",
+    "sourceUrl": "https://store.steampowered.com/app/4908590/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908590/44ec53959d70bf78f7a5b9ba4c61c6d1b1dcbd93/header.jpg?t=1787171136",
+    "shortDescription": "速く走れ。ブレーキは慎重に。箱の中身は聞くな。『Please Drive Faster』は、厳しい締め切り、壊れやすい荷物、路上での検査、そして報酬のために走る配達ドライビングゲームだ。より危険な仕事を引き受け、車両をアップグレードし、報酬を受け取るその瞬間まで荷物を無事に守り抜こう。",
+    "aboutTheGame": "速く走れ。ブレーキは慎重に。箱の中身は聞くな。『Please Drive Faster』は、厳しい締め切り、壊れやすい荷物、路上での検査、そして報酬のために走る配達ドライビングゲームだ。より危険な仕事を引き受け、車両をアップグレードし、報酬を受け取るその瞬間まで荷物を無事に守り抜こう。 荷物を選べ 壊れやすい荷物もある。重い荷物もある。そもそも積荷目録に載っていない荷物もある。多く積めば報酬も増えるが、荷物が増えるたびに、壊したり、失くしたり、路上での検査で説明したりするものも増えていく。 ルートを走れ 『Please Drive Faster』は、凍てついた都市を横断して荷物を運ぶ配達ドライビングゲーム。雇い主は、あなたがどれほど金に困っているのかをなぜか正確に把握している物流会社だ。ブラックアイスの上を滑りながら走り、厳しい締め切りに間に合わせ、荷物を守り、次の報酬のためにどこまでリスクを負うか決めよう。 荷物を届けろ 凍結した道路で必死にグリップを確保しろ。衝突、乱暴な荷扱い、判断ミスのすべてが利益を吹き飛ばしかねない。路上での出来事、厄介な書類手続き、ちょっと怪しい機会、そして常にあなたを採点している配車システムに対処しよう。 車両をアップグレード 仕事が難しく、そして奇妙になっていくにつれて、車両の速度、グリップ、ブレーキ、積載量、荷物の保護性能、隠蔽性能をアップグレード…",
+    "detectedAt": "2026-08-20T01:39:16.109Z"
+  },
+  {
+    "steamAppId": 4919760,
+    "title": "Ink Rush",
+    "sourceUrl": "https://store.steampowered.com/app/4919760/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年8月23日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919760/241d6a7be808e2552930f160ee69a573748cd2c8/header.jpg?t=1787184617",
+    "shortDescription": "A first-person platforming action game where a girl must escape a strange space-like dream world with a magical water gun. Use red, blue, yellow, and black ink abilities to climb, wall-run, stick to ceilings, defeat enemies and bosses, and escape a giant monster in a frantic chase.",
+    "aboutTheGame": "A young girl receives a mysterious water gun from a clown while playing at a water park. After returning home, she falls asleep and wakes up inside a strange, space-like dream world. The only thing she has with her is the mysterious water gun. Using the strange powers of the ink fired from the gun, she must explore this unfamiliar dream world and find a way to escape. INK-BASED ABILITIES As you progress through the game, you will obtain four different types of ink. Each ink provides a unique ability, changing how you move through the world and opening new ways to progress. BLUE INK Use powerfu…",
+    "detectedAt": "2026-08-20T01:39:16.635Z"
+  },
+  {
+    "steamAppId": 4965700,
+    "title": "Cheap Tattoo",
+    "sourceUrl": "https://store.steampowered.com/app/4965700/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年9月18日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965700/563fe268072d5888f371875ba0844d05fc0305ac/header.jpg?t=1787183715",
+    "shortDescription": "Run your own tattoo shop and actually do the tattooing. Dial in voltage and needle depth, line it, shade it, wipe the blood — and keep the customer from walking out. Too shallow and the ink won't hold. Too deep and you'll hear about it.",
+    "aboutTheGame": "Most tattoo games let you press a button and a tattoo appears. This one hands you the machine. You set the voltage. You pick the needle. You follow the stencil line by line, wipe the blood away, and watch the skin react to every pass. Get it right and the ink sits clean. Get it wrong and you have a customer with a story about that one guy who ruined their arm. THE MACHINE IS THE GAME Voltage and needle depth are not decoration. Run too shallow and the ink falls out. Push too deep and you shred the skin, the bleeding starts, and the customer stops being polite. Every body part takes the needle…",
+    "detectedAt": "2026-08-20T01:39:17.195Z"
+  },
+  {
+    "steamAppId": 4970080,
+    "title": "Drop Order",
+    "sourceUrl": "https://store.steampowered.com/app/4970080/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970080/7eaffd44ab4c09774ba8655dcd24d2251a7ec9d2/header.jpg?t=1787169915",
+    "shortDescription": "『Drop Order』は、タレットの配置が火力だけでなく敵の進行ルートも変える、ダークSFの戦術タワーディフェンスです。タレット同士のシナジーを活かして防衛線と致命的な迷路を築き、カードと自ら操縦するドローンでエイリアンの大群を迎え撃ちましょう。",
+    "aboutTheGame": "戦いはまだ終わっていない 人類は、かつて故郷と呼んだ惑星の上空に浮かぶ軌道ステーション「UNION-9」で生き延びている。異星艦隊はすでにこの星系を去ったが、地表はいまなお、奴らが残した生物に覆い尽くされている。 もはや人命を危険にさらす余裕はない。奪還作戦はすべて遠隔で行われる。自動降下モジュールを地表へ送り込み、資源を回収し、新たな拠点を築き、確保した物資を軌道上へ送り返す。作戦を成功させるたび、新たな技術と兵器が手の届くものになる。 あなたは新任オペレーターの一人。最初の降下任務は、ここから始まる。 防衛線を築け。敵の道を作り変えろ。 Drop Orderでは、防衛そのものが空間配置のパズルになる。カードを使ってタレットや支援施設を展開し、強力なシナジーを組み上げ、配置するたびに敵の進行ルートを変えていこう。 決められたタワー設置枠に縛られることはない。ボトルネックを作り、敵の大群をより長いルートへ誘導し、基地までの最短経路を致命的な迷路へと変えよう。 一度の降下が、次の作戦を強くする 地表は危険に満ちているが、UNION-9が生き延びるために必要な資源も残されている。作戦中に貴重な資源を確保し、その成果をステーションの発展へと還元しよう。 エンジニアリングを拡張し、設計図から新たなカードを解放して、今後の任務で使える兵装を増やそう。作戦を成功させるほど、建設と適応の選択肢が…",
+    "detectedAt": "2026-08-20T01:39:17.745Z"
+  },
+  {
+    "steamAppId": 4980220,
+    "title": "Hell Chambers",
+    "sourceUrl": "https://store.steampowered.com/app/4980220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980220/6cd1daf53a30ff971455260f8bfeada0037d55bc/header.jpg?t=1787175683",
+    "shortDescription": "Have you ever wondered what Hell looks like? In this adventure escape room, you'll have the chance not only to see it for yourself, but even to escape from it! In Hell Chambers, you'll solve puzzles, meet the inhabitants of Hell, and uncover the secrets of Hell Corp.",
+    "aboutTheGame": "Have you ever wondered why there are only four stable isotopes of sulfur? Neither have we. But in Hell Chambers , you'll descend into a version of Hell unlike anything you've ever seen before. You play as Roy, an ordinary guy who accidentally becomes the victim of a hellish conspiracy. As the only living person in Hell, he has one goal: escape. Standing in his way are precisely designed puzzles created by Belle, the Head of the Sinners' Punishment Department. Will you manage to make it back home? Hell Chambers is an adventure escape room set inside a mysterious hellish corporation filled with…",
+    "detectedAt": "2026-08-20T01:39:18.310Z"
+  },
+  {
+    "steamAppId": 4980520,
+    "title": "The Great Picture",
+    "sourceUrl": "https://store.steampowered.com/app/4980520/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980520/3c01c33955b5f4cf6d94d6092432a41b345781dd/header.jpg?t=1787184388",
+    "shortDescription": "Through First Person and VR, users can explore the world's largest print photograph, The Great Picture.",
+    "aboutTheGame": "In 2006, six artists—Jerry Burchfield, Mark Chamberlain, Jacques Garnier, Rob Johnson, Douglas McCulloh, and Clayton Spada—transformed an abandoned jet hangar at a decommissioned military air base in Irvine, California into a pinhole camera and made the world's largest print photograph. This immersive experience re-creates both the hangar and the image they produced, The Great Picture, on its 20th anniversary.",
+    "detectedAt": "2026-08-20T01:39:18.849Z"
+  },
+  {
+    "steamAppId": 4991910,
+    "title": "ドンキー・オブ・ウォールストリート",
+    "sourceUrl": "https://store.steampowered.com/app/4991910/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991910/693959b173d7613b24ae357e510df8adfb987798/header.jpg?t=1787182064",
+    "shortDescription": "Wall Street Donkey is a beautifully unhinged stock-market deckbuilding roguelite. Relive a century of crashes, bubbles, pandemics, and tariff wars. Read the news, rig the market, stack 20× leverage—and become either a Wall Street legend or its highest-flying donkey.",
+    "aboutTheGame": "🫏 BRING A LITTLE DONKEY-FUELED CHAOS TO WALL STREET! MAKE MONEY. MAKE MORE MONEY. THEN MAKE MONEY AGAIN. Use your wits to survive the blood-soaked markets of Wall Street—or stack 20× leverage and launch yourself directly into the stratosphere! Wall Street Donkey is a beautifully unhinged stock-market deckbuilding roguelite. And no, it was absolutely NOT created after the developer blew up their portfolio. Definitely not. Hee... haw... sob... Read the news, predict the market, trade stocks, and use Bullish, Bearish, Leverage, and Utility cards to bend prices to your will. Preserve your capital…",
+    "detectedAt": "2026-08-20T01:39:19.397Z"
+  },
+  {
+    "steamAppId": 5000500,
+    "title": "少女三国志",
+    "sourceUrl": "https://store.steampowered.com/app/5000500/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "RPG",
+      "ストラテジー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000500/794fdefd08046edc436d6865d1b57e925684bb05/header.jpg?t=1787184325",
+    "shortDescription": "《少女三国志》是一款融合三国历史与异世界幻想的二次元策略RPG。三国英魂因时空裂隙降临星魂大陆，以少女之身重获力量，与魔魇军团展开跨越世界的战争。收集传奇英魂，组建最强阵容，探索隐藏真相，开启属于你的全新三国篇章。",
+    "aboutTheGame": "三国英魂，少女重生 在《少女三国志》中，你将见到熟悉而又陌生的三国人物。 她们拥有曾经的记忆、信念与荣耀，却在星魂大陆开启了一段全新的命运。 曾经驰骋沙场的武将，如今将掌握新的力量； 曾经运筹天下的谋士，将面对更加未知的棋局； 曾经敌对的阵营，也将在共同危机面前暂时联手。 为了回到原本的世界，她们必须组成“英魂军”，携手对抗席卷大陆的魔魇灾厄。 但过去的恩怨真的能够放下吗？ 友情、信念、野心与宿命，将在这片异世界重新交织。 魔魇降临，世界濒临毁灭 千年前，一场改变世界规则的“逆乱之劫”降临。 星魂大陆的力量法则发生扭曲。 原本所有生命都能够与魔魇抗衡，但如今，魔魇拥有无法突破的“阳煞护甲”。 只有特殊的“阴之力”才能真正伤害它们。 随着漫长战争持续，人类逐渐失去希望。 而隐藏在黑暗中的“魇主”，正在不断扩张自己的力量。 与此同时，一些人类选择背叛自己的世界，成为—— 叛天者。 他们获得魇主赐予的力量，操控魔魇大军，与人类为敌。 面对内忧外患，来自三国的少女英魂成为了这个世界最后的希望。 策略为王，重新书写三国天下 你将带领三国少女英魂，在星魂大陆建立属于自己的势力。 收集传奇武将，培养专属阵容。 不同角色拥有独特的战斗定位： · 统帅千军的绝世武将 · 运筹帷幄的智谋军师 · 攻守兼备的传奇英雄 · 掌控特殊力量的异界英魂 合理搭配阵容，利用角色之间的羁绊与技能组合，在战场上击败强…",
+    "detectedAt": "2026-08-20T01:39:20.118Z"
+  },
+  {
+    "steamAppId": 5003150,
+    "title": "Guild of Monsters",
+    "sourceUrl": "https://store.steampowered.com/app/5003150/",
+    "price": "価格情報なし",
+    "tags": [
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003150/36e162e33df8e0830371bc3464aa8ec3ad04667f/header.jpg?t=1787168763",
+    "shortDescription": "Amass an army of monsters and wield a variety of game-changing Powers to defeat the evil King in this lane-based tower defense game!",
+    "aboutTheGame": "Guild of Monsters is a lane-based tower defense game in which you control the monsters being raided by heroes! Join Cassidy, a princess who ran away from her deadbeat father, in gathering up an army of ragtag monsters and enacting revenge for all of his wrongdoings. Gather an army of tons of different monsters to battle with! Every tower has their own ways of doing things, whether it's long-range attacks, close-range combat, protecting your allies, generating money, or even stranger behavior. And if that wasn't enough, each monster has 4 purchasable upgrades split between 2 paths , to amplify…",
+    "detectedAt": "2026-08-20T01:39:20.669Z"
+  },
+  {
+    "steamAppId": 5004290,
+    "title": "MANIFEST",
+    "sourceUrl": "https://store.steampowered.com/app/5004290/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004290/f881d278d72f5bef389364211cd13b36585e89dc/header.jpg?t=1787170878",
+    "shortDescription": "This is a game about the pressure of keeping ships productive. Idle ships bleed money. Late deliveries hurt your reputation. Old hulls develop histories. Captains become known quantities. A quiet ore run can suddenly become a rescue problem, a customs problem, or a piracy problem.",
+    "aboutTheGame": "MANIFEST is a hard-SF space logistics tycoon set in a single living solar system. You are not the pilot. You are the dispatcher. Take contracts, assign ships, plan trajectories, manage captains, and keep your company profitable while your fleet moves between planets, moons, stations, and industrial ports. Every decision lives in the planning layer: what cargo to specialise in, which ship to buy, how hard to burn, when to depart, and what risks you are willing to accept when something goes wrong halfway to Mars. This is a game about the pressure of keeping ships productive. Idle ships bleed mon…",
+    "detectedAt": "2026-08-20T01:39:21.232Z"
+  }
+]
