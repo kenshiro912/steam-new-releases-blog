@@ -1,150 +1,5 @@
 [
   {
-    "steamAppId": 4628970,
-    "title": "Bullet Beast",
-    "sourceUrl": "https://store.steampowered.com/app/4628970/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年1月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628970/8182e805f256461d2ce3cf154c336c830b26281f/header.jpg?t=1787173485",
-    "shortDescription": "A 3d movement based horde bullet hell where you swing, dodge and use abilities to stay alive.",
-    "aboutTheGame": "On an alien world where life evolved to incorporate explosive materials into its biology, you'll play as L.A.N.K to defend your home against calamities and save your people from extinction.",
-    "detectedAt": "2026-08-20T01:39:13.304Z"
-  },
-  {
-    "steamAppId": 4776060,
-    "title": "Doctor Plague",
-    "sourceUrl": "https://store.steampowered.com/app/4776060/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776060/3b2469628b16810b80ea234c7e5a376f47e0f88b/header.jpg?t=1787182859",
-    "shortDescription": "It tells the legendary story of Doctor Plague, who slays demons and cures diseases. Medical skills are honed through battles, and knife skills are refined through treating patients. The combat part adopts Metroidvania, while the healing part uses rhythm game.",
-    "aboutTheGame": "A light roguelike pixel art game that combines Metroidvania and rhythm game. The player has multiple growable attributes and can use skills, magic and shooting. The enemies will upgrade to a certain extent based on the player's growth. There are various types of tasks in the game for the player to explore. Combat Rhythm Menu",
-    "detectedAt": "2026-08-20T01:39:13.907Z"
-  },
-  {
-    "steamAppId": 4777180,
-    "title": "Becoming You",
-    "sourceUrl": "https://store.steampowered.com/app/4777180/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777180/4d962b6a24c16f8c9b6009b3aa3dd7e6678a1bfc/header.jpg?t=1787175506",
-    "shortDescription": "An action game where your music shapes the world. Analyze any track, stream, or system audio in real time to transform movement, combat, enemies, visual effects, and procedural boss encounters.",
-    "aboutTheGame": "Becoming You is an action game where the music you love becomes the rules of the world. Tracks, streams, and system audio are analyzed in real time, shaping your movement, camera, combat, enemies, VFX, and procedural boss encounters. We are building a game that feels less like playing along to music and more like stepping inside it: fast, strange, reactive, and deeply personal.",
-    "detectedAt": "2026-08-20T01:39:14.459Z"
-  },
-  {
-    "steamAppId": 4892530,
-    "title": "Project Longshot",
-    "sourceUrl": "https://store.steampowered.com/app/4892530/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第1四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892530/f18f391ae62b984101511f94c515e80d1fc9649a/header.jpg?t=1787188253",
-    "shortDescription": "Launch from a familiar world into a 1:1 scale solar system of beautiful, unforgiving planets. Colonise, mine, and explore real places that people may walk upon within your lifetime. Project Longshot hands you a space program and asks only one question. How far can your program go?",
-    "aboutTheGame": "Inspired by the machines, the physics, and the sheer scale of real spaceflight. Project Longshot hands you a struggling space program and asks only one question. How far can your program go? Launch from a familiar world into a to scale solar system of beautiful, unforgiving planets. Then step out and build the colony infrastructure, drills, habitats and factories that carry you to the next world. A SOLAR SYSTEM BUILT FROM THE REAL ONE Land and walk where the Apollo astronauts took their first steps. Then go further, out to 31 more worlds that have only ever been seen by a passing probe. Fly a…",
-    "detectedAt": "2026-08-20T01:39:14.989Z"
-  },
-  {
-    "steamAppId": 4903770,
-    "title": "OIL & HORROR",
-    "sourceUrl": "https://store.steampowered.com/app/4903770/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903770/a07c40f868172f4d552b8eb66c3a16986b02d9a9/header.jpg?t=1787170026",
-    "shortDescription": "高リスク・高リターンの石油探査サバイバルゲーム。戦略的にセクターと掘削深度を選べ。石油を掘り当てるか、穴を放棄するか。氷のスパイク、胞子、変異モンスター、そして復讐に燃えるワーロックを生き延びろ。信頼のマシンガンとグレネードランチャーで身を守り、一攫千金を狙え！",
-    "aboutTheGame": "一攫千金を狙うか……凍死するか。 あなたは地球上で最も過酷な場所の一つ、凍てついたモンスターだらけの北極の荒地で石油探査をしている。石油は氷の下のどこかにある。それを見つける唯一の方法は、すべてを賭けること——金、燃料、そして命を。 セクターを選んで掘削を始めろ。深さのレベルごとに、貴重な現金と燃料を消費する。噴出を期待して掘り進め続けるか……損切りして破産する前に穴を放棄するか。空井戸はあなたを壊す。たった一度の幸運な発見が億万長者にすることもできる。——だが、氷は空っぽではない。 氷のスパイクが予告なく噴き出す。致死性の胞子の雲がエイリアンの虫から漂ってくる。そして本当の脅威があなたを狩っている：巨大な変異ナメクジ、デダイツ、巨大変異クモ、アンデッドのレイザーバックイノシシ、巨大な腐ったホッキョクグマ……そして地球上からあなたを消し去りたいワーロック。ランダムな攻撃が数秒でランを終わらせることもある。 マシンガンはここで最高の相棒だ。弾を込め、撃ち続け、油断するな。プレッシャーが高まったらグレネードを買い、敵が粉々に爆散するのを楽しめ。ワンヒットキルはいつまでも飽きない。 緑のキノコは体力を回復する。赤いキノコは毒になる。散らばった体力・弾薬・燃料のキャッシュを見逃すな——取れるときに取れ。次の攻撃は決して遠くない。 これは高リスクの石油探査を、容赦ないサバイバル戦略ゲームに変…",
-    "detectedAt": "2026-08-20T01:39:15.534Z"
-  },
-  {
-    "steamAppId": 4908590,
-    "title": "Please Drive Faster",
-    "sourceUrl": "https://store.steampowered.com/app/4908590/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "レース",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908590/44ec53959d70bf78f7a5b9ba4c61c6d1b1dcbd93/header.jpg?t=1787171136",
-    "shortDescription": "速く走れ。ブレーキは慎重に。箱の中身は聞くな。『Please Drive Faster』は、厳しい締め切り、壊れやすい荷物、路上での検査、そして報酬のために走る配達ドライビングゲームだ。より危険な仕事を引き受け、車両をアップグレードし、報酬を受け取るその瞬間まで荷物を無事に守り抜こう。",
-    "aboutTheGame": "速く走れ。ブレーキは慎重に。箱の中身は聞くな。『Please Drive Faster』は、厳しい締め切り、壊れやすい荷物、路上での検査、そして報酬のために走る配達ドライビングゲームだ。より危険な仕事を引き受け、車両をアップグレードし、報酬を受け取るその瞬間まで荷物を無事に守り抜こう。 荷物を選べ 壊れやすい荷物もある。重い荷物もある。そもそも積荷目録に載っていない荷物もある。多く積めば報酬も増えるが、荷物が増えるたびに、壊したり、失くしたり、路上での検査で説明したりするものも増えていく。 ルートを走れ 『Please Drive Faster』は、凍てついた都市を横断して荷物を運ぶ配達ドライビングゲーム。雇い主は、あなたがどれほど金に困っているのかをなぜか正確に把握している物流会社だ。ブラックアイスの上を滑りながら走り、厳しい締め切りに間に合わせ、荷物を守り、次の報酬のためにどこまでリスクを負うか決めよう。 荷物を届けろ 凍結した道路で必死にグリップを確保しろ。衝突、乱暴な荷扱い、判断ミスのすべてが利益を吹き飛ばしかねない。路上での出来事、厄介な書類手続き、ちょっと怪しい機会、そして常にあなたを採点している配車システムに対処しよう。 車両をアップグレード 仕事が難しく、そして奇妙になっていくにつれて、車両の速度、グリップ、ブレーキ、積載量、荷物の保護性能、隠蔽性能をアップグレード…",
-    "detectedAt": "2026-08-20T01:39:16.109Z"
-  },
-  {
-    "steamAppId": 4919760,
-    "title": "Ink Rush",
-    "sourceUrl": "https://store.steampowered.com/app/4919760/",
-    "price": "無料",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年8月23日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919760/241d6a7be808e2552930f160ee69a573748cd2c8/header.jpg?t=1787184617",
-    "shortDescription": "A first-person platforming action game where a girl must escape a strange space-like dream world with a magical water gun. Use red, blue, yellow, and black ink abilities to climb, wall-run, stick to ceilings, defeat enemies and bosses, and escape a giant monster in a frantic chase.",
-    "aboutTheGame": "A young girl receives a mysterious water gun from a clown while playing at a water park. After returning home, she falls asleep and wakes up inside a strange, space-like dream world. The only thing she has with her is the mysterious water gun. Using the strange powers of the ink fired from the gun, she must explore this unfamiliar dream world and find a way to escape. INK-BASED ABILITIES As you progress through the game, you will obtain four different types of ink. Each ink provides a unique ability, changing how you move through the world and opening new ways to progress. BLUE INK Use powerfu…",
-    "detectedAt": "2026-08-20T01:39:16.635Z"
-  },
-  {
-    "steamAppId": 4965700,
-    "title": "Cheap Tattoo",
-    "sourceUrl": "https://store.steampowered.com/app/4965700/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年9月18日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965700/563fe268072d5888f371875ba0844d05fc0305ac/header.jpg?t=1787183715",
-    "shortDescription": "Run your own tattoo shop and actually do the tattooing. Dial in voltage and needle depth, line it, shade it, wipe the blood — and keep the customer from walking out. Too shallow and the ink won't hold. Too deep and you'll hear about it.",
-    "aboutTheGame": "Most tattoo games let you press a button and a tattoo appears. This one hands you the machine. You set the voltage. You pick the needle. You follow the stencil line by line, wipe the blood away, and watch the skin react to every pass. Get it right and the ink sits clean. Get it wrong and you have a customer with a story about that one guy who ruined their arm. THE MACHINE IS THE GAME Voltage and needle depth are not decoration. Run too shallow and the ink falls out. Push too deep and you shred the skin, the bleeding starts, and the customer stops being polite. Every body part takes the needle…",
-    "detectedAt": "2026-08-20T01:39:17.195Z"
-  },
-  {
     "steamAppId": 4970080,
     "title": "Drop Order",
     "sourceUrl": "https://store.steampowered.com/app/4970080/",
@@ -263,5 +118,389 @@
     "shortDescription": "This is a game about the pressure of keeping ships productive. Idle ships bleed money. Late deliveries hurt your reputation. Old hulls develop histories. Captains become known quantities. A quiet ore run can suddenly become a rescue problem, a customs problem, or a piracy problem.",
     "aboutTheGame": "MANIFEST is a hard-SF space logistics tycoon set in a single living solar system. You are not the pilot. You are the dispatcher. Take contracts, assign ships, plan trajectories, manage captains, and keep your company profitable while your fleet moves between planets, moons, stations, and industrial ports. Every decision lives in the planning layer: what cargo to specialise in, which ship to buy, how hard to burn, when to depart, and what risks you are willing to accept when something goes wrong halfway to Mars. This is a game about the pressure of keeping ships productive. Idle ships bleed mon…",
     "detectedAt": "2026-08-20T01:39:21.232Z"
+  },
+  {
+    "steamAppId": 4438170,
+    "title": "Riskline",
+    "sourceUrl": "https://store.steampowered.com/app/4438170/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4438170/42899dab1444bf4e2bb9ff3be6a4dfca1f202aef/header.jpg?t=1787194527",
+    "shortDescription": "Riskline is a multiplayer game about risk, greed, and outplaying your rivals. Spin slots, bet on roulette, challenge other players to duels, grab limited items, and decide when to cash out. Whoever hides the most money in the bank by the end of the match wins.",
+    "aboutTheGame": "Riskline is a competitive multiplayer game where fortunes can change hands several times during a single fast-paced match. Spin slot machines for money and tickets, test your luck on prize wheels, place bets at the roulette table, and challenge other players to quick head-to-head duels. Spend your winnings on limited items from the shop — or move your money into the bank before your luck runs out. The catch: you never know how much your opponents have already secured. Risk It for an Edge There is no single correct way to play. Build your bankroll slowly, hunt for rare tickets, make huge roulet…",
+    "detectedAt": "2026-08-20T04:29:29.961Z"
+  },
+  {
+    "steamAppId": 4530170,
+    "title": "Run, Ronald, Run",
+    "sourceUrl": "https://store.steampowered.com/app/4530170/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530170/a706ecf13b7f9993b53aba557f23dc8d46cce290/header.jpg?t=1787195981",
+    "shortDescription": "Run, Ronald, Runは、小さな円が大量の怒れる図形を相手に生き残ろうとする、インクリメンタル型アリーナシューティングゲームです。",
+    "aboutTheGame": "Run, Ronald, Run は、小さな円が大量の怒れる図形を相手に生き残ろうとする、インクリメンタル型アリーナシューティングゲームです。 敵を倒そう ランダムな効果を獲得 アップグレードを購入しよう アビリティを選ぼう",
+    "detectedAt": "2026-08-20T04:29:30.471Z"
+  },
+  {
+    "steamAppId": 4532050,
+    "title": "Off The Top Rope!",
+    "sourceUrl": "https://store.steampowered.com/app/4532050/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "スポーツ",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532050/8db0c94955f4ab59b2b81e2bf8a31201687aca57/header.jpg?t=1787198840",
+    "shortDescription": "Prepare yourself for the next generation of professional wrestling video gaming! It's time to go Off The Top Rope... IN VR! Featuring a dual-camera system and a truly responsive crowd, Off The Top Rope! uses VR motion controls and gesture recognition to put you in the ring like never before!",
+    "aboutTheGame": "Off The Top Rope! is a single-player VR action sports game that transports the player into the boots of their chosen professional wrestler. Featuring a dual camera system that blends between 1st and 3rd camera perspectives, Off the Top Rope! puts YOU in the center of the action like never before! Entrance Mode: Use the camera system along with gesture recognition taunts to warm up the crowd. Enter the ring, strike your signature pose and trigger your pyro! You've got 90 seconds to combine your own VR showmanship with animations to show the crowd exactly who they're dealing with! VR Punching: S…",
+    "detectedAt": "2026-08-20T04:29:31.012Z"
+  },
+  {
+    "steamAppId": 4631870,
+    "title": "我的窗台花园（My Windowsill Garden）",
+    "sourceUrl": "https://store.steampowered.com/app/4631870/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年2月3日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631870/b3a2d2a96d279c88c9d62a790963e5079bbcf3e5/header.jpg?t=1787191210",
+    "shortDescription": "窓辺で花を育て、景色を変え、押し花アートを。あなただけの猫がおしゃべりに付き合い、忙しいあなたを見守ります。疲れたらデスクトップに飾って、ゆっくり開く窓をひとつ。",
+    "aboutTheGame": "『わたしの窓辺ガーデン』は、農場を営むゲームではありません。窓辺で小さな暮らしを楽しむゲームです。 鉢植えをいくつか並べて、水をやり、窓の外の景色を変えて、咲いた花を押し花にして残す。窓辺にはあなただけの猫が住んでいて、一緒に花を育て、おしゃべりもしてくれます。 窓辺のミニガーデニング ：鉢を自由に並べて、水やりも肥料も思いのまま。タイマーに急かされることもありません。10分だけ花を愛でても、風景としてそのまま置いておいてもOK。 押し花工房 ：咲いた花を素材にして、コラージュして額に飾る。育てた花が、少しずつ壁を彩っていきます。 インテリア収集 ：コインを貯めて、新しい鉢やカーテン、そして窓の外の世界ごと交換できます。 あなただけの猫 ：花を育てるあなたを見守り、おしゃべりして、甘えて、たまに本音もぽつり。すべてローカルで動くので、プライバシーも安心です。 壁紙モード ：デスクトップに窓を飾れば、家にいながら癒やしの風景が届きます。会議中も、休憩中も、帰宅後も、窓辺は静かに開いています。 ワークショップとクラウド保存 ：ほかの人が共有したカーテンや風景を集めて、パソコンを変えても続きから育てられます。 ゆっくり育てていけば、窓辺はいつかあなたの暮らしの一部になっていきます。",
+    "detectedAt": "2026-08-20T04:29:31.592Z"
+  },
+  {
+    "steamAppId": 4691050,
+    "title": "Build In Space",
+    "sourceUrl": "https://store.steampowered.com/app/4691050/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691050/12084914ac7a8bb66144802d7de8dd7b7f9fb58a/header.jpg?t=1787199735",
+    "shortDescription": "Build In Space is a relaxing tycoon game where you can grow crops, build your base, and raise animals.",
+    "aboutTheGame": "Build In Space is a tycoon game focused on creativity and having fun while bringing your ideas to life! Start with a small patch of soil and build a massive farming empire among the stars! Plant and harvest a wide variety of crops, earn credits, unlock powerful upgrades, and expand your space station into a thriving production hub. Show off your creations to other players, collect rare rewards, discover special events, and compete to build the most successful colony in the galaxy. With constant progression, exciting unlocks, and endless ways to grow, your journey from rookie farmer to space ty…",
+    "detectedAt": "2026-08-20T04:29:32.103Z"
+  },
+  {
+    "steamAppId": 4808200,
+    "title": "CTRL+OPT+OUT",
+    "sourceUrl": "https://store.steampowered.com/app/4808200/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808200/193256b1b5ab2a5656c20064ce911e33d602ebf6/header.jpg?t=1787197489",
+    "shortDescription": "CTRL+OPT+OUT is a first-person netpunk zoomer shooter. Acquire hardware, take down adware, and fight your way across the network. Nothing human is making it into the future. Take back control. Opt out.",
+    "aboutTheGame": "PHOTOSENSITIVITY WARNING This game contains bright lights, visual effects, and screen filters that could potentially affect photosensitive players. CTRL+OPT+OUT is a first-person netpunk zoomer shooter set in the distant present, an era where machines far outnumber man. Nothing human is making it into the future. Acquire hardware, take down adware, and fight your way across the network. WELCOME TO THE YEAR 20XX. You are Combo. Your combo is your life. Combo constantly depletes. With every adversary you take down, you buy yourself some time to keep the fight going. THE INTERNET IS FADING. Dead…",
+    "detectedAt": "2026-08-20T04:29:32.614Z"
+  },
+  {
+    "steamAppId": 4825380,
+    "title": "Grass Cutter 9000: Director's Cut",
+    "sourceUrl": "https://store.steampowered.com/app/4825380/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825380/1ee50e46dd53d1b3b70bdede4b7d50005f56bf1b/header.jpg?t=1787192206",
+    "shortDescription": "Grass to cut, guys to meet and things to eat. Get upgrades, increase your currency and explore different locations in this short incremental Video Game.",
+    "aboutTheGame": "Grass Cutter 9000: Director's Cut has grass to cut, guys to meet and things to eat get upgrades, increase your currency and explore different locations in this short incremental Video Game cut grass, get money i love money :) buy upgrades, eat and drink things, and cut more grass neat go to a bunch of places like the neighbour's house or the inside of a fridge woah you can exchange currency for goods and services i love engaging in commerce converse with people fish, rats, the full spectrum of people cutting grass is tiring work be careful when you fall asleep or don't",
+    "detectedAt": "2026-08-20T04:29:33.166Z"
+  },
+  {
+    "steamAppId": 4874370,
+    "title": "Angels of Battle: Cascade Of Resonating Dreams",
+    "sourceUrl": "https://store.steampowered.com/app/4874370/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4874370/15522143263f8e4342f15a2c65fd36b6dccc6f7c/header.jpg?t=1787197652",
+    "shortDescription": "アニメ調2Dシングルプレイ格闘ゲーム。『Angels of Battle』の世界において、どんな願いも叶えるという神力は、果たして奇跡か、それとも呪いか？",
+    "aboutTheGame": "人と神による争奪戦の果てに、最終的に神力を手にした勝者を待ち受ける結末とは——？ インディー開発チーム「 Border Violation体制 」が贈る、 アニメ調2Dシングルプレイ格闘ゲーム『 Angels of Battle: Cascade Of Resonating Dreams 』がSteamに登場！ 個性豊かな9名のキャラクターと、初心者でも気軽に楽しめる爽快なバトルシステムを搭載。 『Angels of Battle』の世界で、己の実力を以て「願いを叶える覚悟」を証明せよ！",
+    "detectedAt": "2026-08-20T04:29:33.707Z"
+  },
+  {
+    "steamAppId": 4880390,
+    "title": "Clash of Lands",
+    "sourceUrl": "https://store.steampowered.com/app/4880390/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880390/0fa6d649db446acdd61d507f1e408bb5d7095fde/header.jpg?t=1787189993",
+    "shortDescription": "《Clash of Lands》 is a management-adventure card game. Players recruit residents, develop towns, assemble teams, embark on expeditions, battle foes, and uncover the truth of the world.",
+    "aboutTheGame": "《Clash of Lands》 is a town management and adventure card game. Players recruit inhabitants, manage towns, assemble parties, venture forth to explore lands, combat foes, and uncover the truth of this world. Built around cards as the core medium, the gameplay revolves around two major pillars: town management and adventure. Craft&Building Sustain your populace, gather fundamental resources, establish a basic economic cycle, and overcome early hardships. Explore Expand your production scale, recruit more residents, deal with diverse random events, and explore wider regions across the map. Battle…",
+    "detectedAt": "2026-08-20T04:29:34.221Z"
+  },
+  {
+    "steamAppId": 4930980,
+    "title": "Garage: Tidy Up!",
+    "sourceUrl": "https://store.steampowered.com/app/4930980/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月16日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930980/131d31a674b1a1b2af89cf218743e7f741350d49/header.jpg?t=1787198756",
+    "shortDescription": "Garage: Tidy Up! is a cozy first-person organizing simulator where you restore order in a messy auto workshop. Sort tools, parts, tires, paints, wires, and garage equipment into their proper zones, upgrade your skills, and turn chaos into the perfect dream garage.",
+    "aboutTheGame": "Garage Tidy Up is a cozy first-person organizing simulator about bringing order back to a chaotic auto workshop. A once-perfect garage has turned into a disaster. Wrenches are on the floor, sockets are mixed with paint cans, wires are hiding under tires, and nobody knows where the 10 mm socket went. Your job is simple: pick up every misplaced item, find the correct work zone, and put everything back where it belongs. Key Features: A cozy first-person organizing simulator set in a detailed auto workshop Sort tools, parts, tires, paints, wires, equipment, and garage supplies Multiple work zones…",
+    "detectedAt": "2026-08-20T04:29:34.865Z"
+  },
+  {
+    "steamAppId": 4968280,
+    "title": "七号楼 Building No. 7",
+    "sourceUrl": "https://store.steampowered.com/app/4968280/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968280/6c69b8dc06b2e39ddfbf53766fecde5610a63071/header.jpg?t=1787196394",
+    "shortDescription": "《七号楼》是一款九十年代复古风格的横版悬疑解谜探索游戏。 玩家将操作主角穿梭于破败废弃的建筑空间之中，通过仔细搜集残留证物、破译暗藏的机密文档，并破解复杂的机关谜题，一步步地拼凑出隐藏的事件全貌。游戏的核心吸引力在于以剧情为核心驱动力的深度搜证与推理玩法，完美结合了横版环境探索与压抑诡异的时间幻境跃迁。精美还原的九十年代感场景配以沉浸式氛围及音乐效果，将带给玩家抽丝剥茧、破解悬疑烧脑真相的极致探索乐趣。",
+    "aboutTheGame": "故事背景 《七号楼》是一款带有浓厚九十年代复古氛围的横版沉浸式悬疑解谜游戏。 你将扮演前新闻记者“林述”。因在上一起案件中因自身性格的懦弱导致了血淋淋的失败，你陷入了深深的自责与阴影。 某天，你收到了一封神秘的匿名信，指引你独自前往废弃多年的“七号楼”——这里曾是清坪市棉纺厂的职工家属楼，也是十年前三名女工接连意外身亡的案发地点。 本以为这只是一次例行的案件调查，但在推开那扇生锈的单元门后，你将发现这栋建筑里隐藏着远比想象中更加黑暗的真相…… 游戏玩法 本游戏为横版剧情向解密探索类游戏，你需要穿梭于不同的时空、破败的建筑物与房间，搜集证物、破译机密文档，并通过破解特定机关锁逐步还原当年案件的全貌。 破译谜题，直面挑战：游戏以精心设计的机关 puzzle、逻辑推理与密码破译为核心挑战。你需要穿梭于破败的房间之间，搜集证物、破译机密文档、破解特定机关，逐步还原当年案件的全貌。 搜证推理，收集记忆碎片：游戏不包含繁琐的角色等级与技能升级，纯粹以剧情与探索驱动。通过收集场景中的关键线索、旧物与记忆碎片，拼凑出完整的证据链。 游戏特色与核心机制 时间幻境跃迁（核心独特机制）：随着剧情的深入，你将在不同的时间幻境与现实之间穿梭跃迁。压抑的场景变化、诡异的耳边低语、破碎的历史线索，带你一步步深入令人窒息的事件核心。 救赎与成长，多结局抉择：在查明三名女工死亡幕后真凶的过程中，主角林述也将直面自己…",
+    "detectedAt": "2026-08-20T04:29:35.475Z"
+  },
+  {
+    "steamAppId": 4980030,
+    "title": "PENCILS DOWN™",
+    "sourceUrl": "https://store.steampowered.com/app/4980030/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月4日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980030/e07087afc2ad200413bb98c6ce450014c0db8375/header.jpg?t=1787196081",
+    "shortDescription": "It is 1999. You are seated in Room 44 for a standardized test that knows you. Wager your confidence, guard your erasers, and keep your pencil DOWN when the proctor walks the rows. The questions are about history, science, and what you did three minutes ago.",
+    "aboutTheGame": "The Standardized Assessment for Continued Existence Pass mark: 70%. Pencils ready. PENCILS DOWN is an analog horror exam roguelike. One sitting is 44 questions across four sections. You wager 1-5 confidence chips on every answer, win them back or lose them. Erasers are your lives. Questions printed in red ink stake an eraser. And the proctor, heard but never seen, is walking the rows. The Exam Studies You Back From Section C onward, it asks about you: - Which of your earlier answers was a guess? - How many times have you erased? - What did the chalkboard say during the break? Every one of thes…",
+    "detectedAt": "2026-08-20T04:29:35.991Z"
+  },
+  {
+    "steamAppId": 5010710,
+    "title": "Gods of Pegana",
+    "sourceUrl": "https://store.steampowered.com/app/5010710/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010710/0ead551ab838d6b677787494f90afaa6c0ea86ad/header.jpg?t=1787173897",
+    "shortDescription": "A single-player pixel-art CRPG that feels like an MMORPG. Party with digital \"Simmy\" companions who level-up, find gear, and specialize on their own. Master tactical ATB combat, quest, run your guild, respond to world events, and hunt deep loot across the cosmic-fantasy world of the Gods of Pegana.",
+    "aboutTheGame": "Step into the cosmic fantasy world of Pegāna - a full-length single-player CRPG built to feel like an MMORPG without the subscription fees, server lag, or other humans. Classical gameplay layered over a robust feature set Experience a unique blend of JRPG, MMORPG, and CRPG features including: six classes with build flexibility to purely specialize or make a tankmage, alpha-striker, summonbot, heal-tanker, or whatever else your pixel combat dreams can design unlimited generated loot across 8 rarity tiers, unique items, set items (with bonuses), affix crafting, and visual weapon progression rogu…",
+    "detectedAt": "2026-08-20T04:29:36.530Z"
+  },
+  {
+    "steamAppId": 5022580,
+    "title": "Brandrheim",
+    "sourceUrl": "https://store.steampowered.com/app/5022580/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022580/fd88e00ea10e66ad5c4ebe3c7496ba1405978cc6/header.jpg?t=1787167009",
+    "shortDescription": "A third-person action RPG dungeon crawler with online co-op for up to 4 players. Explore dangerous dungeons, defeat powerful bosses, collect legendary loot, and build your hero through class-based character progression.",
+    "aboutTheGame": "A third-person action RPG dungeon crawler with online co-op for up to 4 players. Explore dangerous dungeons, defeat powerful bosses, collect legendary loot, and build your hero through class-based character progression.",
+    "detectedAt": "2026-08-20T04:29:37.073Z"
+  },
+  {
+    "steamAppId": 5023220,
+    "title": "Thornwake: Forest Adventure",
+    "sourceUrl": "https://store.steampowered.com/app/5023220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月4日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023220/04ac83f4a4c8328e0090147f98d092c35758ef8d/header.jpg?t=1787166264",
+    "shortDescription": "A hand-drawn 16-bit action platformer. Run, climb and vine-swing through 40 levels of autumn woods, sunken swamps and frozen peaks, mixing sword-and-shield melee with four elemental spells to cleanse a corrupted forest and rescue the Keeper it took.",
+    "aboutTheGame": "The forest remembers. Help it sing again. An ancient corruption called the Hollowbark is spreading through the Thornwood Vale — purple veins in the roots, hollow eyes in the wolves. It has taken Willow, Grove Keeper and the one person who could have stopped it, and it is dragging her toward its dead heart. You are Rowan Brightward. Sword in one hand, spellfire in the other, you follow her through five corrupted realms, gathering the scattered shards of the Vale's forgotten song — the only thing that can call her back. Emberfall is a hand-drawn 16-bit action platformer: 40 levels of running, cl…",
+    "detectedAt": "2026-08-20T04:29:37.599Z"
+  },
+  {
+    "steamAppId": 5026520,
+    "title": "POLIS",
+    "sourceUrl": "https://store.steampowered.com/app/5026520/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026520/da18ae9f1859819cb7a1aa8eb056c2ad256614e2/header.jpg?t=1787170065",
+    "shortDescription": "Become mayor of a small Greek town and govern for 17 years. Citizens write you letters for years, the opposition never sleeps, and every promise is remembered. A satirical political city sim where the town never forgets.",
+    "aboutTheGame": "You won the election. Now comes the hard part. POLIS is a satirical political city sim set in small-town Greece. You govern month by month, for up to 17 years — building, taxing, promising, compromising — while the town watches, remembers, and votes. The town remembers Citizens here aren't statistics. They have names, kafeneio tables, and long memories. They write you letters — for years. They grow old, their children grow up, and both will judge what you actually did, not what you announced. Decisions you made in your first spring will knock on your door a decade later. Elections every four y…",
+    "detectedAt": "2026-08-20T04:29:38.216Z"
+  },
+  {
+    "steamAppId": 5028640,
+    "title": "Nordic Lake",
+    "sourceUrl": "https://store.steampowered.com/app/5028640/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028640/408f8fd699e0bc5ffde7d23814d5b53cc89a62c8/header.jpg?t=1787166499",
+    "shortDescription": "Develop your own Lake! Balance the food chain and make sure the lake remains inhabitable to all of its residents. Unlock over dozen different unique creatures, including fish and invertebrates. Collect codex of all the plants and creatures as you expand your lake, and make it look uniquely yours.",
+    "aboutTheGame": "ABOUT THE GAME: Welcome to your own Nordic Lake! In the land of a thousand lakes, you are tasked with bringing one to life as a conservation effort. You choose the creatures you want to inhabit the lake, what vegetation it houses and what secrets it holds for those who peek underneath the surface. Whether your aim is to reach a self-sufficient balanced ecosystem or create your perch army, everything is in your hands. BUILD YOUR LAKE GRADUALLY: Start from a lake bottom, and slowly expand your lake to keep progression rewarding and easy to follow. Read codex to understand what impact a creature…",
+    "detectedAt": "2026-08-20T04:29:38.749Z"
+  },
+  {
+    "steamAppId": 5028770,
+    "title": "SUPERBOLT",
+    "sourceUrl": "https://store.steampowered.com/app/5028770/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028770/4d6d3c52eec4a6ce797159fb262eacee312931a3/header.jpg?t=1787181948",
+    "shortDescription": "きみが雷だ。死にかけた機械を充電し、こじ開け、数センチの火花から宇宙で最も明るい現象まで育つ。七つの尺度の世界を渡るインクリメンタル。崩壊するたびに強くなる。",
+    "aboutTheGame": "数センチの火花から始まり、銀河を消して終わる。 SUPERBOLTは、ただひとつの動作でできたインクリメンタルだ。雷を充電し、放し、壊れるのを見る。その動作のまわりに七つの世界がある。どれも尺度の跳躍であり、どれも前の世界になかった規則をひとつ持ち込む。 七つの世界、ひとつの尺度の梯子 作業台の火花（センチ）からアーク、雷雨、惑星嵐、太陽フレア、パルサー、そして最後にメガパーセクで測るガンマ線バーストへ。世界と世界のあいだはメニューではない。きみはそこを通り抜ける。 世界ごとに新しい規則 破断 - ひび割れたノードを手で撃つ: 砕け散る 連鎖 - 雷がノードからノードへ跳ぶ 過充電 - ゲージの頂点で放す 共鳴 - 拍に合わせて撃ち、リズムを保つ 整列 - 光条が薙ぐ: 照らされたものを撃つ 飽和 - 画面が白む、終わりが近い 崩壊し、より強く戻る 宇宙に差し出すものが尽きたら、崩壊させる。イオンは三つの枝（雷、記憶、嵐）にまたがる恒久の星座を支払い、次の挑戦はより速く始まり、より強く当たり、より遠くへ届く。 100%にするために作られている 41の実績、名前のついた五つの試練（静寂, 硝子, 強欲, 一弦, 夜）にはそれぞれ恒久の報酬があり、これまで手にしたすべての特性を記す日誌、そして大胆な者のための速度記録。 きみの時間を尊重する 広告なし、マイクロトランザクションなし、待ち…",
+    "detectedAt": "2026-08-20T04:29:39.270Z"
+  },
+  {
+    "steamAppId": 5029170,
+    "title": "RAT TAG!",
+    "sourceUrl": "https://store.steampowered.com/app/5029170/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029170/61690282d8b8893ee45528020ab3e944c518d3a0/header.jpg?t=1787198981",
+    "shortDescription": "Fast, frenetic, physics-based tag... as rats! Outrun the tagger or get tagged and join the hunt. Jump, dive, and slap your friends into ragdoll chaos across gimmick-packed arenas. Sabotage each other with an assortment of wacky items. Embrace the rat.",
+    "aboutTheGame": "Embrace your inner rat in RAT TAG! Jump, run, and dive your way through rat-made arenas in a variety of tag-based game modes. Grab wacky items to outmaneuver or sabotage your friends. Bounce off walls, smack the cheese out of your friends, and go rat feral. Slap or Be Slapped Slapping your friends sends them into a ragdoll tumble, setting the stage for hilarious sabotage. As a tagger, slapping your runner friends sends them flying into the stratosphere and infects them with the cheese disease, recruiting them to the hunt. Fluid Movement RAT TAG! features fluid and intuitive movement that is ea…",
+    "detectedAt": "2026-08-20T04:29:39.842Z"
+  },
+  {
+    "steamAppId": 5030940,
+    "title": "Enter the Cube",
+    "sourceUrl": "https://store.steampowered.com/app/5030940/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030940/c1df888227df71b10391241958bda72c21a5d7f4/header.jpg?t=1787182485",
+    "shortDescription": "20 人のプレイヤーが、36 の殺人ルームからランダムに組み上がった巨大な立方体へ降下する。ギミックは容赦なく殺し、遮蔽物は勝手に動き、外周のルームは次々と虚空へ崩れ落ちていく。マップにスナイパーライフルはただ一挺——拾った瞬間、全員があなたの居場所を知る。最後に立っていた者が勝つ。",
+    "aboutTheGame": "[h1]20 人が入り、1 人が出る。[/h1] 36 の殺人ルームからランダムに組み上がった巨大な立方体。20 人が降下する。扉の向こうは開けるまで分からない——昇降する柱の間かもしれないし、溶岩の坩堝かもしれないし、車より大きな球が転がるボウリング場かもしれない。ギミックは殺す。遮蔽物は勝手に動く。そして外周のルームは、割れ、傾き、虚空へ落ちていく。 最後に立っていた者が勝つ。 36 のルーム、シードから生成 同じ試合は二度とない。マッチごとにルームライブラリから立方体を組み直すので、前の試合で覚えた地図はもう存在しない。ルームは 4 段階の危険度—— 安全 、 妨害 、 ダメージ 、 致死 ——に分かれ、扉に表示される。読んで殺しのルームを迂回するか、読まずに命で確かめるか。 ライブラリには現在 15 以上の手作りギミックルームがある。たとえば: ピストンフロア — 柱が上下し、遮蔽物が勝手に動く フレイムウェーブ — 進行する炎の噴射。タイミングを合わせて抜ける ブレットトレイン — 高速列車が正面から線路を横切る クラッシュプレス — プレスが落ちる。隙間だけが生き残る道 テスラケージ — コイルが放電。ケージの中は即死 ラヴァクルーシブル — 溶岩は即死。動く渡し台だけが渡る手段 フローズンシー — 流氷は乗って 3 秒で砕ける。落水は即死 エンドゲームボード — 同色…",
+    "detectedAt": "2026-08-20T04:29:40.364Z"
+  },
+  {
+    "steamAppId": 5035880,
+    "title": "QuizForge",
+    "sourceUrl": "https://store.steampowered.com/app/5035880/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035880/5d6542d5a75abe9e4aba1dcd2d443cf1d065fa1c/header.jpg?t=1787167064",
+    "shortDescription": "自分だけのクイズを作成・プレイ・共有しよう！QuizForge（クイズフォージ）は、高機能なクイズエディター、ローカル＆オンラインマルチプレイ、Steam Workshop（Steam ワークショップ）対応、多彩なゲームモードを備えた本格クイズゲームです。",
+    "aboutTheGame": "短い説明 自分だけのクイズを作成し、遊び、共有しよう！QuizForge（クイズフォージ）は、高機能なクイズエディター、ローカル＆オンラインマルチプレイ、Steam Workshop（Steam ワークショップ）対応、多彩なゲームモードを備えた、自由度の高いクイズ体験を提供します。 作る。挑む。極める。 QuizForge（クイズフォージ） は、クイズ好き、家族、友人、学校、そしてコンテンツクリエイターのための総合プラットフォームです。オリジナルのクイズを作成し、ローカルまたはオンラインで他のプレイヤーに挑戦し、 Steam Workshop（Steam ワークショップ） を通じて成長し続けるコミュニティ制作コンテンツを楽しめます。 家族や友人とのゲームナイト、知識を競うイベント、教育目的など、あらゆるシーンで活躍します。 オリジナルクイズを作成 内蔵エディターを使って、自分だけのクイズを自由に作成できます。 主な機能 高機能クイズエディター 多彩な問題形式 カテゴリー・サブカテゴリーの作成 画像やメディアに対応 大規模な問題データベースを管理 クイズを簡単に作成・編集 好きなスタイルでプレイ さまざまなゲームモードから選べます。 シングルプレイ ローカルマルチプレイ オンラインマルチプレイ チームモード Quiz Royale サバイバルモード タイムアタック 学習モード 今後さ…",
+    "detectedAt": "2026-08-20T04:29:41.173Z"
+  },
+  {
+    "steamAppId": 5038190,
+    "title": "Horsin' Around",
+    "sourceUrl": "https://store.steampowered.com/app/5038190/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月1日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038190/2f33145eee5cb54837e2731fa82d0d2929dfe7aa/header.jpg?t=1787170659",
+    "shortDescription": "Horsin' Around in a casual task-management game where each new day adds another responsibility. Complete hands-on care tasks, earn money, buy helpful upgrades, and unlock powerful abilities as you keep an ever-growing routine under control.",
+    "aboutTheGame": "Horsin' Around is a task-management game about the surprisingly chaotic everyday responsibilities of taking care of a horse. Start your first day with just five care tasks. Feed your horse, clean up, handle chores, and finish everything before the day is over. Sounds easy enough, right? Well... every new day adds another task to your routine. Tasks don't disappear once they're introduced, meaning your peaceful little schedule will slowly grow into an increasingly frantic juggling act. You'll need to work faster, plan ahead, and figure out the most efficient way to keep everything under control…",
+    "detectedAt": "2026-08-20T04:29:41.756Z"
   }
 ]
