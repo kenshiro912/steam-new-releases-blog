@@ -15,7 +15,11 @@ export async function getStaticPaths() {
     props: {
       articles: allArticles
         .filter((a) => a.data.tags.includes(tag))
-        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+        .sort((a, b) => {
+          const dateDiff = b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+          if (dateDiff !== 0) return dateDiff;
+          return b.data.steamAppId - a.data.steamAppId;
+        }),
     },
   }));
 }
