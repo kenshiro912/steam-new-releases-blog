@@ -8,5 +8,6 @@ tags: ["アクション", "早期アクセス", "シングルプレイヤー", "
 audienceJa: "精密な移動テクニックを極めたい人、タイムアタックやスピードランに没頭したい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043430/bb0332c78c8f8ec3dd7f1ec741df1f77dda8f547/header.jpg?t=1787171492"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

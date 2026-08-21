@@ -8,5 +8,6 @@ tags: ["インディー", "シミュレーション", "ストラテジー", "シ
 audienceJa: "リソース配分やスケジューリングを考えるマネジメントゲームが好きな人、ゲーム業界を題材にした作品に興味がある人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191780/e98c025fbe774c498a7cb07c5ef0afcf2a97f27d/header.jpg?t=1787206053"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

@@ -8,5 +8,6 @@ tags: ["アクション", "カジュアル", "インディー", "シングルプ
 audienceJa: "反射神経を試されるミニマルなアーケードゲームが好きな人、スコアアタックにやり込みたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076160/0ee08689b7239c9f690cd6cbac029613260e924b/header.jpg?t=1787168360"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

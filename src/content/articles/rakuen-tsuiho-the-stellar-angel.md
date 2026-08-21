@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "シングルプレイヤー"]
 audienceJa: "アニメ版『楽園追放』のファン、選択によって展開が変わるSFビジュアルノベルが好きな人におすすめです。"
 releaseDate: "2026年11月25日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607420/e90e233f05ae7e66102180d5eed58e76dee5052a/header.jpg?t=1787227232"
+japaneseSupport: "full"
 pubDate: 2026-08-21
 ---

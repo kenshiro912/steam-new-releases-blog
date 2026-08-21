@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シミュレーション", "シン
 audienceJa: "コミカルなやりこみ要素があるシミュレーションゲームが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065220/c5845ae3e6c5ba86d46253a9dcac144ae4cb889a/header.jpg?t=1787177350"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

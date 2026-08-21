@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー", "マ
 audienceJa: "友人や家族とクイズ大会を楽しみたい人、自分でコンテンツを作ってワークショップで共有したい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035880/5d6542d5a75abe9e4aba1dcd2d443cf1d065fa1c/header.jpg?t=1787167064"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

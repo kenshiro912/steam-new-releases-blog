@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "ストラテジー", "シングル
 audienceJa: "ユーモラスな観察テーマのパズルが好きな人、短時間でクスッと笑えるゲームを探している人におすすめです。"
 releaseDate: "2026年11月"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812370/0bef8e213f348f21e682e952023cdfa15adb8a1e/header.jpg?t=1787201761"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

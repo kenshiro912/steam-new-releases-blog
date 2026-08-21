@@ -8,5 +8,6 @@ tags: ["インディー", "シミュレーション", "ストラテジー", "シ
 audienceJa: "工程を組み立てる生産ラインシミュレーションが好きな人、経営のプレッシャーを味わうローグライト要素に興味がある人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986690/9d23690f6f9e14abd22aad2a2e814775837956c7/header.jpg?t=1787212483"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

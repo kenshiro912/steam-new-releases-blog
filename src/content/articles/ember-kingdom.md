@@ -8,5 +8,6 @@ tags: ["インディー", "RPG", "シングルプレイヤー"]
 audienceJa: "キャラクタービルドをじっくり作り込みたい人、戦術的なターン制バトルが好きな人におすすめです。"
 releaseDate: "2026年8月31日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065170/3b13bc34e34033d9a6c662cde600580cd2215c30/header.jpg?t=1787197089"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

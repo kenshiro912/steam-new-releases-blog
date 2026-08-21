@@ -8,5 +8,6 @@ tags: ["カジュアル", "スポーツ", "ストラテジー", "シングルプ
 audienceJa: "アーケード感覚のスポーツゲームが好きな人、ローグライクのビルド構築要素を組み合わせた作品を探している人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5056260/18836b7150ffd4e0ae7d26b96da1d5c9bd1b1c68/header.jpg?t=1787198895"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

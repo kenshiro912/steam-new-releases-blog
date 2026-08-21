@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "無料プレイ", "マルチプレ
 audienceJa: "短時間で決着がつくスリリングなPvPが好きな人、隠密要素のある対戦ゲームを求める人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057400/5f37cc25d99d1129e0d57ece063f313f68a05649/header.jpg?t=1787192975"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

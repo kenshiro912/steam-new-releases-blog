@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "インディー", "シング
 audienceJa: "友達と協力してボス戦に挑むアクションゲームが好きな人、テンポの良いコメディタッチの世界観を楽しみたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755950/3fd157cf08724501d46aee275e44062252bb06de/header.jpg?t=1787212878"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

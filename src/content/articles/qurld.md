@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "シンプルなルールでじっくり考えるパズルが好きな人、隙間時間に遊べるミニマルなゲームを探している人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996790/328539a4760628dbc1bc0d3c0a4b79871c90f41c/header.jpg?t=1787209982"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

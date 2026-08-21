@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "RPG", "�
 audienceJa: "心温まる物語とリズムゲームを組み合わせた作品が好きな人、キャラクターとの関係を育てたい人におすすめです。"
 releaseDate: "2026年8月28日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076430/b8fd1cd021f33a7cd61faaff20626001885ea3da/header.jpg?t=1787214902"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

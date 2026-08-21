@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "シングルプレイヤー", "マ
 audienceJa: "パーティー感覚のアリーナ対戦アクションが好きな人、友人とオンラインで気軽に盛り上がりたい人におすすめです。"
 releaseDate: "2027年第1四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020730/9bab16263c1adc4696c6918beef44c69c0b5bda8/header.jpg?t=1787214548"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "ストラテジー", "早期アク
 audienceJa: "シンプルな操作でタワーディフェンスを楽しみたい人、ユニット編成のカスタマイズが好きな人におすすめです。"
 releaseDate: "2026年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834460/f3fcbb9e8eab75cf635426c4fbb4daffa4b195cd/header.jpg?t=1787208353"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

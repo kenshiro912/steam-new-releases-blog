@@ -8,5 +8,6 @@ tags: ["アクション", "シングルプレイヤー"]
 audienceJa: "テンポの速いシューティングでエイリアンの大群を撃ち抜きたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070050/dbb1e166ef17590c798dd5a9d121be237bfd0691/header.jpg?t=1787213295"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

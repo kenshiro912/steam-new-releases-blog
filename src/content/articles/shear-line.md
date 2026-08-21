@@ -8,5 +8,6 @@ tags: ["インディー", "シミュレーション", "シングルプレイヤ�
 audienceJa: "誤魔化しのないリアルな物理シミュレーションが好きな人、細かい操作の手応えを重視する人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069860/8fca129c627d7099b9f1192f7648f0de14dd6587/header.jpg?t=1787169798"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

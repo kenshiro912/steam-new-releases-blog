@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "ストラテジー", "シングル
 audienceJa: "友人と協力してタクティカルなミッションに挑みたい人、乗り物を駆使する戦闘が好きな人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075190/39d33f24e9c380bcf6973d329c602baa9881cb76/header.jpg?t=1787195393"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

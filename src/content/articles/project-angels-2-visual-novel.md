@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "軍事色の強いストーリー重視のビジュアルノベルが好きな人、前作からの続きを追いたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766910/ea2a5fda3fc0c180cb57914de920b7d9845ed7af/header.jpg?t=1787218295"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

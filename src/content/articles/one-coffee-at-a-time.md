@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シミュレーション", "シン
 audienceJa: "のんびりとしたお店経営シミュレーションが好きな人、お菓子作りをテーマにしたゲームを探している人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698500/f23b2d596f1b983f09af0b1863879e25396a4614/header.jpg?t=1787221759"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

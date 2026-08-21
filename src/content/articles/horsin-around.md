@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "ストラテジー", "シングル
 audienceJa: "時間管理やスケジューリングをテンポよくこなすゲームが好きな人、動物の世話がテーマの作品が好きな人におすすめです。"
 releaseDate: "2026年9月1日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038190/2f33145eee5cb54837e2731fa82d0d2929dfe7aa/header.jpg?t=1787170659"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

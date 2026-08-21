@@ -8,5 +8,6 @@ tags: ["インディー", "RPG", "ストラテジー", "シングルプレイヤ
 audienceJa: "コツコツ強くなる放置系RPGが好きな人、周回プレイでキャラクターを育てたい人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275850/8ef7614d1a44b66a0b846a7ee3091edae515c579/header.jpg?t=1787228636"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

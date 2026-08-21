@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "シングルプレイヤー"
 audienceJa: "友人とわいわい協力プレイを楽しみたい人、コミカルな世界観のアドベンチャーが好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311440/209094994aa9a7055f5c89f01b788601227b2d00/header.jpg?t=1787227906"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

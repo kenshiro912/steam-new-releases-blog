@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "のんびり探索や収集が好きな人、自分だけのコレクションを作り上げたい人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069910/d5ec5a15810c489a94f8c5a33b70777a13fceea4/header.jpg?t=1787178121"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

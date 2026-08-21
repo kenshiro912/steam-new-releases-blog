@@ -9,5 +9,6 @@ tags: ["カジュアル", "シミュレーション", "スポーツ", "ストラ
 audienceJa: "ブラックジャックの戦略を本格的に学びたい人、カードカウンティングの練習環境を求めている人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934240/fe6614e5d064ae9bdfaccda41aecfd3222a60fbb/header.jpg?t=1787211062"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

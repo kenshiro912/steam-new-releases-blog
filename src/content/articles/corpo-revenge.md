@@ -8,5 +8,6 @@ tags: ["アクション", "無料プレイ", "シングルプレイヤー"]
 audienceJa: "手軽に遊べる基本無料のトップダウンシューティングを探している人、復讐劇のストーリーが好きな人におすすめです。"
 releaseDate: "2026年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693330/44db4272f2861c740d5c92adf49bf8c1e9d066ae/header.jpg?t=1787222748"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

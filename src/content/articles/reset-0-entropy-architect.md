@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "オフライン進行のある放置ゲームが好きな人、宇宙をテーマにしたインクリメンタルゲームに興味がある人におすすめです。"
 releaseDate: "2026年第3四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010240/0f31984ed3e314c87e4dfb194cba26a8b6e3eea4/header.jpg?t=1787201938"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

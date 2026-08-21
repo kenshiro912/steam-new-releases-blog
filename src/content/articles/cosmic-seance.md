@@ -8,5 +8,6 @@ tags: ["インディー", "シングルプレイヤー"]
 audienceJa: "コズミックホラーの世界観に浸りたい人、断片的な手がかりを読み解く物語重視のゲームが好きな人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055670/d13d51fb034b4948132177d2cc081d985ef3d9fa/header.jpg?t=1787171964"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

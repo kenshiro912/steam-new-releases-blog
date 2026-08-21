@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "カジュアル", "インデ
 audienceJa: "修理・診断をこなすシミュレーションが好きな人、経営を成長させていく達成感を味わいたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035300/c6fcdbe7c809b223d7f59edc6cdab09e9a584b76/header.jpg?t=1787217986"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

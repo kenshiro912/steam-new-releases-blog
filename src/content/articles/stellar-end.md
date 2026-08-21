@@ -8,5 +8,6 @@ tags: ["アクション", "シングルプレイヤー"]
 audienceJa: "レトロな雰囲気のシューティングが好きな人、短時間で集中して遊べるミッション制の作品を求める人におすすめです。"
 releaseDate: "2026年9月4日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063680/544c34a2b2ef9eda1074eb0eb8fc5259848eb855/header.jpg?t=1787211498"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

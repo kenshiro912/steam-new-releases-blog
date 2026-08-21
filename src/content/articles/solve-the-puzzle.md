@@ -8,5 +8,6 @@ tags: ["カジュアル", "インディー", "ストラテジー", "シングル
 audienceJa: "シンプルなルールでじっくり考える図形パズルが好きな人におすすめです。"
 releaseDate: "2026年8月28日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059780/e84a21711491ad606a910b88fed01c529d57c454/header.jpg?t=1787205829"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

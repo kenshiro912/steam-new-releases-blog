@@ -8,5 +8,6 @@ tags: ["インディー", "シングルプレイヤー"]
 audienceJa: "カード構築で戦略を練るのが好きな人、物語性のあるファンタジー世界に浸りたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058410/15cd90ffb36496ca75743786b45dfc0d3533f6df/header.jpg?t=1787198705"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

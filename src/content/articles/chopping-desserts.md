@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シングルプレイヤー"]
 audienceJa: "VRで気軽にリズムアクションを楽しみたい人、短時間でスカッとした体験を求める人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069500/f8996193605f70842c315ae64aace3a9a522f958/header.jpg?t=1787191956"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

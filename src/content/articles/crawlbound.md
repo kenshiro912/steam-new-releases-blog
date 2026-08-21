@@ -8,5 +8,6 @@ tags: ["インディー", "RPG", "ストラテジー", "シングルプレイヤ
 audienceJa: "ローグライトのビルド構築が好きな人、繰り返し遊べる周回プレイを求める人におすすめです。"
 releaseDate: "2027年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069660/6e6f4ce767d34244f39723aa06b833463799863a/header.jpg?t=1787205157"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

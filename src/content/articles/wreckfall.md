@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "レース", "シミュレー
 audienceJa: "リアルな車両変形物理を体感したい人、協力プレイで探索する冒険を求める人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065160/a7a2de1b4a8e829690ee76c3fa14765347d9341c/header.jpg?t=1787209414"
+japaneseSupport: "text"
 pubDate: 2026-08-21
 ---

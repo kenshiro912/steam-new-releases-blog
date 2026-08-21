@@ -9,5 +9,6 @@ tags: ["アクション", "レース", "シミュレーション", "ストラテ
 audienceJa: "物理演算を使った創作サンドボックスが好きな人、試行錯誤しながら自分だけの発明を作りたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029720/8e0de84fc9b06197ea6dd98a6c59015da07bba17/header.jpg?t=1787214488"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

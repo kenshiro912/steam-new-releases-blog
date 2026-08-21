@@ -9,5 +9,6 @@ tags: ["アクション", "アドベンチャー", "インディー", "シミュ
 audienceJa: "実話に基づいた重厚なストーリーを求める人、極限状況でのサバイバル体験が好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002290/fd42faae99f7cfd1d8bed3030ac0b69bd9068746/header.jpg?t=1787218220"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

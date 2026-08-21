@@ -9,5 +9,6 @@ tags: ["アクション", "カジュアル", "インディー", "RPG", "スト�
 audienceJa: "ビルド構築を試行錯誤するローグライトが好きな人、リスクのある取捨選択を楽しみたい人におすすめです。"
 releaseDate: "2026年第4四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939280/388263856884f2f45d2902c9844c3c6de9a34533/header.jpg?t=1787213801"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

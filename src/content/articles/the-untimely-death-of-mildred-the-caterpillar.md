@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "カジュアル", "インディー", "シング
 audienceJa: "ユニークな世界観のポイントアンドクリックアドベンチャーが好きな人、ほのぼのとした虫たちの物語を楽しみたい人におすすめです。"
 releaseDate: "発表予定"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116850/a37466a44dc1e82136188325e70b08f8cf1b71d8/header.jpg?t=1787226710"
+japaneseSupport: "none"
 pubDate: 2026-08-21
 ---

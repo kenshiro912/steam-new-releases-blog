@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "シミュレーション", "
 audienceJa: "静かな不気味さを楽しむホラーが好きな人、値段交渉や観察といった地に足のついたゲーム性を求めている人におすすめです。"
 releaseDate: "2026年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030960/fa89ebf3973d13eabad0169ba6216b7a1974a2c1/header.jpg?t=1787202287"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

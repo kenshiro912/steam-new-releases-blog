@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "シミュレーション", "
 audienceJa: "リアルな物理演算に基づく操船体験を求める人、交易や海賊行為で自由に立ち回りたい人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044800/417e15b88871349560c5a56972ac251a338feb19/header.jpg?t=1787204583"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

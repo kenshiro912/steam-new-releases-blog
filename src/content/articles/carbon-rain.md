@@ -8,5 +8,6 @@ tags: ["アクション", "インディー", "シングルプレイヤー"]
 audienceJa: "資源管理とアクションを組み合わせたサバイバル系ゲームが好きな人、ピクセルアートの終末世界を探索したい人におすすめです。"
 releaseDate: "2027年"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915560/b151246a02afdd1ed2ba6ae605bb4f272dce419b/header.jpg?t=1787210939"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

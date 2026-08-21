@@ -8,5 +8,6 @@ tags: ["アドベンチャー", "インディー", "無料プレイ", "シング
 audienceJa: "心理的な緊張感を味わうホラーが好きな人、無料で気軽に短時間プレイできる作品を探している人におすすめです。"
 releaseDate: "2026年8月27日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044730/045a0e842b8e8323a4f6e9770e8159c3b10b703a/header.jpg?t=1787185175"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

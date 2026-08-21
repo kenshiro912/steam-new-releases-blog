@@ -9,5 +9,6 @@ tags: ["アクション", "インディー", "早期アクセス", "シングル
 audienceJa: "毎回変化するマップでのバトルロイヤルを楽しみたい人、緊張感のある心理戦が好きな人におすすめです。"
 releaseDate: "近日登場"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030940/c1df888227df71b10391241958bda72c21a5d7f4/header.jpg?t=1787182485"
+japaneseSupport: "text"
 pubDate: 2026-08-20
 ---

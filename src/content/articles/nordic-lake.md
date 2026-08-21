@@ -9,5 +9,6 @@ tags: ["カジュアル", "インディー", "シミュレーション", "シン
 audienceJa: "生態系の管理やコレクション要素をじっくり楽しみたい人、癒やし系のシミュレーションゲームが好きな人におすすめです。"
 releaseDate: "2027年第1四半期"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028640/408f8fd699e0bc5ffde7d23814d5b53cc89a62c8/header.jpg?t=1787166499"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---

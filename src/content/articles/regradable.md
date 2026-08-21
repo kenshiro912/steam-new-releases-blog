@@ -8,5 +8,6 @@ tags: ["アクション", "アドベンチャー", "無料プレイ", "シング
 audienceJa: "スピード感のある移動アクションが好きな人、グラップルを駆使したプラットフォーマーを求めている人におすすめです。"
 releaseDate: "2026年9月11日"
 heroImage: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969000/1484065e9fe9cb5359112d8b5f2b338b60d3d0f7/header.jpg?t=1787203851"
+japaneseSupport: "none"
 pubDate: 2026-08-20
 ---
