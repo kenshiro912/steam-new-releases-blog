@@ -17,7 +17,7 @@ const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: 
 const jaLabel = { full: '対応（音声あり）', text: '対応（字幕/UIのみ）', none: '非対応' }[japaneseSupport ?? ''];
 ---
 
-<BaseLayout title={displayTitle} description={descriptionJa.slice(0, 120)}>
+<BaseLayout title={displayTitle} description={descriptionJa.slice(0, 120)} image={heroImage} type="article">
   <article>
     <h1 class="gradient-text">{displayTitle}</h1>
     {titleJa && titleJa !== title && <p class="original-title">原題: {title}</p>}

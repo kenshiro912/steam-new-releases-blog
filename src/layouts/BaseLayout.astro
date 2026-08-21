@@ -5,10 +5,13 @@ import AdSlot from '../components/AdSlot.astro';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
+  type?: 'website' | 'article';
 }
 
-const { title, description = siteConfig.description } = Astro.props;
+const { title, description = siteConfig.description, image, type = 'website' } = Astro.props;
 const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.title}`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <!doctype html>
@@ -19,6 +22,20 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
     <meta name="description" content={description} />
     <meta name="google-site-verification" content="WgFq4Dw5Nzzl95wLab8OnJVxR8ibfIa8l7IjeC8YSxg" />
     <title>{pageTitle}</title>
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="alternate" type="application/rss+xml" title={siteConfig.title} href="/rss.xml" />
+
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={siteConfig.title} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    {image && <meta property="og:image" content={image} />}
+
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    {image && <meta name="twitter:image" content={image} />}
     <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -197,6 +214,7 @@ const pageTitle = title === siteConfig.title ? title : `${title} | ${siteConfig.
     <AdSlot />
     <footer>
       <p>{siteConfig.title} — Steam公式ストアAPIをもとに自動生成された紹介記事を掲載しています。</p>
+      <p><a href="/rss.xml">RSSフィード</a></p>
     </footer>
   </body>
 </html>
