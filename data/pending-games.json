@@ -1,291 +1,5 @@
 [
   {
-    "steamAppId": 4330500,
-    "title": "Zone Idle",
-    "sourceUrl": "https://store.steampowered.com/app/4330500/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330500/e28de95a917335f96b1760a21ecc648973f64d13/header.jpg?t=1787328260",
-    "japaneseSupport": "none",
-    "shortDescription": "An incremental extraction simulator set in a ruthless world inspired by S.T.A.L.K.E.R. and Tarkov. Manage your inventory, navigate hazardous events, and upgrade your hideout. Same tension, but with time to think.",
-    "aboutTheGame": "Raid, extract, upgrade, and go again, stronger. Zone Idle is an incremental extraction simulator set in a ruthless world inspired by S.T.A.L.K.E.R. and Escape from Tarkov. Deploy into the Zone, survive whatever it throws at you, and get out with your haul, or lose everything where you fell. What you bring back funds everything else: better gear, a stronger hideout, deeper automation, and the long road to prestige. Your operative fights and loots on their own, so you run it at your own pace, hands-on or idle. PREPARATION IS THE COMBAT Fights resolve on numbers, not twitch. How a firefight goes…",
-    "detectedAt": "2026-08-21T16:28:58.243Z"
-  },
-  {
-    "steamAppId": 4359570,
-    "title": "REM",
-    "sourceUrl": "https://store.steampowered.com/app/4359570/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359570/8766c3a49bf3a75cbd7029b47e915a72abc07927/header.jpg?t=1787327489",
-    "japaneseSupport": "none",
-    "shortDescription": "REM is a short atmospheric dream exploration game. Explore surreal spaces and architecture. Collect all of the dream seeds and plant them. Every dream remembers the last one, and every dream is shaped by the garden you tend when you're awake.",
-    "aboutTheGame": "Wander at your own pace. Before you sleep, you tend a garden. What you plant shifts what the dream pulls you toward: closer to angels or demons, toward lush environments or sparse stillness. The dream remembers what you've seen and done. I built REM as a surreal exploration game where small choices ripple through a dream algorithm. The handcrafted spaces get stranger the deeper you go. Ascend toward harmony and you'll find angelic beings, luminous guides that open paths to dreams you wouldn't find alone. Push too far into the chaos and you'll find yourself in a nightmare, where demonic entitie…",
-    "detectedAt": "2026-08-21T16:28:58.802Z"
-  },
-  {
-    "steamAppId": 4370340,
-    "title": "Asa's Ascended",
-    "sourceUrl": "https://store.steampowered.com/app/4370340/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "MM（Massively Multiplayer）",
-      "RPG",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "LAN協力プレイ"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370340/07fb78c1766522ed927f7491db5ba29c182d5ea7/header.jpg?t=1787329624",
-    "japaneseSupport": "none",
-    "shortDescription": "Asa's Ascended is a boss-rush bullethell with custom bosses made by the community!",
-    "aboutTheGame": "What's different? Tired of aimless openworld bullethells where you either need to spend minutes looking for a dungeon or give up $2 for a key? Asa's Ascended is all of the boss fights with none of the hassle and corporate greed. Infinite bosses? This game is built with BulletML which makes it really easy to create your own bosses and share them with others in the game's Steam workshop. Cool items and bosses created by the community will get added to the main game! Permadeath? Standard characters are NOT permadeath. Feel free to go balls deep for damage and get a high ranking on the leaderboard…",
-    "detectedAt": "2026-08-21T16:29:00.339Z"
-  },
-  {
-    "steamAppId": 4403620,
-    "title": "Dinonid",
-    "sourceUrl": "https://store.steampowered.com/app/4403620/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403620/ddf4dbd250ad9b3f3764cb43ccb48bae8c580ca2/header.jpg?t=1787326974",
-    "japaneseSupport": "none",
-    "shortDescription": "Dinonid tells the story of two dinosaurs in love who want nothing more than to be together. But mountains of freshly laid eggs block their path. Help these two lonely souls and clear a path for them through the landscape of eggs!",
-    "aboutTheGame": "Dinonid tells the story of two dinosaurs in love who want nothing more than to be together. But mountains of freshly laid eggs block their path. Help these two lonely souls and clear a path for them through the landscape of eggs! The game is turn-based and is controlled entirely with the keyboard. The goal in each level is to bring the two dinosaurs, Schnuppi and Dinja, together! To do so, you’ll need to remove or navigate around obstacles such as eggs, rocks, and mysterious puzzle boxes. The game includes a detailed audio tutorial.",
-    "detectedAt": "2026-08-21T16:29:00.892Z"
-  },
-  {
-    "steamAppId": 4406710,
-    "title": "わたつよANOTHER",
-    "sourceUrl": "https://store.steampowered.com/app/4406710/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月30日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4406710/4e91cf0d61cf128f0e493a3a3d10810b782f1448/header.jpg?t=1787323357",
-    "japaneseSupport": "text",
-    "shortDescription": "『わたつよANOTHER』はレトロな横スクロールアクションです。 東西南北に広がる世界を旅して、暴れる逆四賊をとっちめましょう。",
-    "aboutTheGame": "わたつよ世界に新たな脅威が！今度は4人の猛者、「逆四賊」だって～！？ しそな、いつも通り頼んだぞ…ってあら、今度の主役はしそなじゃないの！？ 『わたつよANOTHER』はレトロな横スクロールアクションです。 東西南北に広がる世界を旅して、暴れる逆四賊をとっちめましょう。 立ち塞がるモンスター達は一癖も二癖もある！君はこの猛攻に耐えられるか！？ 前身となるわたつよシリーズはフリーゲームとして公開中。（前作を遊ばなくても問題ありません） 「わたしが一番強いんですから！」 コミカルでかわいい敵キャラクター ジャンプと攻撃のシンプルなアクション 気軽に楽しめるゆるいストーリー ステージ数は全20以上。複数の分岐があり、攻略順は自由。 ステージでモノ（お金）を集めて買い物しよう。 お助けアイテムで初心者も安心！縛りアイテムで上級者も戦慄！",
-    "detectedAt": "2026-08-21T16:29:01.732Z"
-  },
-  {
-    "steamAppId": 4420150,
-    "title": "The Elevator Game",
-    "sourceUrl": "https://store.steampowered.com/app/4420150/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420150/83c527762f72c5addf0384c699fc51d6ce75e95b/header.jpg?t=1787322954",
-    "japaneseSupport": "none",
-    "shortDescription": "A psychological anomaly horror game where you inspect a repeating hallway, spot unsettling changes, and choose the correct elevator to continue your escape. Make the wrong choice, and you’re sent back to the beginning.",
-    "aboutTheGame": "Elevator anomaly horror game Trapped inside an endless hallway, your only way forward is through the elevators... but every choice could send you back to the beginning. Study your surroundings carefully, search for anomalies, and decide which elevator will take you closer to escape. Choose correctly and continue your descent. Choose wrong, and the nightmare begins again... CONTROLS W / A / S / D Move C Crouch Mouse Look Around LMB Interact Left Shift Run GAME DETAILS Genre: Psychological Horror Perspective: First Person Gameplay: 20-60 minutes Single Player Headphones Recommended",
-    "detectedAt": "2026-08-21T16:29:02.276Z"
-  },
-  {
-    "steamAppId": 4484390,
-    "title": "Aesthoria : Beyond The Realm",
-    "sourceUrl": "https://store.steampowered.com/app/4484390/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "RPG",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484390/e55a359ebc3f3aff6af3856a6875614d2741f655/header.jpg?t=1787306544",
-    "japaneseSupport": "none",
-    "shortDescription": "A monster-collector tactical JRPG inspired from Digimon World 2, where you summon, train, evolve, and command mysterious Aesther through grid-based battles and dangerous expeditions into the shifting realm of Vanadis.",
-    "aboutTheGame": "Inspired from Digimon World 2 Master Ether. Command Aesther. Rewrite Destiny. Aesthoria , a world inside a book with powerful beings known as Aesther roam beyond natural law. A journal begins to write on its own. The sky does not stay the same. And something deep within Vanadis is starting to awaken. Explore an ever-changing dungeon where no expedition is ever the same. Each descent reshapes the world itself, opening new paths, new dangers, and new encounters. What was once familiar may no longer exist the next time you return. Summon System Encounter wild Aesther and uncover their nature thro…",
-    "detectedAt": "2026-08-21T16:29:02.794Z"
-  },
-  {
-    "steamAppId": 4591740,
-    "title": "Numpad Chef: Pizza Rush",
-    "sourceUrl": "https://store.steampowered.com/app/4591740/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年12月3日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591740/71012a8a09aabf2a04d4d5fc0c36beb72ed3fe5f/header.jpg?t=1787319009",
-    "japaneseSupport": "none",
-    "shortDescription": "Turn your numpad into a pizza kitchen. Type fast, cook faster. Master a unique number-based control system as you prepare, top, and bake pizzas under pressure in a cozy 3D farm kitchen, where every order counts and every mistake matters.",
-    "aboutTheGame": "In Numpad Chef: Pizza Rush , your numpad becomes your cooking tool. No need to drag mouse, because of your newly invited machine you can cook pizza with just typing right combinations of keyboard keys. Master a completely unique control scheme where speed and accuracy are the difference between a perfect order… and a burnt disaster. From raw dough to finished pizza, every step matters. Prepare dough and sauce base with precise inputs Add toppings in the correct order Bake to perfection Serve that 100/100 pizza before time runs out Orders start simple, but they don’t stay that way. Type fast, c…",
-    "detectedAt": "2026-08-21T16:29:03.581Z"
-  },
-  {
-    "steamAppId": 4611590,
-    "title": "Cozy Worlds",
-    "sourceUrl": "https://store.steampowered.com/app/4611590/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611590/e2906601d5d96a77da035ade355f55b860f682d0/header.jpg?t=1787316766",
-    "japaneseSupport": "none",
-    "shortDescription": "A peaceful VR sandbox where every floating island begins as a blank canvas. Build peaceful floating worlds with your own hands. Sculpt tiny worlds into existence, create cozy dreamscapes and shrink down in size to explore your own beautiful creations.",
-    "aboutTheGame": "Sculpt mountains with your hands, grow lush forests, place curious creatures, and watch your tiny world come alive around you. No fail states, no timers, and no artistic skill required. Build at your own pace and when you are ready, shrink down and explore the world you created! RELAX, UNWIND AND SCULPT BEAUTIFUL WORLDS Cozy Worlds is a place to chill out, feel creative, and find a bit of joy. Shape floating islands, unlock a growing glossary, and fill your creation with delightful plants, mysterious ruins, and curious critters. Paint and sculpt terrain — intuitive controls Grow vibrant plants…",
-    "detectedAt": "2026-08-21T16:29:04.339Z"
-  },
-  {
-    "steamAppId": 2265280,
-    "title": "Kill King 2D",
-    "sourceUrl": "https://store.steampowered.com/app/2265280/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2265280/3b9ab63a55a777cc3140996050b23f5338b9d11f/header.jpg?t=1787344125",
-    "japaneseSupport": "text",
-    "shortDescription": "Kill King 2Dは、ダークファンタジーの1v1タクティカル・オートバトラー。秘密裏に命令をキューへ並べ、アクションポイントを消費したら、あとは駒たちが自らプランを遂行します。軍を進化させ、相手の読みを上回り、敵のキングを討ち取りましょう。",
-    "aboutTheGame": "キングを討て。自らのプランを生き延びろ。 Kill King 2Dは、隠された命令、計算されたリスク、そして致命的な予測で組み立てられた、ダークファンタジーの対戦型タクティカル・オートバトラーです。 すべての判断はプランニングフェーズで下します。ユニットに秘密裏に命令を割り当て、実行順を並べ替え、限られたアクションポイントを消費しましょう。両プレイヤーがプランを確定すると、戦闘は自動で進行します - 1命令ずつ、順番に。 戦士たちは絶えず変化する戦場で命令を遂行します。完璧な戦略も、順番が来る前に崩れ去ることがあり - あるいは相手が予想もしなかった強烈な罠に変わることもあります。 秘密裏にプランを組む 相手が自分のプランを準備している間に、移動・攻撃・アビリティをキューに並べます。盤上のすべてのユニットは見えますが、敵の命令は行動が始まるまで隠されたままです。 プランが戦う様を見届ける プランニングが終わると、ユニットは割り当てられた命令を自動で実行します。両プレイヤーの命令は順番に交互で解決され、各ユニットは直前の行動の結果に対応せざるを得ません。 見慣れた駒を戦士に変える 古典的なチェスの動きに着想を得た駒で、8x8の戦場を戦い抜きましょう。各ユニットには体力、戦闘ステータス、アビリティ、バフ、デバフ、そして固有の戦術的役割があります。 試合中に進化する ユニットは戦闘で経験…",
-    "detectedAt": "2026-08-21T20:29:22.890Z"
-  },
-  {
-    "steamAppId": 2451920,
-    "title": "Cursed Kingdom",
-    "sourceUrl": "https://store.steampowered.com/app/2451920/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451920/35fcc8c0851f16d4b9a0506b84106b9d670479d4/header.jpg?t=1787335446",
-    "japaneseSupport": "none",
-    "shortDescription": "Be the last one standing in Cursed Kingdom, a dark fantasy digital board game. Choose from four unique characters to traverse the board while dueling your opponents and encountering many different obstacles.",
-    "aboutTheGame": "One day, four adventurers arrived at four corners of a kingdom. At each corner stood a sign that read: “If what you seek is liberation and freedom: you must master your abilities and conquer the kingdom.” Defeat your opponents and rule the Cursed Kingdom in this digital board game. Navigate the board using movement cards and use support cards to turn the tide in your favor! Battle your opponents head-on in duels by leveraging your cards strategically against them. Beware of the spaces you land on though: Some may help you while others may hinder you.",
-    "detectedAt": "2026-08-21T20:29:23.602Z"
-  },
-  {
-    "steamAppId": 3687090,
-    "title": "Dice Hoarder",
-    "sourceUrl": "https://store.steampowered.com/app/3687090/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/a448fe0c2388821e9a68c9355a25bed409289081/header.jpg?t=1787335015",
-    "japaneseSupport": "text",
-    "shortDescription": "「Dice Hoarder」は、謎めいたダイスショップの品出しをする、ほのぼのとした整理整頓ゲームです。店内のダイスをすべて仕分けし、7個1組のTRPGダイスセットを完成させながら、新しい仕事の裏に隠された秘密を解き明かしていきましょう。",
-    "aboutTheGame": "この仕事にぴったりなのは、あなたです！ あなたは謎めいたダイスショップの品出しに雇われました。ダイスを拾い上げ、色や素材を確かめて、400種類以上の7個1組のダイスセットを組み直しましょう。各セットには、古典的な多面体ダイスが1個ずつ必要です。パーセンタイルダイス、D4、D6、D8、D10、D12、D20です。 好きなだけ時間をかけて 時間制限はありません。急ぐ必要もありません。ストーリーモードでは、必要な価値に達する分のダイスを棚に補充してから、次の日が始まります。店の隅々まで探し、セットの組み合わせを考え、自分のペースで作業しましょう。居心地のよい雰囲気と心安らぐオリジナルサウンドトラックが、毎日の仕事に寄り添います。 新たなスキルを解放 日が経つにつれて、謎のフロッピーディスクが現れ始めます。ディスクを使えば、仕事を楽にする不思議な力を解放できます。セットを完成させるために必要な残りのダイスを探し出したり、魔法のようにダイスを直接手元へ引き寄せたりできます。 ディスクが役に立つのは間違いありません。ですが、いったい誰が置いていくのでしょうか…… あなたを雇ったのは誰？ 与えられたのは、仕事とダイスが散乱する店、そして雇い主に関するごくわずかな情報だけ。シフトをこなし続け、残された手がかりを追い、この一風変わった職場に隠された真実を暴きましょう。 主な特徴 癒やし系の一人称視点…",
-    "detectedAt": "2026-08-21T20:29:24.235Z"
-  },
-  {
-    "steamAppId": 3855120,
-    "title": "Okey",
-    "sourceUrl": "https://store.steampowered.com/app/3855120/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "MM（Massively Multiplayer）",
-      "RPG",
-      "ストラテジー",
-      "早期アクセス",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855120/540f0b958a1c8e1ec2bb4386b507fced938026e8/header.jpg?t=1787335975",
-    "japaneseSupport": "none",
-    "shortDescription": "A free online tile game for four players with classic Okey and Okey 101 modes. Draw, discard, and arrange your hand's pieces in sequences and sets! Create private lobbies, bet with IncirCoin, chat at the table, and play on Steam and Discord.",
-    "aboutTheGame": "Okey is a free-to-play multiplayer board game for four players, featuring both Classic Okey and Okey 101. Create a lobby, invite your friends with a Lobby ID, wager IncirCoin, and play together across Steam and Discord — on desktop, mobile, or with a controller. TWO GAME MODES Classic Okey — The traditional four-player game played with 106 tiles. Draw, discard, and race to arrange your hand into runs and sets before anyone else. Finish with a normal win, throw the indicator tile for a special win, or land a Super Win for bonus gold. Okey 101 — The strategic variant. Open combinations worth at…",
-    "detectedAt": "2026-08-21T20:29:24.823Z"
-  },
-  {
-    "steamAppId": 4093200,
-    "title": "Buggos: Death Squad",
-    "sourceUrl": "https://store.steampowered.com/app/4093200/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2027年1月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093200/737ef294ed1db9669e3d35b80969e59320aa0224/header.jpg?t=1787341841",
-    "japaneseSupport": "none",
-    "shortDescription": "4-player co-op horde survival shooter with base building. Customize your loadout on the drop ship, land on a world the Buggos are eating alive, and raise a fortress of turrets. Hold it as the swarm attacks hundreds at a time and evolves every wave. They devour worlds. We defend them.",
-    "aboutTheGame": "4-PLAYER CO-OP HORDE SURVIVAL SHOOTER Customize your loadout on the drop ship, land on a planet the Buggos are eating alive, and build your defenses to hold off the swarm. Live long enough to collect sufficient research materials and escape. The swarm attacks hundreds at a time and evolves every wave. THE SWARM Stay on top of the nests spawning, and watch out for the swarms attack waves. But be warned... the Hivemind evolves over time and will upgrade the swarm to counter your build. New species, growing evolutions, and boss Buggos will assault your base as you try to hold out. PREPARE FOR DRO…",
-    "detectedAt": "2026-08-21T20:29:25.520Z"
-  },
-  {
-    "steamAppId": 4142200,
-    "title": "Goleminer",
-    "sourceUrl": "https://store.steampowered.com/app/4142200/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142200/ea5f5c5c4b0baf4775ed6695902a94133d65a467/header.jpg?t=1787339493",
-    "japaneseSupport": "none",
-    "shortDescription": "Tower defense where enemies are the product. Golems appreciate in value from your towers as they walk across your board, sold at the end by your Refinery. Use towers to push golems off their path, stun golems, and overclock other towers. Fight against quotas and strict timers to unlock more towers.",
-    "aboutTheGame": "Tower defense where enemies are the product. Golems appreciate in value from your towers as they walk across your board, sold at the end by your Refinery. Use a myriad of strange towers to push, stun, teleport, and refine golems all in an attempt to increase profits. Fight against quotas and strict timers to achieve high scores, and unlock new towers and maps. Towers: Towers are specialized, so they are strongest when put together. Perhaps you will push two golems together to double the efficiency of a tower, or teleport a golem away from danger. Maybe you teleport a moving projectile to go th…",
-    "detectedAt": "2026-08-21T20:29:26.057Z"
-  },
-  {
     "steamAppId": 4262250,
     "title": "Skyscraper Security: Zombie Rain",
     "sourceUrl": "https://store.steampowered.com/app/4262250/",
@@ -2267,5 +1981,434 @@
     "shortDescription": "House of the Lost: Revived is a top-down action roguelike built for players who grew up clearing rooms, dodging traps, and learning from every death. Each run is a new house, a new build, and a new chance to craft absurd weapons and get a little further before the House gets you.",
     "aboutTheGame": "Your sister has disappeared into the House of the Lost, and only you can save her. Grab your slingshot and step inside, you're in for the fight of your life. House of the Lost: Revived is a top-down, action roguelike that blends the chaotic fun of The Binding of Isaac with the dungeon-crawling charm of classic Zelda. Every run generates a new haunted house full of fresh layouts, deadly enemies, and unexpected challenges for you to face alone, or in co-op. A New House Every Run No two runs are the same. Layouts, enemies, and challenges reshuffle every time you play, and the House tests you at e…",
     "detectedAt": "2026-08-23T00:29:18.237Z"
+  },
+  {
+    "steamAppId": 4697110,
+    "title": "Quiet Hour",
+    "sourceUrl": "https://store.steampowered.com/app/4697110/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月10日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697110/5668c034ff099f527de16ad10102d38edb9d47d9/header.jpg?t=1787451644",
+    "japaneseSupport": "none",
+    "shortDescription": "The prohibition is back! Build, decorate and manage your very own underground speakeasy. Just make sure to keep it down, or you will spend the night in handcuffs!",
+    "aboutTheGame": "Build and run your very own underground speakeasy. Serve your customers, grow your reputation and whatever you do… keep it down. Place walls and floors wherever you want and fill your space with furniture, decorations and equipment to create the perfect underground hangout. Most items have multiple colour schemes so every detail can match your vision. Some items might even attract more customers and make them stay longer. You can't run a speakeasy alone. Hire staff to handle every role in your bar and watch your operation grow. Just keep an eye on those daily cost if you want to stay afloat. T…",
+    "detectedAt": "2026-08-23T04:28:49.817Z"
+  },
+  {
+    "steamAppId": 4803070,
+    "title": "Checkmate Kingdoms: Ancient Origin",
+    "sourceUrl": "https://store.steampowered.com/app/4803070/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803070/60a7f9839afeb3f2be08a59c06af5f74f9f38b68/header.jpg?t=1787447051",
+    "japaneseSupport": "none",
+    "shortDescription": "Command distinct low-poly armies in a strategy game built on authentic chess. Enjoy quick matches, take on history-inspired scenarios with special objectives, and shape the growth of an ancient kingdom through tactical turn-based warfare.",
+    "aboutTheGame": "[h1]♟️ Command an Ancient Army. Rewrite History on the Chessboard.[/h1] [b]Checkmate Kingdoms: Ancient Origin[/b] is a strategy game that transforms the armies of ancient civilizations into stylized 3D chess pieces. Choose your kingdom, command an army shaped by its history and culture, and experience chess in different forms — from traditional matches played by the full rules of chess to historical scenario battles and a larger campaign of conquest. Every great history begins with a single move. [h2]♟️ Traditional Chess[/h2] At the heart of Checkmate Kingdoms is traditional chess. Every piece…",
+    "detectedAt": "2026-08-23T04:28:50.488Z"
+  },
+  {
+    "steamAppId": 4886260,
+    "title": "Akira's Deep Sea Ventures",
+    "sourceUrl": "https://store.steampowered.com/app/4886260/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886260/910049572ef3a8226ac1ce2e3c499be28268cc38/header.jpg?t=1787452264",
+    "japaneseSupport": "none",
+    "shortDescription": "A cozy incremental puzzle game where you solve challenges to gather resources and construct your own infrastructure. Relax at your own pace with zero penalties, upgrade your buildings through an expansion tree, and watch as your business grows deeper into the ocean.",
+    "aboutTheGame": "Build new infrastructure to unlock new resources and unique puzzles Solve puzzles to earn credits Manage and gain enough resources to unlock new zones to expand your venture Unlock all 5 zones and explore the depths of the sea! Incremental puzzle game Cozy resource management Chill and solve puzzles when your resources increase automatically No time limit or movement limit Conclusive ending",
+    "detectedAt": "2026-08-23T04:28:51.004Z"
+  },
+  {
+    "steamAppId": 4893790,
+    "title": "Daily Life With The Herb Girl",
+    "sourceUrl": "https://store.steampowered.com/app/4893790/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893790/d6ee51d441fe6cb469e23b4199fdf4b0701f0bad/header.jpg?t=1787458187",
+    "japaneseSupport": "text",
+    "shortDescription": "漢方薬の文化を題材にした日常系リアルビジュアルノベル。中医药大学の新入生となり、薬草が化形した少女・霊蘭と出会い、共に過ごす中で薬草の性味帰経を学びながら、千年の時を生きた彼女を現代社会へ導いていく。Live2Dによるキャラクター演出.",
+    "aboutTheGame": "薬草娘との日常 漢方薬の文化に浸る、日常系癒しビジュアルノベル。 --- このゲームについて 「草木には霊があり、薬性には情が宿る。」 あなたは情熱からではなく、現実的な理由で中医药大学に入学した——臨床医学のプレッシャーが耐えられず、漢方ならなんとかなると聞いたから。キャンパス近くの安くて古いアパートを借り、教科書と薬方に埋もれた退屈な四年間を過ごすつもりだった。 そして、彼女に出会った。 霊蘭（れいらん） ——薬草そのものから目覚めたと名乗る少女。温柔で落ち着き、薬理に精通している一方、現代社会の常識にはまるで疎い。種を蒔き、薬を干し、薬を擂り、薬を煎じる……彼女の日常は、あなたの学生生活とはかけ離れたものだった。 薬香の靄と静かな朝の中で、彼女はあなたを、一味々の薬草の性味と帰経、中医の治療理念や治法治則へと優しく導いていく。代わりに、あなたはこの「古いもの」な少女を現代社会へと導き、人々の中に溶け込ませ、千年の孤独を癒やす手助けをする。 共に過ごす日々の中で、あなたの彼女への依存は深まっていく。そして彼女もまた、あなたへの依存を深めていく——千年の孤独は、もう耐えられないから。 これは、人と草木の間に芽生えた、温かくて悠長な日常の物語。 --- ストーリー ただ医学は儲かると聞いたが、臨床医学は嫌いだから、中医を選んで中医药大学に入った。入学して間もないある日、自分のアパー…",
+    "detectedAt": "2026-08-23T04:28:51.512Z"
+  },
+  {
+    "steamAppId": 4902250,
+    "title": "Prisoners Chess",
+    "sourceUrl": "https://store.steampowered.com/app/4902250/",
+    "price": "価格情報なし",
+    "tags": [
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902250/dda750c5dfb9fc0b2b7c2340278e1115ea608a19/header.jpg?t=1787449560",
+    "japaneseSupport": "text",
+    "shortDescription": "駒の動かし方は知っている。だが、駒の死に方は知らない。 すべての駒が血を流すチェス・ローグライク。育てるか、永遠に失うか。敵キングの首を取るか、軍を血の一滴まで削り尽くすか。一方は救済、一方は破滅。地獄が見届ける。",
+    "aboutTheGame": "駒の動かし方は知っている。だが、駒の死に方は知らない。 駒となるのは呪われし者たち。それを動かすのはお前だ。 駒を取るとは、盤上から消すことではない。殺すことだ。地獄から抜け出せるのは、どちらか一人。 ブルータス、お前もか？ 監獄を昇り、他の囚人たちと出会え。ルシファー、カエサル、ユダ、クレオパトラ……各階には多くの者が棲んでいる。ただし油断するな、この囚人たちはルールなど守らない。 まあ……お前も同じだが。雷か？ 買収か？ それとも船からの砲撃か？ 監獄の……どの階にも備えておけ。 勝ち方は二つ。それがお前の行く末を決める。 敵のキングを討てば、戦いは清く終わる。あるいは……キングを完全に無視し、一体ずつ軍を血に沈め、敗走させるか。地獄はお前の選択を見ている。お前の 救済が、ゲームを変える。 力を与える聖遺物 ナイトのように動くキング。死ぬと爆発するポーン。監獄では、ルールなど守らない。 ガントレット 脱獄を試みた他の囚人たちと競う週替わりのランキング。誰も待ってはくれない。ランに勝ち、盤を駆け上がれ - 脱出する者になれ。",
+    "detectedAt": "2026-08-23T04:28:52.122Z"
+  },
+  {
+    "steamAppId": 4914380,
+    "title": "彼女は知らない",
+    "sourceUrl": "https://store.steampowered.com/app/4914380/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914380/14dbd4e8a596be555b04a4a49c040f95da84c6e9/header_japanese.jpg?t=1787446834",
+    "japaneseSupport": "text",
+    "shortDescription": "1999年の日本を舞台にしたビジュアルノベル。高校2年生のハルカとシホのとある一日を追体験します。",
+    "aboutTheGame": "1999年7月 あの頃のわたしたちは無知が許容されるモラトリアム期間を漫然と過ごしていた そう、わたしたちは本質的には何も知らなかったのである ゲームの特徴 「彼女は知らない」は高校2年生のハルカとシホのとある一日を描いたビジュアルノベルです プレイヤーは主人公ハルカの視点で物語を進めていきます 幼馴染であり恋人同士の2人は様々な悩みや疑問についてゆるく話し合っているようです バイト先の話 学校の成績 自分たちの身体の変化 卒業後の進路 シホの家庭問題 幸せについて お互いの性的感情 叶いそうもない夢 死について ...........等々 そんな2人の一日を特徴的な1bitピクセルアートで描きます",
+    "detectedAt": "2026-08-23T04:28:52.639Z"
+  },
+  {
+    "steamAppId": 4914970,
+    "title": "The Winery - Winemaking Simulator",
+    "sourceUrl": "https://store.steampowered.com/app/4914970/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月4日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914970/e5e39958b7a8d3d752cc58c15ede3abc2a8c27ee/header.jpg?t=1787458263",
+    "japaneseSupport": "none",
+    "shortDescription": "Build your own winery, craft exceptional wines, and grow your reputation with every vintage. Unlock recipes, master new technologies, host winery events, and weather the seasons — because great winemaking is an art, and every bottle tells a story.",
+    "aboutTheGame": "Create wines worth remembering The Winery is a relaxing winemaking simulator where every decision shapes the future of your winery. Research new recipes, master advanced production techniques, satisfy demanding customers, and adapt to the ever-changing challenges of each season. No two years are the same. Unexpected events, customer demands, and seasonal changes will constantly test your ability to produce exceptional wines. Craft the perfect wine Unlock new recipes and experiment with different production methods to create wines with unique characteristics. Improve their quality and discover…",
+    "detectedAt": "2026-08-23T04:28:53.166Z"
+  },
+  {
+    "steamAppId": 4920890,
+    "title": "The Ignition Protocol",
+    "sourceUrl": "https://store.steampowered.com/app/4920890/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920890/a7243272b329cece9737b875f6cad401362a6554/header.jpg?t=1787446667",
+    "japaneseSupport": "text",
+    "shortDescription": "The Ignition Protocolは、宇宙を舞台にした見下ろし型のインクリメンタル採掘ゲーム。無重力空間で小惑星を採掘・運搬し、基地を建設して自動化し、消えゆく宇宙に残された最後の光となる新たな恒星を点火しよう。",
+    "aboutTheGame": "静かに消えゆく宇宙を舞台にした、見下ろし型のインクリメンタル採掘ゲーム。ビーコンにエネルギーを送り、その光を広げ、点火プロトコルを最終段階まで進めよう。 モジュール式の小惑星を採掘し、資源を集めよう。 ビーコンにエネルギーを送り、光を広げよう。 闇を探索し、小惑星を安全な場所まで運ぼう 資源を流通させよう 特徴 物理演算による無重力移動 - あらゆる物体が運動量を維持する。押せないほど重い小惑星はない。 モジュール式の小惑星 - 巨大な小惑星を扱いやすい破片へと分割できる。 開かれた宇宙空間 - 速度制限なしで移動し、グリッドに縛られず自由に建設できる。 物理ベースの自動化 - 小惑星を丸ごと採掘プラットフォームへ投入し、鉱石リレーをつないで採掘した資源を運搬しよう。 プレイを変えるアップグレード - 既存の装備を強化したり、新たなツールをアンロックしたりして、採掘・運搬・探索の方法そのものを変えよう。",
+    "detectedAt": "2026-08-23T04:28:53.772Z"
+  },
+  {
+    "steamAppId": 4934650,
+    "title": "Dig Dan Dig!",
+    "sourceUrl": "https://store.steampowered.com/app/4934650/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934650/9e3da6faa0d8e939d64189f6fb896f132211cf65/header.jpg?t=1787453232",
+    "japaneseSupport": "text",
+    "shortDescription": "資源を掘り出して強力な生体アップグレードと交換する、インクリメンタル採掘アドベンチャー。人間の限界を超えた存在へと変わり、地底からの脱出を目指そう！",
+    "aboutTheGame": "深い地底に閉じ込められたあなたは、脱出を助けてくれる友好的なAIと取引を交わします。強力な生体アップグレードと引き換えに、貴重な資源を採掘するという契約です。 アップグレードを重ねるたびに、あなたはより速く、より強く、そしてより奇妙になっていきます。危険度を増していく環境を探索し、地底で何が待ち受けているのか確かめましょう……",
+    "detectedAt": "2026-08-23T04:28:54.393Z"
+  },
+  {
+    "steamAppId": 4981160,
+    "title": "BEADS",
+    "sourceUrl": "https://store.steampowered.com/app/4981160/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981160/2fd7518f2cbda7bce8095fc5b64a9bd18a0c8115/header.jpg?t=1787445031",
+    "japaneseSupport": "none",
+    "shortDescription": "BEADS is a cozy digital perler-bead game. Fill in the picture one bead at a time—perfect for slow, quiet sessions when you just want to zone out.",
+    "aboutTheGame": "BEADS is a cozy digital perler-bead game. Pick a color, follow the guides, and place beads one by one until the pattern is complete—no physical beads or ironing required, just that quiet, satisfying feeling of a picture slowly coming together. The game includes 20 levels (unlock as you progress), themed pattern galleries , and custom imports : drop in PNG, JPEG, or WebP to turn any image into a playable bead puzzle. Use the brush to place beads one at a time, or fill large same-color areas in one go. When you finish, view your completed piece in 2D or 3D bead view . Single-player, relaxing, at…",
+    "detectedAt": "2026-08-23T04:28:54.957Z"
+  },
+  {
+    "steamAppId": 5005150,
+    "title": "Flood With Friends",
+    "sourceUrl": "https://store.steampowered.com/app/5005150/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005150/8241d492e516a3fde511387de6fea6a32255151e/header.jpg?t=1787449539",
+    "japaneseSupport": "none",
+    "shortDescription": "Nail a raft (or a plane) out of junk, load it with everything valuable or ridiculous and sail for the next island before the water swallows you up. Co-op physics chaos for 1-8 friends.",
+    "aboutTheGame": "Up to 8 friends must try to survive! You and up to seven friends are washed up on an island with a nail gun and no plan. Chop it down, drag it back, and weld a raft out of planks, barrels, doors, bathtubs and one inexplicable piano. Then the flood arrives, the island goes under, and whatever you nailed together is the only thing between you and the sea. Crazy contraptions Stuck on an island, what do you do? You pick something up, you hold it where you want it, you nail it. Bam. Welded parts fuse into one rigid hull, so a raft lists, rolls and rights itself according to what you actually bolted…",
+    "detectedAt": "2026-08-23T04:28:55.516Z"
+  },
+  {
+    "steamAppId": 5035030,
+    "title": "SUPERCHESS",
+    "sourceUrl": "https://store.steampowered.com/app/5035030/",
+    "price": "価格情報なし",
+    "tags": [
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035030/80ea17cac4a175265e22e17a71675c5661a1d32a/header.jpg?t=1787452904",
+    "japaneseSupport": "none",
+    "shortDescription": "Chess evolved. Burn, freeze, and poison enemies. Build your roster, master the tech tree, and dominate online. Free to play.",
+    "aboutTheGame": "Superchess is chess evolved . Every piece has hit points, attack power, and unique abilities. A Knight doesn't just move in an L — it can charge, dealing full damage on impact, or unleash a fire charge that leaves opponents burning. A Queen can curse the enemy. A Rook can fortify. A Pawn can self-destruct and take everything nearby with it. The board you know is still there. The rules you've learned still apply. But now every move is a decision with teeth. ──────────────────── ⚔️ DEEP STRATEGIC GAMEPLAY Superchess keeps the spatial logic of chess intact — piece movement, board control, positio…",
+    "detectedAt": "2026-08-23T04:28:56.165Z"
+  },
+  {
+    "steamAppId": 5039980,
+    "title": "リスナーさん、あっちに行きましょうか？",
+    "sourceUrl": "https://store.steampowered.com/app/5039980/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年3月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039980/9752498830e40f8bb40ecc4dabefc7fc6578c567/header_japanese.jpg?t=1787445755",
+    "japaneseSupport": "text",
+    "shortDescription": "プレイヤーではなく視聴者になるゲーム。フォロワーを増やそうとホラーゲーム『バックルームラン』を起動した、リスナー10人の弱小ストリーマー「シア」。怖がりながらも再生数のために踏み込みます。あなたは視聴者としてチャットで指示を出し、シアと一緒にバックルームを進み、生きて持ち帰ったもので彼女を育てます。そして先に潜った配信者たちの記録から、『バックルームラン』がただのゲームではないと気づきます。",
+    "aboutTheGame": "目標を決めるのはあなた、動くのはシアです シアはリスナー10人の弱小ストリーマーです。今夜の配信はバックルームの中から始まります。あなたはそれを見ている視聴者のひとりで、できるのはチャットを打つことだけです。 一歩ずつ操作するのではありません。「それ拾って」「鉱石を掘ろう」「下の階へ」「もう出よう」—— いま何をするか だけ決めれば、あとはシアが自分でやります。一度打てば、変えるまでその状態で動き続けます。 コマンドを覚える必要はありません。普段どおりに書けば伝わります。急ぐときは「左」「止まって」「走って」といった一回きりの指示も通ります。 そして、いつも聞いてくれるわけではありません。聞き返し、無視し、怯えれば勝手なことをします。 反射神経の勝負ではありません 廊下の奥で何かがこちらを見ています。シアは固まって、あなたを呼びます。 速く打つことが大事なのではありません。 いまの相手に何が効くのか を知って打つことが大事です。同じ指示が、ある相手には助かる道で、別の相手には最悪の一手になります。 あなたが何も言わなければ、シアが自分で判断します。その判断は、シアが学んだぶんだけしか良くなりません。 そして怯えるほど指示は届かなくなります。シアを殺すのはモンスターではなく 尽きたメンタル です——低いメンタル、重なる遭遇、そして外れた指示。 戦う手段はありません。学ぶ手段はあります…",
+    "detectedAt": "2026-08-23T04:28:56.691Z"
+  },
+  {
+    "steamAppId": 5045650,
+    "title": "Redline Rookie: A 4WD Racing Career",
+    "sourceUrl": "https://store.steampowered.com/app/5045650/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "レース",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045650/f3576688e26e62d029fc8091e71ec4feb9302865/header.jpg?t=1787454107",
+    "japaneseSupport": "none",
+    "shortDescription": "A mini 4WD career racer where setup is everything — zero input once the race starts. 55 parts mapped to real physics (no fake buffs), 9 AI rivals playing by exactly your rules, an F1-style 8-round season with sponsors and paddock drama. Tune, watch, learn, win.",
+    "aboutTheGame": "Once the light goes green, all you can do is watch. The race was already won — or lost — in your garage. Redline Rookie is a top-down career racing game about pre-race engineering — a love letter to the mini 4WD hobby. No throttle, no steering, no fake \"boost button\". Your only weapon is the setup you built before the start line. Setup Is Everything 7 slots × 55 parts: motors, gears, tires, guide rollers, chassis, batteries, shells and wings Every part maps to real physics — torque curves, drivetrain efficiency, rolling resistance, roller friction, center of gravity, voltage sag. No fake stat…",
+    "detectedAt": "2026-08-23T04:28:57.218Z"
+  },
+  {
+    "steamAppId": 5048280,
+    "title": "阴间：血月",
+    "sourceUrl": "https://store.steampowered.com/app/5048280/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048280/3a04f8e3b28f5704c95f408ec2698456426b7f35/header.jpg?t=1787456472",
+    "japaneseSupport": "none",
+    "shortDescription": "You wake up shackled to a bamboo stalk in an unfamiliar forest. In the distance, something seems to be moving through the grove. You look closer... until you realize... it isn’t alive at all. One bizarre and horrifying event follows another. Under unbearable pressure, can you find a way out alive?",
+    "aboutTheGame": "Fully voiced throughout, with character dialogue, narration, and sound design that recreates the chilling experience of listening to ghost stories in the dead of night Combined with realistic visuals, it feels as if you’ve been thrown into another world, where the oppressive atmosphere hits you head-on. A large number of tense, timed decisions. One wrong step, and you may die without a place to be buried. A relentless stream of eerie and unnatural phenomena, paired with dynamic execution scenes. The moment you encounter them, it feels like your heart skips a beat.",
+    "detectedAt": "2026-08-23T04:28:57.766Z"
+  },
+  {
+    "steamAppId": 5062140,
+    "title": "Absolute Sol",
+    "sourceUrl": "https://store.steampowered.com/app/5062140/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062140/89a478d5146018683187e69691b107292b980775/header.jpg?t=1787331542",
+    "japaneseSupport": "text",
+    "shortDescription": "Absolute Solは太陽系の生きたサンドボックスです。飛んで、調べて、それから変える。地球を動かし、ロッシュ限界で月を裂き、世界を打てば、気候・軌道・表面が応えます。",
+    "aboutTheGame": "Absolute Solは太陽系の生きたサンドボックスです。飛んで、調べて、それから変え始めます。 地球を動かす。月をロッシュ限界の内側へ落とす。探査機や小惑星で世界を打つ。時間はあなたのものです。止める、速める、何年も先まで焼いて、気候・軌道・表面の反応を見る。 これはまずシミュレーションです。絵はきれいでいい。でも要点は、系が系として振る舞うこと。熱、重力、崩壊、そして惑星を本当に見たときに読み取れるもの。 いまできること 太陽系を飛ぶ — 太陽、惑星、主な衛星、環、ベルト。広い俯瞰から一つの世界まで。既定の縮尺は太陽から内惑星を読みやすく保ち、真の物理縮尺はスイッチ一つ。 編集と創造 — 軌道、自転、質量、大気、水を変える。新しい天体を置いて、残りに何をするか見る。 地球の反応を見る — 海、氷、大気、天候、地表の傷。動かしたり熱したり凍らせたり打ったりするたび。 ロッシュ限界 — 月や小さな天体を近づけすぎると、伸びてグリットと破片に壊れる。 衝突 — 探査機、小惑星、衝突。傷跡、破片、二次衝突つき。 科学オーバーレイ — 大気層、磁気圏、環の断面、恒星の熱地図。各数値に平易な（i）ヒント。好奇心のある子も疲れた大人も追えるように。 シナリオ — 案内つき開始。今日の日付のフリープレイ、アポロ11号、実寸の並び、1天文単位のゴルディロックス行進、潮汐固定の地球、見るだけのグ…",
+    "detectedAt": "2026-08-23T04:28:58.289Z"
+  },
+  {
+    "steamAppId": 5062700,
+    "title": "Trick Or Terror",
+    "sourceUrl": "https://store.steampowered.com/app/5062700/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2028年6月12日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062700/33f09e971e461490f8551a0601ce95d96d04b07a/header.jpg?t=1787333256",
+    "japaneseSupport": "text",
+    "shortDescription": "Welcome to Trick Or Terror. In this game, you're trapped in a cemetery: your goal is to find items, solve puzzles, and escape. Watch out for the enemies: the skeletons. The skeletons will do everything they can to stop you. If they stop you, there will be very serious consequences.",
+    "aboutTheGame": "Welcome to Trick Or Terror. You are trapped inside a mysterious cemetery, and your only goal is to escape. Explore the cemetery, search for useful items, discover clues and solve puzzles as you try to find a way out. Pay attention to your surroundings: not everything is as it seems. But you are not alone. Skeletons roam the cemetery and will try to stop you from escaping. Avoid them, stay alert and use your surroundings to your advantage. Every area you explore may hide something useful — or something dangerous. Can you find a way out of the cemetery before the skeletons catch you? Trick Or Te…",
+    "detectedAt": "2026-08-23T04:28:58.854Z"
+  },
+  {
+    "steamAppId": 5062990,
+    "title": "Shatranj Pro",
+    "sourceUrl": "https://store.steampowered.com/app/5062990/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062990/39b0abcfe856d276178852337447af58c5529127/header.jpg?t=1787396012",
+    "japaneseSupport": "text",
+    "shortDescription": "Shatranj Proは、10,000種類のユニークなステージ、3段階のAI難易度、ローカル2人対戦モードを備えた戦術的チェスパズルゲームです。自分のペースで頭脳を鍛え、チェス戦術をマスターしましょう。",
+    "aboutTheGame": "Shatranj Proへようこそ。思考家、戦術家、そしてチェス愛好家のために設計された、究極のチェスパズル＆ストラテジー体験です！戦術眼を磨きたい方も、丹念に作り込まれた数千のステージに挑戦したい方も、友人とのんびり一局楽しみたい方も、Shatranj Proは、時代を超えて愛されるチェスの洗練されたモダンな形をお届けします。 主な特徴： 10,000種類のユニークなステージ： 基本概念から始まり、マスターレベルの難関まで段階的に進む、大規模なチェスパズルキャンペーンに挑戦できます。 3段階のAI難易度： 初心者、中級者、そしてベテラングランドマスター向けに調整された、適応型AIボットと対戦できます。 ローカル2人対戦モード： 友人や家族と1つの画面で向かい合って対戦できます。 シンプルでモダンなUI： 深い戦術計算に集中できる、雑念のない洗練された2Dインターフェースをお楽しみください。",
+    "detectedAt": "2026-08-23T04:28:59.438Z"
+  },
+  {
+    "steamAppId": 5063480,
+    "title": "天衍",
+    "sourceUrl": "https://store.steampowered.com/app/5063480/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "無料プレイ",
+      "早期アクセス",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063480/493da86ce1900a277eec95c7127da8efa03ae253/header.jpg?t=1787381436",
+    "japaneseSupport": "none",
+    "shortDescription": "Tianyan is a Chinese xianxia sandbox action RPG. As a cultivator, you enter immortal realms, slay demons across stages. With classic story, fluid combat & deep cultivation, forge your own immortality legend.",
+    "aboutTheGame": "Sandbox Secret Realms & Layered Combat Design Structured with tiered sandbox levels, including diverse trial scenes such as spirit valleys, immortal caves, thunder marshes and void ruins. Each realm integrates combat, puzzle-solving and random chance events. The levels feature vertical depth design, combining positioning, dodging and terrain interaction to deliver varied and strategic combat experiences. Epic Ensemble Narrative with Classic Xianxia Charm Centered on karmic reincarnation and the struggle between good and evil, the narrative features well-rounded companion characters and fated r…",
+    "detectedAt": "2026-08-23T04:28:59.980Z"
+  },
+  {
+    "steamAppId": 5064050,
+    "title": "Hexfall - Swarm Defense (SD)",
+    "sourceUrl": "https://store.steampowered.com/app/5064050/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064050/5db760e5a56a1be694224b7658ad38cd95d04686/header.jpg?t=1787344206",
+    "japaneseSupport": "none",
+    "shortDescription": "Hexfall is a planet-scale tower defense game where over 100,000 enemies attack at once. Mine the crust, wire the power and arm a hex world against an armada that fills the sky long before it comes down.",
+    "aboutTheGame": "Hexfall is a tower defense game played on a whole planet. The swarm that comes for it peaks past 100,000 enemies at once. Twelve cores were sunk into this world as an automatic defense. The people it was built for are gone. Eleven cores are dark. The system is still mining, still building, still filing reports, because nothing has told it the work is over. You are the system. Features Over 100,000 enemies at the peak, all of them real and all of them moving Everything you own hangs off one power grid. Cut a line and every structure behind it goes dark. Cannons, railguns, lasers, flak, chain li…",
+    "detectedAt": "2026-08-23T04:29:00.578Z"
+  },
+  {
+    "steamAppId": 5064200,
+    "title": "Nostra Culpa",
+    "sourceUrl": "https://store.steampowered.com/app/5064200/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064200/571df40e348e8e3f26b565becc733122036bf632/header.jpg?t=1787428927",
+    "japaneseSupport": "none",
+    "shortDescription": "A first-person philosophical horror exploration game where you journey through Hell and uncover the stories of those who dwell within.",
+    "aboutTheGame": "A journey through Hell, where souls face the consequences of the choices they made in life. Lost in a dark wood beneath a veil of fog, you find yourself at the threshold of a world beyond the living. Guided by a mysterious companion, step beyond the gates of Hell and discover what awaits those who have lost their way. Nostra Culpa is a first-person philosophical horror exploration experience in the tradition of walking simulators, focused on atmosphere, observation, and reflection rather than combat. Explore Walk through a dark and atmospheric world inspired by Dante's Inferno . Explore your s…",
+    "detectedAt": "2026-08-23T04:29:01.087Z"
+  },
+  {
+    "steamAppId": 5064270,
+    "title": "Exspelled",
+    "sourceUrl": "https://store.steampowered.com/app/5064270/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1787392469",
+    "japaneseSupport": "none",
+    "shortDescription": "Exspelled is a cozy fantasy life sim mixed with tower defense. Build and customize your village, gather resources, welcome outcast creatures, and prepare your defenses. Expand your settlement, strengthen your community, and protect your new home against increasingly dangerous waves of enemies.",
+    "aboutTheGame": "Exspelled is a unique blend of cozy life simulation and tower defense set in a magical fantasy world. You step into the role of a young witch named Aurora , who builds her own village from the ground up, transforming a small settlement into a thriving home. Gather resources, construct buildings, care for your villagers, and shape the world according to your vision. But peaceful life is constantly challenged: when night falls, hostile creatures attack the village. Use Aurora’s powerful spells, build defensive structures, and develop clever strategies to protect your settlement from waves of ene…",
+    "detectedAt": "2026-08-23T04:29:01.638Z"
+  },
+  {
+    "steamAppId": 5066400,
+    "title": "Desktop Halfpipe",
+    "sourceUrl": "https://store.steampowered.com/app/5066400/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066400/f3ef409b6b7db9e0a3692664ffdfb426ce4aadf9/header.jpg?t=1787408222",
+    "japaneseSupport": "text",
+    "shortDescription": "デスクトップに住むスケート可能なハーフパイプ。トリック、ライダー選択、トレイからシーンをカスタム。",
+    "aboutTheGame": "Desktop Halfpipe 画面下部を、控えめでアクティブなアクションスポーツの遊び場に変えます。 仕事、ゲーム、ブラウジング中もライダーは待機。短時間セッション、トリック、コンボ、ハイスコア — またはデスクトップにちょっとした彩りを。 注：Desktop Halfpipe はカジュアルなデスクトップコンパニオンであり、従来のスポーツゲームではありません。ストーリー、キャリア、課金要素はありません。 ライドを選ぶ 6 つのスタイル： ボード & スケート： スケートボード、インライン ホイール： BMX、スクーター スノー： スノーボード、スキー 気持ちいいアーケード 簡単操作： A / D または ← → でカーブ。 大コンボ： 空中でキーを入力してコンボ。 地面トリック： Ollie (O)、Kickflip (K) でストリーク維持。 自己ベスト： 自分と競うか Steam 実績 を解除。 四季、二つの環境 天候とともにスポットが変化： スケート & スノー： 夏のランプと冬のハーフパイプ。 ダイナミック天候： 雨、雪、ホタル。 デスクトップ向け トレイから数秒で調整： 好みに合わせて： 不透明度、パイプサイズ、速度。 Idle モード： バックグラウンドで自動ライド。 静音 & 軽量： 音声なし、CPU 負荷低。 すぐ非表示： Ctrl + Shift + 0。 プ…",
+    "detectedAt": "2026-08-23T04:29:02.336Z"
+  },
+  {
+    "steamAppId": 5066910,
+    "title": "Trialborn",
+    "sourceUrl": "https://store.steampowered.com/app/5066910/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066910/0033ff6ae71cc4e249e080fe468b2a781c998908/header.jpg?t=1787253281",
+    "japaneseSupport": "none",
+    "shortDescription": "Fast-paced, skill-based FPS with puzzles, platforming, secrets and deep lore.",
+    "aboutTheGame": "Trialborn have taken inspiration from FPS classics from late 90's up to 2010's. By combining fast-paced action, environmental puzzles, platforming, more in dept secrets, and deep lore, the experience will feel both unique and satisfying. You can play any way you like, it being tactical, or fast-paced. The choice is yours. Use the environment, shoot with precision and use movement to overcome the Trials. Explore the world, solve environmental puzzles, overcome platforming challenges, and uncover hidden secrets containing valuables. Discover the lore behind Trialborn and uncover the influence of…",
+    "detectedAt": "2026-08-23T04:29:02.960Z"
   }
 ]
