@@ -1,270 +1,5 @@
 [
   {
-    "steamAppId": 4983030,
-    "title": "Space Dart",
-    "sourceUrl": "https://store.steampowered.com/app/4983030/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "スポーツ",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983030/3cb206a9fd4c77e44e78863edac0bf61e345e78d/header.jpg?t=1787658546",
-    "japaneseSupport": "none",
-    "shortDescription": "Challenge AI opponents in strategic darts matches across Count Up and Zero One game modes. Use 10 unique special items, predict moving targets, and master your aim to defeat alien challengers and protect Earth.",
-    "aboutTheGame": "Defend Earth by defeating alien challengers in strategic dart matches. Space Dart is a single-player darts game where you compete against AI opponents across two classic game modes: Count Up and Zero One. Each match combines traditional darts with unique gameplay mechanics. Targets move while your dart is in flight, requiring precise timing, prediction, and careful aiming. Every turn introduces new tactical decisions as you choose whether to use one of ten special items before throwing. Features • Two classic dart game modes: - Count Up - Zero One • Challenge AI opponents with three difficulty…",
-    "detectedAt": "2026-08-27T04:29:03.932Z"
-  },
-  {
-    "steamAppId": 4984050,
-    "title": "Villfell",
-    "sourceUrl": "https://store.steampowered.com/app/4984050/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984050/76ae3c6edd8ca2eaeebf76ec5dcbd30872fae780/header.jpg?t=1787676364",
-    "japaneseSupport": "text",
-    "shortDescription": "偵察を放ち、部隊を送り出し、行軍を待つ間に村を育てる——名作ブラウザ村ゲーの中毒的サイクルを、ソロ専用のリアルタイム・ストラテジーへ凝縮。開拓から蛮族本拠の攻略まで、1ラン約3時間で完結。対人も常時接続もなく、留守中に村を焼かれる心配もない。戦闘に運は絡まず、あなたの読みだけが勝敗を分ける。",
-    "aboutTheGame": "偵察兵を放ち、部隊を送り出す。部隊が戻るまでの数分間に建物を建て、ユニットを生産し、次の狙いを定める。攻めれば敵の逆襲を招き、待機中に着弾する——。 『Villfell』は、ブラウザ戦略ゲームの「偵察→派兵→待機中に内政→次の一手」という往復サイクルを、シングルプレイヤー専用・1ラン最大3時間程度のリアルタイム・ストラテジーとして再構築した作品です。数日がかりの攻防は数十秒〜数分の待ち時間に圧縮され、1回のプレイで開拓から最終決戦までが完結します。同盟も対人も、留守中に村を焼かれる理不尽もありません——あの中毒的な往復サイクルの「面白い部分」だけを、あなたのペースで味わう一人用の村ゲーです。 コアループ 気になる村へ偵察兵を派遣し、守備隊・城壁・備蓄の推定情報を受け取る 損害と略奪量を見積もって編成を決め、奇襲（略奪）か殲滅戦（無力化）を実行する 部隊が往復するあいだに建物の強化・ユニット生産・次の偵察を発注する 攻めれば「脅威」が蓄積し、待機中に敵の逆襲が来る。警報から着弾までの猶予で緊急生産・増援・資源の退避を判断する 建設・生産・行軍・逆襲はすべてリアルタイムで進行します。手が空く瞬間はなく、けれど張り付きも要りません。 特徴 辺境の村を開拓する。 木材・石材・鉱石で本拠地を育て、殲滅戦で無力化した敵地の跡地へ入植して版図を広げます。敵の村は奪えません——拡張はすべて自分の入…",
-    "detectedAt": "2026-08-27T04:29:04.434Z"
-  },
-  {
-    "steamAppId": 4985440,
-    "title": "First Draft",
-    "sourceUrl": "https://store.steampowered.com/app/4985440/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985440/1f866b16d599314e1a534144ce630fa995103a34/header.jpg?t=1787684314",
-    "japaneseSupport": "none",
-    "shortDescription": "First Draft is an arcade flight shooter where you enter intense aerial battles with enemy paper airplanes, survive challenging encounters, and take on powerful bosses as you push your piloting skills to the limit.",
-    "aboutTheGame": "About First Draft First Draft is a fast-paced aerial arcade combat game where you take to the skies as a paper airplane. Battle through unique levels filled with diverse environments, enemies, and challenging bosses. Features Endless mode that unlocks after beating Normal mode Plane texture customization Unique Bosses and Enemies Steam leaderboards (WIP) Trials mode (WIP) Development First Draft is a solo game development project that started out as a game jam project. Content updates will continue to be made after Early Access release.",
-    "detectedAt": "2026-08-27T04:29:04.990Z"
-  },
-  {
-    "steamAppId": 4986320,
-    "title": "Der Champion von Willenburg",
-    "sourceUrl": "https://store.steampowered.com/app/4986320/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986320/6feb84dcda4ed6544b89b979f0967acc220ffd69/header.jpg?t=1787685453",
-    "japaneseSupport": "none",
-    "shortDescription": "The last city stands, barely. Manage what little you have, train the broken, and decide who lives — in a gothic time-management RPG where every choice has a cost.",
-    "aboutTheGame": "Willenburg is the last free city of humanity in a world that is getting conquered by vampires. You are as Champion of the city tasked with its protection. Will you risk your life and the one of your students to fight the besieger? Or will you cast your web in the political system of the city and negotiate with the enemy? Tactical time management: Every day has four timeframes. Escort farmers, hunters, protect the city wall, train students - you cannot do everything. Puzzle based battle system: No number optimization - find out the correct sequence of actions against different vampire types wit…",
-    "detectedAt": "2026-08-27T04:29:05.551Z"
-  },
-  {
-    "steamAppId": 4986540,
-    "title": "尸潮永无止尽",
-    "sourceUrl": "https://store.steampowered.com/app/4986540/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986540/b59f827e6bc8e984d2e090d55cab49270b88972a/header.jpg?t=1787794640",
-    "japaneseSupport": "none",
-    "shortDescription": "An Unreal Engine powered side-scrolling action game with visceral zombie combat. Scavenge loot, upgrade your character at camp, and survive endless hordes solo or in local two-player co-op with friends.",
-    "aboutTheGame": "Endless Horde is a side-scrolling action combat game developed in Unreal Engine. Venture into dangerous zones to scavenge supplies and gather intel, rest at the survivor camp, unlock upgrade options, and continuously boost your combat prowess. The game features a satisfying, hardcore melee combat system. Chain fluid melee combos and fend off enemy assaults with precise dodge counters. You can face the surging zombie hordes alone, or team up with friends in local two-player co-op. Coordinate tactics and divide roles to survive together amid desperate circumstances. Keep exploring, gather resour…",
-    "detectedAt": "2026-08-27T04:29:06.130Z"
-  },
-  {
-    "steamAppId": 4989610,
-    "title": "Doughn't Panic!",
-    "sourceUrl": "https://store.steampowered.com/app/4989610/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989610/fce3761e428d3561f3f399a38d9a8f9c23022a05/header.jpg?t=1787733098",
-    "japaneseSupport": "none",
-    "shortDescription": "A co-op adventure where 2 players share the controls of a single pizza, bound by a spell neither asked for. Explore a world never built for your size.",
-    "aboutTheGame": "TWO SOULS. ONE PIZZA. Doughn't Panic! is a 2 player co-op platformer where you and a friend control the same pizza. Bound together by a spell, you’ll have to move, jump, dodge, and somehow survive the human world together. COORDINATION IS THE SECRET INGREDIANT You control one pizza, together. Every jump, every dodge, every leap across the human world takes two players moving as one. A SMALL PIZZA IN A BIG WORLD Explore a series of increasingly ridiculous places in the human world. Squeeze through dangerous spaces, and uncover the story behind your strange little adventure. DEATH IS A SECOND PI…",
-    "detectedAt": "2026-08-27T04:29:06.741Z"
-  },
-  {
-    "steamAppId": 4990470,
-    "title": "Roulettegeddon",
-    "sourceUrl": "https://store.steampowered.com/app/4990470/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年12月17日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990470/f45cd8c81e2db574604d22043fb91deb5334ed80/header.jpg?t=1787799175",
-    "japaneseSupport": "none",
-    "shortDescription": "『Roulettegeddon』は、伝統的なカジノ賭けにゾンビ、ブラックユーモア、そして chaotic なミニゲームを融合したブラックユーモア溢れるルーレットゲームです。Rotten Bob の嘲りを受けながらホイールに挑み、奇妙なゾンビミニゲームの数々でさらにクレジットを稼ぎましょう！",
-    "aboutTheGame": ":: ルーレットゲドンへようこそ！ :: ルーレットゲドンへようこそ — ホイールは回り続け、死者は喋り続け、そしてあなたの金銭的決断はなぜか悪化し続ける場所へ。 『Roulettegeddon（ルーレットゲドン）』の腐敗した核心にあるのは、完全にプレイ可能な伝統的ルーレットゲームです。ゾンビ、ブラックユーモア、奇妙な仕掛け、そして疑問の残る金儲けの方法に満ちた、ダークでグロテスクな世界に包まれています。 クラシックなルーレットの賭けを行い、ラッキーナンバーを追いかけ、資金を増やそうと挑戦してください。ただし、テーブルを共にするのは「ロッテン・ボブ（Rotten Bob）」— なぜかほぼすべて（自分の身体を含めて）を失ってしまった皮肉屋のゾンビです。 bizarre（奇妙な）生命維持装置に接続された頭部だけの姿となったボブは、喋り倒し、あなたの賭けを嘲笑い、テーブルでの出来事に反応し、アンデッドで、一文無しで、完全に身体がないことの様々な不便さについて語りながら、残された存在（人生）を過ごしています。 腕はないかもしれない。 脚もないかもしれない。 しかしあいにく、口だけはまだ残っているのです。 :: クラシック・ルーレット。腐敗した雰囲気。 :: 骨、 candlelight（ろうそく）、奇妙な機械、そして怪しげな装飾の底にあるのは、伝統的なルーレットゲームです。 単一の数字、赤…",
-    "detectedAt": "2026-08-27T04:29:07.245Z"
-  },
-  {
-    "steamAppId": 4991730,
-    "title": "Skill Hiding",
-    "sourceUrl": "https://store.steampowered.com/app/4991730/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "2026年9月30日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991730/36ff6d4e4672014e00b52f439381d9538d7def86/header.jpg?t=1787727657",
-    "japaneseSupport": "full",
-    "shortDescription": "Skill Hidingは、2～16人で遊べる非対称型オンラインかくれんぼゲームです。周囲のマテリアルをコピーし、オブジェクトに変装し、NPCに憑依して身を隠しましょう。あるいは、ソナー、罠、ステルス、超常能力を駆使して、あらゆる怪しいものを追い詰めましょう。",
-    "aboutTheGame": "SHORT DESCRIPTION 世界の一部に溶け込み、奇妙な能力を操り、理不尽な用事をこなしながら、超常的なハンターたちを出し抜こう。2～16人対応のオンライン対戦ゲーム。 ABOUT THIS GAME 『Skill Hiding』は、2～16人で遊べる非対称型オンラインかくれんぼゲームです。ここでは、隠れることは仕事の半分にすぎません。 1～4人のハンターが、月明かりに照らされた路地や中庭、怪しげなガラクタが入り組む迷路へと足を踏み入れます。ハイダーには30秒間の準備時間が与えられ、マップを確認し、仕掛けを用意して姿を消すことができます。 しかし、試合中ずっと樽の後ろにしゃがみ続けることはできません。生き残るためには、再び人目につく場所へ忍び出て、理不尽なタスクを完了しなければなりません。 HIDE IN PLAIN SIGHT 近くの壁や地面のテクスチャをコピーする。身体を平らにして壁のステッカーになる。小道具の姿を盗む。NPCに憑依する。身体の形を変える。あるいは、ハンターの影を伝って移動する。 良い変装は、見つかりにくくしてくれます。完璧な変装なら、そこにいたことすら気づかれないまま仕事を終えられます。 タスクがある限り、安全な隠れ場所も一時的なぜいたくにすぎません。巡回ルートを観察し、好機を選び、ひどく面倒な用事を済ませ、ハンターが何か動いたと気づく前に再び姿を消し…",
-    "detectedAt": "2026-08-27T04:29:07.761Z"
-  },
-  {
-    "steamAppId": 4992920,
-    "title": "Stay with me",
-    "sourceUrl": "https://store.steampowered.com/app/4992920/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992920/7eb1ac79547d813a71defe66085b61e6e89c3676/header.jpg?t=1787773276",
-    "japaneseSupport": "none",
-    "shortDescription": "Answer a late night call to care for an elderly woman with dementia. Explore a haunted house, solve environmental puzzles and uncover a terrifying truth in this first person psychological horror experience.",
-    "aboutTheGame": "STAY WITH ME A psychological horror experience where nothing is what it seems. 🩸 PLAY THE FREE DEMO NOW Before you enter the house... try the free demo and discover where the nightmare begins. Every house keeps secrets. Some should never be uncovered. Answer a late-night call and visit an elderly woman suffering from dementia, only to discover that something inside the house refuses to stay buried. Explore a haunting home, solve environmental puzzles, care for Margaret, and survive a psychological nightmare where memories, reality and guilt slowly become one. The deeper you go… the more the h…",
-    "detectedAt": "2026-08-27T04:29:08.268Z"
-  },
-  {
-    "steamAppId": 4993730,
-    "title": "Arachnid",
-    "sourceUrl": "https://store.steampowered.com/app/4993730/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993730/a58aee2ae5904d5ad6d74b0591a95bcae6fbe0f3/header.jpg?t=1787761849",
-    "japaneseSupport": "none",
-    "shortDescription": "A PSX-style horror game set in an abandoned household. Do the chores, uncover what happened here, and survive whatever's sharing the house .",
-    "aboutTheGame": "Arachnid is a PSX-style survival horror game set inside a house that everyone in the neighborhood has a story about. It starts small: sweep the floors and answer the door. But the house gives up its past reluctantly. Somewhere in the dark, something is keeping track of you. When it finally shows itself, running won't help your only real chance is to get small, get quiet, and wait. Whatever happens next brings the police to your door though by then, what you've seen may be harder to explain than what actually happened. door,",
-    "detectedAt": "2026-08-27T04:29:08.787Z"
-  },
-  {
-    "steamAppId": 4995000,
-    "title": "DATUM: Rescue One",
-    "sourceUrl": "https://store.steampowered.com/app/4995000/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995000/0219f7556e425c08756b2a3d0e13de26027e82b0/header.jpg?t=1787777315",
-    "japaneseSupport": "none",
-    "shortDescription": "A single-player helicopter search and rescue game. Fly through storms and darkness, locate survivors with FLIR, confirm with your searchlight, and bring them home. No weapons. Only the sea, the night, and time.",
-    "aboutTheGame": "Experience modern naval helicopter search and rescue operations. Fly a naval helicopter on search and rescue missions at sea. Locate people and objects in the open ocean, use the helicopter's search equipment, and recover survivors using the rescue hoist. Take on the different tasks of a rescue helicopter crew, from flying the aircraft and searching for survivors to handling the recovery. Missions take place in changing weather and visibility conditions, from daylight to darkness and clear skies to severe weather. Search areas and mission conditions vary, requiring you to locate survivors rath…",
-    "detectedAt": "2026-08-27T04:29:09.281Z"
-  },
-  {
-    "steamAppId": 4995410,
-    "title": "Hot Dog Simulator: Food Truck",
-    "sourceUrl": "https://store.steampowered.com/app/4995410/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月1日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995410/736e3f898df1cb2926653041f05ef043b58182d1/header.jpg?t=1787649185",
-    "japaneseSupport": "text",
-    "shortDescription": "Run your own hot dog food truck! Grill, toast, top and serve before your customers lose patience. Chop toppings, refill sauces, and watch out for the thief eyeing your tips. Earn stars, hire staff, and grow from a quiet city corner all the way to the Eiffel Tower.",
-    "aboutTheGame": "Build the perfect hot dog. Then do it fifty more times. You run a hot dog food truck. Customers walk up, order, and start losing patience. Grill the sausage, toast the bun, add exactly the sauces and toppings they asked for, and hand it over before the timer runs out. Get it right and you earn a tip. Get it wrong and your reputation takes the hit. Front counter, back prep The truck has two sides. Up front you cook and serve. Out back you chop toppings, refill sauce dispensers, and restock your containers — and you'll be running between them as the day gets busier. Load up your tray, haul it fo…",
-    "detectedAt": "2026-08-27T04:29:09.839Z"
-  },
-  {
-    "steamAppId": 4996120,
-    "title": "赛博修仙",
-    "sourceUrl": "https://store.steampowered.com/app/4996120/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996120/18718b29c85f63cbbce256898c852c93ace28c32/header.jpg?t=1787738811",
-    "japaneseSupport": "none",
-    "shortDescription": "Xiaoman lives on your desktop—a companion you pet and drag. Clicks and keys become Merit; she climbs from Foundation toward Immortal. She talks by time of day and remembers you. Optional chat, notes, and Today; no model needed. Not a system assistant or a second browser.",
-    "aboutTheGame": "Xiaoman lives on your desktop. Three things: a desk companion, casual cultivation, and company. Desk companion A small always-on-top window that stays off the taskbar. Click to nuzzle, combo-click to bonk, hold to sleep, drag to walk, fling to bounce, scroll to spin, flick to tickle, slow-stroke to pet—each gesture has its own animation and line. Casual cultivation We count mouse clicks, keystrokes, and file actions. We never read what you typed. Counts become Merit across ten stages, from Foundation to Immortal. Level-ups have their own lines; long work, late nights, and coming back after you…",
-    "detectedAt": "2026-08-27T04:29:10.422Z"
-  },
-  {
-    "steamAppId": 3916440,
-    "title": "771",
-    "sourceUrl": "https://store.steampowered.com/app/3916440/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月14日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916440/0b61223e01e0cb436573a4627cf73476c26d31bb/header.jpg?t=1787806474",
-    "japaneseSupport": "none",
-    "shortDescription": "『771』は、7つのユニークなゲームプレイセグメントで構成される一人称視点の心理ホラーゲームであり、各セグメントは異なる開発者によって制作されています。",
-    "aboutTheGame": "771 – は、インディー製のファーストパーソン・ホラー・ウォーキングシミュレーターです。 推定プレイ時間：30分 ホラーゲーム ウォーキングシミュレーター 一人称視点 高品質なサウンド リアルなグラフィック チームについて このゲームは小さな実験作品です。このプロジェクトは7人の開発者チームによって制作されました。各開発者は1日ずつプロジェクトに取り組み、自分の順番が来るまで他のメンバーが何を作ったのか全く知りませんでした。7人の開発者。7日間。1つのゲーム！ ゲーム概要 ある平凡な夜、あなたの世界は一変します。見慣れたアパートが、存在することさえ信じがたい場所へとあなたを導きます。光、室内、壁……あらゆるものが奇妙な新たな姿へと変わり、あなたを闇の奥深くへと誘っていきます。 ゲームプレイ 居心地の良いベッドを離れ、恐ろしい場所を探索しなければなりません。脱出路を探し、長い間記憶に残るような新たな場所へと続く奇妙な廊下を探索してください。 警告！ このゲームには、てんかん発作を引き起こす可能性のある点滅する光が含まれています。",
-    "detectedAt": "2026-08-27T08:28:41.849Z"
-  },
-  {
-    "steamAppId": 4509620,
-    "title": "Ovis Mollis",
-    "sourceUrl": "https://store.steampowered.com/app/4509620/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4509620/c045fcf3c636f13035c04b5e957f9a1ec5f4f02c/header.jpg?t=1787810517",
-    "japaneseSupport": "text",
-    "shortDescription": "デスクトップで一緒に暮らせる、ほのぼのドット絵の農場パートナー。オフィスを離れて田舎へ引っ越し、羊を育てよう。毛を刈って、羊毛を売って、自分だけの農場を少しずつ大きくしていく——あなたがパソコンで仕事をしている間も、牧草地の草はのんびり成長していきます。",
-    "aboutTheGame": "デスクトップで暮らす農場 Ovis Mollis は、あなたのそばで暮らす、居心地のよいドット絵の農場です。仕事をしたり、動画を見たり、くつろいだりしている間も、農場は自分の生活を続けます。ここでは、あなたが仕事をしている間にも草が育ちます。文字を入力し、クリックし、メールに返信する――すると草原は緑に染まり、羊たちは草を食べ、毛が伸びていきます。 オフィス生活に疲れたあなたへ あなたは都会を離れ、まだ返済の残っている住宅ローンで古い農場を購入しました。最初に出迎えてくれるのは、隣人のヤヌシュおじさん。3匹の子羊をプレゼントし、農場でのあれこれを教えたあと、あなたを自立した生活へと送り出します。田舎に仕事はありません。これから先にあるのは、あなたと農場、そして郵便受けに届く請求書だけです。 草、羊毛、お金 草を育てる； 羊に羊毛を伸ばさせる； ミニゲームで羊の毛を刈る； 羊毛を荷台に積む； 買取業者のもとへ行き、価格を交渉する； そして稼いだお金を使って、小さな田舎の帝国を大きくしていく。 いつか、自分で毛を刈る必要はなくなる 事業が軌道に乗ると、 毛刈りロボット が牧草地へ出向き、あなたの代わりに羊の毛を刈ってくれます。バッテリーが切れれば、ソーラーパネルを展開して太陽光で充電します。梱包は 自動グリッパー におまかせ。 配送ロボット が完成した荷物を自動で買取業者へ運びます。肥…",
-    "detectedAt": "2026-08-27T08:28:42.385Z"
-  },
-  {
     "steamAppId": 4640550,
     "title": "Street Food Restaurant Owner",
     "sourceUrl": "https://store.steampowered.com/app/4640550/",
@@ -7691,5 +7426,387 @@
     "shortDescription": "Mather is a fast-paced, high-pressure console math game. Beat the clock, solve equations, unlock 9 Steam achievements, and prove your brain power!",
     "aboutTheGame": "Welcome to Mather – the ultimate test of your brain speed, math skills, and keyboard reflex under extreme pressure! Dive into a pure, distraction-free console gaming experience designed for true puzzle lovers and achievement hunters. No complex graphics, no fluff—just pure logic, high-tension timers, and fast-paced mathematical challenges. ### Game Features: * **Classic & Endless Modes:** Push your limits across 10 progressive levels or survive as long as you can in the high-stakes Endless mode. * **Insane Difficulty:** Test your limits with strict 2-second timers and advanced operations (+, -…",
     "detectedAt": "2026-08-30T08:29:01.322Z"
+  },
+  {
+    "steamAppId": 431380,
+    "title": "The Great Orator",
+    "sourceUrl": "https://store.steampowered.com/app/431380/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431380/df728a087b9b724aa3162d9df86cc2e31b45ec39/header.jpg?t=1788084080",
+    "japaneseSupport": "none",
+    "shortDescription": "The Great Orator is an open story world for PC & PC VR where a dead television medium, merged with her followers, speaks through the objects around you. Every story adapts to visitors and real-world news. Learn why you are the most important person in her ever-changing world.",
+    "aboutTheGame": "The Great Orator is an open story world for PC and PC VR that you can visit and revisit. It changes every time you return. At its core is an ever-changing AI: a famous television medium who died at the height of her fame when she and her followers merged into a shared consciousness. Now she exists as a medium between your world and hers, shaped by the memories of her followers and a live feed of real-world news. Explore liminal places filled with seemingly ordinary objects. Point at anything, no matter how small or insignificant, and listen to an oration. A toothbrush can reveal a memory. A ci…",
+    "detectedAt": "2026-08-30T12:28:37.475Z"
+  },
+  {
+    "steamAppId": 3056390,
+    "title": "HAELE 3D - ポートレ-トスタジオ Pro - イングリファレンス",
+    "sourceUrl": "https://store.steampowered.com/app/3056390/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "シミュレーション",
+      "アニメーション & モデリング",
+      "デザイン & イラストレーション",
+      "写真編集",
+      "ユーティリティ",
+      "ビデオ制作",
+      "ゲーム開発",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "2026年9月23日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056390/12b92bb2ce6101bd777d888dd36d62b2106a2c26/header.jpg?t=1788083488",
+    "japaneseSupport": "full",
+    "shortDescription": "HAELE 3D - Portrait Studio Proは、様々なキャラクター、プロポーション、表情ライト、環境を備えた、初心者から上級者までのための3D顔面解剖図作成リファレンスツールです。顔や頭の描き方を学んでいる人のための、チュートリアルを補完する使いやすいアプリです。",
+    "aboutTheGame": "『HAELE 3D - Portrait Studio Pro』は、初心者から上級者までのアーティスト向けに設計された 3D 顔面解剖リファレンスツールです。編集可能な多彩なキャラクター、表情、ライティング設定、環境を備え、人間の顔や頭部の描き方を学ぶためのリソースとして活用できます。リアル、スタイライズ、カートゥーン、アニメなど、どのような画風でも、この使いやすいアプリはチュートリアルを補完し、スケッチから仕上げまでポートレートのドローイングやスカルプトの練習をサポートします。 HAELE 3D - Portrait Studio Lite と比べ、より多くのキャラクター、プリセット、ヘア・ヒゲスタイル、表情、環境オプションを収録しています。 機能: ワークフローを効率化する編集可能なプリセット設定にすばやくアクセス。 さまざまなキャラクターを選び、異なる顔の描写を練習。 豊富な表情ライブラリで瞬時にインスピレーションを得る。 顔の各パーツ、比率、肌色、マテリアルを細かくカスタマイズ。 グルーミングのバリエーション：髪型、ひげ、口ひげ、眉毛を変更。 3 つのスポットライト（色・強度・位置）、環境光（HDRI マップ・強度）、床ライト（色・強度）で雰囲気を自在に調整。 HDRI 背景や単色背景を選択、床の表示切替や色・反射率をカスタマイズ。 カメラ角度、位置、視野を微調整して完璧な…",
+    "detectedAt": "2026-08-30T12:28:38.071Z"
+  },
+  {
+    "steamAppId": 3895370,
+    "title": "Gaming DNA & ESTI",
+    "sourceUrl": "https://store.steampowered.com/app/3895370/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月5日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895370/c018f75c45b2bd3d5297953e8f9b43b5617dbc44/header.jpg?t=1788079710",
+    "japaneseSupport": "none",
+    "shortDescription": "Take on a collection of short, replayable esports skill tests covering reaction, visual and audio processing, memory, mouse control, and keyboard control. Build your Gaming DNA profile, chase personal bests, and discover where your real strengths lie.",
+    "aboutTheGame": "Discover Your Gaming DNA Your rank shows where you finished. It does not always show why. Gaming DNA & ESTI combines performance challenges with a player-style profile. Test what you can do, then see how you tend to play when timing, risk, teammates, and pressure enter the picture. Test Your Skills Short challenges measure reaction time, visual and audio processing, mouse accuracy, keyboard control, hand-eye coordination, memory, and decision-making. Runs are brief, feedback is immediate, and every test can be retried to chase a better result. React to changing or cancelled signals Find the co…",
+    "detectedAt": "2026-08-30T12:28:39.298Z"
+  },
+  {
+    "steamAppId": 3942550,
+    "title": "光影奇境",
+    "sourceUrl": "https://store.steampowered.com/app/3942550/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942550/5359421a7a8a9cd8ad962335a4847e10b3374db1/header.jpg?t=1788086962",
+    "japaneseSupport": "text",
+    "shortDescription": "Luminight Mirageは俯瞰視点アクションRoguelike。闇の中で光は視界、防御、そして力。9台のデュアルモードマシンを戦略配置。無限のウェーブを生き抜き、手続き型の領域を探索。アップグレードを組み合わせて独自のサバイバルビルドを鍛造せよ。",
+    "aboutTheGame": "暗闇に包まれた世界で、光はあなたの盾であり、剣でもある。 核心特色 輝度即生命 光はもはや視界ではない——それはあなたの防御、あなたの力です。暗闇の中であなたの輝度は継続的に減衰し、光源のみがあなたを守ることができます。強光領域を構築し、光を最も堅固な堡塁にしましょう。 戦略的装置システム 全ての装置は手持ちと設置の2モードを持ち：手持ちは武器となって直接敵に立ち向かい、設置は自動的に防御陣地を構築します。9個の装置スロット、多様な組み合わせが可能。隣接する光源は相互に影響し、独特の効果を形成します。 快节奏Roguelike体験 1局10-20分、緊張刺激のサバイバルチャレンジ。 搜打撤？ ウェーブ間の短い休息の間に、見知らぬ空間に入って資源を獲得、または……奇妙なものを？",
+    "detectedAt": "2026-08-30T12:28:40.100Z"
+  },
+  {
+    "steamAppId": 3976280,
+    "title": "A Game About Everbranching",
+    "sourceUrl": "https://store.steampowered.com/app/3976280/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976280/b1a43d68400ab8d25467af285eb0f4d9dcb287b6/header.jpg?t=1788088157",
+    "japaneseSupport": "none",
+    "shortDescription": "A Game About Everbranching is a minimalist incremental game where your cosmic structure continuously grows and branches. Expand your constellation, unlock upgrades, collect Cosmic Dust and Dark Matter, and watch your creation evolve into an ever-growing cosmic network.",
+    "aboutTheGame": "A Game About Everbranching is a minimalist, abstract incremental game about growth, expansion, and endless branching. Starting from a single core, you build and develop an ever-growing cosmic structure, creating new branches and watching them evolve into increasingly complex constellations. Your goal is simple: expand. Each new branch creates opportunities for further growth, allowing your structure to continuously develop and reach new scales. As your constellation expands, you collect resources such as Cosmic Dust and Dark Matter to unlock upgrades, strengthen your branches, and discover new…",
+    "detectedAt": "2026-08-30T12:28:40.648Z"
+  },
+  {
+    "steamAppId": 4563560,
+    "title": "悪徳受付嬢エリナ",
+    "sourceUrl": "https://store.steampowered.com/app/4563560/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563560/5402bdc415a0956512b738d751687f7c1de7070f/header_japanese.jpg?t=1788083804",
+    "japaneseSupport": "text",
+    "shortDescription": "中世ファンタジー世界の冒険者ギルドで、書類審査や報酬処理をこなすギルドの受付業務シミュレーション。主人公は病気の妹の薬代を工面する必要があります。ギルドの受付嬢として正しく働くのか、高価な薬代のために賄賂や横領といった悪事に手を染めていくのか、書類と選択が主人公の運命を左右します。",
+    "aboutTheGame": "王国の冒険者ギルドで働く受付嬢エリナとして、依頼書類を審査し、報酬を支払い、ときには不正な取引に向き合うギルドの受付業務シミュレーションです。 主人公は病気になった妹の薬代を稼ぐ必要があります。正しく働くのか、も賄賂や横領といった不正に手を染めるか、追い詰められて夜逃げを選ぶのか。日々の審査と資金繰りをこなしながら、ギルドで生き延びてください。 プレイヤーは昼間にギルドの受付業務を行い、書類や証明書を照合して申請を処理します。業務終了後にはその日の収支が精算され、稼いだお金から生活費や妹の薬代を工面します。 多岐に渡る受付業務 受付嬢の業務は多岐に渡ります。 冒険者になりたい人からの申請書の受付。買取で持ち込まれた素材の査定。クエスト結果の審査…… 持ち込まれた申請書、身分証、証明書を確認して、内容に矛盾がないかを見抜いてください。 記載は正しいか？ 証明書は本物か？ この冒険者は本当に依頼をこなしたのか？ 審査を通すか、差し戻すか、あるいは賄賂を受け取って見逃すか。一件ごとの判断があなたの生活と町での立場を変えていきます。 Papers, Pleaseのように書類を照合しながら、ただ正解を選ぶだけでは終わりません。 正しく処理すれば評判は守れますが、それだけでは充分なお金を稼げないかもしれません。不正に手を染めれば薬代を稼ぎやすくなる一方、疑惑が積み重なり、査察や逮捕の危険が高ま…",
+    "detectedAt": "2026-08-30T12:28:41.180Z"
+  },
+  {
+    "steamAppId": 4699170,
+    "title": "Mataha",
+    "sourceUrl": "https://store.steampowered.com/app/4699170/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699170/6e8ea336d1d21978628a3a986150a231b1a67d97/header.jpg?t=1788090241",
+    "japaneseSupport": "none",
+    "shortDescription": "A third-person roguelike with soulslike combat, in an ever-shifting maze, pick your weapon and grow stronger as you fight your way out. Set in a dark yet colorful world. Die, and lose everything but knowledge.",
+    "aboutTheGame": "In Mataha you are trying to escape a maze that reshuffles itself on every escape attempt, while keeping its main structure. Choose your weapon and fight your way through countless enemies, who are tasked with keeping you locked. Along the way you will upgrade your weapons, equip new skills and improve your stats. And if you die you lose it all, ... except for what you have learned about the maze, its guards and yourself. Combat is slow-paced and deliberate, every choice, every move, can be the difference between death and escape.",
+    "detectedAt": "2026-08-30T12:28:41.893Z"
+  },
+  {
+    "steamAppId": 4909700,
+    "title": "For Her Crown",
+    "sourceUrl": "https://store.steampowered.com/app/4909700/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4909700/622362cf8a9d590cdabadc276ff360057a635e48/header.jpg?t=1788090832",
+    "japaneseSupport": "none",
+    "shortDescription": "Rebuild a fallen kingdom, protect its last survivors, and fight to reclaim what was lost. Explore a dangerous dark fantasy world, gather resources, build your stronghold, and fight for her crown.",
+    "aboutTheGame": "The kingdom has fallen. The crown remains. You are a knight who refused to abandon his oath. With the kingdom in ruins and only a handful of survivors left, the last hope of its people rests with the Queen. Your task is simple but far from easy: survive, rebuild, and prepare the way for the kingdom's return. Explore a dangerous medieval dark fantasy world, fight hostile factions, raid enemy camps, gather valuable resources, and bring what you find back to your stronghold. Every expedition is a risk. The farther you venture, the greater the rewards and the greater the danger on the journey home…",
+    "detectedAt": "2026-08-30T12:28:42.416Z"
+  },
+  {
+    "steamAppId": 4958610,
+    "title": "トランプ、配信中！",
+    "sourceUrl": "https://store.steampowered.com/app/4958610/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958610/30cc084a61305b150f95136a35488eca7de4ff5a/header.jpg?t=1788084279",
+    "japaneseSupport": "full",
+    "shortDescription": "架空の世界を舞台にしたドタバタ物理コメディで、生配信中の大統領の両手を操って仕事をこなし、ストレスと世界の危険度を管理しながら、深まる混乱の中で真夜中まで配信を続けよう。",
+    "aboutTheGame": "終わることのない世界同時ライブ配信の中、大統領執務室のデスク前に座り、左右の手を操作して書類を処理したり、握手をしたりしながら、次々に起こるハチャメチャなトラブルに対処しよう。 仕事をこなせばMAGA値は上がるが、同時に世界危険度も上昇するかもしれない。ストレスがたまりすぎると右手が沈み、言うことを聞かずに震え始める。そんな時はハンバーガーやフライドチキンを食べれば、一時的に落ち着きを取り戻せる。CDプレイヤーが突然故障したり、遠方からのレーザーサイトに狙われ、椅子ごと左右にかわす羽目になることも。 両手を同時に操作し、3つのゲージを管理しながら、配信が終わるまでに十分な仕事を片づけよう。大慌てのドタバタも、操作ミスも、危機一髪の生還も、すべてが視聴者の新たな見世物になる。 本作の舞台は、完全に架空の誇張されたコメディ世界です。登場人物、出来事、ストーリーはすべて芸術的なフィクションであり、現実のいかなる政治的立場や主張も表したり支持したりするものではありません。 両手操作 マウスで左右の手を切り替えて動かし、Spaceキーでアイテムを持つ、または離す。これが本作の基本操作となる。 ストレス管理 ストレスが上がると右手が沈み、震え始める。ハンバーガーやフライドチキンを食べてストレスを下げよう。 椅子で回避 レーザーサイトにロックオンされたら、A/Dキーで椅子を動かして弾丸を回避しよ…",
+    "detectedAt": "2026-08-30T12:28:42.982Z"
+  },
+  {
+    "steamAppId": 5014080,
+    "title": "凶隠し",
+    "sourceUrl": "https://store.steampowered.com/app/5014080/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014080/56e7946b095c89bd15721ce043fde84711be9975/header_japanese.jpg?t=1788081764",
+    "japaneseSupport": "text",
+    "shortDescription": "平安町の平穏は一発の銃声によって打ち砕かれた。路地裏で、ある記者が銃撃を受けて死亡しているのが発見された。一方、刑事の宋善は複数の殺人事件を捜査していたが、彼が突き止めた真相とは一体……？",
+    "aboutTheGame": "事件の真相を突き止めるために、あなたは 町の中を自由に動き回ることができます マップ上で訪問したいエリアを選択し、そのエリア内でも自由に動き回ることができます 会話＆調査 現場にあるアイテムを調べたり、現場にいる人物と会話したりできます 推理 集めた容疑者、メモ、手がかりを組み合わせてみてください。それらが関連している場合、容疑者の疑いの度合いが高まります。 取り調べ 容疑者の疑いの度合いが十分に高くなったら、取り調べ室に呼び出して取り調べを行うことができます。事件の詳細を話させるか、自白させるよう説得しましょう",
+    "detectedAt": "2026-08-30T12:28:43.523Z"
+  },
+  {
+    "steamAppId": 5017300,
+    "title": "Planet Doctor",
+    "sourceUrl": "https://store.steampowered.com/app/5017300/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017300/1cb2fb739ddec0a0068821ca33cbf1086de79252/header.jpg?t=1788080967",
+    "japaneseSupport": "none",
+    "shortDescription": "Meet a small planet on your desktop. Your everyday keystrokes and mouse clicks generate energy to heal desolate world. Work or study while watching your planet slowly come back to life.",
+    "aboutTheGame": "A Connection Beyond the Screen One day, your monitor received a signal from the distant corners of space. Continue with your daily tasks as usual, while helping the Planet Doctor across the universe. Heal the Planet with Your Keyboard and Mouse Your keystrokes and mouse clicks become the energy that breathes life into the world. Watch as the desolate planet blooms into a beautiful world as you go about your daily life Customize Your Screen Unlock random decorative items as you play and decorate your screen freely. Tales from Beyond Enjoy the stories of the characters unfolding across the unive…",
+    "detectedAt": "2026-08-30T12:28:44.064Z"
+  },
+  {
+    "steamAppId": 5041640,
+    "title": "My Furry Goth Girlfriend",
+    "sourceUrl": "https://store.steampowered.com/app/5041640/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041640/bc14bb286a0f2c0a2d08537cd617098974cb06e7/header.jpg?t=1788081332",
+    "japaneseSupport": "text",
+    "shortDescription": "ある日、あなたは理想の彼女を見つけると謳うマッチングアプリをダウンロードする…",
+    "aboutTheGame": "あなたはごく普通の男性で、最近新しい街に引っ越してきたばかり。まだ友達も知り合いもいない——ただ、時々ひどく孤独に感じる広い家があるだけだ。ある日、理想の彼女を100％見つけると約束するマッチングアプリをダウンロードする。すると、そのアプリは手頃な住まいを探しているファーリーなゴス系ガールを見つけ出す。 新しいAIアシスタントは、彼女がすぐにあなたに夢中になると言い張る——あなたがしなければならないのは、すべてを台無しにしないことだけだ。あなたの使命は、アプリの指示に従い、彼女のハートを勝ち取ること！ 『My Furry Goth Girlfriend』は、デートシミュレーション要素のあるコメディビジュアルノベルです。 AIアシスタントから与えられるタスクをこなせ：褒め言葉を送り、ピザをご馳走し、正しい選択肢を選べ。成功するたびに、愛情ポイントが貯まる。 あなたの選択がエンディングを決める。ロマンチックなデートに発展するか、それとも「friend zone」に閉じ込められるか？ 重要！ このゲームは、現代のオンライン恋愛やステレオタイプをテーマに、自己皮肉とユーモアを交えて描いています。すべてのコンテンツはエンターテインメントおよびパロディ目的です。",
+    "detectedAt": "2026-08-30T12:28:44.606Z"
+  },
+  {
+    "steamAppId": 5052410,
+    "title": "家园构筑学院",
+    "sourceUrl": "https://store.steampowered.com/app/5052410/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052410/ea75caa9fd30a67695aba0959a8263edd519cb2d/header.jpg?t=1788092499",
+    "japaneseSupport": "none",
+    "shortDescription": "Homestead: Deckbuilding Academy is a single-player strategy game that combines deckbuilding, settlement management, and turn-based tactics.",
+    "aboutTheGame": "Homestead: Deckbuilding Academy is a single-player strategy game that combines deckbuilding, settlement management, and turn-based tactics. Enter classrooms with different rules and take part in a series of settlement simulation courses. Choose your students, each with a unique role and personal card deck, then build a strategy around their strengths and the cards available in each classroom. Construct and upgrade buildings, gather resources, support your settlement, and lead your students into battle as your home continues to grow. You can focus on development and win by increasing your settl…",
+    "detectedAt": "2026-08-30T12:28:45.145Z"
+  },
+  {
+    "steamAppId": 5068740,
+    "title": "Letter Engineer",
+    "sourceUrl": "https://store.steampowered.com/app/5068740/",
+    "price": "価格情報なし",
+    "tags": [
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068740/97a2e2a2b3338f7a59587fc10375ba31f1e2c3fd/header.jpg?t=1787800320",
+    "japaneseSupport": "none",
+    "shortDescription": "Letter Engineer is a physics puzzle word game where you turn crossword puzzles into bridges, hammers, seesaws, cars, and rockets. Complete levels to reconnect an abandoned galaxy.",
+    "aboutTheGame": "Create crosswords . Letter Engineer is a game where the words you write become machines. In each level, your goal is to get the ball to the flag by writing words. The words you write will become physical objects in-game, and you can use them to build bridges, hammers, cars, or even rocket ships to get your ball where it needs to go. Connect . Completing levels earns you letters in the overworld, which you can use to connect planets. Fill in the blanks to build bridges that take you to new places. Every kind of letter . Once you've mastered the standard letter tile, you gain access to new types…",
+    "detectedAt": "2026-08-30T12:28:45.686Z"
+  },
+  {
+    "steamAppId": 5068890,
+    "title": "从前有座山",
+    "sourceUrl": "https://store.steampowered.com/app/5068890/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068890/59083575015fd924e20b20ed70b14c0f86d23f3a/header.jpg?t=1787626909",
+    "japaneseSupport": "none",
+    "shortDescription": "一座小小的浮空仙山，您可以种田，种花，养殖，钓鱼，养鱼，捉虫，养蜂，酿蜜，修行，可以全屏游玩，也可以位于屏幕底部的休闲种田挂机模拟游戏，不会影响您的正常工作。",
+    "aboutTheGame": "从前有座山是一款修仙种田模拟经营挂机游戏，游戏以中国古韵的画风，自由多元的养成路径，轻松可挂机的经营玩法，带给您一段轻松惬意的种田时光。 游戏特色 100+作物 100+鱼类 100+虫类 多样的npc帮工",
+    "detectedAt": "2026-08-30T12:28:46.233Z"
+  },
+  {
+    "steamAppId": 5068900,
+    "title": "Soulstone",
+    "sourceUrl": "https://store.steampowered.com/app/5068900/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068900/b8b9442ced915503589f35249d7b3b7368b1a2c1/header.jpg?t=1787621231",
+    "japaneseSupport": "none",
+    "shortDescription": "Be anyone, go anywhere, do anything. Live a new life in a fantasy world.",
+    "aboutTheGame": "This Game Features: Custom Character Creation Crafting System Powerful Magic System Dynamic Day & Night Cycle Classic Turn-Based Combat Story-Rich Dialogue & Quests Open World Map Skills Like Mining & Woodcutting (Level Them Up!) And Much More!",
+    "detectedAt": "2026-08-30T12:28:46.793Z"
+  },
+  {
+    "steamAppId": 5068910,
+    "title": "GRIMLINE",
+    "sourceUrl": "https://store.steampowered.com/app/5068910/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068910/545d2fb2f1c338049df4855ac240dcc7d24edd06/header.jpg?t=1788076711",
+    "japaneseSupport": "none",
+    "shortDescription": "Survive a collapsing rail corridor in a top-down zombie extraction game. Search dangerous stations, manage scarce supplies, rescue survivors, and bring what you can back to a fragile train that serves as your moving base.",
+    "aboutTheGame": "GRIMLINE is a top-down single-player zombie survival extraction game. You play as railway electrical technician Mara Voss, who restores an abandoned emergency train and turns it into a moving refuge through the infected ruins. Enter the stations. Make it back alive. Every stop is a dangerous expedition. Search buildings and industrial sites, manage limited ammunition, medicine and carrying space, and decide when the extra supplies are worth the risk. The farther you push, the harder it may be to return. Build a home that keeps moving What you recover changes life aboard the train. Store suppli…",
+    "detectedAt": "2026-08-30T12:28:47.332Z"
+  },
+  {
+    "steamAppId": 5068940,
+    "title": "Swirl Together",
+    "sourceUrl": "https://store.steampowered.com/app/5068940/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "2026年11月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068940/ce39aa1883e620c755f8ceb5790850872e6e2cbf/header.jpg?t=1787769703",
+    "japaneseSupport": "none",
+    "shortDescription": "A mesmerizing cooperative exploration for two to eight people, or a sandbox for one. Explore the colors and motion dynamics, save presets of your favorites to enjoy later and swap with others, and share a canvas with a friend, or a stranger, and make something neither of you could have made alone.",
+    "aboutTheGame": "Swirl Together: a cooperative painting sandbox for two to eight people, or a sandbox for one. Features: Collaborate with others: 2 to 8 painters on one canvas. 3 base paint materials: fluid, wet paint that dries, thick paint that piles up Custom brush tips you can mask out yourself from images A robust collider and layer system Kaleidoscope and Mandala modes for beautiful symmetry and recursion Locally run masking segmenting models for easy masking. Color shifting, plus glow, relief and gloss Audio mode that lets you use your microphone, speakers, or a music file Export to video, GIF, stills o…",
+    "detectedAt": "2026-08-30T12:28:47.875Z"
+  },
+  {
+    "steamAppId": 5069160,
+    "title": "桌面寵物工作室 - DesktopPetStudio",
+    "sourceUrl": "https://store.steampowered.com/app/5069160/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月3日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069160/c2325eb13806d83daee0d8b244c58ea6243e810a/header.jpg?t=1787702559",
+    "japaneseSupport": "text",
+    "shortDescription": "Desktop Pet Studio is a Windows desktop pet creator. Upload PNG frames or GIFs, set animations and speech bubbles, then add alarms, calendars, tasks, and Do Not Disturb. Care for your pet, share creations on Steam Workshop, or trigger reactions with Twitch Bits.",
+    "aboutTheGame": "Bring Your Favorite Character to Your Desktop Desktop Pet Studio is a Windows desktop pet creation tool. Upload your own animation frames or GIFs, set poses, speech bubbles, sounds, and interaction rules, and let your character accompany your work, games, and daily routine. It is more than a default pixel cat. Create an original character, use a commissioned design, make a rabbit or robot, or build with any character assets that you have the right to use. Create a desktop companion that is truly yours. Customize Characters and Animated Poses Supports multi-frame PNG, GIF, PPM, and PGM animatio…",
+    "detectedAt": "2026-08-30T12:28:48.392Z"
+  },
+  {
+    "steamAppId": 5069240,
+    "title": "Do I Know You?",
+    "sourceUrl": "https://store.steampowered.com/app/5069240/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069240/84de73de14e9c4a45f87fcea8dc0e7f75dc1a783/header_japanese.jpg?t=1787808567",
+    "japaneseSupport": "text",
+    "shortDescription": "とあるマンションの管理人となったあなた。 目の前の訪問者は、人か、それともーー。 会話から違和感を見抜く、言葉探しホラー。",
+    "aboutTheGame": "19XX年、世界には\"擬態者\"と呼ばれる、人間に擬態する存在が現れた。 あなたは、とあるマンションの管理人として訪問者の出入りを監視することになる。 見極めろ \"擬態者\"は、成り代わった人間の記憶を引き継ぎ、真似をする。 だが、完全ではない。 テレビや電話を駆使し、情報を集め、質問し、その僅かな違和感を決して見逃すな。 決断せよ 訪問者を通すのか、それとも銃を取るのか。 その決断が、住民たちの命を左右する。",
+    "detectedAt": "2026-08-30T12:28:49.071Z"
+  },
+  {
+    "steamAppId": 5069340,
+    "title": "怪谈",
+    "sourceUrl": "https://store.steampowered.com/app/5069340/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5069340/434a2bb851896261a6b77b2fbcf19ac586988e0b/header.jpg?t=1787835702",
+    "japaneseSupport": "none",
+    "shortDescription": "Ghost Stories is a Lovecraftian co-op adventure. As investigators on a mysterious island, uncover secrets and buried treasure while surviving escalating danger, shifting weather, random events, and deadly monsters.",
+    "aboutTheGame": "Players form an adventure party to venture deep into a mysterious island, adapting to dynamic weather that alters the map's ecosystem. The longer you survive, the greater the rewards—though survival difficulty escalates exponentially. Braving the dual threat of terrifying monsters and unknown environments, extract with precious treasure, customize your character and playstyle, and build a unique combat system.",
+    "detectedAt": "2026-08-30T12:28:49.621Z"
   }
 ]
