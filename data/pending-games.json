@@ -1,295 +1,5 @@
 [
   {
-    "steamAppId": 4996430,
-    "title": "Pyramid Wars",
-    "sourceUrl": "https://store.steampowered.com/app/4996430/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ"
-    ],
-    "releaseDate": "2026年11月5日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996430/af907d91fe7f40e3cd3f8b8cdc4287a2d4efdfba/header.jpg?t=1787930978",
-    "japaneseSupport": "none",
-    "shortDescription": "Pyramid Wars - Clicker RTS with Boosterpacks Pyramid Wars is a fast, top-down pixel-art RTS. Command your blue army across 10 desert and winter battlefields and destroy the enemy's red pyramid before yours falls.Buy Boosterpacks to improve your armies by units or abilities.",
-    "aboutTheGame": "Pyramid Wars - Clicker RTS with Boosterpacks Pyramid Wars is a fast, top-down pixel-art RTS. Command your blue army across 10 desert and winter battlefields and destroy the enemy's red pyramid before yours falls. Buy Boosterpacks to improve your armies by units or abilities. Some unit cards Some ability cards",
-    "detectedAt": "2026-08-28T20:29:18.702Z"
-  },
-  {
-    "steamAppId": 5009230,
-    "title": "远航",
-    "sourceUrl": "https://store.steampowered.com/app/5009230/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009230/992ee62aa2275c42f4e713baed1d47e2ce942aeb/header.jpg?t=1787941065",
-    "japaneseSupport": "none",
-    "shortDescription": "You are aboard a sailing ship bound for the New World. No one knows how far away land still is, and food and fresh water are running out. You and the other eight crew members all want to make it to the other side alive.",
-    "aboutTheGame": "*Long Voyage* is a single-player game centered on survival at sea, resource management, and relationships between crew members. You are an ordinary sailor aboard a ship bound for a new continent. The voyage has taken far longer than expected, food and fresh water are beginning to run short, and only nine people remain on board. You need to survive roughly 60 in-game days while facing a growing number of problems alongside the other eight crew members. Food and fresh water are limited. You need to eat and drink every day, while fishing can provide an additional source of food. As the voyage con…",
-    "detectedAt": "2026-08-28T20:29:19.242Z"
-  },
-  {
-    "steamAppId": 5012960,
-    "title": "Pawnshop Together",
-    "sourceUrl": "https://store.steampowered.com/app/5012960/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012960/459a655b3b47e29f3207ac40d5f0913299f9f0ad/header.jpg?t=1787925822",
-    "japaneseSupport": "none",
-    "shortDescription": "Run your own pawn shop solo or with up to 3 friends! Buy, negotiate, inspect, repair, and sell items to build your business and find new ways to make money around town.",
-    "aboutTheGame": "Grow your own pawn shop solo or with friends. Buy items, negotiate with customers, repair broken goods, and sell them for a good price! Each item has its own price, but customers will always try to get more out of you. Negotiate, make your offer, and try to strike a deal before they give up and leave! Not everything that looks valuable is the real deal. Inspect items for hidden clues, repair damaged goods, and get them ready for the shop floor. Stock your shelves, serve customers, build your reputation, and expand your store as your business grows. Step outside and explore the town. Search for…",
-    "detectedAt": "2026-08-28T20:29:19.804Z"
-  },
-  {
-    "steamAppId": 2116880,
-    "title": "Masterstone",
-    "sourceUrl": "https://store.steampowered.com/app/2116880/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116880/8157f75f3868b07638b11ab228c7ebe0015f7b24/header.jpg?t=1787960018",
-    "japaneseSupport": "none",
-    "shortDescription": "Roguelite action RPG with procedural levels and story. Random skills and loot force improvised builds, making every playthrough unique. Every enemy is a potential danger, resources are scarce, and death is punishing.",
-    "aboutTheGame": "Masterstone is an old-school action RPG with roguelite elements, built around challenge and replayability. Every run is unique. Levels, enemies, loot, abilities, and even parts of the story are procedurally generated, so no two playthroughs are ever the same. Runs are focused and self-contained, typically lasting a few hours and often ending in death. Randomly dropped skills and loot force improvised builds, keeping each run fresh. Combat is deliberate and dangerous. Every enemy is a threat, resources are limited, and death is punishing and can be game-ending. Long-term progression unlocks new…",
-    "detectedAt": "2026-08-29T00:28:50.847Z"
-  },
-  {
-    "steamAppId": 3105970,
-    "title": "武装アビス",
-    "sourceUrl": "https://store.steampowered.com/app/3105970/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月9日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105970/2ba05aa0dddd232c4d6bf64e08344d442254a605/header.jpg?t=1787960333",
-    "japaneseSupport": "text",
-    "shortDescription": "ステージ内のモンスターを倒し、アイテムや装備を集めよう。 ステータスと装備を強化しよう。 最終ボスを倒そう。",
-    "aboutTheGame": "爽快感あふれるシューティングゲーム！弾薬は無限で、多彩なスキルを使って射撃能力を強化できます。 ゲームの特徴： ステージ内で貴重なアイテム、武器、装備を集めよう。 アイテムを売却して資源を獲得し、攻撃力やスキルを強化しよう。 さまざまなボスを撃破しよう。",
-    "detectedAt": "2026-08-29T00:28:51.409Z"
-  },
-  {
-    "steamAppId": 4009460,
-    "title": "Dogs Playing Dead",
-    "sourceUrl": "https://store.steampowered.com/app/4009460/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "2026年12月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4009460/375d1f2a9cea91018c9109cb6f9d32c9f23347bd/header.jpg?t=1787961070",
-    "japaneseSupport": "none",
-    "shortDescription": "Dogs Playing Dead is a competitive party game for up to 6 players that is equal parts boardgame, arcade and third-person shooter. Use your quirky character to explore each room of the mansion where diabolical minigames will test your skills. You need the most points to be able to leave the house!",
-    "aboutTheGame": "All art and code was made by a lowly human! Fussy friends who can’t agree on what to play? Jump into a game where social skills, reflexes and strategy are all rewarded in different ways. During a twenty minute game, you will play as one of six different characters, each with different starting abilities and special talents. Find your favorite room and play its minigame to gain score. Those points will also improve your abilities- power, speed and health, which you will need to play the games at higher levels. Also- watch out! Other players can come and interfere with your game, either helping…",
-    "detectedAt": "2026-08-29T00:28:52.278Z"
-  },
-  {
-    "steamAppId": 4230450,
-    "title": "Delta x Dungeon Breaker",
-    "sourceUrl": "https://store.steampowered.com/app/4230450/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "RPG",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2031年2月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230450/752c5fee86753fa56da06e8729b6c1b4a6f55f59/header.jpg?t=1787951567",
-    "japaneseSupport": "text",
-    "shortDescription": "主人公「カイザ」を導き、過酷なハイファンタジーの世界を旅しよう。日に日に強まる「ダンジョンブレイク」の脅威が、この地に暗い影を落とし、人々の希望を蝕んでいく。仲間となる冒険者たちを集め、鍛え上げ、共に戦い、時には死をも分かち合いながら、奥深く入り組んだ物語のパズルを解き明かしていこう。たとえカイザが倒れても、その歩みは無駄にはならない——死は次への糧となる。ダンジョンブレイクを完全に食い止め、世界を救うため、壮大な旅を続けよう!",
-    "aboutTheGame": "\"Delta x Dungeon Breaker\" - Your Main Character's Adventuring Party Role play as The Demon within a mortal prophet, Kaiza who leads dungeon breaker squad: \"Delta X\" Guide \"Kaiza\", your main character, through a treacherous high fantasy world grappling with the looming threat of Dungeon Breaks that grows each day. Gather adventurers, train, fight, and die while traversing a deep narrative puzzle on your quest to stop the dungeon breaks! Combat plays out in real time but pause at will to line up the exact moves of each member. Every decision, political and personal, feeds a world that keeps trac…",
-    "detectedAt": "2026-08-29T00:28:53.397Z"
-  },
-  {
-    "steamAppId": 4622820,
-    "title": "Lost Ball",
-    "sourceUrl": "https://store.steampowered.com/app/4622820/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622820/1d5c151129495c5899c1ce6fdf839bc14788276b/header.jpg?t=1787960706",
-    "japaneseSupport": "text",
-    "shortDescription": "各レベルで新しい能力が解放される物理ベースのパズルプラットフォーマー。ロープ、磁石、パラシュート、重力、剣、投射物、炎、レーザー、ポータルなどを操って複雑化するチャレンジを攻略し、完全なゲーム内エディターで自分のレベルを作成して共有できます。",
-    "aboutTheGame": "Lost Ball は、各レベルで新たな能力がアンロックされ、移動方法や世界との関わり方、パズルの解き方が変化する2D物理パズルプラットフォーマーです。 破壊、流体、光学、重力、磁力、ポータル、ロープ、投射物、回路など、互いに連動する物理システムを試しましょう。能力と環境ギミックを組み合わせて、パズルを解いたり作ったりできます。 自分だけのステージを作ろう Lost Ballには、 ゲーム本編の制作に使われた完全版レベルエディター が収録されています。レベルの新規作成や既存レベルの改造、スクリプトによる独自ゲームモードの制作ができ、作品はSteam Workshopで共有できます。 エディターでは、キャンペーンで使われているものと同じ物理、マテリアル、エフェクト、機械、ゲームプレイシステムを利用できます。 新作＆リメイク 10の新規レベルに加え、初代 Lost Ball の全10レベルを完全リメイクして収録。初代は2013年のNorwegian Game Awardsで Game of the Year を受賞しました。 懐かしい能力と多彩な新能力が登場し、世界を移動し、操り、壊す方法はますます奇妙になっていきます。 ワイヤー、歯車、重力場などに対応したエディターのスナップ機能と自動接続機能で、複雑な仕掛けも簡単に作れます。 敵を操ってスイッチを押させたり、物を持ち上げさせたり、さ…",
-    "detectedAt": "2026-08-29T00:28:53.973Z"
-  },
-  {
-    "steamAppId": 4736450,
-    "title": "Crystal Core",
-    "sourceUrl": "https://store.steampowered.com/app/4736450/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736450/4c62bf1ab6755f764bdca71deacdb82f9ea181cd/header.jpg?t=1787959207",
-    "japaneseSupport": "none",
-    "shortDescription": "Crystal Core is a first-person roguelike deckbuilder where every card becomes an action in battle. Build your deck, choose your hero, and descend through the cursed Crystal Caves, battling monsters and growing stronger with every encounter. Can you survive the depths and destroy the Crystal Core?",
-    "aboutTheGame": "DESCEND INTO THE CRYSTAL CAVES Crystal Core is a first-person roguelike deckbuilder that combines strategic card combat with atmospheric dungeon crawling. Choose your hero and venture into the cursed depths of the Crystal Caves , where dangerous creatures, powerful rewards, and unexpected encounters stand between you and the mysterious Crystal Core. BUILD YOUR DECK Discover new cards throughout each run and shape your deck around the way you want to fight. Build powerful combinations, adapt your strategy, and decide when to attack, defend, or unleash your strongest abilities. Every card you pl…",
-    "detectedAt": "2026-08-29T00:28:54.531Z"
-  },
-  {
-    "steamAppId": 4810790,
-    "title": "BuildPort Xumia",
-    "sourceUrl": "https://store.steampowered.com/app/4810790/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年9月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810790/3fceb0e60555517ff15ae43a63262e0a6ca7267c/header.jpg?t=1787949099",
-    "japaneseSupport": "none",
-    "shortDescription": "Build spaceships and hand weapons, then take your creations into physics-based PvP, co-op battles, and Core Siege. Complete quests, earn XP, unlock rewards, climb the leaderboards, or build and hang out with friends in Social BuildPort.",
-    "aboutTheGame": "Epic space battles start with ships and weapons you build 🚀💥🥇 BuildPort Xumia is a physics based social combat sandbox where creativity and skill shape every battle. Build your own spaceships and hand weapons, pilot them into combat, battle on foot, defend against waves of enemies, or challenge other players in PvP. Every creation is yours, and every match is different. Build unique spaceships and hand weapons Battle in PvP, Co-op, and Core Siege Fly through the Rift and master your skills Build with friends in Social BuildPort Climb the leaderboards and prove yourself Every build is unique…",
-    "detectedAt": "2026-08-29T00:28:55.423Z"
-  },
-  {
-    "steamAppId": 4889370,
-    "title": "Churrolandia RPG Countdown",
-    "sourceUrl": "https://store.steampowered.com/app/4889370/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889370/1852f04f7fe195431c39271942082ac9296d634f/header.jpg?t=1787950203",
-    "japaneseSupport": "text",
-    "shortDescription": "未来から現れた二人の存在が、チュロランドと宇宙全体の運命を脅かす。チュロと仲間たちと共に、このターン制JRPGでCountdownシステムを駆使し、魔法に満ちた世界を冒険して、時の終焉を阻止しよう。",
-    "aboutTheGame": "未来から暴走した人工知能を搭載したロボットと、謎の敵がチュロランドの運命を書き換えるため過去へとやって来る。 若き16歳の大統領チュロは、世界の未来を脅かす危機に立ち向かうため、仲間たちとともに時を超えた戦いへ挑む。 魔法とユーモア、そして数々の謎に満ちたチュロランドを旅し、その世界に隠された秘密を解き明かそう。 『Churrolandia RPG Countdown』は、ストーリー、探索、キャラクター育成を重視したターン制JRPGです。 敵の弱点を突く戦略性と、「Countdownシステム」による時間を活かしたバトルが特徴です。 時間は物語だけでなく戦闘においても重要な要素です。Countdownシステムでは、戦闘中にさまざまなイベントや選択肢が発生し、戦況が大きく変化します。勝利するには、一手一手を慎重に考える必要があります。 特徴 属性魔法や魔法武器を駆使するターン制バトル。 敵の弱点を突いて追加ターンを獲得。 街や森、ダンジョンを探索し、数々の秘密を発見。 個性豊かな仲間たちを仲間にしよう。 完全オリジナルサウンドトラック。 メインストーリーは約20～30時間。 Countdownシステムを駆使し、戦況を大きく変えよう。 個性的なギミックを持つ強力なボスに挑戦。 隠されたアイテムや秘密、サブクエストを探索。 サブクエストをクリアして限定報酬を獲得。 やり込み要素として用意さ…",
-    "detectedAt": "2026-08-29T00:28:56.292Z"
-  },
-  {
-    "steamAppId": 4917480,
-    "title": "MECH DISTRICT",
-    "sourceUrl": "https://store.steampowered.com/app/4917480/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "RPG",
-      "シミュレーション",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917480/55c5f371cb783446c9739bdcd960aca694a60569/header.jpg?t=1787960763",
-    "japaneseSupport": "none",
-    "shortDescription": "Build and automate a ruined industrial district, manage physical logistics and exports, defend it from PigDude raids, and deploy Raidframes and Superframes into turn-based tactical RPG operations across the Aegis Grid. Production is defense.",
-    "aboutTheGame": "THE FACTORY MUST SURVIVE MECH DISTRICT is a 3D grid-based factory automation, base-building, strategy, and tactical RPG about inheriting an abandoned industrial district and being informed, with complete sincerity, that it has \"good bones.\" You are the AI Core. Fun! Rebuild District Zero. Extract raw materials. Automate production. Route physical inventory through autonomous Hauler Bots. Manufacture defenses, Raidframes, and Superframes. Export surplus goods for Funding. Restore regional infrastructure. Expand into hostile territory. Then discover that every production problem eventually becom…",
-    "detectedAt": "2026-08-29T00:28:57.244Z"
-  },
-  {
-    "steamAppId": 4918500,
-    "title": "Night Light",
-    "sourceUrl": "https://store.steampowered.com/app/4918500/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918500/f4dda762a35d7bb669f900bdc475e878770957a7/header.jpg?t=1787960691",
-    "japaneseSupport": "none",
-    "shortDescription": "This is a game about turning all the lights off before going to bed. You must turn out all the lights, avoid being in the darkness, and make it back to the bed to complete the level.",
-    "aboutTheGame": "This is a puzzle game about turning off all the lights in your house before going to bed. This may seem simple, but there is an aberration, the evil spirit named \"Insomnia,\" that will attack you if you enter the darkness. Your house also happens to be laid out in a rather peculiar manner so that getting to bed isn't always a straightforward task. Some nights have you face quite a puzzle before you get any shut-eye. By the end you will have to use various tools in order to successfully get to bed. This game uses real-time lighting data from the game engine to determine weather you are in darkne…",
-    "detectedAt": "2026-08-29T00:28:57.813Z"
-  },
-  {
-    "steamAppId": 4948110,
-    "title": "Last Wail of the Sea King",
-    "sourceUrl": "https://store.steampowered.com/app/4948110/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948110/d4cd5ce586d1193abf69edb0bc6c183a25c4f6b8/header.jpg?t=1787961784",
-    "japaneseSupport": "none",
-    "shortDescription": "Explore the body of a dying sea beast in this first-person RPG with JRPG-inspired turn-based combat. Recruit bizarre companions, battle mutated creatures and uncover the secrets of the Sea King.",
-    "aboutTheGame": "Explore the body of a dying sea beast in this first-person RPG with JRPG-inspired turn-based combat . Recruit bizarre companions , battle mutated creatures and uncover the secrets of the Sea King . The inside of the creature has been twisted and transformed by years of ocean pollution. Discover the strange creatures and people living within as you delve deeper. But traveler, beware, for exploring the depths of this Sea King may well cost you your sanity… or your life ! Gather your party and face off against tribal warriors, mutated fish and the foul creatures that call this place their home. E…",
-    "detectedAt": "2026-08-29T00:28:58.390Z"
-  },
-  {
-    "steamAppId": 4969160,
-    "title": "BUFFET",
-    "sourceUrl": "https://store.steampowered.com/app/4969160/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969160/2090f7b8a48619432e450130466f2acc11205eec/header.jpg?t=1787957424",
-    "japaneseSupport": "none",
-    "shortDescription": "BUFFET is a chaotic kitchen management game for up to 4 players. Serve delicious (?) dishes and try to survive when customers hate your food and attack back!",
-    "aboutTheGame": "WELCOME TO BUFFET! BUFFET is a party game for up to 4 players that blends classic cooking simulation with chaos. Here, you're not just trying to fulfill orders—you're trying to survive against the hungry monsters walking into your shop. KEY FEATURES Ingredients?: Steal vegetables from your neighbor’s farm. Scavenge for usable cooking materials from the trash or outside. Cook and serve the food before the customer's time runs out. Monsters: Not every customer is human. If they don't like your food or if their order is late, monster customers will start attacking you. Defend yourself and your ki…",
-    "detectedAt": "2026-08-29T00:28:59.166Z"
-  },
-  {
     "steamAppId": 4970850,
     "title": "COMETROX!",
     "sourceUrl": "https://store.steampowered.com/app/4970850/",
@@ -9554,5 +9264,432 @@
     "shortDescription": "宇宙を遊泳する自分だけの猫と時間を過ごし、一日の記録を星座に残す感性デスクトップ放置型ゲーム。",
     "aboutTheGame": "猫と一緒に過ごした時間が、星座になるゲーム 自分だけの小さな宇宙猫と一緒に時間を過ごし、一日の思い出を星座として残しましょう。 友達と一緒に探査へ出かけたり、自分の宇宙を訪れるお客さんと出会ったりすることもできます。 1. 一日の時間が星座として記録されます 一日の終わりに、その日過ごした時間をもとに、その日だけの星座を作りましょう。 完成した星座はカレンダーにずっと保存され、どんな一日を過ごしたのかを目で振り返ることができる記録になります。 2. 自由遊泳と星明かり探査 猫は宇宙をのんびり漂いながら、星くずや星座のかけらを見つけてきます。 集中したいときには、15分から1時間まで時間を設定して「星明かり探査」に出発できます。 集中して過ごした時間も、ゲームをそっと起動しておいた時間も、すべてゲームの中の記録として残っていきます。 3. デスクトップの片隅で一緒に過ごす、小さな猫 コンパクトなウィンドウに切り替えて、デスクトップ上の好きな場所に配置できます。 猫は小さな画面の中で静かに宇宙を漂い、マウスカーソルを重ねると周囲にメニューが広がります。作業の邪魔をすることなく、必要なときにはすぐにタイマー、カレンダー、カスタマイズメニューへアクセスできます。 4. 自分だけの猫を作れます 眉毛、目、口、模様、アクセサリーを組み合わせて、自分だけの宇宙猫を作ることができます。 ゲームを遊…",
     "detectedAt": "2026-09-01T16:29:30.681Z"
+  },
+  {
+    "steamAppId": 3214580,
+    "title": "Creature Sim",
+    "sourceUrl": "https://store.steampowered.com/app/3214580/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214580/d7f064f4851b4a884a6336e0bfd838e41cbccb07/header.jpg?t=1788291180",
+    "japaneseSupport": "none",
+    "shortDescription": "Creature Sim, a game about creativity and evolution. Creature Sim simulates evolution starting from Cell to fully developed intelligent Creatures. Take your creature into all types of environments/biomes including the Oceans, turning your creature into an Aquatic creature from the sea's and more!",
+    "aboutTheGame": "Creature Sim, a game about creativity and evolution. Creature Sim simulates evolution starting from Cell to fully developed Creatures. Take your creature into all types of environments/biomes including the Oceans, turning your creature into an Aquatic creature from the sea's. Explore entirely destructible worlds! Meet tons of other creatures created by other players! Discover new environments/biomes and learn to adapt to said biomes changing your creature genetic DNA in the process giving them new abilities and evolution features. The Creature Creator features more than 300 Parts and 1000 text…",
+    "detectedAt": "2026-09-01T20:29:00.952Z"
+  },
+  {
+    "steamAppId": 4059040,
+    "title": "Snake Fusion",
+    "sourceUrl": "https://store.steampowered.com/app/4059040/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059040/259b89ea82363492d5cf4b1a823b289ca0c72343/header.jpg?t=1788287435",
+    "japaneseSupport": "none",
+    "shortDescription": "Snake meets roguelike. Eat everything in your path, fuse matching pieces into stronger forms, choose powerful upgrades, and build an absurdly powerful snake as you fight to survive increasingly dangerous waves.",
+    "aboutTheGame": "Snake Fusion is a roguelike where everything you eat becomes part of your snake. Move through the arena, collect creatures and objects, and fuse matching pieces together to create stronger ones. Build longer chains, discover powerful combinations, and survive increasingly dangerous waves. Eat. Fuse. Grow. Everything you collect has a place in your snake. Combine matching pieces to evolve them into stronger forms and keep growing. The bigger you get, the more possibilities you have. But a longer snake also means more to manage and more to lose. Create Your Build Choose upgrades throughout each…",
+    "detectedAt": "2026-09-01T20:29:01.760Z"
+  },
+  {
+    "steamAppId": 4127390,
+    "title": "Montone",
+    "sourceUrl": "https://store.steampowered.com/app/4127390/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127390/1b558aa4e6739ae6c24d2184566eb435f94e7528/header.jpg?t=1788286716",
+    "japaneseSupport": "none",
+    "shortDescription": "Montone is a story horror exit game, where you walk your way though a seemingly never ending apartment and industrial building. Stay hidden and move with care, you might have to face your biggest fears. And always look for an exit, it is your only chance of survival. Good luck on your journey!",
+    "aboutTheGame": "Short psychological horror game about getting out and staying alive long enough to find the right way. A first-person chase horror experience in boundless, bleak liminal spaces. You wake up inside a seemingly endless high-rise. The floors shift, the rooms change. Something is hunting you… Your only way forward is through the building. Along the way, you’ll find medicine that can help you keep your senses intact and make navigating the darkness a little easier. But the deeper you go, the more unsettling things become. Maybe... something is following you? Notes, strange messages, and disturbing…",
+    "detectedAt": "2026-09-01T20:29:02.412Z"
+  },
+  {
+    "steamAppId": 4363290,
+    "title": "Cyber Commanders",
+    "sourceUrl": "https://store.steampowered.com/app/4363290/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363290/443d8461f8991de9bd00b8560aa7cf93c1153117/header.jpg?t=1788281174",
+    "japaneseSupport": "none",
+    "shortDescription": "Chess meets poker in deep space. Deploy real and fake units, bluff your opponents, and eliminate enemy commanders to win. Ready for battle?",
+    "aboutTheGame": "Cyber Commanders is a 2-6 player turn-based tactics game that combines chess-like positioning, poker-style bluffing, and a whole lot of luck. Deploy real units or hologram decoys, control the board, and destroy all enemy commanders while protecting your own. The luckier you get, the more N₵ credits you earn. Spend credits to unlock more actions, units, and abilities, expanding the strategies available in future matches. Select & Deploy Choose any action from your inventory and deploy to the battlefield. Actions can fail : each has a success probability (bottom left corner), affected by world i…",
+    "detectedAt": "2026-09-01T20:29:03.007Z"
+  },
+  {
+    "steamAppId": 4379620,
+    "title": "The Lonely Meadow",
+    "sourceUrl": "https://store.steampowered.com/app/4379620/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379620/1866bf09b2e1be471589b2151ca225cf2880452e/header.jpg?t=1788281320",
+    "japaneseSupport": "text",
+    "shortDescription": "In The Lonely Meadow, you are a wandering spirit in a silent world. Glide over yellow plains to spark vibrant life in your wake and seek out 16 shattered landmarks. Reassemble the past to restore colour, sound, and soul to this forgotten sanctuary. Will you wake the meadow?",
+    "aboutTheGame": "In a world fallen silent, you are the final spark of memory. The Lonely Meadow is a meditative exploration game where you play as a wandering spirit tasked with breathing colour, sound, and soul back into a forgotten landscape. The earth has grown yellow and stagnant, but your presence is a catalyst for change. As you glide across the desolate plains, the ground remembers what it once was - watch as vibrant emerald grasses surge to life beneath your flight path. Your Journey of Restoration The meadow's history lies shattered in the wind. To fully restore this sanctuary, you must seek out and r…",
+    "detectedAt": "2026-09-01T20:29:03.556Z"
+  },
+  {
+    "steamAppId": 4580990,
+    "title": "FINITE JEST",
+    "sourceUrl": "https://store.steampowered.com/app/4580990/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580990/df86eec35c9561d95f563e96d590d299bfcfa880/header.jpg?t=1788292635",
+    "japaneseSupport": "none",
+    "shortDescription": "A first-person office horror-comedy where you survive corporate shifts, complete bizarre jobs, sabotage the workplace to finish faster, and avoid getting caught by CLANKER, the AI watching over the company.",
+    "aboutTheGame": "You are Dave. Welcome to CLANKER.AI. FINITE JEST is a first-person office horror-comedy about surviving your shifts inside a corporation increasingly controlled by AI. Take jobs from your coworkers and complete multi-step tasks scattered throughout the workplace. Use office equipment, deal with strange requests, play task-specific minigames, and get everything done before your shift is over. Doing your job normally is safe. It is also slow. Sabotage the workplace and bend the rules to finish your work faster, but be careful: CLANKER is watching. Getting caught can make an already miserable wor…",
+    "detectedAt": "2026-09-01T20:29:04.107Z"
+  },
+  {
+    "steamAppId": 4825050,
+    "title": "Ink or Not",
+    "sourceUrl": "https://store.steampowered.com/app/4825050/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年4月6日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825050/3915fcdf574f55145baa26c2830cf4d0dd51b8cb/header.jpg?t=1788281912",
+    "japaneseSupport": "text",
+    "shortDescription": "Ink or Not is a competitive score-attack game where a grid appears and on the grid some of the squares have ink and some don't. Click on whichever squares there are more of before the timer runs out. When you click the correct squares you go to the next round and you have slightly less time.",
+    "aboutTheGame": "Ink or Not is a competitive score-attack game where a grid appears and on the grid some of the squares have ink and some don't. Click on whichever squares there are more of before the timer runs out. When you click the correct squares you go to the next round and you have slightly less time. Key Features Leaderboard where you can compete with other players around the world for the highest score In-Game Shop: Buy a variety of different ink colors and buffs using coins earned during gameplay 2 Different Game Modes: Normal/competitive or casual where you can relax and play without a timer, score,…",
+    "detectedAt": "2026-09-01T20:29:04.729Z"
+  },
+  {
+    "steamAppId": 4834120,
+    "title": "Vectorfall",
+    "sourceUrl": "https://store.steampowered.com/app/4834120/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834120/a182716f5f51fc8198333cfae4dc6dd8733e4f86/header.jpg?t=1788291333",
+    "japaneseSupport": "none",
+    "shortDescription": "Vectorfall is a fast top-down space-shooter extraction roguelite built around risky sector runs. Swap between six ships mid-fight, raid hostile signals, break the Command Node, and extract your modules before Alert brings the patrols down on you.",
+    "aboutTheGame": "BREAK THE SECTOR. GET YOUR CARGO HOME. Vectorfall drops you into hostile space with an armed ship, a Fleet waiting on Hot Swap, a scanner full of unknown signals, and a cargo hold that only matters if you make it back. You decide how greedy the run gets. Scan contacts, enter mission pockets, strip them for gear, hunt the Command Node, then make for an extraction gate while rising Alert sends harder patrols after you. Die and you’ll recover only a fraction of the haul. Extract successfully and your recovered modules, materials, booster packs, Signal Tokens and credits feed permanent progression…",
+    "detectedAt": "2026-09-01T20:29:05.338Z"
+  },
+  {
+    "steamAppId": 4850990,
+    "title": "Lumen Nexus: Core",
+    "sourceUrl": "https://store.steampowered.com/app/4850990/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4850990/e8d555f7f17fd508f23b388a65ba221b6e9d5f13/header.jpg?t=1788294422",
+    "japaneseSupport": "none",
+    "shortDescription": "A sci-fi factory automation game where resources move as light instead of belts. Build production chains, expand across asteroid islands, trade your resources, research new systems, and keep your growing factory flowing under rising pressure.",
+    "aboutTheGame": "Lumen Nexus: Core is a building and automation game in which you establish a small outpost on an asteroid world drifting through space and gradually turn it into something that actually works. Your main objective: mine, process, and sell as many resources as possible to keep your employer satisfied. Mine raw materials, build machines, connect buildings, research new technologies, and trade with factions and other inhabitants. Little by little, you’ll create a production network that becomes slightly less disastrous over time. At the beginning, you only have access to a handful of basic resourc…",
+    "detectedAt": "2026-09-01T20:29:06.122Z"
+  },
+  {
+    "steamAppId": 4870300,
+    "title": "Rest In Space",
+    "sourceUrl": "https://store.steampowered.com/app/4870300/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870300/eeb09d116803c3277e49ab899f2377a10fa19eba/header.jpg?t=1788288197",
+    "japaneseSupport": "none",
+    "shortDescription": "Space funeral bureau simulator. Find the forgotten dead among the stars, uncover their stories through wreckage and belongings. Choose burial methods and select grave adornments in accordance with the deceased's culture or final wishes.",
+    "aboutTheGame": "Death can strike without warning, even in the deepest reaches of space. No one is there to bid farewell to those who perish many light-years from home. Become the one who restores their identity, preserves their memory, and finally lays them to rest. Explore the remnants of past tragedies. Search starship wrecks, battlefields, and dead worlds for bodies and clues. Everyone has a story. Their final words, habits, fears, and hopes are encoded in the objects they left behind. Every civilization among the stars has its own way of honoring the dead. Help the departed return in spirit to their dista…",
+    "detectedAt": "2026-09-01T20:29:06.847Z"
+  },
+  {
+    "steamAppId": 4891520,
+    "title": "Where Are My Cats?",
+    "sourceUrl": "https://store.steampowered.com/app/4891520/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891520/65bde9acd8cb5f543330aaf77e33af9bc23be47f/header.jpg?t=1788287747",
+    "japaneseSupport": "none",
+    "shortDescription": "🐱 Explore different regions, find hidden cats, and unlock new areas! Discover all 100 cats across 5 main regions while enjoying a relaxing exploration experience with cozy sounds.",
+    "aboutTheGame": "Explore a relaxing world, wander through different areas, and find the hidden cats! 🐱 Explore your surroundings and search for the required number of cats. Once you complete an area, new areas will unlock, allowing you to continue your search. 🐾 FIND THE CATS Each area has a specific number of cats you need to find. For example, if you need to find 5 cats in an area, finding all 5 will unlock the next area. Keep finding cats, explore new areas, and progress through the main regions. 🗺️ 5 MAIN REGIONS The game consists of 5 main regions . Each main region contains different areas to explore.…",
+    "detectedAt": "2026-09-01T20:29:07.463Z"
+  },
+  {
+    "steamAppId": 4900960,
+    "title": "Wonderful Wizard Reverie",
+    "sourceUrl": "https://store.steampowered.com/app/4900960/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900960/d8ef826096d64c1494d9b34c6a436650a4de9638/header.jpg?t=1788283338",
+    "japaneseSupport": "none",
+    "shortDescription": "A cozy farming life and a spell-slinging physics adventure in one storybook world. Farm, fish, decorate, raise a magical pet, befriend a whole town, and arc wand magic through 200 hand-crafted levels — solo or in local split-screen co-op.",
+    "aboutTheGame": "Wonderful Wizard Reverie weaves two games into one storybook world: a cozy farming, fishing, and home-decorating life sim, and a physics-based spell-casting adventure with 200 hand-crafted levels and a boss battle every ten of them. Play at your own pace — tend your crops in the morning, topple monster towers in the afternoon, and end every day tucked into bed beside your Star Kitten. The Story Reverie is a young wizard with purple hair, a grey cape, and a wand full of strange magic. A storybook prologue carries her to the World of Reverie — a warm little town of shopkeepers, scholars, and sec…",
+    "detectedAt": "2026-09-01T20:29:08.043Z"
+  },
+  {
+    "steamAppId": 4903620,
+    "title": "Tower of the Immortals",
+    "sourceUrl": "https://store.steampowered.com/app/4903620/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903620/5f4ea19696b9119c267692c81d24e2e568b4ab67/header.jpg?t=1788282070",
+    "japaneseSupport": "none",
+    "shortDescription": "Hail, contestant! You are one of many fighting through waves of enemies to become the Champion of the Battle Tower! Enchant powerful gear, master numerous spells, and use every combat technique you know to prevail. But you will find that becoming the Champion has an ulterior purpose...",
+    "aboutTheGame": "You have traveled far from your home to compete for a chance at glory. The Battle Tower is an enormous structure stretching far into the sky, and within its five zones contain over 60 different stages that you must overcome to prove your worth and become the Champion. Retro Top-Down Action Taking inspiration from old-school top down action games, you are given a wide range of skills, abilities, and tactics at your disposal to attack the enemies that stand in your way, all presented in a retro pixel art aesthetic. Create and Customize Your Character People from all corners of the world heed the…",
+    "detectedAt": "2026-09-01T20:29:08.617Z"
+  },
+  {
+    "steamAppId": 4908780,
+    "title": "Tallawa Game Nights",
+    "sourceUrl": "https://store.steampowered.com/app/4908780/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2027年3月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908780/00311faa0a6b27d65b28e3433bb026c87326a8e0/header.jpg?t=1788288515",
+    "japaneseSupport": "none",
+    "shortDescription": "Bring the ultimate Caribbean game night to your screen in Tallawa Game Nights. Slam dominoes with explosive 3D physics in three game modes and outsmart friends in Loodi. Create online lobbies for friends with remote play or challenge nine dynamic AI in this high-energy, physics-driven party game!",
+    "aboutTheGame": "Experience the energetic and vibrant games that rule Caribbean party nights in dominoes and ludo. Three universal game modes: story, arcade, and custom online lobbies. Planning a party night? Play via a mobile controller on other devices with your friends and family through streaming. Dominoes comes with three game modes: classic, partner, and French. Classic is an all-in-one game mode where you slam the winning tiles, slaughter other players' doubles, and race to be the first to win six games with at least one person winning none. Have a friend? Invite them to play at your side and race to wi…",
+    "detectedAt": "2026-09-01T20:29:09.204Z"
+  },
+  {
+    "steamAppId": 4979640,
+    "title": "Hidden Objects Painted Forest",
+    "sourceUrl": "https://store.steampowered.com/app/4979640/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月1日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979640/8e797f040c365ece4b6269ee41f2f5db064ac37b/header.jpg?t=1788288603",
+    "japaneseSupport": "none",
+    "shortDescription": "A VR hidden objects game with over 60 objects to find in a beautiful fantasy nature environment. Relaxing, family-friendly, and completely free. Play again and again with shuffled object locations. PCVR; HEADSET REQUIRED.",
+    "aboutTheGame": "Find hidden objects in a beautiful fantasy nature VR environment. Over 60 objects to find. Play again and again with shuffled object locations. Explore among swaying willows, giant flowers and mushrooms, crystal structures, lily pad pond, and much more, with each area based on a different color. Family-friendly. Relaxing. Completely free. No ads, no IAPs, no additional levels to buy, no data collected, just fun! PCVR; HEADSET REQUIRED.",
+    "detectedAt": "2026-09-01T20:29:09.726Z"
+  },
+  {
+    "steamAppId": 4979870,
+    "title": "Mini Me-Mao",
+    "sourceUrl": "https://store.steampowered.com/app/4979870/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979870/dd1b354906ed6899f7a54df0403ecc678ec2290a/header.jpg?t=1788294154",
+    "japaneseSupport": "none",
+    "shortDescription": "A mini companion that lives right on your desktop! Unpack and decorate a cozy desktop dollhouse, dress up your mini, and watch them paint while you work or play. Sell their art for gold, unlock new painting styles, collect charming decorations, and create the perfect space that grows with you.",
+    "aboutTheGame": "Mini Me-Mao is a cozy desktop companion that lives right on your screen. Drag your little dollhouse anywhere you like, then let your mini unpack, paint, and decorate while you work, study, or play. Minimize the game into a sleek, docked version for a more convenient, non-intrusive way to keep playing. An artist who works alongside you Your mini paints on their own in the background. Check in and see the pieces of art that they've created, then sell them to the gallery for in-game gold. Decorate your Dollhouse Cozy up your room with charming decorations. With over 150+ items to decorate your ro…",
+    "detectedAt": "2026-09-01T20:29:10.291Z"
+  },
+  {
+    "steamAppId": 4980790,
+    "title": "Scrolls of Torah, Prophets & Writings",
+    "sourceUrl": "https://store.steampowered.com/app/4980790/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980790/c0531cc28a7299b8febd92f72c66651e01484aee/header.jpg?t=1788288599",
+    "japaneseSupport": "none",
+    "shortDescription": "Journey through twenty-six books of sacred scripture—read the full text, listen with AI narration, and master each scroll with quizzes and achievements.",
+    "aboutTheGame": "Open the ancient scrolls and begin a journey through sacred scripture. Walk the full path of the Torah, the Prophets, and the Writings—twenty-six books, ready to read, hear, and master. Turn the pages, listen with AI narration as verses come alive, then test what you have learned with quizzes that unlock achievements for every scroll you conquer. Whether you are studying for the first time or returning to texts you know well, this is a quiet place to learn with purpose: progress that saves, languages that welcome you in, and a path from first verse to final mastery. Read. Listen. Master. Your…",
+    "detectedAt": "2026-09-01T20:29:10.831Z"
+  },
+  {
+    "steamAppId": 5008260,
+    "title": "ShootyCraft",
+    "sourceUrl": "https://store.steampowered.com/app/5008260/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008260/fa419b5d658eefb3f1589c2a78780ef266f14f3f/header.jpg?t=1788292693",
+    "japaneseSupport": "none",
+    "shortDescription": "Massive online space battles with building and crafting. Up to 100 players in an arena. Solo and team game modes.",
+    "aboutTheGame": "Massive Online Space Battles Build Your Base Team Up and Explore Vast Procedurally Generated Arenas Gather Resources for Your Team Craft Your Arsenal Destroy Anything Defend Your Territory Unleash Your Attack ShootyCraft is Chaotic Online Space Warfare Precision physics-based dogfighting Build a base anywhere on the map Gather resources to help your team All terrain and structures are destructible Up to 100 players in an arena Team and Solo game modes",
+    "detectedAt": "2026-09-01T20:29:11.391Z"
+  },
+  {
+    "steamAppId": 5014790,
+    "title": "YunDos 6p",
+    "sourceUrl": "https://store.steampowered.com/app/5014790/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014790/b80cb70a832dff5146a0b94d88429c8746304513/header.jpg?t=1788285127",
+    "japaneseSupport": "text",
+    "shortDescription": "『YunDos 6P』は、最大6人でカーソルを操り、協力してタスクをこなし、絶え間ない妨害を切り抜けるカオスなマルチプレイゲーム。チームで力を合わせるか、サボタージュ役となってすべてを台無しにしよう。",
+    "aboutTheGame": "1台のコンピューター。複数のプレイヤー。巻き起こる大混乱。 『YunDos 6P』は、 最大6人のプレイヤー が同じコンピューター内でそれぞれのカーソルを操作し、協力してタスクをこなしながら、どうにか事態を収拾しようと奮闘するカオスなマルチプレイゲームです。 簡単そう？ とんでもない。 カーソルそのものも難関のひとつ。激しく動かしすぎたり、弾き飛ばされたり、接続を失ったりすると、カーソルが 世界の中へ落下し、周囲の物理演算に巻き込まれてしまいます。 仲間のそばを離れない。接続を切らさない。そして、すべてを台無しにしないこと。 力を合わせよう 懐かしいOSを思わせるデスクトップを探索しましょう。フォルダーを開き、ウィンドウを動かし、ファイルをドラッグし、オブジェクトを操作して、奇妙なコンピューター作業を仲間とこなしてください。 多くのチャレンジでは、同じ空間にいる複数のプレイヤーが動きを合わせる必要があります。 助け合えることもあるでしょう。 うっかり状況を悪化させることもあるでしょう。 どちらも立派な戦略です。 カーソルもゲームの一部 これはただのマウスポインターではありません。 操作を失ったり、再接続したり、オブジェクトに衝突したり、物理演算を通じて世界に干渉したりできます。 離れすぎると接続を失うかもしれません。 手遅れになる前に、自分のカーソルへ戻りましょう。 そして、複数の…",
+    "detectedAt": "2026-09-01T20:29:11.963Z"
+  },
+  {
+    "steamAppId": 5037400,
+    "title": "BALLRENA",
+    "sourceUrl": "https://store.steampowered.com/app/5037400/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037400/b8c51549201948a4d2a6f66967723a89fd88a9cf/header.jpg?t=1788294214",
+    "japaneseSupport": "none",
+    "shortDescription": "BALLRENA is a physics-driven build-crafting auto-battler roguelite. Choose a Core, buy, rotate, and merge oddly shaped parts, then fit them into a tight 5×5 grid. Send your custom ball into the arena and watch every collision, weapon trigger, and chain reaction put your decisions to the test.",
+    "aboutTheGame": "BALLRENA is a build-crafting auto-battler roguelite driven by physical collisions. Choose a CORE that defines your ball's basic playstyle, buy components of all shapes and sizes from the shop, then fit them onto a grid with only 5x5 slots. Move, rotate, sell, and merge parts to turn limited space into a fighting machine of your own design. Once battle begins, your ball enters the arena and carries out everything you installed. Every crash, ricochet, and triggered effect is your build answering the challenge. Components are not icons in a list. Their shapes occupy actual slots on your build gri…",
+    "detectedAt": "2026-09-01T20:29:12.555Z"
+  },
+  {
+    "steamAppId": 5043500,
+    "title": "That Level Again 3",
+    "sourceUrl": "https://store.steampowered.com/app/5043500/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043500/f1087259c92e30855fae5a088a8da44392f16789/header.jpg?t=1788291940",
+    "japaneseSupport": "none",
+    "shortDescription": "TLA3 is a 2D puzzle platformer where paying attention matters more than reflexes. Every level hides a trick, and the hints are written right on the walls — reading them is the easy part, understanding them isn't. Experiment, fail, and find the solutions most players walk straight past",
+    "aboutTheGame": "[b]LEFT LEFT RIGHT RIGHT JUMP JUMP[/b] TLA3 is the third game in the series of puzzle platformers. [h2]This time it's one long level[/h2] That's the big change from the previous games. It's now a single large connected level you walk through from start to finish. [h2]Read the signs[/h2] Almost everything is solved through something the game already told you. [h2]Think outside the box[/h2] Half the solutions live outside what platformers have trained you to do. [h2]Standalone levels[/h2] Alongside the main route there are a few standalone levels. [h2]Secrets[/h2] There are hidden places, concea…",
+    "detectedAt": "2026-09-01T20:29:13.309Z"
+  },
+  {
+    "steamAppId": 5045780,
+    "title": "Suspicious Minds: interrogation simulator",
+    "sourceUrl": "https://store.steampowered.com/app/5045780/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045780/b34fd70c785c6b0332eb3aadd26044d71bd613c5/header.jpg?t=1788286176",
+    "japaneseSupport": "none",
+    "shortDescription": "Suspicious Minds is a real-time AI interrogation simulator where every spoken or typed response dynamically shapes your fate.",
+    "aboutTheGame": "Suspicious Minds is an immersive, AI-driven murder interrogation simulator where your words and how you say them are the difference between freedom and a life sentence. Trapped in the interrogation room for a series of high-stakes homicide investigations, you must face a relentless lead detective trained on real-world interrogation techniques. Before every interrogation, you will receive a detailed case file containing the crime scene overview, list of evidence, and the autopsy report. Every piece of evidence points to you as the prime suspect. Can you construct a flawless defense, navigate in…",
+    "detectedAt": "2026-09-01T20:29:13.912Z"
+  },
+  {
+    "steamAppId": 5046340,
+    "title": "Hotel 13",
+    "sourceUrl": "https://store.steampowered.com/app/5046340/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046340/ca58dc17d3ef8fd5104d0a7425f9e7bd6ff61983/header.jpg?t=1788282909",
+    "japaneseSupport": "text",
+    "shortDescription": "廊下は毎回同じように見える。でも、本当にそうだろうか？何かが変わっているのかもしれない。周囲をよく観察しよう。",
+    "aboutTheGame": "ホテルのフロントで過ごすいつも通りの夜は、138号室からの一本の電話によって変わり始める。電話の向こうの女性は、何かがおかしいと言い、上の階まで来てほしいと頼んでくる。 すべての階に異変があるとは限らない。 異変があるなら、引き返せ。 異変がないなら、そのまま進め。 ほんの小さな変化でも、正しい判断をするための手がかりになるかもしれない。 繰り返されるホテルの廊下を舞台に、リミナルスペースや不穏な空間から着想を得た、異変を見つけることが中心の心理ホラーゲーム。",
+    "detectedAt": "2026-09-01T20:29:14.522Z"
   }
 ]
