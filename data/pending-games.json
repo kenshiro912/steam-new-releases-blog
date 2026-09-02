@@ -1,274 +1,5 @@
 [
   {
-    "steamAppId": 5047980,
-    "title": "異界刀鋒：バトルカード",
-    "sourceUrl": "https://store.steampowered.com/app/5047980/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年1月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047980/86849fbdc115dcb6fb54b9c83ca7a3d079938d6b/header.jpg?t=1787729272",
-    "japaneseSupport": "text",
-    "shortDescription": "A fantasy card-based tower defense game that blends deckbuilding, base defense, and tactical combat. Build your deck, set heroes, set deadly traps, and cast powerful spells to repel endless waves of enemies pouring from portals. Plan your moves carefully and protect the core crystal at all costs!",
-    "aboutTheGame": "In a fantasy battlefield beyond this world, you will build your own card army and forge your defense line with the power of cards. [RiftBlade: WarCards] combines the strategic depth of classic card battles with the escalating pressure of tower defense, while introducing tactical grid movement and unique unit mechanics. Enemies will continuously emerge from portals on the right side of the battlefield, advancing toward your base crystal on the left. As the commander, you must draw cards, manage your action points, summon powerful heroes, deploy units, and unleash magic and traps to create a dyn…",
-    "detectedAt": "2026-08-29T04:28:56.776Z"
-  },
-  {
-    "steamAppId": 5047990,
-    "title": "Fish Go Brrr!",
-    "sourceUrl": "https://store.steampowered.com/app/5047990/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047990/587a5cd0c19a35e29bf1cd663393f86add2a2df9/header.jpg?t=1787789741",
-    "japaneseSupport": "full",
-    "shortDescription": "この放置系アクアリウム経営ゲームで、魚にエサをあげ、金貨を集め、エイリアンの侵略から水槽を守ろう。ルールを覆す奇妙な仲間クリーチャーを解放しよう。勇気があるなら、この危険な水中の旅へ！",
-    "aboutTheGame": "『Fish Go BRRR!』は、ハードコアなサバイバル要素を備えた放置系タイクーンゲームです。 魚にエサをあげてコインを稼ごう。満腹にしてあげるか、それとも飢えさせてしまうか。コロニーを守るのか、それとも魚たちが共食いを始めるのを見過ごすのか……あなたはどんな水槽を作る？ 静けさもつかの間、エイリアンの侵略者が現れ、魚を襲い始める。水槽が全滅する前に反撃しよう！ すべてのレベルで、ルールを覆すユニークな特別な魚が解放され、冒険をサポートしてくれる。 Features バーチャル水槽モード：スクリーンセーバーのようにくつろげる水槽鑑賞モード 数十時間分のレベル 各エリアには独自のメカニクスが導入され、プレイ体験を新鮮に保つ",
-    "detectedAt": "2026-08-29T04:28:57.295Z"
-  },
-  {
-    "steamAppId": 5048100,
-    "title": "Zoocard",
-    "sourceUrl": "https://store.steampowered.com/app/5048100/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048100/91f3b844c528696cc87f978be90ed70985c584fd/header.jpg?t=1787912303",
-    "japaneseSupport": "none",
-    "shortDescription": "Zoocard is a zoo-themed roguelike deck-building game. Build a powerful deck of animals, pair them with food and toys, and create chain combos through species synergies. Listen to the animals’ delightfully goofy sounds as your zoo flourishes and your pile of coins keeps growing!",
-    "aboutTheGame": "Gameplay Zoocard is a zoo-themed board roguelike deck-building game. Place animals on a hexagonal board and trigger synergies between species to earn coin rewards. You can also earn additional rewards by feeding your animals, providing them with toys, and collecting stamps. Build a unique deck and play your cards strategically to maximize your zoo’s income. Build a Powerful Animal Deck Every animal has a unique ability. Discover new species, choose your cards, and refine your deck. Place animals in your zoo and watch them interact with one another: rabbits fear predators, wolves enjoy living i…",
-    "detectedAt": "2026-08-29T04:28:57.812Z"
-  },
-  {
-    "steamAppId": 5048300,
-    "title": "墨守",
-    "sourceUrl": "https://store.steampowered.com/app/5048300/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048300/58447bfe2b054a135779e8c23edc09ed8ddd9e25/header.jpg?t=1787662257",
-    "japaneseSupport": "text",
-    "shortDescription": "東洋ハイファンタジーの世界で、防衛成功まで何度も時を巻き戻す高難易度２Ｄタワーディフェンス。 さらにゲーム内のステージ作成機能により、プレイヤーの数だけ終わりないステージが待っている。",
-    "aboutTheGame": "「みんなを守るためなら、何度だって。」 「墨守」は墨家の指導者、鉅子となってあらゆる防衛戦を勝利に導くタワーディフェンスゲームです。 プレイヤーのがやることはキャラを配置することと、秘術を使うという二つだけというシンプルな操作性です。 しかしキャラの配置場所が１マス違うだけ、秘術のタイミングが数秒違うだけで結果は大きく変わってきます。そのため非常に高難易度なゲームになっています。 本作は運要素が一切介在しません。 そのためステージを失敗するたびに「何が原因だったのだろう？」、「それが原因なら次は何をしよう？」という試行錯誤を繰り返していくことによって少しづつクリアが近づいてきます。 そのトライアンドエラーを助けるためにステージを最初からやり直すリトライボタンだけでなく、ステージの途中にセーブポイントを置き、そこから再開するロードボタンもあります。 さらにこのようにステージ制作機能と、それを投稿する機能があります。 そのためプレイヤーによって高難易度ステージやギミックステージ、爽快感のあるステージなど様々なものが作られるため自分好みのゲーム体験を得られます。 なにより尽きることのないエンドコンテンツがあるため、いつまでも楽しめるゲームになります。",
-    "detectedAt": "2026-08-29T04:28:58.391Z"
-  },
-  {
-    "steamAppId": 3467740,
-    "title": "Legion Loop Incremental",
-    "sourceUrl": "https://store.steampowered.com/app/3467740/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467740/3955964977ea58d6972f845e7d06eb861e2b22e6/header.jpg?t=1787988786",
-    "japaneseSupport": "none",
-    "shortDescription": "Legion Loop Incremental is a deep, incremental auto-battler, 6 factions, Humans, Advenchers, UndeadHorde, Void, Horrors and Archmage. With detailed meta progression and enemy Bosses!",
-    "aboutTheGame": "Legion Loop Incremental is a deep, incremental auto-battler, 6 factions, Humans, Advenchers, UndeadHorde, Void, Horrors and Archmage. With detailed meta progression and enemy Bosses.",
-    "detectedAt": "2026-08-29T08:29:13.444Z"
-  },
-  {
-    "steamAppId": 4183920,
-    "title": "カボチャっておいしいの！？",
-    "sourceUrl": "https://store.steampowered.com/app/4183920/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183920/2eb7c8629b92eed719d719d92a2db26bdc895d72/header.jpg?t=1787985343",
-    "japaneseSupport": "text",
-    "shortDescription": "デスクトップの片隅に、あなただけの小さな農場の村を。おしゃべりなカボチャを育て、作物を実らせ、生き物を集める、愉快でちょっと風変わりなアイドラーゲーム。育て方しだいで、カボチャはまったく違う姿に成長します。",
-    "aboutTheGame": "■ デスクトップの片隅に、あなただけの小さな農場の村 画面の片隅で、静かに動き続ける農場。 起動しておくだけで育っていき、覗くたびに新しい出来事が待っています。 ■ 主人公であり、友だちでもある「カボチャ」 カボチャは、ただ育てる対象ではありません。あなたの友だちです。 農場の運営方法や育て方によって、カボチャはまったく違う姿へと進化していきます。 ■ 生きて呼吸する農場の生態系 ・作物を育てる — 植えて、水をやり、出荷して農場を大きくしていきましょう ・生き物を捕まえる — 農場に現れる生き物を捕まえて、博物館に展示しましょう。夜にしか現れない生き物もいます ■ 眺めているだけで心地よいアートワーク くっきりとしたスプライトのキャラクターアートと、水彩画タッチの背景。 昼と夜の移り変わりとともに、農場は違った表情を見せ続けます。 ■ ランドマークとともに広がる世界 遊び続けるほど、新しいランドマークがひとつずつ解放されていきます。農場から始まり、博物館、果樹園、質屋、花屋、ゲームセンターまで — 村が広がるたびに、新しいキャラクターと楽しみが増えていきます。",
-    "detectedAt": "2026-08-29T08:29:14.011Z"
-  },
-  {
-    "steamAppId": 4526430,
-    "title": "Fault Lines",
-    "sourceUrl": "https://store.steampowered.com/app/4526430/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526430/077a5f97f04ccb362d056672276b3c77a8b6a859/header.jpg?t=1787980419",
-    "japaneseSupport": "none",
-    "shortDescription": "Geopolitics doesn't have to be complex. In this casual strategy game, you take control of one of four great powers and try to expand your influence across the globe. But beware: if you're too reckless, the game ends faster than you think...",
-    "aboutTheGame": "FAULT LINES is a casual geopolitical strategy game — easy to pick up, yet with real depth. A full game fits comfortably into an evening. No armies march across the map, no cities burn. The battle for influence and prestige is fought through diplomacy, aid packages, backroom deals, and the occasional well-timed coup. You take control of one of four superpowers: the United States, Russia, China, or the European Union. Each starts with its own sphere of influence and its own character. The USA is the assertive defender of the liberal world order. Russia is the nuclear great power that relentlessl…",
-    "detectedAt": "2026-08-29T08:29:14.620Z"
-  },
-  {
-    "steamAppId": 4745340,
-    "title": "Hi Planet Save The Earth",
-    "sourceUrl": "https://store.steampowered.com/app/4745340/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745340/b6f6f0d74ad4bb73bf1cfa1377d31e1858369714/header.jpg?t=1787978681",
-    "japaneseSupport": "none",
-    "shortDescription": "Six explosive chapters. Thirty-one stages. Smash through robot swarms and battle a boss at the end of every comic-book chapter. Every chapter is a battle.",
-    "aboutTheGame": "EVERY CHAPTER IS A BATTLE Six explosive chapters. Thirty-one stages. One hand-drawn world worth saving. Lead HI and the Hi Planet Team. Ten heroes, ten styles, one mission. Earth's elemental energies are vanishing. The Cosmic Wormhole is harvesting them, one chapter at a time. Stop him. Smash through robot swarms. Break enemy gates. Push the front line forward. End every chapter with a boss fight you'll remember. KEY FEATURES: Six chapters. Not endless. Episode 1 ships with thirty-one stages and six bosses. Each chapter ends in a boss fight that closes a story arc. No padding. No filler. Read…",
-    "detectedAt": "2026-08-29T08:29:15.133Z"
-  },
-  {
-    "steamAppId": 4789800,
-    "title": "Final_Final.zip",
-    "sourceUrl": "https://store.steampowered.com/app/4789800/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789800/b3b56ee7e957f40500439f824b1c19a8c5f3e25c/header.jpg?t=1787980280",
-    "japaneseSupport": "none",
-    "shortDescription": "A turn-based DOS disk-defense roguelite where disk space is your HP and incoming files are the enemy. Action points, accuracy rolls, and unique file behaviors block your terminal. Upgrade your system from 286 to 486, load synergistic TSR cards, and defend your drive from a BSOD system halt!",
-    "aboutTheGame": "💾 Disk Space is Your HP: Turn-Based Storage Defense It's 1989. You are defending a vintage PC system under severe storage pressure. The incoming files flooding your directories are not static inventory items—they are active invaders that grow, duplicate, and corrupt your system resources. If your free capacity (freeKb) hits zero, the system triggers a BSOD (Blue Screen of Death) and your run terminates. FINAL_FINAL.zip combines tactical turn-based wave defense with deep RPG stat layers, command revision masteries, and TSR (Terminate and Stay Resident) card deck building. Key Features: Tactica…",
-    "detectedAt": "2026-08-29T08:29:15.663Z"
-  },
-  {
-    "steamAppId": 4941720,
-    "title": "Welcome Back to Aeris",
-    "sourceUrl": "https://store.steampowered.com/app/4941720/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941720/faa174ea9684549b0a2001a439bfb790ee6fe886/header.jpg?t=1787980184",
-    "japaneseSupport": "text",
-    "shortDescription": "Welcome back to Aeris! A point-and-click psychological horror about reviving a Frutiger Aero minigame console shutting down in 7 days. Restore its dead channels with your guide Mora — and follow the traces of a strange presence stirring beyond the screen.",
-    "aboutTheGame": "Welcome Back to Aeris! Hi! I’m Mora, your guide to Aeris. Don’t worry about the shutdown notice. We still have a whole seven days! If we repair the broken apps and bring the offline channels back online, we might just be able to save Aeris. You’ll help me, won’t you? Oh! And don’t mind the logo. I’ll find a way to clean it up somehow...!! Key Features Seven Days Until Shutdown — Bring Aeris’s offline channels back to life with Mora before time runs out. What could be lurking inside after all these years of neglect? Aeris-Exclusive Minigame Channels — Pop bubbles, play melodies with flowers, fi…",
-    "detectedAt": "2026-08-29T08:29:16.277Z"
-  },
-  {
-    "steamAppId": 4967630,
-    "title": "Starfall Samurai",
-    "sourceUrl": "https://store.steampowered.com/app/4967630/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967630/b6e25d83bb376bf17531235873d3265e6c75d54a/header.jpg?t=1787990516",
-    "japaneseSupport": "text",
-    "shortDescription": "『Starfall Samurai』は、斬撃操作とインクリメンタル要素を融合したアクションゲームです。マウスをドラッグして斬撃の方向を決め、小惑星が集まった瞬間にボタンを離そう。一太刀で画面を一掃し、ニンジンを集め、剣技を強化しながら、宇宙の奥深くを探索し続けよう。",
-    "aboutTheGame": "一太刀で、星空を斬り裂け 無数の小惑星が宇宙の深奥から押し寄せる。 マウスをドラッグして斬撃の方向を決め、標的が集まった瞬間にボタンを離そう。研ぎ澄まされた一太刀で、小惑星の群れをまとめて斬り裂け。 正確に斬るほど、収穫も増える 小惑星を砕き、その中に隠されたさまざまなニンジンを手に入れよう。宇宙の奥深くへ進むほど、より価値の高いレア小惑星や謎の報酬に出会える可能性も高まる。 剣技を磨き、秘剣を目覚めさせろ 戦いを進めるにつれて新たな剣技や秘剣が解放され、斬撃の形状や範囲、狙う位置まで変化していく。 多彩なギミックを持つボスに挑め 各エリアの最奥には、それぞれ個性的なボスが待ち受ける。動きを見極め、斬撃の角度、狙う位置、放つタイミングを調整し、それぞれに適した攻略法を見つけ出そう。 立ちはだかる強敵を突破し、宇宙の深奥に隠された真実へと迫れ。 ゲームの特徴 ドラッグして離すだけで斬れる、直感的なマウス操作 敵が集まるタイミング、斬撃の角度、狙う位置が鍵となるバトル 形状も爆発的な効果も異なる、多彩な剣技と秘剣 基本の一太刀から画面を埋め尽くす猛攻へと成長するインクリメンタル体験 多彩なギミックを持つエリアボスに挑み、宇宙の深奥に隠された真相を暴け",
-    "detectedAt": "2026-08-29T08:29:16.796Z"
-  },
-  {
-    "steamAppId": 4984400,
-    "title": "Towers of Babble",
-    "sourceUrl": "https://store.steampowered.com/app/4984400/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984400/bc4757b4db511a405fb623ef839004e90564ee67/header.jpg?t=1787983239",
-    "japaneseSupport": "none",
-    "shortDescription": "Word Game Tower Defense. Spell AXE to harvest wood. Spell FORT to make an armored tower. Every word you spell becomes a tower with unique stats and powers. Every word is also a unique level with procedural challenges. 121,683 levels. Together, we must beat them all and talk our way back into heaven.",
-    "aboutTheGame": "Words and Towers Towers of Babble mixes classic word game gameplay with tower defense. Spell words to make buildings. Every noun becomes a building you can place on the map. Build harvesters to collect resources and towers to fight off waves of relentless enemies. Every building has unique stats and abilities that are determined by the word that created it. AXE harvests wood, FORT is a strong tower with extra health and armor, and DOCTOR is a weak tower with an aura that heals nearby structures. Adjectives and verbs create special mods that can be attached to buildings to boost their stats and…",
-    "detectedAt": "2026-08-29T08:29:17.317Z"
-  },
-  {
-    "steamAppId": 4995800,
-    "title": "死んでも継なげ",
-    "sourceUrl": "https://store.steampowered.com/app/4995800/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995800/f5e14ac710db855f7b0aa23cdaa6e71ab53250c5/header_japanese.jpg?t=1787978806",
-    "japaneseSupport": "text",
-    "shortDescription": "機械と戦う施設『プランテーション』を舞台としたSFミリタリーノベル。少年兵のジンは、上官命令で少女や女児と仮初の家族を演じる。ジンは家族生活を経て人の温もりを思い出すが、その裏でプランテーションに隠された闇が動き出す——。",
-    "aboutTheGame": "――生きて継ないで。私たちの子を、安全な場所まで送り届けて―― 機械と戦う少年兵を育成する施設『プランテーション』を舞台としたSFミリタリーサスペンスノベルゲーム。 あなたは施設で孤立している首席生徒『解代ジン』として、次席の少女『玖城ミカナ』や謎の女児と仮初の家族生活を送ることになります。 『解代ジン』は、次席の少女『玖城ミカナ』と未開地の探索中に謎めいた小屋を発見した。 その女児を保護した後日、二人は上官から女児の両親を演じるように命じられる。ジンは家族生活を経て他者と触れ合う温かみを思い出すが、やがてプランテーションに隠された闇を知る。 真実を見抜き、未来のために決断せよ！ ・ 魅力的なキャラクターたち： 銃を握る少年少女と、謎多き女児の間に生まれる葛藤と絆。 ・ 濃厚なストーリー： 主人公たちは慣れない子育てに翻弄されながらも仲を育み、やがて残酷な運命に立ち向かう。 ・ 散りばめられた伏線が１つに結びついた時の開放感： 物語の序盤から散りばめられた小さな違和感。それらは残酷な１つの真実に結びついている。 解代 ジン（ときしろじん） 本作の主人公。施設『プランテーション』の首席生徒。訳あって孤立しているが、肉弾戦や銃撃戦問わず高い実力を持つ少年。作戦中に兄を亡くして以来無気力になっている。訓練をサボった罰則で玖城ミカナと未開地を探索することになる。 玖城 ミカナ（くじょうみか…",
-    "detectedAt": "2026-08-29T08:29:17.835Z"
-  },
-  {
-    "steamAppId": 5017510,
-    "title": "Ballosseum",
-    "sourceUrl": "https://store.steampowered.com/app/5017510/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017510/b87d77be8ceac68a8ed63e1eea1b1b12f132a889/header.jpg?t=1787979938",
-    "japaneseSupport": "none",
-    "shortDescription": "Ballosseum is an auto-battler where you raise one ball, kit it out, and watch it fight. Draft from 266 augments over ten rounds, then send it into scheduled contests for parts and medals. Dress it from 600+ cosmetics — or draw your own skin in the built-in pixel editor.",
-    "aboutTheGame": "Ballosseum is an auto-battler you don't play — you prepare. Raise a ball through ten rounds of drafting, dress it in whatever you have collected or drawn yourself, then enter it in a contest and watch. It fights without you. DRESS IT HOWEVER YOU LIKE Six hundred-plus parts, and not one of them changes the fight. Bodies, faces, weapon skins, trails, auras, entrance effects. A ball's shape and hitbox stay identical no matter what you put on it — nothing you wear is a stat, so dress for the crowd, not the numbers. OR DRAW IT YOURSELF The skin editor is inside the game. Layers, a color picker, tra…",
-    "detectedAt": "2026-08-29T08:29:18.346Z"
-  },
-  {
-    "steamAppId": 5036340,
-    "title": "LUPKAR - World of Billiards",
-    "sourceUrl": "https://store.steampowered.com/app/5036340/",
-    "price": "価格情報なし",
-    "tags": [
-      "MM（Massively Multiplayer）",
-      "シミュレーション",
-      "スポーツ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036340/939133492da6c5b07d9fb581ba0d77aa72b49f34/header.jpg?t=1787988310",
-    "japaneseSupport": "none",
-    "shortDescription": "Online billiards with honest physics: Russian pyramid, 8-ball, 9-ball and snooker. 1v1 matches and a four-player table against players worldwide, cross-play with mobile, and full cue control — follow, draw and side spin.",
-    "aboutTheGame": "World of Billiards Online — real ball physics, four disciplines and live opponents on the other side of the table. Play one on one or gather up to four players around a single table: Russian pyramid, 8-ball, 9-ball and snooker, ranked against players from around the world. FOUR DISCIPLINES Russian pyramid — a big table with pockets barely wider than the ball. Fifteen white balls, one cue ball, no room for error Free pyramid — any ball can become the cue ball: pot anything with anything 8-ball and 9-ball — the two disciplines the whole world plays Snooker — a long game of patience and position…",
-    "detectedAt": "2026-08-29T08:29:18.885Z"
-  },
-  {
     "steamAppId": 5036420,
     "title": "He Was Here",
     "sourceUrl": "https://store.steampowered.com/app/5036420/",
@@ -9914,5 +9645,389 @@
     "shortDescription": "A turn-based pixel art dungeon crawler where every move advances the world. Explore procedurally generated roads, towns, forests, and dungeons, master elemental magic, uncover hidden treasures, and build a hero unique to every adventure.",
     "aboutTheGame": "Dungeon Crawl 94: What Was Taken is a turn-based, grid-based pixel art RPG where every move matters. Explore a dangerous world of procedurally generated roads, forests, caves, dungeons, and other locations as you search for what was taken from you. Movement takes place one tile at a time, and every step advances the world around you. Enemies patrol, wildlife wanders, and danger continues to move with every turn. Sometimes fighting is the answer. Sometimes escaping is the smarter choice. Create your character and develop seven attributes: Strength, Dexterity, Intelligence, Wisdom, Speed, Consti…",
     "detectedAt": "2026-09-02T04:29:30.201Z"
+  },
+  {
+    "steamAppId": 2357920,
+    "title": "Death Delivery",
+    "sourceUrl": "https://store.steampowered.com/app/2357920/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357920/f7908f2a2cf02746e116b287756c8b91e4536bfb/header_japanese.jpg?t=1788325982",
+    "japaneseSupport": "text",
+    "shortDescription": "殺人鬼に追われながらピザを配達しろ。 一人称視点・ホラー・サバイバルホラー・ジョブシミュレーター。",
+    "aboutTheGame": "殺人鬼に追われながらピザを配達しろ 🍕 ピザが冷める前に、今すぐウィッシュリストへ 🍕 空腹の客にピザを配達しろ 仕事道具を駆使してピザを配達し、チップを稼ごう。 ピザ配達のためのさまざまな道具、アイテム、武器が用意されている。 ピザボックスキャリアー、保温バッグ、レシートスキャナーなど、仕事を助ける道具はほんの一部。 配達でチップを稼ぐことで道具をアップグレードし、より効率よく、時間通りに、高品質なピザを届けられるようになる。 デラックスピザ、チーズ追加、パイナップル……注文内容を間違えるな。 💀 殺人鬼との遭遇を生き延びろ 殺人鬼はいつでも、どこにでも現れる。 そして、お前を追い詰めてくる。 ステルス、ピザ配達の道具、そして機転を利かせた逃走を駆使して、恐ろしい遭遇を生き延びろ。 そして何より重要なのは、 殺人鬼の致命的な弱点を突き止めること。 🕵️ 殺人鬼の手がかりを追え 殺人鬼は野放しになっており、次々と犠牲者を生み出している。 エリアを探索しながら殺人鬼の手がかりを追跡しよう。 見つけた証拠を組み合わせれば、殺人鬼が次にどこで襲撃するのか、その手がかりが見えてくる。 🎲 PLAY ++ プレイするたびに、新たな殺人鬼が登場する。 配達先の家も異なり、新しい手がかりが見つかることもある。 新しい道具を試し、ピザ配達の腕を磨き、怪物から身を隠すステルス能力を極めなが…",
+    "detectedAt": "2026-09-02T08:28:52.308Z"
+  },
+  {
+    "steamAppId": 2765870,
+    "title": "My Paper Plane Is Better",
+    "sourceUrl": "https://store.steampowered.com/app/2765870/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2765870/0fa6bcee12d6aa93ae80057bcff521273d60cef0/header.jpg?t=1788335892",
+    "japaneseSupport": "none",
+    "shortDescription": "Throw a paper plane through a city. Your flight becomes a track - anyone can race your line against your ghost. Fold, throw, glide, chase the top ten. Real paper physics, no fuss.",
+    "aboutTheGame": "Your flight is the track Drop into the city, pick a plane, and throw. Every flight you record becomes a track with a name, a ghost and a leaderboard - published the moment you land. Add hoops mid-flight to shape the challenge. Race the world's lines Pick any track, launch at the author's speed and chase the top ten. Their ghosts fly beside you. Real paper, real physics Lift, drag, trim, and a wing that folds when you pull too hard. Three planes: the Dart (fast and stiff), the Glider (floaty, turns on a dime) and the Classic (the all-rounder). Every number is a paper decision, not a stat sheet.…",
+    "detectedAt": "2026-09-02T08:28:52.903Z"
+  },
+  {
+    "steamAppId": 3826790,
+    "title": "Ashen",
+    "sourceUrl": "https://store.steampowered.com/app/3826790/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3826790/4a82558257993c55960195f6e4581b96dc5a86f1/header.jpg?t=1788329568",
+    "japaneseSupport": "none",
+    "shortDescription": "ASHEN is a top-down pixel art action RPG set after a solar apocalypse. Dodge and chain attacks against creatures born from the Cinder, forge your build with no fixed class, then farm, fish and cook to rebuild what's left of Braseval.",
+    "aboutTheGame": "ASHEN is a top-down pixel art action RPG set in a post-apocalyptic fantasy world where the sun itself became humanity's executioner. The Cinder — that's what they call it. A solar catastrophe that shattered continents, scorched the forests and ground entire civilizations into dust. What remains of the world now drifts in fragments through the sky: islands kept alive by mysterious crystals known as Hearthstones . You are an Awakened . Partially touched by the Cinder, you carry something others don't — a spark, a curse, or perhaps both. On the island of Braseval, you come to in a village of surv…",
+    "detectedAt": "2026-09-02T08:28:53.517Z"
+  },
+  {
+    "steamAppId": 4803300,
+    "title": "凌迟模拟器",
+    "sourceUrl": "https://store.steampowered.com/app/4803300/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803300/46f565abfe7031a83df8db331b2e1faaa4966ea4/header.jpg?t=1788336934",
+    "japaneseSupport": "none",
+    "shortDescription": "在《凌迟模拟器》中，你可以扮演刘瑾、袁崇焕、石达开、方腊等人，体验一场酣畅淋漓的凌迟。腰酸背痛？剐一剐。头晕脑胀？剐一剐。本游戏限时特惠，不剐三亿刀，不剐三万刀，限时只剐……三千刀！菜市口欢迎您，快快请坐！",
+    "aboutTheGame": "在《凌迟模拟器》中，你可以扮演刘瑾、袁崇焕、石达开、方腊等人，体验一场酣畅淋漓的凌迟。腰酸背痛？剐一剐。头晕脑胀？剐一剐。本游戏限时特惠，不剐三亿刀，不剐三万刀，限时只剐……三千刀！菜市口欢迎您，快快请坐！",
+    "detectedAt": "2026-09-02T08:28:54.129Z"
+  },
+  {
+    "steamAppId": 4906690,
+    "title": "Type the World",
+    "sourceUrl": "https://store.steampowered.com/app/4906690/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月28日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906690/92cd98ca623b939be4e38b01d842d750bdc833f2/header.jpg?t=1788326399",
+    "japaneseSupport": "none",
+    "shortDescription": "Learn to type on a keyboard with all ten fingers by typing the world map. Learn geography. That’s it, that’s the game. For kids and grownups.",
+    "aboutTheGame": "Learn to type, learn the world. Type the World teaches correct ten-finger typing. Instead of random words, you type real places on a real map – countries, capitals, cities, rivers and more from all around the world. Type the World works the way learning typing always has: repetition. You type and keep typing until your fingers know where the keys are without looking. Once you have the muscle memory down, speed comes next. No experience needed. Learn the very basics in Keyboard Trainer mode, and venture forth to the full Type the World mode with 2,000 real world locations to practice on. And wh…",
+    "detectedAt": "2026-09-02T08:28:54.641Z"
+  },
+  {
+    "steamAppId": 4924440,
+    "title": "Kharvalen",
+    "sourceUrl": "https://store.steampowered.com/app/4924440/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "RPG",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924440/1ebe23e109e137669b70eaf8f966140c4fb1fff0/header.jpg?t=1788326015",
+    "japaneseSupport": "text",
+    "shortDescription": "Kharvalenで絶え間なく押し寄せるクリーチャーの大群を生き延びろ。種族を選び、武器セットを装備し、プレイするたびにユニークな強化、ルーン、アーティファクト、戦利品を組み合わせて強力なビルドを作り上げよう。フレンドと協力プレイやPvPを楽しもう！",
+    "aboutTheGame": "大群を生き延びろ。圧倒的なビルドを作り上げろ。 Kharvalenは、終わりなく押し寄せる敵の大群と戦いながら、キャラクターをどこまでも強化していくアクション・サバイバル・ローグライトです。 さまざまなヒーローや武器から好きなものを選び、経験値を獲得しながら、 アップグレード、ルーン、アイテム、アーティファクト を組み合わせよう。強力なシナジーを生み出し、すべてを破壊するほどの圧倒的な力を手に入れろ。 自分だけのビルドを作れ 同じ展開のランは二度とありません。 ダメージを高め、画面を飛び交う大量の投射物を放ち、クリティカルを強化し、エレメントを使いこなし、アーティファクトを強化しよう。組み合わせ次第では、敵の大群を一瞬で消し去ることもできます。 さまざまな武器やプレイスタイルを試し、ランを限界まで壊す新たな組み合わせを見つけ出そう。 ソロ、協力プレイ、PvP 1人でKharvalenに挑むことも、 フレンドとオンライン協力プレイ で戦うこともできます。仲間とそれぞれのビルドを成長させ、ますます危険になる敵を共に打ち倒そう。 ローグライトモードで作り上げたビルドを 1対1または2対2のPvP に持ち込み、他のプレイヤーを相手にどこまで通用するか試すこともできます。 強大なボスを生き延びろ 脅威は敵の大群だけではありません。 ミニボスや巨大なボスとの戦いでは、移動技術や戦略、そして何よ…",
+    "detectedAt": "2026-09-02T08:28:55.169Z"
+  },
+  {
+    "steamAppId": 4931980,
+    "title": "Crashborn",
+    "sourceUrl": "https://store.steampowered.com/app/4931980/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931980/0a854650c95683cc72bd28c017a2c52cf62fb332/header.jpg?t=1788335231",
+    "japaneseSupport": "none",
+    "shortDescription": "Lost and with no memories, cross a solar system to get back home. Tear through each planet's hordes to recharge your ship's energy and take off before the world turns lethal. Combine weapons, implants and anomalies until nothing can stop you. Every death rewrites your reality and your memory.",
+    "aboutTheGame": "Introduction In this story you are an interdimensional traveler stranded in a cosmos that isn't yours. The only way home is your ship and a companion who will follow you anywhere you go. The last thing you remember is a vortex at the center of the solar system, and the only way to solve this mystery and get back home is to go through it. A dimension you don't belong to You start out in a solar system with your ship badly damaged and out of fuel, so you have no choice but to land on the nearest planet. The only way to recharge it is by collecting energy and defeating the guardians of each plane…",
+    "detectedAt": "2026-09-02T08:28:55.681Z"
+  },
+  {
+    "steamAppId": 4935340,
+    "title": "Ghost'Inn",
+    "sourceUrl": "https://store.steampowered.com/app/4935340/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935340/dc43644cfdea0453f1a97ef384666c89d033ca58/header.jpg?t=1788335490",
+    "japaneseSupport": "none",
+    "shortDescription": "GHOST'INN is a coop game up to 4 players , in which you go fishing for ghost in a charming breton style inn. Flush out spirit, capture them with your fishing rod and become rich !",
+    "aboutTheGame": "GHOST'INN is an online coop game for up to 4 players on PC, in which player must fish for ghosts in a charming Breton inn. You've been hired to get rid of the Ghosts'Inn, every catch will ensure you money. Alone or with friends ensure the Inn security and at this stage, there are no rules ! HUNT GHOSTS Use all equipments at hand to ensure your capture ! Ghosts can be elusive but you'll find many objects left behind by the Inn's guests. Grab and use all you can find to have the odds in your favor. But beware, some objects will be deducted from your hunt, make the right choice ! SURVIVE THE INN…",
+    "detectedAt": "2026-09-02T08:28:56.205Z"
+  },
+  {
+    "steamAppId": 4942390,
+    "title": "Guess the Origin",
+    "sourceUrl": "https://store.steampowered.com/app/4942390/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942390/8cddac3d1c14e6137815d73bd9fc55d591a2e092/header.jpg?t=1788327709",
+    "japaneseSupport": "none",
+    "shortDescription": "A multiplayer culture-guessing party game. Identify countries from images of traditional dress, cuisine, and cultural moments. Play solo with two modes or challenge friends in private rooms. Every correct answer unlocks a cultural note. Learn while you play. Available in English and Arabic.",
+    "aboutTheGame": "HOW WELL DO YOU KNOW THE WORLD'S CULTURES? Guess the Origin is a fast-paced multiplayer party game that puts your cultural knowledge to the test. Each round shows you an image of a person in traditional dress, a cultural celebration, or a signature dish, and you have 15 seconds to guess where it's from. TWO GAME MODES Classic Mode. Guess the country from a list of options. Points for correct answers, bonus for speed. Similar Neighbors. The hard mode. Choose between 4 culturally-adjacent countries. Can you tell a kimono from a hanbok? A Syrian dish from a Lebanese one? Every wrong guess teaches…",
+    "detectedAt": "2026-09-02T08:28:56.718Z"
+  },
+  {
+    "steamAppId": 4942880,
+    "title": "Bottled Fantasy",
+    "sourceUrl": "https://store.steampowered.com/app/4942880/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942880/0aafbca726c3b2cb4de0b31b016811bde8c2207d/header.jpg?t=1788324216",
+    "japaneseSupport": "none",
+    "shortDescription": "A story-rich turn-based tactical roguelite. Recruit companions into a four-person party, and combine positioning, skills, and status effects as you uncover the truth behind a looping modern-fantasy world.",
+    "aboutTheGame": "At first, this world looks like a familiar heroic adventure. Gather your companions. Cross dangerous lands. Defeat the threat. Save Avalon. But with every new cycle, impossible technology begins to surface among ancient ruins. Rival factions reveal traces of a shared past, and a rare few seem to sense that another will has always existed behind their choices. You have no physical form. At the beginning of each cycle, you choose one character as the starting point of the story. Travel across shifting node maps, meet companions through battles and events, and gradually assemble a four-person par…",
+    "detectedAt": "2026-09-02T08:28:57.230Z"
+  },
+  {
+    "steamAppId": 5059270,
+    "title": "CARAVAN in the MAJIN WORLD",
+    "sourceUrl": "https://store.steampowered.com/app/5059270/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059270/7fc84de8aed9f6c298223531f71b042687992b79/header.jpg?t=1788325076",
+    "japaneseSupport": "text",
+    "shortDescription": "町々を巡って商売して資金を稼ぐJRPG。町と時期の差でうまく売買するコツがキャラバンの醍醐味だ。キャラバン団で魔神たちが存在するファンタシーの世界を旅する。やがて魔神と人間の紛争に巻き込まれながら成長して行く物語．．． 本作のNPC達は漫画の吹き出しで日常を呟く。敵兵が故郷の母親を想う、蛇妖魔が脱皮後の肌を悩む、そんな現実と幻想が入り交わる世界を堪能しよう。",
+    "aboutTheGame": "世界観： 東洋と西洋の要素が融合した中近世風のファンタシー世界だ。人間と妖魔が共存している大陸では、人間族の民族主義が台頭し、妖魔たちは古体より存在する「魔神」のもとへと身を寄せていた。一般人間が「方術（魔法）」を簡単に扱える技術を開発したことで、人々の野望が帝国を生み出し各地の町を呑み込もうとしていた。 グラフィック： 白黒漫画をゲームに取り込む事に挑戦した。ゲーム画面を漫画のコマ風にも挑戦した。 バトルシステム： じっくり戦略を決められるターン制コマンドバトルだ。技や方術、冒険アイテムの他に、敵の急所を手動で狙う「狙い攻撃」が決まれば、一発逆転の爽快な大ダメージを与えることも可能だ。物理攻撃にはスタミナ制限があるため、リソース管理と戦術の調整が勝利の鍵を握る。 キャラバンの商い： 本作では、敵を倒してもお金（資金）を獲得できない。キャラバン団の命綱は、町から町へと商品を運び、産地価格やマーケットトレンドを見極めて価格差で資金を創る。鋭い商人こそ、過酷なキャラバン冒険を生き抜く鍵となる。 キャラクター： ゴールデン： キャラバン団を束ねる団長さんだ。戦闘には参加しないが、一団を纏める団長さんだ。持ち前の「商人の勘」でいい商売のヒントやアドバイスを与えてくれる。 アジサイ： ゴールデンさんの養女で、明るい性格の看板娘だ。若い外観によらず、力強い娘だ。攻守に長ける武器の鐗（Sword…",
+    "detectedAt": "2026-09-02T08:28:57.913Z"
+  },
+  {
+    "steamAppId": 5075940,
+    "title": "The Old Forge",
+    "sourceUrl": "https://store.steampowered.com/app/5075940/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075940/1cd442f4622a085f2178c73f8104fc341c04174f/header.jpg?t=1788329895",
+    "japaneseSupport": "none",
+    "shortDescription": "Explore a open world inspired by 1990s Poland. Scavenge, build, craft and dig your way through forests, villages and industrial ruins surviving the zombies, harsh weather and the constant fight for food, warmth and safety.",
+    "aboutTheGame": "ABOUT THIS GAME The Old Forge is an open-world sandbox survival horror game set in a world inspired by 1990s Poland. When the first infected appeared, you fled into the woods. The world outside slowly fell silent. You survived there for months, until a fire woke you in the night. Panicked, you grabbed whatever you could and ran. By morning, your shelter was gone. Now, survival means returning to civilization. Tell your own story. Leave the beaten path. Scavenge abandoned houses. Follow forgotten roads toward towns. Break through walls. Dig into the earth. Build a home far from civilization — o…",
+    "detectedAt": "2026-09-02T08:28:58.418Z"
+  },
+  {
+    "steamAppId": 5078740,
+    "title": "It Girl",
+    "sourceUrl": "https://store.steampowered.com/app/5078740/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078740/75f61f817c16401b37f949ccd2187574cf8944ea/header.jpg?t=1787957888",
+    "japaneseSupport": "none",
+    "shortDescription": "It Girl is a multi-level, third person adventure that blends survival horror gameplay with exploration, level progression using clues, solve puzzles and hide from enemies.",
+    "aboutTheGame": "It Girl is a dramatic adventure defined by tense exploration and puzzle-solving mechanics. Play as Nina Tate, a socialite abandoned by her family and standing at a crossroads, as she carries out a series of acts of sabotage to keep her lifestyle afloat. Crafted in the style of a classic horror game, It Girl features a story-driven mode that immerses you in an ironic, satirical narrative. Explore Holborn, a city inspired by 1990s London. Lose yourself in environments that contrast bright lobbies and detailed dressing rooms with museum vaults and the abandoned subway stations connecting the leve…",
+    "detectedAt": "2026-09-02T08:28:58.945Z"
+  },
+  {
+    "steamAppId": 5079070,
+    "title": "Eternal Grove",
+    "sourceUrl": "https://store.steampowered.com/app/5079070/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月13日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079070/e5a3a517571bbede4f3413e8f42b92e2a537a218/header.jpg?t=1788028531",
+    "japaneseSupport": "none",
+    "shortDescription": "A relaxing idle incremental where you chop mystical trees, earn Essence, and grow upgrades across a deep skill tree. Auto-choppers, combat procs, prestige with permanent Wisdom. Buy once, play forever — no microtransactions.",
+    "aboutTheGame": "Welcome to Eternal Grove — a calm idle incremental where every chop matters. Hover over trees to channel your axe, felling tiers of bark, heartwood, and spirit sap. Spend earnings on a sprawling skill tree of upgrades: auto-choppers, chain lightning, wisdom beams, transcend bonuses, and more. When your grove peaks, transcend the Veil — reset your run, keep permanent Wisdom, and climb higher. Features: • Satisfying hover-to-chop combat with crits, multistrike, and proc effects • Deep upgrade skill tree across multiple currencies • Prestige system with permanent Wisdom and milestone perks • Auto…",
+    "detectedAt": "2026-09-02T08:28:59.507Z"
+  },
+  {
+    "steamAppId": 5079170,
+    "title": "火箭工厂 Rocket Factory",
+    "sourceUrl": "https://store.steampowered.com/app/5079170/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079170/7a23954097891219234ea4785c8d22f4847d4841/header.jpg?t=1787767033",
+    "japaneseSupport": "none",
+    "shortDescription": "Rocket Factory is a light roguelite factory-building game. In the game, players will construct machines, manage workers, set up assembly lines, and expand their factory until they build a rocket and set off for the next destination.",
+    "aboutTheGame": "The destruction of this planet seems to be imminent within seven days. Therefore, you need to build a rocket within this seven-day timeframe. Take over the factory and establish an automated assembly line Recruit workers and perfect the industrial empire With reasonable planning, the profit snowballing effect is simply unstoppable Various levels with unique mechanisms Game Features No need to worry about setting up complex conveyor belts, as workers will automatically transport goods, with low threshold for planning factory assembly lines Adopt a single-game mode to avoid the chaotic factory s…",
+    "detectedAt": "2026-09-02T08:29:00.195Z"
+  },
+  {
+    "steamAppId": 5079280,
+    "title": "Dark Age: Tokens of the Fallen",
+    "sourceUrl": "https://store.steampowered.com/app/5079280/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079280/cc6dc84c3c19355764bb62bd401aa9eeb1ad8fde/header.jpg?t=1787959083",
+    "japaneseSupport": "none",
+    "shortDescription": "A single-player medieval dungeon-crawler RPG where you battle bandits, defeat powerful bosses, collect souls to upgrade your skills, and recover fallen tokens to unlock new dungeons and the road to the King’s fortress.",
+    "aboutTheGame": "Dark Age: Tokens of the Fallen is a single-player medieval fantasy dungeon-crawler RPG focused on exploration, combat, questing, character progression, and defeating powerful dungeon bosses. You arrive at a village devastated by a bandit raid. Buildings have been destroyed, supplies have been stolen, and the surviving villagers are struggling to recover. After speaking with the Village Elder, you begin helping the community and investigating the forces responsible for the attack. What first appears to be ordinary bandit activity soon reveals a greater threat. The region’s ruler has fallen unde…",
+    "detectedAt": "2026-09-02T08:29:00.727Z"
+  },
+  {
+    "steamAppId": 5079380,
+    "title": "Goods for Guilds",
+    "sourceUrl": "https://store.steampowered.com/app/5079380/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079380/85d4565b457ab459e948cc61554f50512a00d329/header.jpg?t=1788114483",
+    "japaneseSupport": "none",
+    "shortDescription": "Heroes go on adventures. You make sure they have swords, potions, and supplies. Command workers RTS-style to gather, haul, and process resources. Upgrade from hand-carrying to carts, and grow a production and trade network that keeps the adventurers' guild running.",
+    "aboutTheGame": "This is a building, logistics and resource management game set in a medieval fantasy world, combining RTS-style controls, production chains, and hands-on transportation planning . You directly command workers to gather resources, move goods, operate production facilities, and carry out different tasks. Starting with a small group of workers and a simple production site, you will gradually build a production and trade network that stretches across the region. Command Your Workers Like an RTS Workers are not just numbers or background animations — they are units you directly control. Select work…",
+    "detectedAt": "2026-09-02T08:29:01.299Z"
+  },
+  {
+    "steamAppId": 5079680,
+    "title": "10 Million Bounces / 一千万次反弹",
+    "sourceUrl": "https://store.steampowered.com/app/5079680/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079680/ebe46e16b0beabe73887cc09a60d672b667ee707/header.jpg?t=1788161650",
+    "japaneseSupport": "none",
+    "shortDescription": "Choose a launch point and direction on a 16.7-million-tile world, then unleash balls that never lose momentum. Break color-tiered blocks, gain experience, and grow a swarm of normal, fast, heavy, split, explosive, and lightning balls.",
+    "aboutTheGame": "An incremental game about launching balls into 16.7 million blocks and watching them slowly open up the map. Pick a starting point inside an open area, drag to choose a direction, and release. Balls do not slow down or return on their own. They keep bouncing through the passages you have opened and chip away at the blocks around them. Blocks have eight color levels. Each hit lowers a block by one level, and breaking it completely gives you experience. Whenever you level up, choose one of four options: add more balls, increase speed or damage, or improve a specific ball type. Features One large…",
+    "detectedAt": "2026-09-02T08:29:01.829Z"
+  },
+  {
+    "steamAppId": 5079730,
+    "title": "Long Watch",
+    "sourceUrl": "https://store.steampowered.com/app/5079730/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079730/dc3efaf1db7606cf1387f346d3180b4314f27032/header.jpg?t=1787389205",
+    "japaneseSupport": "none",
+    "shortDescription": "Bring a relay station back online in this compact idle/incremental game. Generate power, catch signals, decode lost transmissions, automate your network, and expand across new sectors of deep space.",
+    "aboutTheGame": "BRING THE RELAY BACK ONLINE A relay station has been offline for thousands of years. Start with almost nothing. Generate power, recover signals drifting through deep space, gather resources, and use what you find to rebuild the station piece by piece. DECODE WHAT WAS LEFT BEHIND Deep space is filled with fragmented signals. Recover them, reconstruct lost messages, and bring more of the station's systems back online as you progress. Each reconstructed message reveals another piece of the station's past. BUILD A NETWORK One station is only the beginning. Expand into new sectors, establish remote…",
+    "detectedAt": "2026-09-02T08:29:02.359Z"
+  },
+  {
+    "steamAppId": 5080000,
+    "title": "Morgenrot",
+    "sourceUrl": "https://store.steampowered.com/app/5080000/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月1日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080000/fdb40d11e172b0d96a652a1403cf18fb8362a837/header.jpg?t=1788186211",
+    "japaneseSupport": "none",
+    "shortDescription": "Morgenrot is a city-building, economic, and strategy simulation set in a living island world. Build settlements, manage production chains, supply your population, establish trade routes, colonize new islands, and protect your fleet from pirates and other dangers.",
+    "aboutTheGame": "About This Game Morgenrot is a city-building, economic, and strategy simulation set in a living island world. Build your own settlement, manage complex production chains, supply your population, discover new islands, and protect your trade routes from pirates and other dangers. Start on your main island and develop a small settlement into a functioning economy. Build roads, houses, production buildings, warehouses, and infrastructure. Make sure raw materials are processed, goods are transported, and your inhabitants are reliably supplied with food, clothing, and other essential resources. Buil…",
+    "detectedAt": "2026-09-02T08:29:02.880Z"
+  },
+  {
+    "steamAppId": 5080420,
+    "title": "Dungeon Forge",
+    "sourceUrl": "https://store.steampowered.com/app/5080420/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年12月1日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080420/e35ed4195acecfa83888c0d03d971a630e883429/header.jpg?t=1787832615",
+    "japaneseSupport": "none",
+    "shortDescription": "Choose your class and descend into Dungeon Forge. Fight monsters, gather wood, stone and ore, complete quests, craft better tools and gear, and build useful village structures. Grow stronger floor by floor, push deeper into the dungeon, and see how long your run can survive.",
+    "aboutTheGame": "Descend Into the Dungeon Choose your class, prepare your gear, and head below the surface. In Dungeon Forge , every run starts with a simple goal: gather what you can, become stronger, and see how deep you can go before the dungeon gets the better of you. Choose Your Class Start as one of several different classes, each built around a different playstyle. Take the direct approach as a Warrior , rely on speed and Dexterity as a Rogue , use magic as a Mage , fight from range as a Ranger , or combine strength and support abilities as a Paladin . Your starting stats shape how you approach combat a…",
+    "detectedAt": "2026-09-02T08:29:03.405Z"
   }
 ]
