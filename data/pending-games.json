@@ -1,288 +1,5 @@
 [
   {
-    "steamAppId": 4090280,
-    "title": "Feral Prince",
-    "sourceUrl": "https://store.steampowered.com/app/4090280/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月10日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4090280/48f5635b1e8fc12c12fcf3e7d4ee1499f0df2138/header.jpg?t=1787963341",
-    "japaneseSupport": "text",
-    "shortDescription": "高速2Dアクションで敵を追い詰め、魂の障壁を砕いて魂を抜き取れ。魂玉を黒翡翠の「魂札」に固め、8枚から5枚を選択。ポーカーの役が次の部屋の常時効果と札技を生み、トッケビの仮面が判定をねじ曲げる。逃した空殻は、奪われたビルドを記憶する亡霊となって帰ってくる。墨絵の朝鮮を約24分で駆け抜ける2Dアクションローグライト。",
-    "aboutTheGame": "敵の魂を抜き、次の戦い方を組み上げろ。 『FERAL PRINCE』は、攻撃、回避、反撃、摘出を自分の手で行う高速2Dアクションローグライトだ。ポーカーの役が自動で戦ってくれるわけではない。役によって、次の部屋でどの動きが強くなるかが変わる。 摘出 — 倒す前に、狙って奪え 基本条件は、敵の体力を最大値の30％以下まで減らし、魂の障壁を砕くこと。敵の種類ごとに、得られる魂札の紋・数字・刻印が決まっている。狙いを定めれば予想される内容が見えるため、これは正体不明の報酬を引く運試しではない。 欲しい力を持つ敵を殺さずに弱らせ、周囲の攻撃を見ながら魂玉を抜き取れ。摘出には短い隙が生まれる。何を奪うかだけでなく、いつ奪うかもアクションの判断だ。 魂札 — 8枚から5枚 魂玉は戦闘中に選択画面を開かず、部屋が終わるまで保管される。戦闘後の儀式で、黒翡翠の魂札に固める、同じ札と融合する、刻印を別の札へ移す、砕いて今回のランの資源に変える、といった扱いを選ぶ。 次の儀式では札袋から基本8枚を広げ、そのうち5枚を戦闘札として固定する。一度だけ、不要な札を最大3枚まで引き直せる。戦闘が始まれば5枚は固定され、途中で捨てたり引いたりするメニューはない。 ポーカーの役がアクションを変える ワンペア、ツーペア、ストレート、フラッシュ、フルハウス。完成した役は、部屋全体で続く効果と、攻撃・ジャスト回避・摘出…",
-    "detectedAt": "2026-08-29T04:28:48.353Z"
-  },
-  {
-    "steamAppId": 4179520,
-    "title": "The Dinosaur League",
-    "sourceUrl": "https://store.steampowered.com/app/4179520/",
-    "price": "価格情報なし",
-    "tags": [
-      "MM（Massively Multiplayer）",
-      "RPG",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179520/12598cab801f92cb163b5ecc7cdc17b90ae930c4/header.jpg?t=1787976443",
-    "japaneseSupport": "none",
-    "shortDescription": "A dinosaur-raising team battle game.",
-    "aboutTheGame": "The Dinosaur League The Dinosaur League is an open-world dinosaur survival adventure set in the Jurassic era. Step into the role of a dinosaur and fight to survive on a mysterious island filled with dangerous predators, diverse ecosystems, and untamed wilderness. Grow, evolve, hunt, explore, and build your own story as you experience the life of a dinosaur from its earliest days. 🎮 Key Features 🦖 A True Survival Experience There are no hand-holding tutorials or constant guidance telling you what to do. You are on your own. Manage your hunger, thirst, and stamina , learn how to survive in a d…",
-    "detectedAt": "2026-08-29T04:28:48.867Z"
-  },
-  {
-    "steamAppId": 4650220,
-    "title": "摸名其妙",
-    "sourceUrl": "https://store.steampowered.com/app/4650220/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650220/033ff2828662fc2c8cc1d66a56c268879f3ba67e/header.jpg?t=1787966709",
-    "japaneseSupport": "text",
-    "shortDescription": "This is a casual puzzle game where you use your mouse to touch objects in the dark. While enjoying ASMR-like sound feedback, you draw what you've \"felt,\" and then guess—what exactly did you just \"touch\"?",
-    "aboutTheGame": "In a dark cave, several people encountered an elephant. The one who touched the leg said, \"It's like a pillar.\" The one who touched the ear said, \"It's like a fan.\" The one who touched the trunk said, \"It's like a snake.\" None of them could convince the others, and they argued for three days and three nights. The good news: they were all right. The bad news: they were only right about a tiny part. 《Touch & Guess》 is exactly that kind of game—touch together with friends, guess together, get it wrong together, and laugh together. The truth isn't that important; it's the process of touching that…",
-    "detectedAt": "2026-08-29T04:28:49.393Z"
-  },
-  {
-    "steamAppId": 4676400,
-    "title": "妈妈，我真的在学外语",
-    "sourceUrl": "https://store.steampowered.com/app/4676400/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676400/9c1ba9dc03bf955516e8dea45dad1a71276279e1/header.jpg?t=1787973539",
-    "japaneseSupport": "none",
-    "shortDescription": "*Mom, I Am Really Learning English* is a combat card game designed specifically for college-level English learners. In the game, you take on the role of a student at a magic academy, where every English word transforms into a female warrior card to form your deck.",
-    "aboutTheGame": "About This Game Mom, I’m Really Learning English is a single-player, turn-based learning card battle game designed for players who are studying College English Test Band 4 and Band 6 vocabulary. The game integrates English words, phrases, definitions, and example sentences into the card battle process, allowing players to repeatedly encounter vocabulary while building decks, summoning characters, using skills, and completing battles. Gameplay The game uses a turn-based card battle system. Both the player and the enemy have their own HP and battle zones. Each turn, the player can choose a card…",
-    "detectedAt": "2026-08-29T04:28:49.934Z"
-  },
-  {
-    "steamAppId": 4727440,
-    "title": "Play the Wor!d",
-    "sourceUrl": "https://store.steampowered.com/app/4727440/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月17日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727440/b154f7200d8870e15da81c8d2df8785e020cbc07/header.jpg?t=1787968290",
-    "japaneseSupport": "none",
-    "shortDescription": "Build words, complete sentences, and chase high scores in a deckbuilding roguelite. Draw letter tiles, connect words by their parts of speech, exploit word and sentence patterns, and use rule-bending emoji tiles to clear each round.",
-    "aboutTheGame": "PLAY WITH WORDS. BUILD WITH RULES. Play the Wor!d is a deckbuilding roguelite where every run starts with a handful of letters. Combine randomly drawn letter tiles into words, then connect those words according to their parts of speech to complete sentences. But a sentence is more than just a sentence — it's your scoring engine. Choose your words carefully, take advantage of word and sentence patterns, and build combinations that turn a simple sentence into a massive score. BUILD WORDS FROM LETTERS Draw letter tiles and combine them into words. Your available letters change as you play, so mak…",
-    "detectedAt": "2026-08-29T04:28:50.674Z"
-  },
-  {
-    "steamAppId": 4840130,
-    "title": "Astrosaurox",
-    "sourceUrl": "https://store.steampowered.com/app/4840130/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "共有／分割画面での協力プレイ"
-    ],
-    "releaseDate": "2026年9月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840130/6c3a3e5afb4631e4107bb2039bff52c50f2ee930/header.jpg?t=1787972978",
-    "japaneseSupport": "none",
-    "shortDescription": "Astrosaurox is a tribute to the videogames of the late 70s and early 80s. Pilot an Astrosaurox tank and battle the space mafia. Depending on your age, either discover or relive the challenge, fun, and addictive nature of those classic games. Beat your highscore in solo or co-op mode.",
-    "aboutTheGame": "Astrosaurox is a tribute to the video games of the late 70s and early 80s. Pilot an Astrosaurox tank and battle the space mafia. Depending on your age, either discover or relive the challenge, fun, and addictive nature of those classic games. Beat your high score in solo or co-op mode. * Various basic enemies. * Bosses. * Pixel art graphics. * Precise gameplay, using either a keyboard or an Xbox-compatible controller. * Classic shoot-'em-up genre. * High score. * Solo and co-op.",
-    "detectedAt": "2026-08-29T04:28:51.279Z"
-  },
-  {
-    "steamAppId": 4959450,
-    "title": "Salvage Run",
-    "sourceUrl": "https://store.steampowered.com/app/4959450/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959450/1ac1028f1274d5971ff2af9aa14d3d2586072fd8/header.jpg?t=1787968109",
-    "japaneseSupport": "none",
-    "shortDescription": "Fight through relentless waves of hostile robots in this fast-paced roguelite twin-stick shooter. Earn credits, purchase permanent upgrades, master multiple game modes, and chase your highest score. Every run is a chance to survive longer and push your limits.",
-    "aboutTheGame": "Salvage Run is a fast-paced roguelite twin-stick shooter built for endless replayability. Blast through relentless waves of hostile robots, earn credits, and invest them in permanent upgrades that help you survive longer across multiple game modes. Master the action, push your limits, chase higher scores, and keep coming back for one more run. Play. Upgrade. Die. Repeat.",
-    "detectedAt": "2026-08-29T04:28:51.809Z"
-  },
-  {
-    "steamAppId": 4975000,
-    "title": "Elimination Protocol",
-    "sourceUrl": "https://store.steampowered.com/app/4975000/",
-    "price": "無料",
-    "tags": [
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年12月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975000/2a4ac46d5c76a8938b3d84ed4056072cb6f7dcfb/header.jpg?t=1787975005",
-    "japaneseSupport": "none",
-    "shortDescription": "A modern-era tactical RPG. Lead a resistance cell against OmniCorp, the company that built the world's first General AI and now rules through it. Spend AP freely instead of one-action turns, chain ability combos, and win through tactics and synergy. No grinding. Every fight moves the story.",
-    "aboutTheGame": "She Built It... They Weaponized It. Atreia Voss is the creator of the world's first artificial intelligence. After losing her parents in the Third World War, she became obsessed with shaping a world that would have no need for war. She believed a world without scarcity would be a world without reason to fight. OmniCorp funded her work, then turned it into the most efficient instrument of control the world has ever seen. She resigned, but didn't leave empty-handed. She installed a backdoor into the system and sees the target list before the strike teams move. The ones she reaches become the res…",
-    "detectedAt": "2026-08-29T04:28:52.312Z"
-  },
-  {
-    "steamAppId": 5043210,
-    "title": "Pipe or Die",
-    "sourceUrl": "https://store.steampowered.com/app/5043210/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "LAN協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043210/3c667060b439072b06523c561d123dcb4097ea58/header.jpg?t=1787940206",
-    "japaneseSupport": "none",
-    "shortDescription": "A co-op horror game for up to 6 players. Place pipes, build a factory, and make rent... or die.",
-    "aboutTheGame": "Pipe or Die is a 1-6 player co-op horror game with proximity voice chat where you build a factory in the Pit, a monster-infested hole in the earth. The Company sends you down to scavenge pipes, build your factory, and carry the crates it makes back to the ship. Collect pipes and use them to route lines between factory machines. Watch the ore your machines mine move through the pipes to the fabricator. PIPES! Old factory guards and more wander the Pit, waiting for you. Use your wits, equipment and upgrades to survive. Help your friends find their way into the Pit or trap them with a monster usi…",
-    "detectedAt": "2026-08-29T04:28:52.879Z"
-  },
-  {
-    "steamAppId": 5046300,
-    "title": "Weaver's Oath",
-    "sourceUrl": "https://store.steampowered.com/app/5046300/",
-    "price": "価格情報なし",
-    "tags": [
-      "RPG",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046300/93b19a337bb083126b06417d363aa6b38503207d/header.jpg?t=1787659644",
-    "japaneseSupport": "none",
-    "shortDescription": "A combination of roguelike and Match 3, Weaver's Oath is a game that focuses on building, skills and combos to achieve the ultimate goal to eradicate Corruption, while surviving long enough not to be swallowed by it.",
-    "aboutTheGame": "\"The world is not how it once was. Creatures arose from ruptures of the fabric of reality - some are known to man, some are not. One of these creatures unleashed a curse upon your kind on its arrival. The curse spreads through the impure touch of a lost soul. \" Weaver's Oath is roguelike match 3. Your ultimate goal is to lift the curse by killing the end boss at the end of the run. Pick class and delve into actionby matching gems to gather mana and spend it to cast powerful spells. Corruption will slowly eat at your health, making it harder to survive. Killing Bosses is a surefire way to do so…",
-    "detectedAt": "2026-08-29T04:28:53.435Z"
-  },
-  {
-    "steamAppId": 5046350,
-    "title": "Manabound Syndicate",
-    "sourceUrl": "https://store.steampowered.com/app/5046350/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046350/e98c1c1bd10f8d7e0b28b46f6313c0ff705c9324/header.jpg?t=1787934745",
-    "japaneseSupport": "none",
-    "shortDescription": "Command elemental towers. Forge mystical gems. Build a thriving camp. Manabound Syndicate blends strategic tower defence with RPG progression, where victory fuels your strength for the battles ahead. Recruit workers, master powerful spells, customize towers with gems, and unlock permanent upgrades.",
-    "aboutTheGame": "Command elemental towers. Forge mystical gems. Build a thriving camp. Manabound Syndicate blends strategic tower defence with RPG progression, where victory fuels your strength for the battles ahead. Recruit workers, master powerful spells, customize towers with gems, and unlock permanent upgrades. Defend: Push back the assault with grid based tower placement and build your defences around each map’s unique layout. Every tower can be developed through its own upgrade skill tree, with two distinct paths allowing you to shape its role. Adapt your strategy as waves of varied monsters break throug…",
-    "detectedAt": "2026-08-29T04:28:53.951Z"
-  },
-  {
-    "steamAppId": 5046380,
-    "title": "CubeOut",
-    "sourceUrl": "https://store.steampowered.com/app/5046380/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046380/5cc4b418f9767509c54080d5028f58094eca44ee/header.jpg?t=1787744327",
-    "japaneseSupport": "text",
-    "shortDescription": "楽しくてハイスピードな物理ベースのパーティーゲーム！カオスなミニゲームの数々で、他のプレイヤーを相手に転がり、ダッシュし、生き残りましょう。友達を崖から突き落とし、致命的な罠を避け、バウンドする物理演算をマスターして最強のキューブになりましょう！",
-    "aboutTheGame": "ぶつかって、ダッシュして、生き残れ 『CubeOut』は、物理演算を使ったクレイジーなマルチプレイヤー・パーティーゲームです。ぶつかることと動くことが最大の武器になる、スピーディーなゲームモードに飛び込みましょう。敵にダッシュし、罠を避け、崖から落ちないようにしてください！ 現在の早期アクセス（Early Access）モード： Last Cube Standing（最後まで生き残れ）： ゆっくりと崩れ落ちる足場での楽しいバトル。敵にぶつかって突き落としましょう。最後まで生き残ったキューブの勝ちです！ Infection（感染）： ワイルドなサバイバルゲーム。1人のプレイヤーが感染した状態から始まります。ぶつかると相手の仲間になってしまいます。生き残るか、それとも他の全員を感染させるのを手伝うか！ Parkour & Race（パルクール＆レース）： 楽しい障害物コース。ジャンプのタイミングを計り、スピードをコントロールして一番にゴールしましょう。 近日追加予定（今後のアップデート）： フルリリースに向けて、大きな新機能の開発に懸命に取り組んでいます。早期アクセスに参加することで、これらのアップデートのテストにご協力いただけます。 The Bonding System（合体システム）： プレイヤー同士がキューブをくっつけて、巨大な壁や転がるブロックを作ることができるクールな新機能！…",
-    "detectedAt": "2026-08-29T04:28:54.465Z"
-  },
-  {
-    "steamAppId": 5046490,
-    "title": "Sarukuji",
-    "sourceUrl": "https://store.steampowered.com/app/5046490/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "ストラテジー",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "2026年第3四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046490/5d18f78db60a641c5067388e7e17b1fdb58cd7e8/header.jpg?t=1787889249",
-    "japaneseSupport": "none",
-    "shortDescription": "Global warming has flooded the earth. Only the monke survived. Build your sand castle and fight to the death with random items against your friends!",
-    "aboutTheGame": "[Sarukuji] is a fast online party battler about monkes, sand, and good fortune. Every round drops each player on top of their own sand pillar, high above the sea. The fortune roll hands out a random item every few seconds. Some rolls give you sand to build with. Some give you a sword, a bomb, a flamethrower, or a bus. What you get is luck. What you do with it is skill. Knock everyone else into the water and be the last monke standing before the round timer runs out! BUILD OR FIGHT Sand is your lifeline. Bridge to your rivals, wall off their attacks, or tower up out of reach. Every block you pl…",
-    "detectedAt": "2026-08-29T04:28:55.019Z"
-  },
-  {
-    "steamAppId": 5046630,
-    "title": "Counterstep Arena",
-    "sourceUrl": "https://store.steampowered.com/app/5046630/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046630/e20f5c5ffc56912a9fc574d954af7aa551575c64/header.jpg?t=1787885517",
-    "japaneseSupport": "none",
-    "shortDescription": "「Counterstep Arena」はローグライク的な進行システムを組み込んだターナーベースの格闘ゲームで、次々と現れる敵を倒して進んでいきます。ゲームを進めるにつれて、アップグレードや新しい技を習得し、技のセットを拡充していきます。より強力な敵へと向かいながらユニークな技のセットを組み上げ、その実力を証明しましょう。",
-    "aboutTheGame": "「Counterstep Arena」はローグライク的な進行システムを組み込んだターナーベースの格闘ゲームで、次々と現れる敵を倒して進んでいきます。ゲームを進めるにつれて、アップグレードや新しい技を習得し、技のセットを拡充していきます。より強力な敵へと向かいながらユニークな技のセットを組み上げ、その実力を証明しましょう。 ターナーベースの2D格闘ゲーム 攻撃を受けずに相手を攻撃しましょう。技のプレビューを確認して、次の動きを計画して見よう。 敵を倒し、戦いのプレイバックを見る 戦いのリプレイを確認し、見事な技のGIFをダウンロードする。",
-    "detectedAt": "2026-08-29T04:28:55.573Z"
-  },
-  {
-    "steamAppId": 5046690,
-    "title": "INKTRICK",
-    "sourceUrl": "https://store.steampowered.com/app/5046690/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第1四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046690/c67c087c8c74b12a8c3a65f8e73ac8f66c2442c1/header.jpg?t=1787810410",
-    "japaneseSupport": "none",
-    "shortDescription": "INKTRICK is a handcrafted, cozy roguelike card game made of cards, ink and stamps. Win tricks, turn a weak 8 into a trump and unlock new possibilities hand after hand, such as stamp upgrades and mystery packs. Fibus deals, cheers you on and plays against you.",
-    "aboutTheGame": "A weak 8 beats an ace — you just have to stamp it first. INKTRICK is a roguelike card game made of cards, ink and stamps. Grab the cards, the ink pad and a glass of ink: the table is set! You play trick after trick against Fibus, the cheeky hand at the other end of the table. She deals, she shows you everything, she cheers you on at the top of her voice … and then she snatches the last trick right out from under your nose. You learn the rules in a minute: follow suit, take the trick, collect ink. But the cards are only the beginning. One imprint, and the weakest card at the table beats the str…",
-    "detectedAt": "2026-08-29T04:28:56.118Z"
-  },
-  {
     "steamAppId": 5047980,
     "title": "異界刀鋒：バトルカード",
     "sourceUrl": "https://store.steampowered.com/app/5047980/",
@@ -9788,5 +9505,414 @@
     "shortDescription": "A village lives in the shadow of a burned kingdom. Explore 25 hand-built maps, fight turn-based battles with real-time boss phases, farm, fish, cook and gamble, and decide what happens to the people you meet. A cosy RPG with teeth.",
     "aboutTheGame": "Ash falls slow over a keep that won't stay buried A kingdom burned here. The village at the foot of the hill lives on anyway — farming, fishing, trading, arguing — while something up in the keep has still not finished with the place. You arrive with nothing but a choice of weapon. What you do after that is largely up to you. Fight, or don't Turn-based combat built to reward attention rather than grinding. Enemies have elemental weaknesses worth exploiting, a combo streak that builds while you go untouched, and a limit gauge that fills whether the fight is going well or badly. Bosses change sha…",
     "detectedAt": "2026-09-02T00:28:54.398Z"
+  },
+  {
+    "steamAppId": 2882170,
+    "title": "Akryon-D",
+    "sourceUrl": "https://store.steampowered.com/app/2882170/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882170/f316069cf673b026a05b78b584496f6fc9706465/header.jpg?t=1788310594",
+    "japaneseSupport": "none",
+    "shortDescription": "Akryon - D wa tōku hanareta seikei kara kita mono de, kare no fune wa kōdona uchū-teki sonzai ni nottora rete zashō shi,-sen o kanzen ni seigyo shiyou to shite imasu. Akryon ga uchū-teki sonzai o mitsukete muryoku-ka shi,-sen no seigyo o torimodosu no o tetsudatte kudasai.",
+    "aboutTheGame": "Akryon-D は遠く離れた星系から来たもので、彼の船は高度な宇宙的存在に乗っ取られて座礁し、船を完全に制御しようとしています。Akryon が宇宙的存在を見つけて無力化し、船の制御を取り戻すのを手伝ってください。",
+    "detectedAt": "2026-09-02T04:29:17.953Z"
+  },
+  {
+    "steamAppId": 4329880,
+    "title": "Mage Fight",
+    "sourceUrl": "https://store.steampowered.com/app/4329880/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年9月16日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329880/b2392f6516ded98b432e415f6f27c0dfe7308fba/header.jpg?t=1788312486",
+    "japaneseSupport": "none",
+    "shortDescription": "Mage Fight is a PvP turn-based card-drafting skirmish where every action point and dice roll counts. Refine your strategy as you cast spells, summon minions, and shift the dungeon to overwhelm your opponent!",
+    "aboutTheGame": "Play against online opponents or your friends and engage in a Wizards Duel! Draft from 70 different cards to build your deck how YOU want it. Summon over 10 different minions types in battle to aid you in the fight, such as undead skeletons, mage assistants, resurrecting faeries, and demons beyond the realm. Steal, destroy or add to your opponent's cards or your own to hinder or help. Cast fire, electric and magic spells against your opponents and set them on fire, paralyse, or put them to sleep Zzz. Transform yourself into a Spectre or Tortoise mid-battle to temporarily change the rules of th…",
+    "detectedAt": "2026-09-02T04:29:18.686Z"
+  },
+  {
+    "steamAppId": 4340630,
+    "title": "Kill Me Yesterday",
+    "sourceUrl": "https://store.steampowered.com/app/4340630/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4340630/40a110631d0a76d217e2d46a00def02b08d22d67/header.jpg?t=1788316835",
+    "japaneseSupport": "none",
+    "shortDescription": "A rainy night in 2040. Tyren is shot dead by his wife of seven years, Samantha—only to wake up ten years in the past. In this cyberpunk mystery RPG, enter others' minds, uncover hidden memories, and chase the truth through choices and restarts to find her again.",
+    "aboutTheGame": "A decisive gunshot from your wife sends you back ten years to the first snow... A decade ago, on the eve of a technological revolution, human consciousness experiments pushed past every ethical boundary—making immortality of consciousness a possibility. Fall Into Yesterday is a futuristic mystery narrative RPG. As the resurrected Tyren, chase the truth behind the \"Personality Displacement Experiment\" across fractured timelines. Dive into others' minds, read hidden emotions and memories, uncover the truth, and change the future. A bioroid who gives everything for love. An obsessive genius scien…",
+    "detectedAt": "2026-09-02T04:29:19.458Z"
+  },
+  {
+    "steamAppId": 4542530,
+    "title": "Dimension Pets",
+    "sourceUrl": "https://store.steampowered.com/app/4542530/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542530/ecec74f44922544003e67b272adee4c3348e318e/header.jpg?t=1788312500",
+    "japaneseSupport": "none",
+    "shortDescription": "A cute casual desktop pet that lives on your screen. Chat and give simple commands, watch it idle and explore, pin memos, dress it up with accessories, and customize your desk with stickers and Workshop themes—a cozy companion while you work or relax.",
+    "aboutTheGame": "Dimension Pets is a cozy desktop companion experience. Give natural-language commands to your pet to tidy objects, patrol, and interact with the environment, while it also performs ambient actions on its own. Place 3D items, build your own miniature dimension, and enjoy small daily surprises. Key Features Natural-language commands Tell your pet what to do with simple phrases like tidying up, patrolling, or moving items near each other. Ambient autonomous behaviors Your pet does not just wait for commands. It reacts to nearby objects and performs contextual actions on its own. Your own 3D deskt…",
+    "detectedAt": "2026-09-02T04:29:20.073Z"
+  },
+  {
+    "steamAppId": 4686750,
+    "title": "Pinball Hero",
+    "sourceUrl": "https://store.steampowered.com/app/4686750/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4686750/85ed2e4d5e7f4517982856f06843dbc816d250a2/header.jpg?t=1788318363",
+    "japaneseSupport": "none",
+    "shortDescription": "Hero Pinball is a turn-based pinball RPG roguelike on an arcade cabinet. Heroes and skills are physical marbles—load boxes, launch, and let physics settle the fight. Climb a branching map, grow builds through play, recruit allies, and clear the table.",
+    "aboutTheGame": "Hero Pinball Your heroes are pinballs — bouncing, colliding, and rebounding inside an arcade cabinet. Aim, charge, launch. The feel is immediate; the board keeps shifting. Each beat throws fate back onto the table, and physics writes the ending. Explore and Encounter From quiet village fields you press deeper along a branching map of combat, events, and shops. Enemies wait in plain sight — what you see is what you fight. Clear the board to win; stay in the fight until victory or total defeat. Spoils spray from the wreckage. Every run is a fresh journey into the unknown. Build Your Pinball Comp…",
+    "detectedAt": "2026-09-02T04:29:20.696Z"
+  },
+  {
+    "steamAppId": 4733110,
+    "title": "G-MODEアーカイブス+ リッジレーサー",
+    "sourceUrl": "https://store.steampowered.com/app/4733110/",
+    "price": "価格情報なし",
+    "tags": [
+      "レース",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月15日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733110/37ece00932293a559772260daa919b4f0d294862/header.jpg?t=1788317856",
+    "japaneseSupport": "text",
+    "shortDescription": "ゲーム史に残る傑作3Dカーレーシング。 華麗なドリフトをキメて、コーナーを駆け抜けろ！",
+    "aboutTheGame": "ゲーム史に残る傑作3Dカーレーシング。 華麗なドリフトをキメて、コーナーを駆け抜けろ！ 【ゲーム特徴】 「リッジレーサー」は1993年にアーケードゲームで稼働し、翌年には家庭用版ソフトにも登場し大ヒット。 世界初のリアルタイム3DCGを使用した、ゲーム市場に残る傑作タイトルをもとにフィーチャーフォンでもプレイできるよう最適化をした3Dカーレーシングゲームです。 【ゲームシステム】 フィーチャーフォンアプリ版では、初級･中級･上級モードおよび、ライバルカーとの一騎打ちでタイムの短縮を目指すタイムトライアルモードの各ゲームモードが楽しめます。 収録されている車種は、加速が重視されているものなど性能がそれぞれ異なる4種類の車種に、様々なデカールで彩られたデザインの車をセレクトしてスピードを競えます。",
+    "detectedAt": "2026-09-02T04:29:21.204Z"
+  },
+  {
+    "steamAppId": 4817160,
+    "title": "无家可归：求生",
+    "sourceUrl": "https://store.steampowered.com/app/4817160/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4817160/0c3aadbbf5f5d3c25613f4bad1ac8d8f8f6bd70e/header.jpg?t=1788316264",
+    "japaneseSupport": "none",
+    "shortDescription": "\"Homeless: Survival\" — a gritty survival sim where you play as a drifter clawing your way up from the streets. Take odd jobs, learn skills, scavenge rare items, and risk it all—even in the supernatural—to earn your citizenship and start over. Every choice writes your story of redemption.",
+    "aboutTheGame": "\"Homeless: Survival\" — a gritty survival sim where you play as a drifter clawing your way up from the streets. Take odd jobs, learn skills, scavenge rare items, and risk it all—even in the supernatural—to earn your citizenship and start over. Every choice writes your story of redemption. Life System Hunger, filth, and low morale will drag your body down—various ailments can strike like a chain reaction and crush you. Passersby come in all kinds—their reactions range from charity to insults. Dumpsters may yield nothing—or leftovers, scrap, loose change, and consumables. Recycle scrap: trade it…",
+    "detectedAt": "2026-09-02T04:29:21.714Z"
+  },
+  {
+    "steamAppId": 4855750,
+    "title": "Flare Up",
+    "sourceUrl": "https://store.steampowered.com/app/4855750/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855750/36b0bb0131ce6148c038c66dccf96edfb082ba98/header.jpg?t=1788318156",
+    "japaneseSupport": "none",
+    "shortDescription": "Flare Up is a retro-inspired endless platformer where chronic illness changes the rules as you play.",
+    "aboutTheGame": "Flare Up is a retro-inspired endless platformer where chronic illness changes the rules as you play. Chase a highscore while dealing with unpredictable mechanics tied to your player-character symptoms. Each new day, encounter new symptoms, combos, and challenges. Over time, learn which symptoms cause which challenges, and use your knowledge to improve your high score. Creative director has fibromyalgia, a nervous system condition responsible for a constellation of symptoms that can change each day. Symptoms and their impacts in ​Flare Up ​have been designed to represent her lived experiences.…",
+    "detectedAt": "2026-09-02T04:29:22.259Z"
+  },
+  {
+    "steamAppId": 4878220,
+    "title": "DashBreaker",
+    "sourceUrl": "https://store.steampowered.com/app/4878220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878220/013d124ab0355afe5a2807454b6a4d5bb1b7dcd7/header.jpg?t=1788316165",
+    "japaneseSupport": "text",
+    "shortDescription": "Dash through a storm of missiles in this top-down arcade action game, reading enemy patterns, choosing your line, breaking through targets, recovering supplies, and opening portals across a handcrafted campaign that ends in carrier and dreadnought battles.",
+    "aboutTheGame": "YOUR DASH IS MORE THAN MOVEMENT DashBreaker is a compact top-down arcade action game about reading danger and making split-second decisions. Pilot a small Blue Pixel ship through a combat board filled with rocks, drones, missiles, recovery pickups, and boss pressure. Your dash is more than movement: it is an attack, an escape route, and a way to create a safer line through the battlefield. READ THE BOARD. CHOOSE YOUR LINE. BREAK THROUGH. Missiles form patterns, close routes, and turn safe space into danger. Watch the board, manage your movement and booster, then dash through the opening at the…",
+    "detectedAt": "2026-09-02T04:29:22.794Z"
+  },
+  {
+    "steamAppId": 4956190,
+    "title": "Peasants in a Hole",
+    "sourceUrl": "https://store.steampowered.com/app/4956190/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956190/1a9b263f61f8e3c2b3ea1d839fc0a84ec1dfbeab/header.jpg?t=1788308761",
+    "japaneseSupport": "none",
+    "shortDescription": "You're a peasant thrown into a hole with a gate closing above you. Throw mud, stick crates, stack your way up, dodge fire vents and dart traps, loot the fallen, and escape before you're sealed in. A physics-driven first-person climbing roguelite soaked in dark humor.",
+    "aboutTheGame": "YOU WERE THROWN INTO A HOLE. No sword. No rope. No plan. Just mud, crates, and a gate grinding shut above your head. You are a peasant. Nobody is coming to save you. Every hole is a vertical physics puzzle, and the only way out is the one you build yourself — before the gate seals you in for good. BUILD YOUR OWN WAY OUT There is no climbing button. There are no ladders. There is mud. - Scoop mud from the pit floor and hurl it at any surface to create a sticky anchor - Throw crates into your splats and they stick instead of bouncing away - Stack crate on crate to improvise a tower up the walls…",
+    "detectedAt": "2026-09-02T04:29:23.562Z"
+  },
+  {
+    "steamAppId": 4971980,
+    "title": "Click Cafe",
+    "sourceUrl": "https://store.steampowered.com/app/4971980/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971980/2db65bf6b442486189f2cf319675d65d3536c2c1/header.jpg?t=1788321797",
+    "japaneseSupport": "text",
+    "shortDescription": "次々と入る注文に合わせて料理やドリンクを提供し、カフェを拡張しましょう。アップグレードをアンロックして収益を最大化し、ガチャガチャでおもちゃをコンプリートするのです！",
+    "aboutTheGame": "経営難のカフェを、巨額の借金ごと引き継ぐことになる、アクティブなインクリメンタルゲーム。次々と入る注文に合わせて、接客や料理の提供を行いましょう。アップグレードを購入してカフェを拡張し、収益を上げて借金を返済するのです！ お手伝いをしてくれる猫 猫ロボットのチームで業務を自動化しましょう。クリックは一切不要です。 クリックの力を解き放て クリックするたびに、パワーアップにつながります。 お金を稼ぐには、お金を使う必要がある クリックひとつでアップグレードできます。",
+    "detectedAt": "2026-09-02T04:29:24.104Z"
+  },
+  {
+    "steamAppId": 4985010,
+    "title": "CGC - Cemetery",
+    "sourceUrl": "https://store.steampowered.com/app/4985010/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月6日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985010/a75fbe380b18b26cfe1b0404206632887bf448b3/header.jpg?t=1788318957",
+    "japaneseSupport": "none",
+    "shortDescription": "Crisis Guard Corporation is hiring. Five-night security contract. No prior experience required. Competitive compensation. All shifts monitored. All incidents must be documented. Positions available immediately.",
+    "aboutTheGame": "CRISIS GUARD CORPORATION \"Protecting What Matters\" ______________________________________________________________________________ POSITION : Night Security Operative SITE : Whispering Pines Memorial Cemetery DURATION : 5 nights (non-negotiable) COMPENSATION : Above market rate STATUS: OPEN - HIRING IMMEDIATELY ______________________________________________________________________________ ABOUT THE ROLE Crisis Guard Corporation is seeking a contracted security operative for a standard monitoring assignment at a rural memorial site. No prior security experience is required. DUTIES: Perimeter sec…",
+    "detectedAt": "2026-09-02T04:29:24.673Z"
+  },
+  {
+    "steamAppId": 5042090,
+    "title": "穿越火焰 Pass Thru Fire",
+    "sourceUrl": "https://store.steampowered.com/app/5042090/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042090/e24eefbdaf8bd073e0f2812e3dbb2f00065e78e8/header.jpg?t=1788320976",
+    "japaneseSupport": "none",
+    "shortDescription": "A story-driven puzzle and mystery RPG with a unique art style. Players take on the role of an unemployed police officer, wandering through the corrupt city streets to find the killer behind the serial murders at Qingjiang University dorms, and uncover the truth about their missing brother...",
+    "aboutTheGame": "Pass Thru Fire is a domestically produced Chinese RPG featuring a narrative-driven mystery and puzzle-solving gameplay. Plot It happened on a certain day of a certain month in a certain year. A world-renowned science and technology summit was scheduled to take place in Qingjiang City. At the same time, a gruesome dismemberment murder occurred at Qingjiang University—the very venue hosting the event. K-Wa'er, an unemployed former police officer, found himself drawn into the case. As the investigation deepened, more victims emerged one after another; even K-Wa'er's younger brother, Lu Lide—a stu…",
+    "detectedAt": "2026-09-02T04:29:25.216Z"
+  },
+  {
+    "steamAppId": 5055310,
+    "title": "维港心动局：千禧前夜",
+    "sourceUrl": "https://store.steampowered.com/app/5055310/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055310/3ad0a1c67f9ef7a4ee98bf052ffabd3f5ce89016/header.jpg?t=1788317827",
+    "japaneseSupport": "none",
+    "shortDescription": "这是一款 AI互动恋爱 + 港片商战悬疑影游。在千禧前夜的香港，你将扮演李洋，爱情拉扯、家族博弈与真相交织，她们不是等待被攻略的角色，而是拥有各自立场、伤口与命运的人。你要做的不只是选择所爱， 时代潮水来临前，你会做出怎样的选择?",
+    "aboutTheGame": "这是一款 AI互动恋爱 + 港片商战悬疑 真人影游。故事发生在千禧前夜的香港，你将扮演李洋，被卷入三段心动关系、一场豪门旧案与中维集团的资本风暴中。旧爱重逢、继承人上位、家族婚约、董事局博弈与车祸真相交织，每一次选择都会影响她们对你的记忆、关系走向、好感度、声望值与最终结局。本作以 90 年代末香港为背景， 呈现爱情拉扯与商战压迫。她们不是等待被攻略的角色，而是拥有各自立场、伤口与命运的人。你要做的，不只是选择所爱，也是在时代潮水来临前，选择你相信的真相。 爱情、真相、资本、旧案，都会因为你的选择被重新改写。 【结语】 三段心动，一场旧案。 你以为自己只是被她们爱着，直到你发现：每一次心动，都是接近真相的一步。 世纪结束前，选择所爱，也选择真相。 【产品特色】 【新体验：从“攻略角色”到“被她们记住”】 这不是简单选择谁、讨好谁的恋爱游戏。她们会记住你的态度、你的迟疑、你的偏袒，以及你在关键时刻有没有站在她身边。 【新类型：AI 互动恋爱港片影游】 纯AI影像叙事基础上，加入互动对话与角色记忆设计。你不只是观看剧情，而是在与角色建立关系。 【新剧情：爱情、商战、旧案交织】 旧爱重逢不是终点，豪门继承不是爽文，董事局会议、股价风暴、家族婚约、车祸旧案，都会把你推向更难的选择。 【新关系：三位女性，三种命运】 她们不是同一种“女主模板”。有人代表过去，有人代表责任，有人代表诱惑与未知。…",
+    "detectedAt": "2026-09-02T04:29:25.759Z"
+  },
+  {
+    "steamAppId": 5077320,
+    "title": "TapRacer",
+    "sourceUrl": "https://store.steampowered.com/app/5077320/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "レース",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077320/000181021c241c55cb17958a57436c76b3b65fef/header.jpg?t=1787763642",
+    "japaneseSupport": "none",
+    "shortDescription": "Two keys, strictly alternating, as fast as you can. TapRacer is a drag racer with real vehicle physics: torque curves, clutch slip, tire temperature, weight transfer. Burnout, launch, four shifts — and the quarter mile is over.",
+    "aboutTheGame": "Two keys. A quarter mile. No room for error. TapRacer is a side-on drag racing game. You tap two keys in strict alternation — that's your throttle. How fast you tap sets the revs. What comes of them is up to the car. One race, four decisions Burnout. Cold tires are bad tires. Spin them up on the line until they're in the window — too little and you'll light them up off the start, too much and they go greasy. Launch. The clutch drops on a button press. Too few revs and the engine bogs; too many and the wheels break loose. The perfect start lives in between. Reaction time counts, and jumping the…",
+    "detectedAt": "2026-09-02T04:29:26.318Z"
+  },
+  {
+    "steamAppId": 5077410,
+    "title": "Aethris: Into The Unknown",
+    "sourceUrl": "https://store.steampowered.com/app/5077410/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077410/077eee868d5f60a355642070fcd7aec3abf5d4a6/header.jpg?t=1787752922",
+    "japaneseSupport": "none",
+    "shortDescription": "One day, you are thrown into an unknown world – Aethris. Lead your own adventure. Hunt for clues in dialogues with diverse characters. Choose what to doubt or trust. Forge a path between chaotic reality and illusory sanctuary.",
+    "aboutTheGame": "A heroine-led adventure Play as a skeptical heroine who takes measured steps into the unknown. Survival instinct kicks in first. Your mind won’t stop racing. You can’t help but ask yourself: why are you here? The deeper you dive in, the more secrets you capture. Some you hold but not yet understand. Hyper-alert, you question everyone in your mind. What if each charming face is hiding something? However, believing no one leads to nowhere. Will you eventually learn who to trust? Choose who you become. Forge a path between chaotic reality and illusory sanctuary. Where the questions begin Sometime…",
+    "detectedAt": "2026-09-02T04:29:26.857Z"
+  },
+  {
+    "steamAppId": 5077450,
+    "title": "TapyBuddy",
+    "sourceUrl": "https://store.steampowered.com/app/5077450/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月10日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077450/8640e71be358c38345c90690d2e39dbee616882c/header.jpg?t=1788177872",
+    "japaneseSupport": "none",
+    "shortDescription": "TapyBuddy the stupid but loyal capybara will accompany you every time you work, play, or just spending time at your PC. Collect some accessories and design your buddy to look cool, cute, or funny. Let him/her brighten your days.",
+    "aboutTheGame": "TapyBuddy the stupid but loyal capybara will accompany you every time you work, play, or just spending time at your PC. Collect some accessories and design your buddy to look cool, cute, or funny. Let him/her brighten your days. [GAME FEATURES] Interactive & Funny Avatar: Every key you stroke, trigger an action on your TapyBuddy makes your desktop looks aesthetic and funny. Wardrobe System: Collect more than 100 accessories and weapons, design your own TapyBuddy to your style. Exchange System: Collect as many as you can ! Every 10 items with same rarity you collect, can be exchanged into highe…",
+    "detectedAt": "2026-09-02T04:29:27.406Z"
+  },
+  {
+    "steamAppId": 5077580,
+    "title": "A Vila Sobre o Poço",
+    "sourceUrl": "https://store.steampowered.com/app/5077580/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月11日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077580/ab41fe143c25764fcd7b4382e6452280de25e76c/header.jpg?t=1788310192",
+    "japaneseSupport": "none",
+    "shortDescription": "Rebuild a mining village around an ancient well. Gather wood, stone, iron and crystal, hire workers, refine materials and forge gear — then send your adventurer into the seven dungeons below. A cozy idle village builder about memory, loss and the way back home.",
+    "aboutTheGame": "At the center of an old mining village stands a well older than the houses around it. Beneath it, abandoned galleries run through quarries, furnaces, crystal caves and ruins built by a forgotten people. Your grandfather lost down there the only keepsake he had left of the woman he loved: a small blue stone medallion. Too old to climb down, he asks you not to risk your life over an object. But you understand that what was lost was never just a piece of jewelry. Rebuild the village. Equip the adventurer. Bring back what the dark took. REBUILD THE VILLAGE Gather wood, stone, iron and crystal acro…",
+    "detectedAt": "2026-09-02T04:29:27.965Z"
+  },
+  {
+    "steamAppId": 5077960,
+    "title": "Le Shampoo War II",
+    "sourceUrl": "https://store.steampowered.com/app/5077960/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077960/8a26c45f41ea8f9b4694129a40569387e7102959/header.jpg?t=1788134489",
+    "japaneseSupport": "none",
+    "shortDescription": "Shampoo want a war! They have power they need with classes, weapons, and perks and there going to destroy the evil signs. But 1 death is all it takes to go back to the first room... Be careful, get upgrades, defeat the big signs, and find the end of this world...",
+    "aboutTheGame": "Long time ago a shampoo bottle was zooming down the road, and passed a stop sign. And the stop sign snitched on the shampoo and got them arrested, now that shampoo was super famous so other shampoo bottles started to shoot there shampoo at the stop signs. The stop signs got so mad they started another war... not just any war... Le shampoo war II. Features: 27 Enemy's and 6 Bosses to fight! 6 Unique enemy Ai's, Infested floors, and random effects for unique enemy attacks! 40 Weapons to chose from! 4 Classes to build around with unique parings, weapons, and ability's! Melee Range Mage Thrower An…",
+    "detectedAt": "2026-09-02T04:29:28.532Z"
+  },
+  {
+    "steamAppId": 5078060,
+    "title": "Whisker Works",
+    "sourceUrl": "https://store.steampowered.com/app/5078060/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078060/6f56a727d2372b46ea7bf5826ef394a0a2df98b8/header.jpg?t=1788005260",
+    "japaneseSupport": "none",
+    "shortDescription": "Whisker Works is a chaotic 1–4 player renovation game! Clean, repair, demolish and rebuild with your cat crew, because we clean, we fix, we PURRFECT!",
+    "aboutTheGame": "GET YOUR PAWS DIRTY! Whisker Works is a physics-based renovation game for 1-4 players. Clean up trash, repair what's broken, haul out old furniture and turn ruined places into something worth looking at again. CLEAN. BREAK. FIX. Scrub dirt, collect garbage, clear overgrown areas, repair broken systems and give anything beyond saving one final meeting with the sledgehammer. Sometimes fixing things starts with breaking them a little more. BRING THE CREW! Work alone or team up with up to four players. Split the jobs, carry heavy objects together or make everything unnecessarily difficult for each…",
+    "detectedAt": "2026-09-02T04:29:29.096Z"
+  },
+  {
+    "steamAppId": 5078330,
+    "title": "Glorpnauts",
+    "sourceUrl": "https://store.steampowered.com/app/5078330/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078330/6d5c017d7f39c1575ab3f9691d1f466a8cc5345d/header.jpg?t=1787849536",
+    "japaneseSupport": "none",
+    "shortDescription": "Build it. Automate it. Watch it grow! Glorpnauts is a space incremental where you mine asteroids, expand your fleet, build an automated economy and defend it from pirates. Prestige for permanent upgrades, explore new star systems and turn a tiny base into a thriving space operation.",
+    "aboutTheGame": "Start small. Build bigger. Automate everything. Glorpnauts is a space incremental game where a small mining operation gradually grows into a busy automated network. Mine asteroids, generate Credits, refine resources, construct new structures, and fill the screen with ships working on their own. Build a Living Space Economy Expand your fleet and watch your operation come to life. Mining Ships gather resources, Trade Ships keep Credits flowing, Refineries process materials, and specialized structures help your economy become faster and increasingly automated. The goal isn't just to make the numb…",
+    "detectedAt": "2026-09-02T04:29:29.655Z"
+  },
+  {
+    "steamAppId": 5078390,
+    "title": "Dungeon Crawl 94: What Was Taken",
+    "sourceUrl": "https://store.steampowered.com/app/5078390/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5078390/89b24a8ae547ceaa210db101f84cbb98db63ca4a/header.jpg?t=1788027599",
+    "japaneseSupport": "none",
+    "shortDescription": "A turn-based pixel art dungeon crawler where every move advances the world. Explore procedurally generated roads, towns, forests, and dungeons, master elemental magic, uncover hidden treasures, and build a hero unique to every adventure.",
+    "aboutTheGame": "Dungeon Crawl 94: What Was Taken is a turn-based, grid-based pixel art RPG where every move matters. Explore a dangerous world of procedurally generated roads, forests, caves, dungeons, and other locations as you search for what was taken from you. Movement takes place one tile at a time, and every step advances the world around you. Enemies patrol, wildlife wanders, and danger continues to move with every turn. Sometimes fighting is the answer. Sometimes escaping is the smarter choice. Create your character and develop seven attributes: Strength, Dexterity, Intelligence, Wisdom, Speed, Consti…",
+    "detectedAt": "2026-09-02T04:29:30.201Z"
   }
 ]
