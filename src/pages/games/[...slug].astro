@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
-const { title, titleJa, descriptionJa, price, tags, audienceJa, releaseDate, heroImage, sourceUrl, pubDate, steamAppId, japaneseSupport } = article.data;
+const { title, titleJa, descriptionJa, price, tags, audienceJa, editorNoteJa, releaseDate, heroImage, sourceUrl, pubDate, steamAppId, japaneseSupport } = article.data;
 const displayTitle = titleJa || title;
 const dateLabel = pubDate.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
 const jaLabel = { full: '対応（音声あり）', text: '対応（字幕/UIのみ）', none: '非対応' }[japaneseSupport ?? ''];
@@ -48,6 +48,13 @@ const jaLabel = { full: '対応（音声あり）', text: '対応（字幕/UIの
     <h2 class="gradient-text">どんな人におすすめか</h2>
     <p>{audienceJa}</p>
 
+    {editorNoteJa && (
+      <>
+        <h2 class="gradient-text">編集部より</h2>
+        <p class="editor-note">{editorNoteJa}</p>
+      </>
+    )}
+
     <p><a class="back-link" href="/">&larr; ホームに戻る</a></p>
   </article>
 </BaseLayout>
@@ -82,6 +89,13 @@ const jaLabel = { full: '対応（音声あり）', text: '対応（字幕/UIの
   .meta-list dd { margin: 0; }
   .price-value { font-family: var(--font-display); font-weight: 700; color: var(--lime); }
   .ja-yes { color: var(--cyan); font-weight: 600; }
+  .editor-note {
+    padding: 0.9rem 1.1rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--purple);
+    border-radius: 8px;
+  }
   .store-link { font-weight: 700; }
   .tag-cloud { margin-bottom: 1.75rem; }
   .back-link {

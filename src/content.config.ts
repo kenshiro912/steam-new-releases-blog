@@ -12,6 +12,7 @@ const articles = defineCollection({
     price: z.string(),
     tags: z.array(z.string()),
     audienceJa: z.string(),
+    editorNoteJa: z.string().optional(),
     releaseDate: z.string().optional(),
     heroImage: z.string().optional(),
     japaneseSupport: z.enum(['full', 'text', 'none']).optional(),
