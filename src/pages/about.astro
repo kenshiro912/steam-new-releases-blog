@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../site.config';
+---
+
+<BaseLayout title="このサイトについて" description={`${siteConfig.title}の運営者情報・サイトについて。`}>
+  <article class="about">
+    <h1 class="gradient-text">このサイトについて</h1>
+
+    <h2 class="gradient-text">サイトの目的</h2>
+    <p>
+      「{siteConfig.title}」は、Steamで新たに公開されたゲームのストアページをいち早く見つけ、
+      日本語で分かりやすく紹介することを目的としたブログです。次々に生まれる新作・インディーゲームの中から、
+      まだ日本語の紹介記事が少ないタイトルを中心に取り上げています。
+    </p>
+
+    <h2 class="gradient-text">記事の作り方</h2>
+    <p>
+      当サイトの記事は、Steam公式ストアAPIから取得した情報（タイトル・説明文・価格・タグ・対応言語など）を
+      もとに、AI（Claude）が日本語への翻訳・要約と「どんな人におすすめか」の分析を行って生成しています。
+      新規ゲームの検知やアダルトコンテンツ等の除外は専用のスクリプトが機械的に行い、記事の文章化のみを
+      AIが担当する構成です。人力での一次取材・レビュープレイは行っておらず、あくまで公式情報をもとにした
+      紹介・要約であることをご了承ください。
+    </p>
+
+    <h2 class="gradient-text">更新頻度</h2>
+    <p>
+      新規ゲームの検知バッチを4時間ごとに自動実行し、検知され次第、随時記事を追加しています。
+    </p>
+
+    <h2 class="gradient-text">運営者情報</h2>
+    <dl class="operator">
+      <div><dt>運営者</dt><dd>{siteConfig.operatorName}</dd></div>
+      <div><dt>連絡先</dt><dd><a href={`https://x.com/${siteConfig.contactTwitterHandle}`} target="_blank" rel="noopener noreferrer">@{siteConfig.contactTwitterHandle}</a>（X / Twitter）</dd></div>
+    </dl>
+
+    <p><a class="back-link" href="/privacy/">プライバシーポリシー</a> ／ <a class="back-link" href="/contact/">お問い合わせ</a></p>
+    <p><a class="back-link" href="/">&larr; ホームに戻る</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .about { max-width: 720px; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
+  h2 { font-size: 1.1rem; font-weight: 700; margin: 2rem 0 0.6rem; }
+  p { margin: 0.75rem 0; }
+  .operator {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.5rem 1.25rem;
+    margin: 1rem 0;
+    padding: 1rem 1.1rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+  }
+  .operator dt { color: var(--muted); font-size: 0.85rem; }
+  .operator dd { margin: 0; }
+  .back-link { color: var(--muted); text-decoration: none; }
+  .back-link:hover { color: var(--cyan); }
+</style>

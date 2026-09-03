@@ -187,6 +187,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
       @media (hover: hover) {
         .tag:hover { color: var(--cyan); border-color: var(--cyan); box-shadow: 0 0 0.75rem rgba(34, 226, 245, 0.25); }
       }
+      .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem 1rem;
+        margin-top: 0.75rem;
+      }
+      .footer-links a { color: var(--muted); text-decoration: none; font-size: 0.85rem; }
+      .footer-links a:hover { color: var(--cyan); }
       @media (max-width: 600px) {
         main { padding: 1rem 0.85rem 3rem; }
         header.site-header { padding: 0.9rem 0.85rem; }
@@ -214,7 +222,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
     <AdSlot />
     <footer>
       <p>{siteConfig.title} — Steam公式ストアAPIをもとに自動生成された紹介記事を掲載しています。</p>
-      <p><a href="/rss.xml">RSSフィード</a></p>
+      <nav class="footer-links">
+        <a href="/about/">このサイトについて</a>
+        <a href="/privacy/">プライバシーポリシー</a>
+        <a href="/contact/">お問い合わせ</a>
+        <a href="/rss.xml">RSSフィード</a>
+      </nav>
     </footer>
   </body>
 </html>

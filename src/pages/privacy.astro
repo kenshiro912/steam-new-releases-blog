@@ -1,0 +1,71 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../site.config';
+---
+
+<BaseLayout title="プライバシーポリシー" description={`${siteConfig.title}のプライバシーポリシーです。`}>
+  <article class="policy">
+    <h1 class="gradient-text">プライバシーポリシー</h1>
+    <p class="updated">最終更新日: 2026年8月21日</p>
+
+    <p>
+      「{siteConfig.title}」（以下「当サイト」）における個人情報の取り扱いについて、以下のとおりお知らせします。
+    </p>
+
+    <h2 class="gradient-text">アクセス解析ツールについて</h2>
+    <p>
+      当サイトでは、アクセス状況を把握するために Cloudflare Web Analytics を利用しています。
+      このツールは個人を特定する情報を収集せず、Cookieを使用しません。収集されるデータは匿名で、
+      Cloudflare社のプライバシーポリシーに基づいて処理されます。
+    </p>
+
+    <h2 class="gradient-text">広告配信について</h2>
+    <p>
+      当サイトは、第三者配信の広告サービス「Google AdSense」を利用する場合があります。広告配信事業者は、
+      ユーザーの興味に応じた広告を表示するためにCookie（匿名IDなど）を使用することがあります。
+    </p>
+    <p>
+      Cookieを無効にする方法や、Googleが広告配信に使用するCookieの詳細については、
+      <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google広告ポリシー</a>
+      をご確認ください。パーソナライズ広告は
+      <a href="https://adssettings.google.com/" target="_blank" rel="noopener noreferrer">広告設定</a>
+      で無効にできます。
+    </p>
+
+    <h2 class="gradient-text">掲載コンテンツについて</h2>
+    <p>
+      当サイトの記事は、Steamの公式ストアAPIから取得した情報（ゲームタイトル・説明文・価格・画像等）をもとに、
+      自動検知・日本語要約のうえ掲載しています。ゲームタイトル・画像・説明文の著作権は、各ゲームの開発元・
+      発売元に帰属します。
+    </p>
+    <p>
+      掲載内容の正確性には注意を払っていますが、価格・発売日・対応言語等の情報は変更される場合があります。
+      最新かつ正確な情報は、必ず各ゲームのSteam公式ストアページでご確認ください。
+    </p>
+
+    <h2 class="gradient-text">個人情報の取り扱い</h2>
+    <p>
+      当サイトは、フォーム等によるユーザーからの個人情報の収集を行っていません。お問い合わせはSNSを通じて
+      任意で行っていただく形としており、その場合の情報の取り扱いは各SNS事業者のポリシーに従います。
+    </p>
+
+    <h2 class="gradient-text">本ポリシーの変更について</h2>
+    <p>
+      当サイトは、法令の改正や運用状況の変化に応じて、本ポリシーの内容を予告なく変更することがあります。
+      変更後のポリシーは、当ページに掲載した時点から効力を持つものとします。
+    </p>
+
+    <p><a class="back-link" href="/about/">運営者情報</a> ／ <a class="back-link" href="/contact/">お問い合わせ</a></p>
+    <p><a class="back-link" href="/">&larr; ホームに戻る</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .policy { max-width: 720px; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
+  h2 { font-size: 1.1rem; font-weight: 700; margin: 2rem 0 0.6rem; }
+  .updated { color: var(--muted); font-size: 0.85rem; margin-top: 0; }
+  p { margin: 0.75rem 0; }
+  .back-link { color: var(--muted); text-decoration: none; }
+  .back-link:hover { color: var(--cyan); }
+</style>

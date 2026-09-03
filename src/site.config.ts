@@ -8,4 +8,6 @@ export const siteConfig = {
   // Cloudflareダッシュボード（Analytics & Logs > Web Analytics）でこのサイトを追加すると
   // 発行される「サイトトークン」をここに設定すると有効化される。
   cfAnalyticsToken: 'ca010b6094a44cf196fbde9acdee76e6',
+  operatorName: 'kento3',
+  contactTwitterHandle: 'aoya_0000',
 };

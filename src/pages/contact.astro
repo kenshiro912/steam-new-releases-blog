@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../site.config';
+---
+
+<BaseLayout title="お問い合わせ" description={`${siteConfig.title}へのお問い合わせ方法。`}>
+  <article class="contact">
+    <h1 class="gradient-text">お問い合わせ</h1>
+
+    <p>
+      掲載内容の誤り・削除依頼・その他ご意見等がございましたら、以下のXアカウントまでご連絡ください。
+    </p>
+
+    <a class="x-link" href={`https://x.com/${siteConfig.contactTwitterHandle}`} target="_blank" rel="noopener noreferrer">
+      @{siteConfig.contactTwitterHandle} （X / Twitter）
+    </a>
+
+    <p class="note">
+      内容によってはお返事に お時間をいただく場合や、対応いたしかねる場合がございます。あらかじめご了承ください。
+    </p>
+
+    <p><a class="back-link" href="/about/">運営者情報</a> ／ <a class="back-link" href="/privacy/">プライバシーポリシー</a></p>
+    <p><a class="back-link" href="/">&larr; ホームに戻る</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .contact { max-width: 720px; }
+  h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
+  p { margin: 0.75rem 0; }
+  .x-link {
+    display: inline-flex;
+    align-items: center;
+    margin: 0.75rem 0 1.25rem;
+    padding: 0.65rem 1.2rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    color: var(--cyan);
+    font-weight: 700;
+    text-decoration: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  @media (hover: hover) {
+    .x-link:hover { border-color: var(--cyan); box-shadow: var(--glow-cyan); }
+  }
+  .note { color: var(--muted); font-size: 0.85rem; }
+  .back-link { color: var(--muted); text-decoration: none; }
+  .back-link:hover { color: var(--cyan); }
+</style>
