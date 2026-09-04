@@ -1,285 +1,5 @@
 [
   {
-    "steamAppId": 5084510,
-    "title": "ISKRA",
-    "sourceUrl": "https://store.steampowered.com/app/5084510/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084510/5a6b8d90ec36fdc7c27ef6101697aa9b14af59bf/header.jpg?t=1787822416",
-    "japaneseSupport": "none",
-    "shortDescription": "An intense space colony management simulator. Manage your colonists' stamina and health to prevent them from dying of exhaustion. Mine ore, process resources in the workshop, and craft equipment to stabilize the core. Save your crew and climb to the top of the leaderboard!",
-    "aboutTheGame": "Enter the ruthless world of intense space management! Your primary goal is to survive, optimize your base's resources, keep your crew alive, and fight your way to the top of the global player rankings. Every decision comes at a cost, and any mistake can prove fatal. Do you have enough energy and patience to endure? SURVIVAL AND COLONY MANAGEMENT Every colonist on your base is your most valuable, yet incredibly fragile resource. Endurance Limit: Human stamina is not infinite. Continuous work for more than 59 seconds is guaranteed to result in exhaustion and the character's painful death. Energy…",
-    "detectedAt": "2026-09-03T08:29:17.825Z"
-  },
-  {
-    "steamAppId": 5084740,
-    "title": "Hendichen",
-    "sourceUrl": "https://store.steampowered.com/app/5084740/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084740/e6eaee8a4f2825e26c4e0ea624140399b0deeb09/header.jpg?t=1788005733",
-    "japaneseSupport": "none",
-    "shortDescription": "A chaotic 3D co-op kitchen simulator for 2–3 players, where every cook has a unique problem. Make the most of their strengths, work around their weaknesses, and keep the kitchen running. Think you can handle the chaos? Hendichen will show you the real deal.",
-    "aboutTheGame": "THE KITCHEN WAS MEANT TO BE CLOSED The crew was sent home earlier that day, but the chef's phone rang: a full house, they told him. The chef stepped outside and grabbed the first two lads stumbling out of the club across the road. Now the three of you have to run a full service. THREE COOKS BUT ONLY ONE WORKING BODY BETWEEN THEM. THE CHEF is the only one who knows the recipes. Unfortunately, he also has one arm in a sling. One usable hand and the slowest knife in the kitchen. MUFFLES spent the night standing next to the speakers. He can barely hear a word you say unless you're right next to hi…",
-    "detectedAt": "2026-09-03T08:29:19.490Z"
-  },
-  {
-    "steamAppId": 5084810,
-    "title": "Marisa! Cook It!",
-    "sourceUrl": "https://store.steampowered.com/app/5084810/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084810/34e1fe29bb7a16549f550e03a2021bc735dfa101/header.jpg?t=1787898711",
-    "japaneseSupport": "text",
-    "shortDescription": "「次の宴会の料理は私が作る！」咲夜の料理を褒める霊夢の横で、魔理沙がつい啖呵を切ってしまいました。材料のデッキを組んで魔法の大釜に流し込むと、材料がぶつかり弾幕が炸裂して連鎖が止まりません。物理演算ベースのデッキ構築ローグライク。",
-    "aboutTheGame": "次の宴会の料理は私が作る！ 咲夜の料理を褒める霊夢。 横で聞いていた魔理沙が、つい言ってしまいます。 大口を叩いた以上、本当に準備が必要です。 魔法の大釜に材料を放り込み、宴会に備えましょう。 レシピを合わせるゲームではありません。 魔理沙が選んだ材料が勝手に暴走していきます。 ゲームの特徴 デッキを組んで、鍋にぶちまけよう コースが始まったら、好きな方向へ好きなだけ食材を投げ込みます。 放り込んだ食材は、鍋の中で勝手に絡み合いはじめます。 食材を組み合わせよう 食材同士がぶつかると弾幕が飛び、 組み合わせ次第でスコアが爆発的に伸びていきます。 ビルドを選んで、鮮やかな腕前を見せつけよう 料理を重ねて手に入れたカードと遺物が、自分だけのビルドになっていきます。 どの組み合わせを選ぶかで、鍋の中の光景はまるで変わります。 ビルドを完成させて、お客の前で華やかな料理の腕を披露しましょう。 週末は香霖堂で 週末は材料と遺物を買いに香霖堂へ向かいます。 さて、魔理沙の宴会準備を手伝いましょうか？",
-    "detectedAt": "2026-09-03T08:29:19.995Z"
-  },
-  {
-    "steamAppId": 5084840,
-    "title": "HEX: You Are It",
-    "sourceUrl": "https://store.steampowered.com/app/5084840/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084840/3881ef978dc6b298e019fc331cd7a2ab7fdfa176/header.jpg?t=1787830247",
-    "japaneseSupport": "none",
-    "shortDescription": "One player is The Hex. Everyone else has six minutes and one goal: don't get caught. Run, hide, outsmart, survive. No tutorials, no hand-holding - just a city full of secrets and six minutes of chaos. Don't become The Hex.",
-    "aboutTheGame": "HEX: YOU ARE IT A 6-minute multiplayer survival game where you never know what's waiting around the corner. One player is The Hex. Everyone else has one goal: DON'T GET CAUGHT. Run. Hide. Escape. Outsmart. Survive. But this isn't a game that explains everything to you. There are no endless tutorials. No walls of text telling you what to do. The city is full of secrets, unexpected interactions, hidden opportunities and little details waiting to be discovered. Experiment. Explore. Try things. You might discover something useful when you least expect it. Every match can play differently. A normal…",
-    "detectedAt": "2026-09-03T08:29:20.504Z"
-  },
-  {
-    "steamAppId": 5084990,
-    "title": "Underkeep",
-    "sourceUrl": "https://store.steampowered.com/app/5084990/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月8日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084990/abedb11893202d663309df765e64e29ecc40ea34/header.jpg?t=1787765051",
-    "japaneseSupport": "none",
-    "shortDescription": "A single-player labyrinth-defense strategy game where you are the final boss. Dig corridors, place monsters and traps, and fold the path into a maze so adventurers never reach your core. Each wave shows you who is coming next — read it, rebuild, and see how long you hold.",
-    "aboutTheGame": "This time, you are the final boss. Adventurers are marching into your labyrinth. You are the one who has to stop them. Dig the corridors. Stand your monsters. Lay your traps. Make the walk to the boss room the worst journey of their lives. Everything you place stays after the wave ends — the labyrinth becomes your design, one wave at a time. What you actually do You build. 15 monsters, 12 traps and 8 special zones. Fold the path back on itself with walls and the same trap earns its cost several times over. You read. Every wave tells you who is coming before it starts. Miners smash your walls.…",
-    "detectedAt": "2026-09-03T08:29:21.008Z"
-  },
-  {
-    "steamAppId": 5085090,
-    "title": "Astrojunk",
-    "sourceUrl": "https://store.steampowered.com/app/5085090/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5085090/c76f81725296c7fd11fcf63f6d6460ffde74129a/header.jpg?t=1788277636",
-    "japaneseSupport": "none",
-    "shortDescription": "Play in co-op as a crew of aliens racing to escape an impending meteor strike. Gather resources, fabricate scrap metal, survive brutal fabrication stations and assemble your spaceship while surviving the chaos... Work together to build and launch before time runs out!",
-    "aboutTheGame": "The Great Escape You have one goal: build a modular ship and get the hell out. But it’s not as simple as slapping on some space-glue. Your survival depends on mastering a frantic, multi-step industrial pipeline: Get a Grip Control your left and right hands entirely independently in a chaotic, physics-driven system. Fumble with switches, swing across gaps, and try not to accidentally punch your crewmates while desperately reaching for a rusty pipe. Scavenge Find raw resources and haul them back to your processing units. Power the machines on, throw the resources in, and watch them spit out usab…",
-    "detectedAt": "2026-09-03T08:29:22.016Z"
-  },
-  {
-    "steamAppId": 5085310,
-    "title": "IncrementalOS",
-    "sourceUrl": "https://store.steampowered.com/app/5085310/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5085310/97674e8bde3dfb9fd09e19535943fd5b82e5f3ad/header.jpg?t=1788264103",
-    "japaneseSupport": "text",
-    "shortDescription": "90年代のデスクトップへの積み重ねるラブレター。空のデスクトップと1つのアイコンから始め、プログラムやシステム、ミニゲームを解放し、より多くのお金を稼ぎ、自慢できるシステムへと築き上げていきましょう。",
-    "aboutTheGame": "IncrementalOSは90年代のデスクトップへのラブレターです。空のデスクトップと1つのアイコンから始め、プログラムやシステム、ミニゲームを解放し、より多くのお金を稼ぎ、自慢できるシステムへと築き上げていきましょう。 90年代後半にPCの電源を入れて、ただあちこち触ってみた記憶はありませんか？デスクトップを右クリックして何が起こるか確かめたり。重要そうに見えたからタスクマネージャーを開いてみたり。小さなごみ箱がいっぱいになっていくのを眺めたり。IncrementalOSはまさにその感覚を中心に作られています。 デスクトップとスタートメニュー、そして「マイコンピュータ」という1つのアイコンだけから始まります。それ以外はすべて自分で稼ぐ必要があります。解放するプログラムはすべて、実際に古いコンピュータで見かけたようなものをもとにした、完全にプレイ可能なシステムです。 タスクマネージャーでは、立ち上がるプロセスを見張り、危険そうなものはシステムをクラッシュさせる前に終了させます。 デフラグでは、ディスクの整理が本格的なパズルになり、断片化したブロックを入れ替えてディスクが混沌に陥る前に整列させます。 ファイルエクスプローラーでは、受信箱があふれる前にファイルを正しいフォルダにドラッグします。セキュリティセンターでは、まさにアーケードシューティングさながらに、マルウェアの波がファイア…",
-    "detectedAt": "2026-09-03T08:29:22.529Z"
-  },
-  {
-    "steamAppId": 3301840,
-    "title": "凡修",
-    "sourceUrl": "https://store.steampowered.com/app/3301840/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "RPG",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301840/dc648bf23fe2b2b1af4a197bb93cb99909d2f7e0/header.jpg?t=1788425554",
-    "japaneseSupport": "none",
-    "shortDescription": "Fan Xiu is an idle cultivation game. Break through realms while elixirs, artifacts, and rare treasures drop over time. Every item you earn can be freely listed and traded on the Steam Market — idle your way to immortality, and to real profit. Limited-time events regularly drop exclusive items",
-    "aboutTheGame": "Fan Xiu is an idle cultivation game. You play a mere mortal starting at the Qi Refining stage, embarking on the long road to immortality. No tedious grinding, no daily check-in pressure — even with the game closed, your character keeps meditating and ascending in their cave abode. Let go, and let the Dao flow. When you return, your bags are full. ☯ Idle Cultivation Fully automated progression: cultivation accumulates while idle, realms break through on their own Log in and harvest: elixirs, artifacts, and treasures drop naturally over time — every bag opening is a surprise Your pace, your way:…",
-    "detectedAt": "2026-09-03T12:31:04.456Z"
-  },
-  {
-    "steamAppId": 4312190,
-    "title": "CRACK",
-    "sourceUrl": "https://store.steampowered.com/app/4312190/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "シミュレーション",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/707d4ccdbe694e5ef5e67e560437219e5d80e1b4/header.jpg?t=1788433172",
-    "japaneseSupport": "none",
-    "shortDescription": "Why is there a giant egg in this lab?",
-    "aboutTheGame": "CRACK is a 1-4 player game where you work in a mysterious lab. Your goal is to crack an egg, through various tools, and uncover what's inside. The set-up: You work in a mysterious lab. You don't know how you ended up here. Your target: There is an egg. It is very big. Your goal: You can do your job alone or hire up to 3 friends. You need to crack it. Or else, the lab takes care of you. The challenges: The deeper you go, the stranger things get. And eventually, you might find out what's inside. You can influence the development: I'm building CRACK in public from Day 1! Follow the development on…",
-    "detectedAt": "2026-09-03T12:31:05.007Z"
-  },
-  {
-    "steamAppId": 4442870,
-    "title": "巨神乃シノギ",
-    "sourceUrl": "https://store.steampowered.com/app/4442870/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442870/8bfa9b6b15e6bcc54dff0c95b672200b9a71c106/header_japanese.jpg?t=1788437658",
-    "japaneseSupport": "full",
-    "shortDescription": "巫女ギャルが巨神とともに敵巨神とガチンコ対決！ 戦いながら巨神を強化し相手に打ち勝て！ 最後にとっておきのカミワザをぶち込むのだ！",
-    "aboutTheGame": "👴巨神の巨体を飛び回って強化し、敵巨神に打ち勝つのじゃ！ 👴ゲームの流れじゃ！ 巫女ギャルを操作して封印されし巨神を導き、巨大な敵巨神と戦おう １：敵の巨神にへばりつき「糧（かて）」を奪い取ろう ２：「糧」を我らの巨神に捧げて各部位を強化しよう どんな強化が現れるかは毎回神頼み 戦況を見極め、 強化の順番を考える戦術 が求められる！ ３：巨神の霊力が高まったらとっておきの 「神業」を敵巨神に叩きこめ！ 👴操作方法じゃ！ Aボタン：巫女ジャンプ Xボタン：お祓い攻撃 Yボタン：祈祷（巨神の部位強化・巫女回復・神業発動） RTボタン：巨神にへばりつく 👴何が出るかな？巨神の部位強化じゃ！ １：巨神の部位にへばりついて祈祷し、「糧」をささげて封印を解こう この間も敵巨神やザコ妖（あやかし）が襲ってくるのでうまくいなそう ２：封印を解くと ３つの強化からひとつを選べるぞ 特に風神・雷神といった「従神（じゅうしん）」は心強い味方になってくれるぞ 戦況を見て何をいち早く強化すべきか決めよう ３：強化能力は「糧」をささげて さらにレベルアップ もできる 他の部位開放が先か？レベルアップが先か？戦いの中で見極めよう！ 👴華麗にアクションして戦況を有利にするのじゃ！ ・敵巨神の攻撃は巫女が食らうとぶっ飛ばされてしまう しかし我らの巨神に しがみつけば加護により守られる ぞ！ ・敵巨神に流れ…",
-    "detectedAt": "2026-09-03T12:31:05.511Z"
-  },
-  {
-    "steamAppId": 4714130,
-    "title": "CybercraftUas",
-    "sourceUrl": "https://store.steampowered.com/app/4714130/",
-    "price": "価格情報なし",
-    "tags": [
-      "レース",
-      "シミュレーション",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年12月31日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714130/72fd6c1cf589ed36168a354e157727e88e56f80c/header.jpg?t=1788430402",
-    "japaneseSupport": "none",
-    "shortDescription": "专业的无人机仿真模拟训练软件，为新手与进阶飞手提供安全、高效的训练平台。软件内置标准化科目考核体系，覆盖基础操作，训练场景；同时提供多套丰富逼真的训练环境，全方位还原真实飞行体验。软件支持键盘、手柄等多种操作方式，无需实体无人机即可完成从入门到精通的全流程训练，大幅降低学习成本与安全风险。",
-    "aboutTheGame": "本游戏是 专业无人机执照实操考核 3D 模拟训练器 ，核心围绕民航无人机驾驶员标准实操科目设计，完整复刻线下考场全套考核流程与核心游戏玩法 全通道物理操控系统 完全还原真实无人机四通 / 六通道遥控逻辑，油门、副翼、升降舵、方向舵独立响应，支持 ACRO 全姿态模式，无飞行辅助锁死，玩家纯靠手动微调维持机身稳定；可接入部分无人机遥控器、游戏手柄、键盘鼠标操作，飞行物理贴合真机手感，漂移、惯性、自旋阻尼均对标真实穿越机 / 考证训练机。 两大必考标准化考核科目（游戏核心闯关内容） 360° 水平自旋考核科目 考场预设标准圆形桩阵考核区域，进入考核模式后系统自动激活计时与判定规则：玩家需保持固定高度、机身居中，完成连续完整 360 度水平自旋，全程不能撞桩、不能大幅偏移航线、高度波动需控制在阈值内；系统实时记录姿态偏移量、碰撞次数、自旋完成度，结束自动生成考核扣分成绩单，不合格可一键重考练习。 水平8字全姿态考核科目 专业实操高难度必考项目，赛道设置左右对称限位标杆。玩家全程保持倒飞姿态，沿标准 “8” 字形闭环航线匀速穿行，全程需同步控制横滚、俯仰、偏航三轴修正，禁止越出赛道边界、禁止大幅度掉高 / 冲高，结束自动生成考核扣分成绩单 完整考核闭环流程 自由练习模式：无时间、扣分限制，单独练 360 自旋或倒飞八字，可自定义风速、机身灵敏度、高度限制； 新手之路来熟悉操作的小游戏，通过…",
-    "detectedAt": "2026-09-03T12:31:06.024Z"
-  },
-  {
-    "steamAppId": 4732580,
-    "title": "雾山古董店",
-    "sourceUrl": "https://store.steampowered.com/app/4732580/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732580/c84def2e3cb252f13425cc8c752c0ebfe638fb5a/header.jpg?t=1788426402",
-    "japaneseSupport": "none",
-    "shortDescription": "A simulation game with light horror. Excavate antiques, run a shop in Misty Mountain. Dig, hunt flea markets, bid at auctions to recover lost relics, and secretly probe your predecessor's disappearance. But beneath lies unknown terror; a dark truth hides in the mist, waiting for you.",
-    "aboutTheGame": "**Misty Mountain Antique Shop** During the war years, countless antiques were plundered by invaders and lost in the chaos of conflict. Years later, a lead points to Misty Mountain—a remote, politically turbulent region controlled by various factions. (The discovery of a large number of antiques from other countries has prompted the interim government to issue a decree allowing free exploration and trade of antiques in order to attract capital to fund its military.) Your predecessor, an experienced investigator, mysteriously disappeared shortly after arriving here. Now, it's your turn. To compl…",
-    "detectedAt": "2026-09-03T12:31:06.528Z"
-  },
-  {
-    "steamAppId": 4733570,
-    "title": "Another Card Game",
-    "sourceUrl": "https://store.steampowered.com/app/4733570/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "MM（Massively Multiplayer）",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733570/a9e6f1b0fd38e97366b7755b38e021db4b6db643/header.jpg?t=1788425764",
-    "japaneseSupport": "none",
-    "shortDescription": "Another Card Game is a unique PvP, PvE card game. Fight your friends, your parents, your dog, your self in means to dominate the Sacred Orb. Combine your cards into powerful spells to bring down your foes. Oh and by the way did you know that every 60 seconds one minute goes by?",
-    "aboutTheGame": "Another Card Game is a multiplayer PvP card game (including a “No Friends” mode with bots) where even randomness isn’t random ( no ). Every battle is unique. Outsmart your opponents by killing yourself before they kill you (why...). Assemble cards into a powerful spell and use it to destroy your enemies. What makes this game special? Our game supports up to 8 players in a single match. Each player can play cards. How? It’s simple: every player has to prepare a spell consisting of 1 to 3 cards . Card order matters! The order in which your cards are played can be determined by looking at the car…",
-    "detectedAt": "2026-09-03T12:31:07.103Z"
-  },
-  {
-    "steamAppId": 4822520,
-    "title": "Fuck This Job",
-    "sourceUrl": "https://store.steampowered.com/app/4822520/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月14日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822520/d3692b1d56515ac902fab1f03f8662b5ced3c26a/header.jpg?t=1788435691",
-    "japaneseSupport": "none",
-    "shortDescription": "Play as Jake, a janitor threatened to be replaced by AI machines, then subsequently fired.Grab your super vacuum cleaner, use it to hoover and destroy everything in your path in this AI-infected company! Shoot and kick everything that is in your path to show your capabilities as a great employee.",
-    "aboutTheGame": "Play as Jake, a janitor threatened to be replaced by AI machines, then subsequently fired. Grab your super vacuum cleaner, use it to hoover and destroy everything in your path in this AI-infected company! Hoover, shoot and kick everything that is in your path to show your capabilities as a great employee. Demonstrate your janitorial skills by destroying the machines that replaced all the workers of the company. Show what humans are capable of! Show your hard skills through destruction and exhibit your results with your pay checks ! Destroy & chain as many things as possible in a short time and…",
-    "detectedAt": "2026-09-03T12:31:07.671Z"
-  },
-  {
-    "steamAppId": 4840240,
-    "title": "The Listener",
-    "sourceUrl": "https://store.steampowered.com/app/4840240/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "シミュレーション",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月14日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840240/315c5740939f867247fbaaefd46d58e67098f581/header.jpg?t=1788435700",
-    "japaneseSupport": "none",
-    "shortDescription": "\"The Listener is a first-person investigation game. Play as a Yugoslav radio amateur at the height of the Cold War. Use your equipment to pick up mysterious transmissions, analyze cryptic messages, and gather hidden clues to uncover a sinister conspiracy\"",
-    "aboutTheGame": "Roam around in radio bands, listen to stations around the world, gather information and explore the unknown universe of radio amateurism. Use your corkboard to keep track of your multiple leads. Analyse and understand the information to follow the tracks of a hidden conspiracy. Interact with the numerous characters to progress in the investigation. Make choices to change the course of the story and make your way to a different end !",
-    "detectedAt": "2026-09-03T12:31:08.204Z"
-  },
-  {
     "steamAppId": 4886050,
     "title": "WanderingChaoticEra流浪乱纪元",
     "sourceUrl": "https://store.steampowered.com/app/4886050/",
@@ -2827,5 +2547,388 @@
     "shortDescription": "Rich PaPa は、文字どおりお金を撃つ三人称視点のアクションシューター。ゾンビの群れを倒し、環境を利用した跳弾やリスクのあるルーレット強化を駆使しながら、生存と残金のバランスを取って戦いましょう。",
     "aboutTheGame": "Rich PaPa 文字どおり、お金を撃ちます。 Rich PaPa は、お金そのものが弾薬となり、撃つたびに現金を消費する三人称視点のアクションシューターです。 ゾンビの群れを撃ち倒し、周囲の環境を利用して跳弾を狙い、生き残るためにいくら撃ち尽くすのかを決断しましょう。 お金は武器であると同時に命綱でもあります。戦闘で使いすぎれば、その場では生き残れても、待っているのは破産かもしれません。 金を使って戦え 一発ごとに代償があります。 引き金を引くことは、自分のお金を撃つこと。火力と残金のバランスを常に考えなければなりません。 跳弾を使いこなせ 壁や周囲の環境を利用し、弾を跳ね返して敵を狙いましょう。 狙いすました跳弾なら、厳しい戦闘を効率的な撃破に変え、大切なお金を節約できます。 ルーレットを回せ ステージの流れを変える可能性を秘めた、ルーレット式の強化に賭けましょう。 強力な効果は大きな優位をもたらしますが、前へ進むためのすべての選択にはリスクとリターンがあります。 ゾンビの群れを生き延びろ ゾンビと激しさを増す脅威に満ちたステージ制バトルを突破しましょう。 攻撃、強化、残金を管理し、破産せずに最後までたどり着いてください。 生き残るために、いくらまで払える？ Rich PaPa では、生き残るのもタダではありません。",
     "detectedAt": "2026-09-04T08:28:52.900Z"
+  },
+  {
+    "steamAppId": 3020100,
+    "title": "Quentin Playtime",
+    "sourceUrl": "https://store.steampowered.com/app/3020100/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020100/2dc953d24baae85b1b4c16a5bb3531431ef49822/header.jpg?t=1788514214",
+    "japaneseSupport": "none",
+    "shortDescription": "Play as a young man, accompanied by his friends, who must escape from a school while avoiding Quentin the great during your exploration.",
+    "aboutTheGame": "Quentin Playtime is a game where you play as a young man trapped with his friends inside a cursed school. Unfortunately, you are not alone. A strange muscular man named Quentin is hunting you down! Hide from him and find a way to escape. Hide from Quentin A monster is roaming the halls. Run before he catches you! He creates strange shockwaves that make the ground move. Be careful not to get in his way! Collect Coins Many coins are scattered along your path. Find them and trade them with a merchant who will give you useful items in return. These items will make it easier for you to escape this…",
+    "detectedAt": "2026-09-04T12:31:10.067Z"
+  },
+  {
+    "steamAppId": 4668580,
+    "title": "Devil's Bau Cua",
+    "sourceUrl": "https://store.steampowered.com/app/4668580/",
+    "price": "無料",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668580/715689ef3a42a8a021d53e1e56772b255884230a/header.jpg?t=1788512833",
+    "japaneseSupport": "none",
+    "shortDescription": "Gamble against the Devil in a deadly version of Vietnam's traditional Bau Cua.",
+    "aboutTheGame": "Devil's Bau Cua is what happens when Vietnam's most beloved Tet dice game gets dragged underground. A top-down 3D gambling roguelike where luck, strategy and greed decide your fate, and the house is DEVIL himself. The Devil doesn't want your soul. He wants you to suffer. Forever! Place your bets across six sacred symbols. Roll three dice. Chase the matches. Then bend the odds with talismans - cursed pacts that hand you enormous power at a price you'll regret paying. Stack them, break the game, and stay alive one more round. Bầu Cua Tôm Cá is played on every family floor in Vietnam during Tết —…",
+    "detectedAt": "2026-09-04T12:31:10.633Z"
+  },
+  {
+    "steamAppId": 4831080,
+    "title": "Stickman Counter Zombie Strike 2: Multiplayer",
+    "sourceUrl": "https://store.steampowered.com/app/4831080/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831080/5ca6778ff0e4919c64d8db99696385621cc70601/header.jpg?t=1788512396",
+    "japaneseSupport": "text",
+    "shortDescription": "ゾンビ付きスティックマン対テロシューティングゲーム、そして今はマルチプレイヤー対応（SteamおよびLAN）。ゲームパッドとタッチスクリーン対応。m16、ak47、Beretta、colt、mp5、マシンガンでテロリストとゾンビを倒せ。",
+    "aboutTheGame": "おかえり、スティックマン！ダスト・ロケーションへ旅立つ時間だ（そしてSteamリリースでさらに多くのロケーションが追加！）テロリストとゾンビのスティックマンを撃ちまくれ。これはチームシューターゲームなので、敵のスティックマンだけを撃て ― 赤はテロリスト、青はカウンターテロリストだ。Strike!!!!!!!!!! Steamリリースで追加されたもの： ★ マルチプレイヤー（SteamおよびLAN ― Steamが使えないローカルネットワークパーティー用） ★ 新しいスティックマンのビジュアル ★ 砂漠のダスト・ロケーションだけでなく、複数のロケーション ★ コードの完全なオーバーホール（普通は説明を水増しするために言うだけだが、ここでは体験がはるかに良く滑らかになるよう細心の注意が払われた） ★ ゲームパッド対応（DirectInputとXInput）およびオプションのタッチスクリーン操作 特徴： ★ 約10の素晴らしいロケーション、美しい砂漠のダスト・ロケーションを含む ★ 銃の選択：ショットガン、m16、ak47、Beretta、colt、mp5、マシンガン ★ スティックマンチームを選択：赤（テロリスト）または青（カウンターテロリスト）とゾンビモード",
+    "detectedAt": "2026-09-04T12:31:11.154Z"
+  },
+  {
+    "steamAppId": 4831090,
+    "title": "Battle Simulator: Counter Zombie REBORN",
+    "sourceUrl": "https://store.steampowered.com/app/4831090/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831090/c78cd742272ca43444802b8da37448bc394e8f18/header.jpg?t=1788512366",
+    "japaneseSupport": "text",
+    "shortDescription": "正確な分隊戦術を採用した、ポストアポカリプス・ゾンビ戦闘シミュレーター。ゾンビの大群と戦い、殲滅せよ。撃って倒し、火炎放射器、M16、RPGなどの武器を使ってアンデッドを倒そう。正確なゾンビAIとHDRグラフィックスを搭載。",
+    "aboutTheGame": "世界は終わった。あなたは生き残った。 2035年の疫病によってゾンビ・アポカリプスが発生した。あなたの組織の存続がかかっているため、ゾンビの大群と戦い、殲滅しなければならない。撃って倒すだけでなく、火炎放射器や近接武器を使うことが唯一の対抗手段だ。 知っていましたか？ ゾンビ・アポカリプスで最も多い死因は、特殊部隊で構成された大規模な分隊組織に所属していないことではありません。そこでは、カッコいい火炎放射器などを持ち歩いているのです。 特徴： ★ リアルな分隊員の戦術 ★ 正確なゾンビAI ★ 分隊を編成し、敵のゾンビの大群と戦おう ★ ゲームを進めるにつれてゾンビの種類が増え、より悪魔的 / ミュータント化していく Deluxe Steam版の特徴： ★ HDRPグラフィックス - 新しく、よりリアルなライティングエンジンとシェーダーを使用し、リアルな影や炎のエフェクトを実現 ★ HDRディスプレイ出力に対応 ★ Windows、Mac、Linuxに対応 ★ Steam実績 ★ バグ修正 最終戦争の日がやってきた。さあ、戦いに備えよう。",
+    "detectedAt": "2026-09-04T12:31:11.669Z"
+  },
+  {
+    "steamAppId": 4916100,
+    "title": "GoKaboom!",
+    "sourceUrl": "https://store.steampowered.com/app/4916100/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "無料プレイ",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916100/d4424fbadff9eef41df66329bf73ae7c0474e85f/header.jpg?t=1788523395",
+    "japaneseSupport": "none",
+    "shortDescription": "Be ready to GO KABOOM! in this chaotic couch party game. Upgrade your mortar with various frantic combinations and blow up your friends to win the game!",
+    "aboutTheGame": "Run and boom with up to 3 friends locally in explosive rounds. Dominate the various chaotic maps to be the last mortar standing to win the game! Combine different upgrades to create crazy and unique combos. With over 25 different upgrades, you’re sure to find the setup that suits you best. Race and fight your friends to be the first mortar to reach your desired upgrade! However, be quick as there is a timer that will give you a random upgrade if you don't choose one in time! Note on Transparency and Data Collection To help us balance the game and fix bugs, the game sends us anonymous statistic…",
+    "detectedAt": "2026-09-04T12:31:12.235Z"
+  },
+  {
+    "steamAppId": 4930500,
+    "title": "盯着你！桌面喵小西",
+    "sourceUrl": "https://store.steampowered.com/app/4930500/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930500/36b86689d7afe632f295335994e4c6abdab80fae/header.jpg?t=1788513234",
+    "japaneseSupport": "none",
+    "shortDescription": "\"Staring at You! Desktop Meow Xiaoxi\" is a cozy, relaxing desktop pet. Roaming freely along the bottom of your screen, she keeps you company during daily work and study, reminds you to stay hydrated and take breaks, and even quietly peeks at your screen.",
+    "aboutTheGame": "A mysterious little cat has suddenly appeared on your screen...? \"Staring at You! Desktop Meow Xiaoxi\" is a free, cozy, and relaxing desktop companion pet. Roaming freely along the bottom of your screen, she keeps you company during daily work and study, reminds you to stay hydrated and take breaks, and quietly peeks at your screen to share her thoughts whenever you launch a new program. Come give her a pet! Your desktop has been taken over by a mysterious kitten! Meow Xiaoxi strolls freely across your screen. Blocking your view? Just pick her up and move her wherever you like! Meow Xiaoxi kee…",
+    "detectedAt": "2026-09-04T12:31:12.761Z"
+  },
+  {
+    "steamAppId": 4944110,
+    "title": "Wildpath",
+    "sourceUrl": "https://store.steampowered.com/app/4944110/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944110/f75902dda879e540b10b779aa94a01841f08e7e3/header.jpg?t=1788524449",
+    "japaneseSupport": "none",
+    "shortDescription": "Wildpath is a single-player roguelite autobattler where you choose a Hero, bond with an animal Companion, recruit Wildfolk and build an army to conquer a branching path of battles and bosses.",
+    "aboutTheGame": "Wildpath is a single-player roguelite autobattler where every run begins with one important choice: which Hero and Companion will take on the Wildpath together? Recruit Wildfolk, build your army and position your units before each encounter. Once the battle begins, they are on their own. Their success depends on the choices you made before the first attack. Choose a Hero and pair them with a unique Companion. Each combination brings different abilities and opens up new ways to build your team. Recruit Wildfolk to support your chosen pair. The right units can strengthen parts of your build such…",
+    "detectedAt": "2026-09-04T12:31:13.278Z"
+  },
+  {
+    "steamAppId": 4966210,
+    "title": "Rivet of Y",
+    "sourceUrl": "https://store.steampowered.com/app/4966210/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966210/22734669992081e0ac6fb64ebece3953bcd9a63e/header.jpg?t=1788524583",
+    "japaneseSupport": "none",
+    "shortDescription": "《Rivet of Y》是一款回合制角色扮演游戏，玩家通过稳固防线、积蓄力量并在关键时刻集中突破，在强调固定节奏与穿透压力的单人流程中体验以结构掌控为核心的回合制玩法。",
+    "aboutTheGame": "《Rivet of Y》是一款回合制角色扮演游戏，围绕战斗中的固定与突破机制展开。玩家将在清晰的回合结构中，根据敌人的行动模式判断何时需要稳固阵脚、何时集中力量撕开防线，以逐步推进整体流程。在每一场战斗中，敌人会以不同方式试图打乱玩家的节奏，而玩家需要像铆钉一样牢牢钉住关键节点——可能是守护核心角色，也可能是锁定高威胁目标。玩家需根据行动顺序与技能效果，在巩固防守、积蓄资源与释放爆发之间做出选择，使战局始终按照自己的意图发展。不同敌人的组合会迫使玩家不断调整固定策略的侧重点。随着流程推进，角色能力逐步提升，可用于强化持续作战的韧性或解锁更具穿透力的攻击手段，使玩家在面对越来越难以钉住的强敌时，依然拥有可靠的破局方式。整个体验强调在压力下维持结构的稳固，通过每一次果断的决策将战斗牢牢把控在自己手中。《Rivet of Y》为喜爱传统回合制 RPG 的玩家提供一段以结构稳固与精准突破为核心的单人体验，在一次次坚守与穿透中完成完整的冒险流程。",
+    "detectedAt": "2026-09-04T12:31:13.799Z"
+  },
+  {
+    "steamAppId": 5032440,
+    "title": "No Brakes Club",
+    "sourceUrl": "https://store.steampowered.com/app/5032440/",
+    "price": "価格情報なし",
+    "tags": [
+      "レース",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032440/083ca7ff2a4ef5112616948c53ca6e6cd8204b48/header.jpg?t=1788520590",
+    "japaneseSupport": "none",
+    "shortDescription": "A retro party platformer for up to 10 players per round. Sprint, sabotage, and backstab your way through quickfire minigames where every round takes seconds to learn and one mistake to lose.",
+    "aboutTheGame": "EVERY ROUND TAKES SECONDS TO LEARN. LOSING TAKES EVEN LESS. No Brakes Club is a retro party platformer for up to 10 players per round. Sprint, sabotage, and backstab your way through quickfire minigames where every round takes seconds to learn and one mistake to lose. Nobody's safe until the last second. PICK YOUR CHAOS 🏁 Rounds where speed wins, until the level changes its mind 😈 Rounds where your real enemy is the player right behind you 🎲 And rounds we're not spoiling yet. New minigames are always cooking (yes, we read the feedback) WHY YOU'LL QUEUE \"JUST ONE MORE\" ⏱️ Rounds under 3 minu…",
+    "detectedAt": "2026-09-04T12:31:14.353Z"
+  },
+  {
+    "steamAppId": 5080430,
+    "title": "TV Station Tycoon",
+    "sourceUrl": "https://store.steampowered.com/app/5080430/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "releaseDate": "2026年11月27日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080430/b12b0b5add858eba5e4913933ba82010934816d9/header.jpg?t=1788521444",
+    "japaneseSupport": "none",
+    "shortDescription": "Build and manage your own TV station. License shows, create schedules, attract viewers, sell advertising, grow your audience, and compete for the top spot in the ratings in this broadcasting management tycoon.",
+    "aboutTheGame": "Build your own television empire in TV Station Tycoon , a management game where every show, schedule, advertisement, and business decision can change your position in the ratings. Start with a small station and turn it into a broadcasting powerhouse. License new programs, build daily schedules, target different audiences, secure sponsors, manage your finances, and react to changing viewer habits as you compete against rival networks. Build the Perfect Schedule Your programming lineup is the heart of your station. Choose what to broadcast and when, balancing genres, audience demographics, popul…",
+    "detectedAt": "2026-09-04T12:31:14.875Z"
+  },
+  {
+    "steamAppId": 5083860,
+    "title": "WinterCore",
+    "sourceUrl": "https://store.steampowered.com/app/5083860/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083860/f0361c15ad384e59642fd5dcddeb45c0a77c3455/header.jpg?t=1788511540",
+    "japaneseSupport": "none",
+    "shortDescription": "Not every hero saves the world. Descend into a frozen world of curses and forgotten memories Battle through deadly places, collect powerful weapons and helmets, recruit strange companions and uncover the truth buried beneath the snow and death",
+    "aboutTheGame": "WinterCore is a dark pixel-art action roguelike where every descent into the frozen wasteland reveals new dangers, secrets, and consequences. Play as Darko, a traveler drawn into a world consumed by death, curses, and mystery. What begins as a journey to save others slowly becomes something far more complicated. Fight through hostile environments filled with monsters, powerful bosses, and hidden challenges. Discover new weapons, equip powerful helmets, recruit strange companions, and make risky decisions that can reward you—or curse you. Features: * Fast-paced top-down combat * Multiple weapon…",
+    "detectedAt": "2026-09-04T12:31:15.395Z"
+  },
+  {
+    "steamAppId": 5087090,
+    "title": "AlchemyOClock",
+    "sourceUrl": "https://store.steampowered.com/app/5087090/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087090/e5d29e1c7e06a0c322a5c8d801f18f7370ae3c60/header.jpg?t=1788418467",
+    "japaneseSupport": "none",
+    "shortDescription": "「錬丹サバイバル」をテーマにした修仙放置ゲームです。天命に抗い、寿命が尽きる前に真の「延寿の丹薬レシピ」を探し出そう。薬童を雇い、火加減を極め、もし寿命が来ても「転生」によって前世の修練を「道痕」として来世へ引き継げる。死と転生を繰り返す修練の旅路の果てに、羽化登仙を目指そう。",
+    "aboutTheGame": "炉の火加減を操れ！成否はあなたの一念次第 丹薬のレシピを選び、材料を投入し、自らの手で炉の温度と火加減をコントロールします。安定を狙って基礎報酬を得るもよし、限界の「最適タイミング」に挑んで、超強力なステータスを持つ極上の仙丹を狙うもよし！修仙の道にアクシデントは付き物です。 もし錬丹に失敗しても、徒労感は一切ありません ――消し炭や一部の素材は返還されるからです。灰を払い、レシピを調整して次の炉へ。その中にこそ、運命を変えるチャンスが隠されているかもしれません。 輪廻転生で、自分だけの「修仙ビルド」を構築 凡人の寿命には限りがあります。寿命が尽きた時、あるいは自ら坐化（死して転生すること）を選んだ時、そのターンの修行は幕を閉じます。しかし死はゼロに戻ることではありません！前世で培った修練は、不滅の「道痕」となって残ります。転生の輪廻の中で道痕を使ってタレントツリーを解放し、 前世の遺産を引き継いで強くてニューゲーム！ 転生するたびに全く異なる成長ルートを試し、レシピのビルドを最適化し、無数の転生を通じてあなただけの修仙伝を紡ぎましょう。 薬童にお任せ！錬丹房のフルオート自動化 最初は一つ一つ手作業で錬丹しますが、薬童を雇い、錬丹房を拡張していくことで、あなたの修仙ビジネスが本格的に「自動化」されます！薬童は薬草の管理だけでなく、素材の自動投入や精密な火加減調整など、便利な放置メカ…",
+    "detectedAt": "2026-09-04T12:31:15.944Z"
+  },
+  {
+    "steamAppId": 5087210,
+    "title": "HEARKEN",
+    "sourceUrl": "https://store.steampowered.com/app/5087210/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087210/bc3e9168cd35f30bb9a2f6a7e6575e5eba74532e/header.jpg?t=1787952402",
+    "japaneseSupport": "none",
+    "shortDescription": "A blind co-op horror-comedy for 2-4 players. Sound is your only sight — every whisper, footstep, and shout lights up the dark, and calls the monster that hunts by ear. Sneak, haul cargo, and scream at exactly the wrong moment.",
+    "aboutTheGame": "YOU CAN'T SEE. YOU CAN HEAR. That's the whole problem. HEARKEN drops 2–4 players into a dead, pitch-black facility with one job: haul out the reagent before the shift ends. There's no flashlight. There never was one. The only thing that shows you the room is the noise you just made — and something down here is listening for it too. Sound is the only light you get Every footstep, whisper, and dropped crate sends out a pulse that briefly outlines the world around you — walls, doorways, your teammate three rooms over. Whisper and you'll barely see anything. Shout and the whole floor lights up lik…",
+    "detectedAt": "2026-09-04T12:31:16.468Z"
+  },
+  {
+    "steamAppId": 5087220,
+    "title": "Kadmon",
+    "sourceUrl": "https://store.steampowered.com/app/5087220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087220/38d4aeef04f75e578f36d5e3d10d829a526f004f/header.jpg?t=1787771807",
+    "japaneseSupport": "none",
+    "shortDescription": "A 2D RPG experience in which you take on the evils of Hysterema to uncover the truth about your place in the world. Fight powerful creatures, trudge through various biomes, and come face to face with your purpose.",
+    "aboutTheGame": "Kadmon is a 2D adventure RPG with a variety of vicious enemies, reliable friends, and vibrant areas. Traverse deserts, grasslands, and caves in a secret-filled world where something isn’t quite right, and fight to realize the purpose behind your presence in the land of Hysterema. It is a small, isolated experience with around 2-3 hours of gameplay, including turn-based RPG battles, puzzles, multiple boss fights, characters with more than meets the eye, and more. The player progresses by fighting with enemies, leveling up, buying gear, and going through a standard linear story as they become st…",
+    "detectedAt": "2026-09-04T12:31:17.006Z"
+  },
+  {
+    "steamAppId": 5087330,
+    "title": "Firework Store Simulator",
+    "sourceUrl": "https://store.steampowered.com/app/5087330/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087330/defaae1930fa20f111db2294d708d635e00b8644/header.jpg?t=1787678164",
+    "japaneseSupport": "none",
+    "shortDescription": "Manage your own fireworks store in Tokyo! Buy, sell, and ignite dazzling fireworks, organize spectacular night shows, and craft custom pyrotechnics in this cozy simulation game. Build your small shop into the city's ultimate fireworks empire!",
+    "aboutTheGame": "Open your own fireworks shop in the heart of Tokyo and build it from a small stand into a city-famous destination. Serve festival-goers, event planners, and curious customers while mastering the art of pyrotechnic retail. Order pyrotechnics, track inventory, and set smart prices to maximize profit. Handle seasonal spikes, special orders, and big city events. Step into your private Firework LAB to experiment with colors, effects, and shell designs. Mix chemicals, test patterns, and create signature fireworks that set your store apart from the competition. Plan and launch spectacular firework sh…",
+    "detectedAt": "2026-09-04T12:31:17.677Z"
+  },
+  {
+    "steamAppId": 5087400,
+    "title": "ミクロの逃走者",
+    "sourceUrl": "https://store.steampowered.com/app/5087400/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087400/ab7fb6afcda5f9ed600abb0a3776ca2872251e94/header_japanese.jpg?t=1787485152",
+    "japaneseSupport": "text",
+    "shortDescription": "1匹の菌から増殖し、群れを率いて人体を駆け抜けろ！ 白血球から逃げ、進化を重ね、臓器ごとの環境に適応。3分後に襲来する抗菌薬の大津波を生き残る、ローグライト・アクションストラテジー。安寧の地を求め、小さな菌たちの大冒険が始まる！",
+    "aboutTheGame": "逃げろ、増えろ、進化しろ。 安寧の地を求め、人体を駆け抜けろ！ 『ミクロの逃走者』は、 菌の群れを操り、人体という過酷な世界を生き抜くローグライト・アクションストラテジー です。 あなたが操るのは、たった1匹のバクテリア。 熱にも弱い。寒さにも弱い。乾燥にも弱い。酸にもアルカリにも弱い。 それでも増殖し、進化し、安寧の地を求めて旅を続けます。 ■ 戦うより、逃げろ！ 人体には、あなたを排除しようとする白血球が存在します。 菌の群れをリアルタイムに誘導し、危険が迫れば散開。ダッシュで追撃をかわし、時には仲間を犠牲にしながら生き延びましょう。 敵をすべて倒す必要はありません。 逃げるが勝ちです。 ■ 1匹から、大群へ 旅の始まりは、たった1匹。 しかし、菌は時間とともに増殖し、やがて大きな群れへと成長していきます。 増えれば強くなる。けれど、増えすぎれば人体に気づかれる。 どこまで増えるか。いつ逃げるか。 刻々と変わる状況を見極め、生き残りましょう。 ■ 進化するたび、逃げ方が変わる プレイ中にはランダムな3択から能力を選び、菌を進化させていきます。 増殖を加速するか。もっと速く逃げるか。毒素を強化するか。 さらに、他の菌を取り込むことで新たな能力を獲得。 どんな菌へ進化するかで、人体の攻略方法も変わります。 ■ 人体そのものが、あなたの敵 舞台となるのは、咽頭、肺、血液、心臓、脳、消…",
+    "detectedAt": "2026-09-04T12:31:18.228Z"
+  },
+  {
+    "steamAppId": 5087440,
+    "title": "Untergrund Raceways - Arena",
+    "sourceUrl": "https://store.steampowered.com/app/5087440/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087440/63383011361a351a30489b89998245f17c0415c4/header.jpg?t=1787685450",
+    "japaneseSupport": "none",
+    "shortDescription": "Untergrund Raceways Arena (kurz: URA) ist ein Kart-Arena-Fighter aus dem Hause Vantech Studios, welcher unter Kooperation mit der AAP (Austrian Anime Productions) entwickelt wird. URA umfasst dabei ein Ausmaß, welches für ein erstes PC-Game etwas untypisch wirkt.",
+    "aboutTheGame": "Untergrund Raceways Arena (short: URA) is a kart arena fighter from Vantech Studios, developed in cooperation with the AAP . URA covers a scope that seems somewhat atypical for a first PC game. 26 individual arenas, each differing in concept 1v1 to 50-player modes for variety 40 individual, chaotic items 37–40 characters from the AAP Universe Player-like AI opponents with a high level of skill Configurable item selections, rarities, round lengths, and stats A tournament mode that chains together several random tracks A statistics system to track your successes A fully comprehensive achievement…",
+    "detectedAt": "2026-09-04T12:31:19.080Z"
+  },
+  {
+    "steamAppId": 5087470,
+    "title": "Party Link",
+    "sourceUrl": "https://store.steampowered.com/app/5087470/",
+    "price": "価格情報なし",
+    "tags": [
+      "MM（Massively Multiplayer）",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087470/0f79355d4d3876114ccab5f77f91505a8e363fbf/header.jpg?t=1787411655",
+    "japaneseSupport": "none",
+    "shortDescription": "Party Link is a collection of Russian party games for groups. Launch on a big screen, connect friends from their phones via QR, and pick a show — memes, drawing, bluffing, and guessing games. Original modes with Russian voice-over — ready in a minute, no installs on phones.",
+    "aboutTheGame": "One screen — the whole group in the game Party Link is a collection of Russian party games for groups. One big screen, friends' phones as controllers. Original shows, local humor, and its own voice-over — not a translation, but a game built for house parties, birthdays, and hangouts with friends. Launch it on a TV or laptop — friends scan a QR code and they're in. No installs on phones, no setup. Pick a show — and within a minute the group is laughing at terrible drawings, arguing over memes, or trying to guess what a friend actually meant. Why people love it Original shows — Telephone Game, M…",
+    "detectedAt": "2026-09-04T12:31:19.613Z"
+  },
+  {
+    "steamAppId": 5087510,
+    "title": "Brew & Boom",
+    "sourceUrl": "https://store.steampowered.com/app/5087510/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087510/d0629ae4c777794ad84dc95a9ddb37f9f3b1ec83/header.jpg?t=1787258113",
+    "japaneseSupport": "none",
+    "shortDescription": "Brew & Boom is a narrative alchemy simulation with dark humor. Brew risky potions, serve unusual customers, and choose between rival factions—while your battered old cauldron may blow the entire workshop apart at any moment",
+    "aboutTheGame": "Long Description — About This Game Brew Potions. Serve Customers. Survive the Consequences. Your brother has vanished. All he left behind is a run-down alchemy shop, a suspiciously well-patched cauldron, and a city where even a soothing chamomile potion can have political consequences. Brew & Boom is a narrative alchemy simulation about dangerous potions, difficult choices, and explosions that are, of course, performed strictly in the name of science. Run Your Own Alchemy Shop Order ingredients, manage your supplies, and combine potion bases with a variety of reagents. Every ingredient changes…",
+    "detectedAt": "2026-09-04T12:31:20.136Z"
+  },
+  {
+    "steamAppId": 5087540,
+    "title": "Watch My Step!",
+    "sourceUrl": "https://store.steampowered.com/app/5087540/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087540/6ddd3c2451946f8cfcdb3b74b7c7efdf700583f8/header.jpg?t=1787850034",
+    "japaneseSupport": "text",
+    "shortDescription": "見えないトラップ、異なる視点、そして出口はひとつだけ！2～4人用オンライン協力プラットフォームゲームでは、プレイヤーごとに見えるトラップが異なります。危険を伝え合い、一緒にコースを突破して、ベストタイムでリーダーボードの頂点を目指しましょう！",
+    "aboutTheGame": "WATCH MY STEP! 目に見えるものすべてを信じてはいけません。仲間には見えていても、あなたにはまったく見えない危険があるかもしれません。 Watch My Step! は、同じコースを進みながらも プレイヤーごとに見えるトラップが異なる、2～4人用オンライン協力型プラットフォーム＆トラップゲーム です。 あなたには完全に安全な道に見えていても……仲間の画面では、まったく同じ場所に危険なトラップが存在しているかもしれません。 仲間とコミュニケーションを取り、自分に見えている危険を伝え、相手からの警告にも注意深く耳を傾けましょう。ゴールにたどり着くためには、自分の目だけを信じることはできません。 プレイヤーごとに見えるトラップが違う まったく同じ場所に立っていても、全員が同じものを見ているとは限りません。 あるプレイヤーに見えているトラップが、ほかのプレイヤーには完全に見えないことがあります。トラップの位置やタイミングを伝え合い、安全なルートを一緒に見つけましょう。 一緒に進もう 走って、ジャンプして、トラップを避けながら、チームでチェックポイントを目指しましょう。 誰か1人がチェックポイントに到達すると、チーム全体の進行状況が保存されます。ただし注意してください。失敗するたびに最終タイムへ 30秒のペナルティ が加算されます。 タイムに挑戦 目標はただコースをクリアすること…",
+    "detectedAt": "2026-09-04T12:31:20.685Z"
+  },
+  {
+    "steamAppId": 5087630,
+    "title": "Hanzi Factory",
+    "sourceUrl": "https://store.steampowered.com/app/5087630/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087630/4619b95ad31e10efbdc0cdb7aba0b8e87130f394/header.jpg?t=1788021176",
+    "japaneseSupport": "none",
+    "shortDescription": "Hanzi Factory is a 3D automation game about manufacturing Chinese characters. Split them into components, reshape and reposition each piece, then carry distant parts over mountains and lakes to assemble new ones. Grow one workshop into a vast factory—and create glyphs no dictionary has ever seen.",
+    "aboutTheGame": "Hanzi Factory is a 3D automation game built around the structure of Chinese characters. Extract complete characters from deposits scattered across a procedurally generated landscape. Cut them into reusable components, reshape and position each piece, then assemble them into entirely different characters. Every component moves through the factory like any other item. Route pieces to separate processing lines, keep extras in storage, or feed them straight into another assembly. Characters made by one line can be broken down elsewhere, creating longer production chains and shared supply networks.…",
+    "detectedAt": "2026-09-04T12:31:21.227Z"
   }
 ]
