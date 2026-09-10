@@ -1,292 +1,5 @@
 [
   {
-    "steamAppId": 4311390,
-    "title": "むしむしバトラーズ",
-    "sourceUrl": "https://store.steampowered.com/app/4311390/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311390/711a3ddaf69d859f107d4a9dbca45d6569c6852f/header.jpg?t=1788767588",
-    "japaneseSupport": "text",
-    "shortDescription": "むしむしバトラーズで虫たちの大陸を冒険しよう！ローグライクな塔攻略、装備・遺物管理、ヒーロービルド、リアルタイムのオートバトル×ピンボール戦闘が融合。資源を配分し、装備や遺物を選び、ランダムイベントを乗り越え、虫を育ててスキルを獲得し勝利を目指そう！",
-    "aboutTheGame": "ローグライクな塔攻略、装備・遺物の管理、ヒーロービルド、リアルタイムのピンボールバトルを融合したゲームです。 オートバトラー風のリアルタイムピンボールバトル。手軽に遊べながら、しっかりと戦略を楽しめます。 豊富な装備や遺物を組み合わせ、自分だけのビルドを作り上げましょう。 各ユニットには複数の固有スキルがあります。経験値を振り分けてスキルを獲得しましょう！ 毎回ランダムに生成される冒険で、異なる敵、イベント、報酬が待っています！",
-    "detectedAt": "2026-09-07T08:29:32.466Z"
-  },
-  {
-    "steamAppId": 4774750,
-    "title": "Hidden Lines - Family mysteries",
-    "sourceUrl": "https://store.steampowered.com/app/4774750/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年1月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774750/0e962a695013f4b106815f4f36cd39c24b77b15c/header.jpg?t=1788764113",
-    "japaneseSupport": "none",
-    "shortDescription": "Find your unknown parent. Follow clues, meet eccentric characters, analyze DNA results, and search archives to solve the mystery of your own life. Secrets, false leads, and unexpected allies await. Every discovery could change your life.",
-    "aboutTheGame": "A brief encounter between two people shaped your life. You grew up without answers. Only questions that have followed you into adulthood. Now it’s time to find the answers. Search archives, follow rumors, analyze DNA results, and track down clues. People matter just as much as evidence. Witnesses remember incorrectly, rumors distort the truth, and some clues lead nowhere. Meet all kinds of personalities: genealogists, private investigators, distant relatives, and eccentrics. Some want to help you. Others have something to hide. Your personality affects how people react to you. The right attitu…",
-    "detectedAt": "2026-09-07T08:29:32.990Z"
-  },
-  {
-    "steamAppId": 4915640,
-    "title": "Log Drop",
-    "sourceUrl": "https://store.steampowered.com/app/4915640/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915640/7d992ee2404958e58fea8e843fa32ca5a71eebf5/header.jpg?t=1788765107",
-    "japaneseSupport": "text",
-    "shortDescription": "目標はただひとつ、物理的に無理があるほど大量の丸太をコアへ送り込む物理サンドボックス。木を切り倒し、仕掛けを組み上げ、丸太の大波を解き放ってコンボで荒稼ぎ。のんびり眺めて流すもよし、完璧なカスケードを設計するもよし。あなたのサンドボックス、ルールはあなたが決める。",
-    "aboutTheGame": "コアは腹ペコだ。エサをやろう。 『Log Drop』は2D物理演算の自動化ゲーム。目標はただひとつ、物理的に無理があるほど大量の丸太を地球のコアへ送り込むことだ。 カオスでも、整然でも、仕掛けの作り方はあなた次第。丸太を放り投げ、流し込み、せき止めて、溜まったところで一気に放て。進めながら新しいツールを買い足し、頼りにしているツールをアップグレードしよう。 キャンペーンモードでは、各エリアがそれぞれ独立したパズルになっていて、クリアすべき固有の目標が用意されている。 さらに、すべてのツールを制限なく使えるサンドボックスモードも登場予定。好きなものを好きなように作ろう。 これはサンドボックスだ。丸太がどうやって届くかなんて、コアは気にしない。",
-    "detectedAt": "2026-09-07T08:29:33.485Z"
-  },
-  {
-    "steamAppId": 4948290,
-    "title": "JOIN",
-    "sourceUrl": "https://store.steampowered.com/app/4948290/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "MM（Massively Multiplayer）",
-      "レース",
-      "RPG",
-      "シミュレーション",
-      "スポーツ",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948290/4c5c19d70abc146e8fd8d0189255a6a65c0d8012/header.jpg?t=1788769023",
-    "japaneseSupport": "none",
-    "shortDescription": "Play inside your favorite streamer's 3D world. Jump into their server, play with other fans in real time, and support your streamer — all in one place. Free to play.",
-    "aboutTheGame": "Play inside your favorite streamer's 3D world. JOIN is a social gaming platform where fans don't just watch their favorite streamer — they play with them. Every streamer on JOIN has their own dedicated 3D server. You download the app, find your streamer, jump into their lobby, and play alongside hundreds of other fans in real time. ───────────────────────────────────── 🌍 YOUR STREAMER HAS A WORLD ───────────────────────────────────── Each streamer gets a unique 3D lobby world and a custom character skin built just for them. Walk around the lobby, see other fans, jump into a game — all inside…",
-    "detectedAt": "2026-09-07T08:29:33.987Z"
-  },
-  {
-    "steamAppId": 4953300,
-    "title": "Dear Diary",
-    "sourceUrl": "https://store.steampowered.com/app/4953300/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月22日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953300/a97ae5ead014ce8b6b9bf370a70d7ab29742f83b/header.jpg?t=1788765648",
-    "japaneseSupport": "none",
-    "shortDescription": "Dear Diary is a short atmospheric first-person exploration game about the memories of a girl. Explore a small room and uncover five hidden objects while the story slowly unfolds.",
-    "aboutTheGame": "Dear Diary is a short and atmospheric first-person experience about forgotten memories and denial. Find five hidden objects to reveal pieces of the story. Can you piece together the memories hidden in this room? Exploration and Puzzles Explore the bedroom of a teenage girl and discover her personal belongings that hold fragments of her memories. Interact with objects scattered throughout the room and solve some simple puzzles to piece together the story of what happened that day. No enemies to fight. No ticking clock. Just a small room, a story waiting to be uncovered and the freedom to explor…",
-    "detectedAt": "2026-09-07T08:29:34.489Z"
-  },
-  {
-    "steamAppId": 4996170,
-    "title": "Magic Fusion",
-    "sourceUrl": "https://store.steampowered.com/app/4996170/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996170/ff20dfcc697595ae0392b509e6bef1caa8b924eb/header.jpg?t=1788763130",
-    "japaneseSupport": "none",
-    "shortDescription": "Draw spells in Magic Fusion! Master unique rune-based magic, create powerful spell combos, customize your hero, choose from fantasy races, and earn exclusive Magic Pass rewards in this action-packed adventure.",
-    "aboutTheGame": "Magic Fusion – Spellcasting at Your Fingertips Enter a world of magic and battle in Magic Fusion, an epic free-to-play game where you draw spells. Unleash your inner sorcerer as you sketch powerful runes on the screen to cast spells and defeat your enemies. Every stroke brings forth a new burst of arcane power in this exciting fantasy adventure. Unique Spellcasting Gameplay Experience an innovative magic system that makes you feel like a real wizard. Draw symbols on your screen to cast powerful spells – each shape you sketch unleashes a unique ability, from roaring fireballs to protective shie…",
-    "detectedAt": "2026-09-07T08:29:34.990Z"
-  },
-  {
-    "steamAppId": 5035760,
-    "title": "Elixonomy",
-    "sourceUrl": "https://store.steampowered.com/app/5035760/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035760/b0754c7ba4d68152d877172f0d2b5c1b942cd893/header.jpg?t=1788759504",
-    "japaneseSupport": "none",
-    "shortDescription": "Run a cozy potion shop in a living magical economy. Brew remedies, read customer needs, manage workers and supplies, grow ingredients, and turn each day's results into a smarter plan for tomorrow.",
-    "aboutTheGame": "The Elixonomy Demo includes the first ten shop days of a changing fantasy economy. Plan each morning, gather and grow ingredients, brew remedies, choose what reaches the shelf, set prices, and serve customers with different needs and budgets. Every day asks you to decide what to make, what to save, and how to respond when the market changes. A potion can be technically suitable and still be too expensive, poorly matched, or unavailable. Customers remember whether your shop helped them, and recurring visitors return with requests and consequences shaped by earlier decisions. The Elixonomy Plan…",
-    "detectedAt": "2026-09-07T08:29:35.504Z"
-  },
-  {
-    "steamAppId": 5088140,
-    "title": "Phantom Line: Prologue",
-    "sourceUrl": "https://store.steampowered.com/app/5088140/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "インディー",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "LAN協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088140/f18581414f858209b5602e5c883511ff1dcf91ad/header.jpg?t=1788766886",
-    "japaneseSupport": "text",
-    "shortDescription": "Experience the beginning of the nightmare. Phantom Line: Prologue is a co-op (1-4) tactical shooter set in a war-torn Europe with paranormal events. Contain monstrous anomalies, navigate nuclear chaos, and test your squad's survival before the full mission begins.",
-    "aboutTheGame": "The Prologue serves as the introductory chapter to the full experience of Phantom Line . Step into the boots of the OPERATOR , battle terrifying entities, and test your skills before the full mission begins. You are a part of an elite spec-op unit that deals with anomalies - bizarre and inexplicable events hidden from the public. You work for a mysterious megacorp called Mortfield Industries. One of Mortfield's research facilities, placed in the IRON CORRIDOR - an Eastern Europe region torn by international tensions and paranormal activities - has lost contact with HQ. You’ve been sent there t…",
-    "detectedAt": "2026-09-07T08:29:36.119Z"
-  },
-  {
-    "steamAppId": 5088530,
-    "title": "Peep",
-    "sourceUrl": "https://store.steampowered.com/app/5088530/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088530/82dda890a1c4aae16d855aa36298d53beac18bab/header.jpg?t=1788756687",
-    "japaneseSupport": "none",
-    "shortDescription": "Peep is a psychological horror game that mixes the retro PSX-style 3D perspective with 2D point-and-click. You awaken trapped in an ever-changing room with peepholes looking into different realities. Use your wits to solve twisted puzzles to help strange individuals and you may just escape alive.",
-    "aboutTheGame": "You awaken in an unfamiliar place, the cold tiled floors and walls offer no comfort in your confusion. A pungent smell of mould and grime sting your senses. The only reference is a conspicuous peephole on the wall, looking in warps your reality… you are not alone here. Who is knocking at that door? Communicate Talk with those who inhabit the other side of the peephole. Discover their stories and recover their artifacts to free them from their torment. Solve Puzzles Work together to solve ever evolving puzzles, transfer items and piece together the fragments to earn an escape from this twisted…",
-    "detectedAt": "2026-09-07T08:29:36.644Z"
-  },
-  {
-    "steamAppId": 5097440,
-    "title": "BIG BANG TO US",
-    "sourceUrl": "https://store.steampowered.com/app/5097440/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月17日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097440/99a23482540f63ed58aa41ee663b4e4f2d097f09/header.jpg?t=1788581485",
-    "japaneseSupport": "text",
-    "shortDescription": "138億年という宇宙の歴史を一気に駆け抜ける驚異の旅、その果てに出会う私たち。 「BIG BANG TO US」は、広大な宇宙の歴史を直感的なインタラクションで体験できるインタラクティブ科学アプリケーションです。このアプリは、複雑な内容を暗記するのではなく、画面を直接タッチし、インタラクションを行いながら、宇宙の歴史を自然にたどるように設計されています。138億年前の宇宙の始まりであるビッグバンから、星が誕生して爆発し、私たちを構成する元素を作り出す荘厳な過程をぜひ直接体験してください。",
-    "aboutTheGame": "138億年という宇宙の歴史を一気に駆け抜ける驚異の旅、その果てに出会う私たち。 「BIG BANG TO US」は、広大な宇宙の歴史を直感的なインタラクションで体験できるインタラクティブ科学アプリケーションです。 このアプリは、複雑な内容を暗記するのではなく、画面を直接タッチし、インタラクションを行いながら、宇宙の歴史を自然にたどるように設計されています。138億年前の宇宙の始まりであるビッグバンから、星が誕生して爆発し、私たちを構成する元素を作り出す荘厳な過程をぜひ直接体験してください。 遥かなる星々の痕跡と私たちの日常が繋がる宇宙的な一体感の中で、138億年の果てに与えられたこの刹那の時間がどれほど希少で輝かしいものなのかを発見してみてください。 [主な構成] 科学パート：星の子供たち (Children of Star) ビッグバンから現在に至るまで、現代宇宙論に基づいた宇宙の歴史を全8章で濃密に描き出します。徹底した科学的考証と映画的な演出が結びついた、没入感溢れるドキュメンタリーを提供します。 体験パート：One-Take 13.8B 途切れることのないロングテイク（One-take）演出により、138億年という途方もなく長い宇宙の歴史を一気に経験する視覚的体験をお届けします。 ストーリーパート：WISH ビッグバンの最も輝く特異点で生まれ、ブラックホールの最も黒い特異点…",
-    "detectedAt": "2026-09-07T08:29:37.146Z"
-  },
-  {
-    "steamAppId": 5097530,
-    "title": "SIGNOS: AI Robot Builder",
-    "sourceUrl": "https://store.steampowered.com/app/5097530/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "2026年11月10日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097530/a9a03605240ace396a0f7003cd41f7e7cb2739a8/header.jpg?t=1788652073",
-    "japaneseSupport": "text",
-    "shortDescription": "ロボットを組み、思考タイルで戦術を組み、あとは見守る。 全高18cmの自律型ホビーロボット「シグノス」をアセンブルし、フローチャート型の「思考タイル」で行動ロジックを構築。戦闘中の操作は一切なし。あなたが設計したロジックだけを頼りに、シグノスは自動で戦います。",
-    "aboutTheGame": "操縦の腕は、要らない。 ロボットを組む。 戦い方を考える。 そして、AIに託す。 「SIGNOS」は、 自分で設計したロボット同士を戦わせる完全自動バトルシミュレーション です。 戦闘中にプレイヤーが操作することはありません。 移動するか。 敵を索敵するか。 攻撃するか。 状況に応じてどう判断するか。 すべては、あなたが組み上げたロジック次第です。 自分が考えた戦術が、実際の戦場でどう動くのか。 それを見届けることが、SIGNOSのバトルです。 ロボットを組み上げる 全高18cmのホビーロボット「シグノス」に、さまざまなパーツを組み合わせて自分だけの機体を作ります。 頭部・胸部・腕部・脚部などのパーツには、それぞれ異なる性能があります。 耐久力、重量、消費EN、演算能力、射角。 高火力の武器を搭載した重装型。 盾を活かして粘り強く戦う機体。 機動力を重視して敵との距離をコントロールする機体。 どのパーツを選ぶかによって、機体の戦い方も変わります。 そして、その機体に どんなロジックを組み込むのか 。 機体設計と戦術設計を組み合わせて、自分だけのシグノスを完成させましょう。 思考タイルで戦術を組む 「移動」「索敵」「攻撃」「条件分岐」などの 思考タイル を配置し、ノードを繋いで行動ロジックを作ります。 例えば、 敵を索敵する ↓ 敵との距離を判断する ↓ 攻撃するか、移動するかを選ぶ…",
-    "detectedAt": "2026-09-07T08:29:37.768Z"
-  },
-  {
-    "steamAppId": 5097600,
-    "title": "Minip",
-    "sourceUrl": "https://store.steampowered.com/app/5097600/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097600/7882b883ab7a9177d7d5733f647438f5218b459b/header.jpg?t=1788260710",
-    "japaneseSupport": "text",
-    "shortDescription": "A physics-based puzzle game where you position obstacles to guide a bouncing ball to its goal. Solve levels, collect stars, unlock new ball appearances, and discover colorful environments along the way.",
-    "aboutTheGame": "Welcome to Minip! Minip is a physics-based puzzle game where you position obstacles to guide a bouncing ball to its goal. The goal of each level is simple: place the obstacles in the right positions, create a path for the ball, and get it to the finish. As you progress, finding the right solution will require more careful thinking. How to Play The ball moves under its own weight, bouncing off obstacles as it makes its way forward. Find the solution by moving the obstacles into the right positions and guide the ball to the goal. The first level also serves as a tutorial where you can learn the…",
-    "detectedAt": "2026-09-07T08:29:38.263Z"
-  },
-  {
-    "steamAppId": 5097630,
-    "title": "Swarm Idle",
-    "sourceUrl": "https://store.steampowered.com/app/5097630/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月30日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097630/65995534c80b0412e46c90df841d5234db902205/header.jpg?t=1788749308",
-    "japaneseSupport": "text",
-    "shortDescription": "Swarm Idleは、エイリアンの女王となって群れを率いるプレステージ型の放置／インクリメンタルゲーム。100の都市を喰らい、8つの系統を育て、変異を最適化し、オフライン中も資源を蓄えながら地球全土を蹂躙せよ。",
-    "aboutTheGame": "地球は、あなたの餌だ Swarm Idle は、エイリアンの女王となって群れを率い、地球を侵略していくプレステージ型の放置／インクリメンタルゲームです。 都市を地区ごとに侵食し、行く手にあるものすべてを喰らい、進撃を阻むガーディアンを打ち倒しましょう。 群れを成長させ、限界を突破し、そして 変異によってゼロから再出発し、以前よりさらに強くなれ。 100の都市。1,000の地区。蹂躙すべき地球はひとつ。 群れを育て、進化させろ 8つのクリーチャー系統 を成長させましょう。レベルを上げ、アップグレードやタレントを解放し、新たな強化段階へ到達し、能力を最適なタイミングで発動します。 そして訪れるのが 進化 です。 ひとつの系統が積み上げてきたレベルとアップグレードを犠牲にし、遥かに強大な姿へと生まれ変わらせます。レベル1からの再出発となりますが、その潜在能力はまったく新しい次元へと到達します。 変異せよ。やり直せ。限界を超えろ。 進行がついに壁へぶつかったら、 変異 を実行しましょう。 群れはゼロから再出発します。しかし、永続的に得た力は残ります。かつて何時間もかかった場所が、今度はほんの一瞬で崩れ落ちていきます。 以前の最前線へ戻り、それを突破し、新たな壁へ到達する。 そして さらに強くなって、また始める。 変異したガーディアンからは ゲノム を獲得できます。そのまま保持して群れ全体を…",
-    "detectedAt": "2026-09-07T08:29:38.764Z"
-  },
-  {
-    "steamAppId": 5097640,
-    "title": "Terrarium II",
-    "sourceUrl": "https://store.steampowered.com/app/5097640/",
-    "price": "¥371",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月4日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097640/962edb05a4ffa99203134a1a19e7dae00a8fe759/header.jpg?t=1788553283",
-    "japaneseSupport": "none",
-    "shortDescription": "Terrarium II is a peaceful sandbox about exploring nature, collecting plants, and building your own garden. No enemies, no pressure—just a calm world where you can grow, craft, and create at your own pace.",
-    "aboutTheGame": "Terrarium II is a calm, exploration‑driven sandbox where your goal is simple: collect plants and build the garden of your dreams. Wander through forests, caves, and hidden pockets of nature to discover new species. Gather plants, craft tools, and place tiles to shape the environment around you. There’s no combat, no time limits, and no fail states — just creativity and discovery. Expand your garden, experiment with layouts, decorate your space, and enjoy a world built for relaxation. Features include: A growing collection of plants to find Crafting tools and decorations A tile‑based building s…",
-    "detectedAt": "2026-09-07T08:29:39.391Z"
-  },
-  {
-    "steamAppId": 5097670,
-    "title": "HorseHair",
-    "sourceUrl": "https://store.steampowered.com/app/5097670/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097670/cf9aeba5364b3519a22ed16522700ab9ac3ebc3c/header.jpg?t=1788384008",
-    "japaneseSupport": "none",
-    "shortDescription": "HorseHair is a short psychological horror experience. Immerses yourself with point & click navigation, complete mysterious tasks, and uncover dark truths about your family.",
-    "aboutTheGame": "\"When I turn the TV off, I can see Jesse's reflection next to mine, but I swear I see another one looking at us.\" HorseHair is a short psychological horror game about looking after your little brother, playing your favorite fighting game, and trying to stay sane as your everyday normal becomes surreal and dark. FEATURES Point-and-click exploration of a quiet old house, told through the eyes of an older sibling holding the family together A fully playable retro fighting game within the game, called Horsehair, you play nightly that keeps you and your brother close Complete small mundane tasks, c…",
-    "detectedAt": "2026-09-07T08:29:39.897Z"
-  },
-  {
     "steamAppId": 5097740,
     "title": "Potion Drifter",
     "sourceUrl": "https://store.steampowered.com/app/5097740/",
@@ -7388,5 +7101,498 @@
     "shortDescription": "Enjoy continuous, automated progression through idle cultivation in your Pocket Realm. Train Mind Arts, practice alchemy, forge gear, and enter fully automated turn-based battles driven by action gauges. Defeat monsters and bosses, collect powerful loot, refine your build, and reach higher realms.",
     "aboutTheGame": "Dao Without End is an indie cultivation RPG for PC built around idle cultivation in your Pocket Realm, fully automated combat, and equipment-driven buildcrafting. Begin as a cultivator taking your first steps on the path to immortality. Shape your starting conditions through your background, attributes, and Destiny. Build your cultivation, train Mind Arts, and craft pills and equipment within your Pocket Realm. Then venture onto the world map to challenge monsters, elites, and formidable foes, bringing home materials and loot to refine your build and develop your own path of cultivation. Shape…",
     "detectedAt": "2026-09-10T08:29:09.341Z"
+  },
+  {
+    "steamAppId": 1008930,
+    "title": "Heisenberg 101",
+    "sourceUrl": "https://store.steampowered.com/app/1008930/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月24日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1008930/53c13b10292114457b9aab649562acf352fd988a/header.jpg?t=1789067143",
+    "japaneseSupport": "none",
+    "shortDescription": "Heisenberg 101 is a laid-back puzzle game. Guide the “Think Tank” to the exit of each level. Use the portals to teleport, move objects, or deflect dangerous laser beams. The AI HeLiOS is always by your side. You can rewind as many steps as you like to correct mistakes.",
+    "aboutTheGame": "Heisenberg 101 is based on a famous thought experiment: How do we know we aren’t just brains in a tank? Well, at least the tank in this game is a very special one. The Heisenberg Think Tank can move. It can manipulate objects and create portals. With the help of these portals, objects can be teleported — even the Think Tank itself. You wake up and realize that you really are just a brain in a tank. But apparently, a new body is waiting for you if you pass a few tests. Use the capabilities of the Heisenberg Think Tank to pass these tests. The freely placeable portals will help you safely reach…",
+    "detectedAt": "2026-09-10T20:29:14.426Z"
+  },
+  {
+    "steamAppId": 2691530,
+    "title": "RAILRIDERS",
+    "sourceUrl": "https://store.steampowered.com/app/2691530/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691530/7c0f9f028302c07d8ee6874c435c093245b9f995/header.jpg?t=1789048217",
+    "japaneseSupport": "text",
+    "shortDescription": "『RAILRIDERS』は、1~4人向けのハイテンポな協力型シューター。未確認生物がはびこるディーゼルパンクの辺境へ列車で乗り込み、危険な依頼に挑み、容赦なく襲い来る敵を仲間とともに戦い抜き、列車への帰還を果たせ。",
+    "aboutTheGame": "ようこそ、ネオ・フロンティアへ。オールド・グロースがはびこるこの辺境を安全に進めるのは列車だけだ。 線路の先には、危険な未確認生物と凶暴な機械がはびこる、廃墟と化した町と巨大な構造物が広がっている。 君は駆け出しのレイルライダー。1~4人編成のチームで誰も引き受けたがらない依頼に挑む。危険な浸食を退け、廃墟と化した集落を取り戻し、ネオ・フロンティアの存続を懸けた依頼を完遂せよ。 列車は唯一の行き道。そして唯一の帰り道。 敵がはびこる奥地へ乗り込み、列車を飛び降りて、オールド・グロースに蝕まれた廃墟の鉄道町や、忘れ去られた鉱山、錆びついた精錬所を探索せよ。任務を終えたら、敵を蹴散らしながら列車が走り去る前に車内に駆け込もう。 列車に戻ったら、一息ついて、次の停車地に向けて補給と支度を済ませておこう。 動き続けろ。レイルライダーが生き延びる術はそれしかない。 オールド・グロースは手を緩めない。君も立ち止まるな。 わずかな敵も、あっという間に大群へと膨れ上がる。 滑れ。駆けろ。ブーストせよ。ジェットで飛べ。絶対に止まるな。 仲間と肩を並べて戦い、勢いを保ちながら、ともに列車に戻ろう。 簡単な仕事にレイルライダーは必要ない。 重要な貨物の回収から、希少なの未確認生物の狩り、危険な浸食の一掃まで——任務はどれもユニークだ。ブルームイベントが始まると、オールド・グロースは応戦し、戦場を新たな脅…",
+    "detectedAt": "2026-09-10T20:29:14.978Z"
+  },
+  {
+    "steamAppId": 3258830,
+    "title": "Loot & Bolt",
+    "sourceUrl": "https://store.steampowered.com/app/3258830/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258830/8d591f5e84eada12ac9d341d319c6cb0c9c2a609/header.jpg?t=1789045968",
+    "japaneseSupport": "none",
+    "shortDescription": "A greed-fueled party game for up to 8 players online. Push deeper for more gold, or turn back alone and take what's left plus a legendary relic — your call. Watch your back: your friends are the bigger danger. Buy gear each round to build your own run. Tonight, the dragon's vault opens for you.",
+    "aboutTheGame": "The dragon has been dead a long time. Its vault has not. Every night the rooms rearrange themselves, and then the doors open. You and your friends are just a crew hoping to haul out a few more sacks before it seals shut. One more room. What could go wrong. Every time a room card flips, everyone chooses at the same moment: press on, or turn back. Whoever turns back locks their gold into camp, where nobody can touch it. Whoever presses on splits the next haul — and eats the next trap: spikes, boulders, a pendulum blade, and the one shaped like a treasure chest. Then a second disaster of the same…",
+    "detectedAt": "2026-09-10T20:29:15.553Z"
+  },
+  {
+    "steamAppId": 3504010,
+    "title": "Don't Tread On Cat",
+    "sourceUrl": "https://store.steampowered.com/app/3504010/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504010/3112d5c6d6675c8c495268f72e51798ad6b27ca4/header.jpg?t=1789050970",
+    "japaneseSupport": "none",
+    "shortDescription": "In a post-nuclear city ruled by corporate algorithms, Pushok — a kitten with a jailbroken neural implant—must escape a high-security lab, master stealth hacking, and navigate cyberpunk slums to find his way home.",
+    "aboutTheGame": "ABOUT THE GAME In a post-nuclear world, an isolated island thrives under the absolute rule of corporate algorithms, promising order, comfort, and safety. But a kitten named Pushok with a hacked neural implant becomes an unpredictable threat to the system. Seized from his beloved owner, Alice, for corporate research, the implant’s unintended power gives him a chance to break free. His path home lies through high-security labs, neon-slicked cyberpunk slums, and underground resistance hideouts. Can a solitary kitten survive in a hostile world? Which will prevail — the cold calculation of algorith…",
+    "detectedAt": "2026-09-10T20:29:16.107Z"
+  },
+  {
+    "steamAppId": 3908520,
+    "title": "SYDI",
+    "sourceUrl": "https://store.steampowered.com/app/3908520/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908520/f9657aeb48d20521144417e56d9c1beef1d6dc92/header.jpg?t=1789068473",
+    "japaneseSupport": "none",
+    "shortDescription": "SYDI is a turn-based JRPG inspired by tabletop RPGs like by D&D, where every battle comes down to the roll of a die. Explore a silent, colorless world and find your friends again, and face the question waiting for you at the end.",
+    "aboutTheGame": "You wake up in a world without color. You don't know how you got there. You don't know how to get out. Explore a silent, motionless world where only a few things still live, still hold their color. Your companions are waiting for you. Fight, explore, and discover what lies beyond this gray world. But the deeper you venture, the more a question begins to take shape, silent, persistent, impossible to ignore. SYDI is a turn-based JRPG inspired by tabletop RPGs like D&D, where every battle is decided by the roll of a die, with abilities, equipment, and your party's choices shaping every encounter.",
+    "detectedAt": "2026-09-10T20:29:16.670Z"
+  },
+  {
+    "steamAppId": 3937930,
+    "title": "Idle Realms: Rise",
+    "sourceUrl": "https://store.steampowered.com/app/3937930/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937930/eb2d49519223e93da639112f5dcc05169e764bf8/header.jpg?t=1789057909",
+    "japaneseSupport": "none",
+    "shortDescription": "An idle RPG built on the real D&D 5th Edition ruleset: 327 SRD stat blocks, 311 magic items, 9 zones from CR 0 to CR 55+. Fifteen skills, six classes, a level cap of 150. You own everything from the first launch — no store, no microtransactions, no ads.",
+    "aboutTheGame": "A real D&D bestiary, running while you're away Idle Realms: Rise is an auto-battle idle RPG built on the Dungeons & Dragons 5th Edition SRD. Not \"D&D-inspired\" — the actual stat blocks: 327 creatures, 311 magic items, real spells, real damage types, pulled from the official open-licensed ruleset. Pick your target, pick your style, and the fight runs on its own. Come back stronger. You own the whole game the moment you buy it There is no in-game store. No premium currency, no loot boxes, no gacha, no ads, no season pass to renew, nothing gated behind a second payment. Every cosmetic, every conv…",
+    "detectedAt": "2026-09-10T20:29:17.200Z"
+  },
+  {
+    "steamAppId": 4068150,
+    "title": "Camp Paradise: Island Resort Tycoon",
+    "sourceUrl": "https://store.steampowered.com/app/4068150/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4068150/6f640d66b0934cf8e2a79a861070749a7a8fa737/header.jpg?t=1789055862",
+    "japaneseSupport": "text",
+    "shortDescription": "心温まる島リゾート経営ゲームで、放置された島を究極の休暇先へ。清掃し、修理し、夢のアイランドリゾートを建設して、静かなキャンプサイトからジェットスキーや観覧車まで、ゲストが望むものをそろえましょう。あなたの島。みんなの楽園。",
+    "aboutTheGame": "あなたの島。みんなの楽園。 あなたが購入したのは、手入れもされず放置された南国の島。浜辺にはゴミが散乱し、電力設備は今にも止まりそう。古びた灯台が見守る先には、始まることすらできなかったリゾートがあります。それでも、この散らかった島には特別な場所になる可能性が眠っています。あとは、あなたの手で蘇らせるだけです。 Camp Paradise は、一人称視点で自ら作業する楽しさと、俯瞰視点での運営を組み合わせた、心温まる島リゾート経営ゲームです。自分の手で島を修復し、ゲストが必要とする施設を建て、忘れ去られたキャンプ場を誰もが語りたくなる休暇先へと少しずつ変えていきましょう。 自分の手で島をきれいに 最初から助けてくれる整備スタッフはいません。一人称視点で島を探索し、散らばったゴミを拾い、大きな廃棄物を自分で運び、こびりついた汚れを落としましょう。重要なインフラを修復し、放置されていたソーラーパネルも再び稼働させる必要があります。 島の再生は、足元から始まります。浜辺を一つきれいにし、施設を一つ修理するたび、最初のゲストを迎える日は一歩ずつ近づきます。 自分だけのリゾートを建設 オーバービューモードに切り替え、上空から島を形作りましょう。キャンプサイト、飲食施設、トイレ、シャワー、ベンチ、照明、レジャー施設を適した場所に配置できます。景観の中に小道を描き、空いた場所を飾り、すべてを動か…",
+    "detectedAt": "2026-09-10T20:29:17.731Z"
+  },
+  {
+    "steamAppId": 4075360,
+    "title": "Phantom Protocol",
+    "sourceUrl": "https://store.steampowered.com/app/4075360/",
+    "price": "無料",
+    "tags": [
+      "MM（Massively Multiplayer）",
+      "無料プレイ",
+      "早期アクセス",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075360/3cba201cef072ac569f9b78adb909b1d57d1ac0b/header.jpg?t=1789071992",
+    "japaneseSupport": "none",
+    "shortDescription": "Phantom Protocol is a high-speed, dynamic FPS where the battlefield mutates mid-combat. Every match escalates through distinct procedural phases—shifting maps, altering layout rules, and twisting objectives on the fly based on team performance. Adapt your loadout, and survive the shift.",
+    "aboutTheGame": "Dive into Phantom Protocol , a groundbreaking first-person shooter that redefines tactical combat with unparalleled graphics and movement mechanics. Built on a custom next-gen engine, Phantom Protocol delivers hyper-realistic visuals—think ray-traced urban sprawls, dynamic weather, and lifelike character models—that push your hardware to its limits. Every map, from dark-gritty castles and war-torn industrial zones to desert storms, is crafted with meticulous detail, immersing you in a world where every bullet and shadow feels alive. What sets Phantom Protocol apart is its revolutionary movemen…",
+    "detectedAt": "2026-09-10T20:29:18.261Z"
+  },
+  {
+    "steamAppId": 4382780,
+    "title": "IGNis",
+    "sourceUrl": "https://store.steampowered.com/app/4382780/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "ストラテジー",
+      "無料プレイ",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382780/acd3ce36bcab51ba412936353376a481e77d57c0/header.jpg?t=1789069597",
+    "japaneseSupport": "none",
+    "shortDescription": "iGNis is a classic dark fantasy MMORPG inspired by legendary old-school MMOs. A persistent world where progress is earned through effort, equipment holds real value and prestige, and long-term progression, crafting, PvP, and community truly matter.",
+    "aboutTheGame": "🔥 iGNis – Classic Dark Fantasy MMORPG iGNis is a classic dark fantasy MMORPG built for players who miss meaningful progression, valuable equipment, dangerous encounters, and communities where reputation truly matters. Enter a persistent world where strength is earned through combat, exploration, trading, character development, and perseverance. Every upgrade has a purpose, every rare item tells a story, and every achievement becomes part of your character's legacy. ⚔️ Forge Your Own Legend Choose your path, develop your character, and face increasingly dangerous enemies as you explore the wor…",
+    "detectedAt": "2026-09-10T20:29:18.799Z"
+  },
+  {
+    "steamAppId": 4446480,
+    "title": "The Walking Onsen",
+    "sourceUrl": "https://store.steampowered.com/app/4446480/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446480/d9995fe41ca4e2cc3644009f550e1429b813d66e/header.jpg?t=1789063022",
+    "japaneseSupport": "none",
+    "shortDescription": "Manage a magical walking bathhouse visited by forest souls! The Walking Onsen is a cozy game, you can clean and bathe cute spiritual guests, craft healing potions, and brew herbal teas. Uncover forgotten stories, fill your diary with cute besties, explore new lands in a heartwarming hand drawn world",
+    "aboutTheGame": "Welcome to spiritual THE WALKING ONSEN! Take a bathrobe, feel the warm spring water and get relaxed :) Step into a cozy, hand-drawn fairytale world where you run a unique Japanese Onsen built inside a giant, walking teapot. Clean and bathe cute spiritual guests, craft healing potions, and brew herbal teas. As spirits and forest souls travel from all over, your role is to keep the bathhouse warm, comfortable, and inviting. Keep the fires burning with firewood, prepare fresh water, and make sure every guest feels right at home. Uncover forgotten stories, fill your diary with cute besties, explor…",
+    "detectedAt": "2026-09-10T20:29:19.335Z"
+  },
+  {
+    "steamAppId": 4475890,
+    "title": "Yuzutsu",
+    "sourceUrl": "https://store.steampowered.com/app/4475890/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475890/48425bb0c911464d4edc711f9126b04333b4ebb6/header.jpg?t=1789044905",
+    "japaneseSupport": "none",
+    "shortDescription": "侍。忍者。ニホンザル。温泉。あなたは、どんな戦いも「ちょっと面倒」くらいにしか思わないカピバラ僧・タオマル。危険な任務ものんびり歩きながら、敵と位置を入れ替えてその裏をかき、敵自身の攻撃を逆手に取って、古の術「Yuzutsu」で鮮やかに打ち破ろう。",
+    "aboutTheGame": "『Yuzutsu』は、力任せに戦う必要のない2.5Dパズルアクションゲーム。敵や罠、周囲のさまざまなものと位置を入れ替える古の術を極め、勝利を組み立てよう。シンプルな発想から生まれる奥深い駆け引きの中で、ひとつひとつの選択が気持ちのいい結果へとつながっていく。 入れ替えて勝利をつかめ ♨️ 攻撃をギリギリでかわす。敵を危険のど真ん中へ送り込む。飛んできた攻撃をそのままお返しする。たったひとつのシンプルな能力で、世界そのものが勝利のための道具になる。 自分だけのやり方で敵を出し抜け ♨️ すべての戦いがひとつのパズル。そして、答えはひとつとは限らない。 ♨️ 敵、罠、位置取り、タイミングを自由に試しながら、手作りのパズルを自分なりの方法で攻略しよう。新たな仕掛けが登場するたび、これまでに学んだアイデアが積み重なり、思いもよらない状況で組み合わさっていく。 ♨️ とんでもない選択をしてしまった？ まったく別の方法で敵を倒してみたい？ そんなときは、すぐにパズルをやり直そう！ タオマルと旅に出よう ♨️ タオマルの望みはただひとつ。温泉に浸かって、静かにのんびり過ごすこと。ところが周りのみんなは、どうやらそれを邪魔したくて仕方がないらしい。 ♨️ 温泉御殿に広がる5つの異なるエリアを巡りながら、心配性の巫女、リスの奉行、そして巻き起こる騒動をタオマルよりずっと真剣に受け止める妙に張り切っ…",
+    "detectedAt": "2026-09-10T20:29:19.866Z"
+  },
+  {
+    "steamAppId": 4513180,
+    "title": "Don't Drop The Ball",
+    "sourceUrl": "https://store.steampowered.com/app/4513180/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513180/cc5a5decc8d39cb1afb06e57e71fb2c80257ad42/header.jpg?t=1789042458",
+    "japaneseSupport": "none",
+    "shortDescription": "Work together with your friends to keep a beach ball in the air. Punch the ball, pound the ground, or whack your buddies. Whatever you do, DON'T. DROP. THE. BALL.",
+    "aboutTheGame": "Don't Drop the Ball is a co-op party game designed to test your teamwork. Use mechanical puncher arms to whack a beach ball, pound the ground, and send your friends flying as you race to complete each level as quickly as possible. Moving platforms, bouncing obstacles, and ever-changing environments will keep the whole party on its toes. The fastest players can claim their spot at the top of the leaderboard. Work Together Communicate with your friends to keep the ball in the air. Discuss your plan at each checkpoint, whack the ball, and let the chaos ensue! DON'T. DROP. THE. BALL. If the ball h…",
+    "detectedAt": "2026-09-10T20:29:20.437Z"
+  },
+  {
+    "steamAppId": 4516510,
+    "title": "Koruxa- IDLE RPG",
+    "sourceUrl": "https://store.steampowered.com/app/4516510/",
+    "price": "無料",
+    "tags": [
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516510/03c06fe61206a5c3c52f662793b3cd7ed17f7b14/header.jpg?t=1789050773",
+    "japaneseSupport": "none",
+    "shortDescription": "Koruxa is a free-to-play idle RPG MMO with true offline progress. Train 15+ skills, fight monsters, trade on the marketplace, and join clans. Your character keeps working even when you're away. No energy systems, no paywalls — just pure idle RPG fun.",
+    "aboutTheGame": "Koruxa is a free-to-play browser-based idle RPG with true offline progress. Train over 15 skills, battle fierce monsters, trade with other players, and join clans to dominate the world of Koruxa. Whether you have 5 minutes or 5 hours, Koruxa respects your time. Set your character to work, close the tab, and come back to real progress. No energy systems, no paywalls blocking content. Key Features: 15+ Skills to Master - From Woodcutting and Mining to Alchemy, Herblore, and Arcana. Every skill has deep progression with unlockable recipes, tools, and bonuses. True Offline Progress - Your characte…",
+    "detectedAt": "2026-09-10T20:29:20.969Z"
+  },
+  {
+    "steamAppId": 4627400,
+    "title": "Hexboard Driver",
+    "sourceUrl": "https://store.steampowered.com/app/4627400/",
+    "price": "価格情報なし",
+    "tags": [
+      "レース",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627400/80d3fc368d6526212cab3d0cab88d4ba3ae7ece8/header.jpg?t=1789042174",
+    "japaneseSupport": "none",
+    "shortDescription": "Build the road before the journey begins! Rotate and swap hexagonal tiles to create a valid path and guide your sports car to its destination through colorful arcade-inspired worlds. A relaxing puzzle game with the charm and style of classic 90s arcade games.",
+    "aboutTheGame": "Build the road. Complete the journey. Hexboard Riders is a colorful puzzle game where every road begins broken. Rotate and swap hexagonal tiles to create a valid route, then watch your driver travel from the starting line to the destination through vibrant worlds inspired by the golden age of 90s arcade games. There are no races and no opponents — the challenge is finding the perfect path. 🧩 Solve relaxing road-building puzzles Every stage begins with a shuffled road. Rotate and swap hexagonal tiles to reconnect the road and create one continuous path from start to finish. Rotate and swap hex…",
+    "detectedAt": "2026-09-10T20:29:21.559Z"
+  },
+  {
+    "steamAppId": 4666490,
+    "title": "Beautiful Spores",
+    "sourceUrl": "https://store.steampowered.com/app/4666490/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666490/80e12e152c763e830a0b910c669cce1370de7656/header.jpg?t=1789062270",
+    "japaneseSupport": "none",
+    "shortDescription": "Beautiful Spores is a roguelike twin-stick shooter with lots of spells to dodge and upgrades to make sure your own spells hit back harder every time.",
+    "aboutTheGame": "Beautiful Spores is a roguelike twin-stick shooter with lots of spells to dodge and upgrades to make sure your own spells hit back harder every time. Fight your way through procedurally generated floors of the Cursed Library. Defeating foes will grant you coins to spend on upgrades to power up your arsenal. Create new abilities by discovering new spells giving each run a unique challenge.",
+    "detectedAt": "2026-09-10T20:29:22.094Z"
+  },
+  {
+    "steamAppId": 4670920,
+    "title": "SMS Returns",
+    "sourceUrl": "https://store.steampowered.com/app/4670920/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670920/9204dfce7b24f7ccbc389698dd20476fb90ed719/header.jpg?t=1789071861",
+    "japaneseSupport": "text",
+    "shortDescription": "2012年のバイラルの伝説が帰ってきた。細身で顔のない怪人が、ゼロから作り直されたおなじみのマップであなたを狩る——新マップForestも登場。オンラインマルチプレイや画面分割で仲間と生き延び、VRでプレイし、エディターで自分だけの恐怖のマップを作ろう。あなたは生き延びられるか？",
+    "aboutTheGame": "2012年に世界を騒がせたバイラルの伝説が帰ってきた。彼はすでに準備を終えている――あなたは？ オンラインマルチプレイと画面分割で仲間と生き延び、完全VR対応の没入感を味わい、ゲーム内レベルエディターで自分だけの恐怖のマップを作り、キャラクターを美しく――あるいはおぞましく――カスタマイズしよう。 再び、狩られる 背が高く痩せた顔のない怪人が、おなじみのマップであなたを追い詰める：Sanatorium、Hospice、Elementary、Mansion、7th Street、Prison、Carnival、そして Forest ――2013年以来となるシリーズ初の新マップで、すべてが始まった場所へと帰る。 7つの遊び方 7つのゲームモードが、じわじわと迫る恐怖から狂乱のパーティー的カオスまで、幅広い難易度を用意：恐怖もリプレイ性も最大級。各モードをクリアしてレベルを上げ、自慢の種にしよう。 彼はあなたを覚えている 2012年から、あなたは成長した。あの怪物もまた然り。彼の凶暴性が増すにつれ、あなたの精神は蝕まれ、彼の影響が周囲の世界を侵していく。 あなたは生き延びられるか？",
+    "detectedAt": "2026-09-10T20:29:22.686Z"
+  },
+  {
+    "steamAppId": 4719120,
+    "title": "Polish Pierogi",
+    "sourceUrl": "https://store.steampowered.com/app/4719120/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719120/440afab480ea59e1ca4ba565e2ceddfb7c407aa5/header.jpg?t=1789048474",
+    "japaneseSupport": "text",
+    "shortDescription": "自分だけのピエロギ専門店を経営しよう！ おいしいピエロギを一つずつ作り、空腹のお客さんに料理を出し、キッチンを強化して、みんなを満腹・満足・また来たい気分にさせよう。",
+    "aboutTheGame": "自分だけのピエロギ専門店を経営しよう！ ポーランドの伝統的な餃子料理ピエロギを作り、空腹のお客さんに料理を出し、キッチンをアップグレードして、どんどん忙しくなる店を切り盛りしよう。 素晴らしいピエロギの世界へようこそ！ 小さなレストランを自分の手で経営し、シンプルな生地と具材からポーランドを代表する料理のひとつを作り上げるために何が必要なのか確かめよう。注文を準備し、空腹のお客さんに料理を出し、キッチンを改善し、店が本格的に混み始めてもペースを崩さず乗り切ろう。 🥟 ピエロギを一つずつ作ろう おいしいピエロギはすべてキッチンから始まる。工程を一つずつこなし、注文どおりに作り、お客さんがしびれを切らす前にすべての皿を完成させよう。腕が上がるほど、キッチンはスムーズに回るようになる。 🍽️ また来たくなる店にしよう お客さんのいないレストランは、テーブルが余分に置いてあるだけのキッチンだ。お客さんをもてなし、注文を仕上げ、もう一皿食べに戻ってきたくなるくらい満足させよう。素早いサービスとおいしい料理は、成長する店の売上アップにつながる。 👨‍🍳 キッチンをアップグレード 稼いだお金をレストランに再投資しよう。キッチンと設備を強化すれば、ピエロギの調理も提供もより速く、より簡単になる。良いキッチンは、注文とお客さんを増やし、そして——願わくば——トラブルを減らしてくれる。 🏆…",
+    "detectedAt": "2026-09-10T20:29:23.228Z"
+  },
+  {
+    "steamAppId": 4773170,
+    "title": "Radiant Rodents",
+    "sourceUrl": "https://store.steampowered.com/app/4773170/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773170/f4cd08e631dd6548fb35a519da91498ad1e1ad24/header.jpg?t=1789039523",
+    "japaneseSupport": "none",
+    "shortDescription": "A sci-fi First Person Shooter calling back to boomer shooters of old.",
+    "aboutTheGame": "A sci-fi first person shooter reminiscent of classics like DOOM and Quake. You are ROB, a cybernetic squirrel on a mission to take out gangs of similarly modified animals and your home turf. Traverse through the spaceship fighting off enemies, discovering new weapons and hidden lore, and collecting keycards to make it to the end to take down a ferocious boss. The artstyle blends 3D environments with 2D interactable pixel assets to create a unique gameplay experience. Will you be the one to stop them all? Or fall at the enemy's hands, or should I say…paws? Created by students at St. John's Univ…",
+    "detectedAt": "2026-09-10T20:29:23.765Z"
+  },
+  {
+    "steamAppId": 4775220,
+    "title": "Anything Can Happen",
+    "sourceUrl": "https://store.steampowered.com/app/4775220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775220/b3503b0d02765d937934af707c09b078347e0d2e/header.jpg?t=1789059096",
+    "japaneseSupport": "none",
+    "shortDescription": "Anything Can Happen is a chaotic 2-16-player party game featuring 4 different modes. Face 200+ unpredictable events on treacherous floating plates, sabotage your \"friends\" with crazy items, wear custom clothing, and chaos!",
+    "aboutTheGame": "Anything Can Happen but nothing ever happens :( is a fast-paced multiplayer party game for up to 16 players featuring 4 different game modes. You and your \"friends\" are placed on floating plates, and from there, absolutely anything can happen. Your only goal? Be the last one standing as the game throws everything at you. SURVIVE, SABOTAGE & 16-PLAYER CHAOS The very ground you stand on will fight against you. The game is never the same twice (I lied, sometimes it is). Adapt on the fly to 200+ insane events as your safe zone tilts, shrinks, bounces, or goes completely invisible. But survival isn…",
+    "detectedAt": "2026-09-10T20:29:24.319Z"
+  },
+  {
+    "steamAppId": 4795350,
+    "title": "P'tit Tchîf",
+    "sourceUrl": "https://store.steampowered.com/app/4795350/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795350/fa96e7741d28612c7b51ff96c29921ad93561674/header.jpg?t=1789047239",
+    "japaneseSupport": "none",
+    "shortDescription": "A dungeon crawler in which you’ll explore different aspects from the Wallon’s culture. Face enemies in a dynamic turn based combat system and rally other Walloons to your cause. Together dive into the tale because you’d never be able to make it on your own…",
+    "aboutTheGame": "Explore a mine full of enemies Face King Burny and his minions, and get ready to discover a revisited turn-based combat system. Walloons need your help Rid the mine of its dangers, come to the aid of the Walloons and fight together a way out. Strengthen your ranks King Burny risks spice things up throughout your journey. Fortunately, unity is strength! Ally yourself with the Walloons you will save, as well as with a mysterious saint, in order to form a true troop. Discover a culture while having fun Discover different aspects of the Walloon culture and its language while having fun! Developmen…",
+    "detectedAt": "2026-09-10T20:29:24.898Z"
+  },
+  {
+    "steamAppId": 4819430,
+    "title": "Runigrim",
+    "sourceUrl": "https://store.steampowered.com/app/4819430/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819430/4addd8163839873dd7cbe5698d57f4732fbb40b5/header.jpg?t=1789057878",
+    "japaneseSupport": "none",
+    "shortDescription": "A story-rich 4-player co-op fantasy adventure where travel, weather, combat, and preparation shape every journey. Explore a handcrafted semi-open world, face dangerous threats, and experience an epic adventure together.",
+    "aboutTheGame": "Enter a vast, story-rich fantasy world where every journey matters. Explore a handcrafted semi-open world filled with dangerous wilderness, ancient mysteries, political conflict, and places shaped by the consequences of human ambition. Weather, terrain, travel, food, rest, and preparation are not just visual details — they are part of the adventure itself. Travel alone or experience the entire journey in up to 4-player co-op . Fight together, split up to handle different objectives, trade and prepare supplies, scout the road ahead, or regroup at camp before the next stage of your journey. Coop…",
+    "detectedAt": "2026-09-10T20:29:25.456Z"
+  },
+  {
+    "steamAppId": 4831650,
+    "title": "Subterfuge",
+    "sourceUrl": "https://store.steampowered.com/app/4831650/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831650/df84bb2aa161e527b5f0c9ad7cb4f28e7a979c0f/header.jpg?t=1789045530",
+    "japaneseSupport": "none",
+    "shortDescription": "A week-long multiplayer game of strategy, diplomacy, and betrayal. Schedule moves for hours in the future, forge fragile alliances, and time the perfect backstab as events unfold in real time. Coming to Steam Early Access with mobile cross-play and a player pool running since 2015.",
+    "aboutTheGame": "Subterfuge is a week-long multiplayer game of strategy, diplomacy, and betrayal that plays out in real time. Check in for ten minutes, a few times a day: read the sonar, schedule your orders, and reply to the ally who insists the fleet massing on your border is \"purely defensive.\" Then close the game and get on with your day while your plans execute. On PC at last with cross-play into a community that has been running continuously since 2015. Drive the Time Machine Drag the Time Machine forward and watch tomorrow unfold. See where every visible sub will be, how combat resolves, and what your f…",
+    "detectedAt": "2026-09-10T20:29:26.031Z"
+  },
+  {
+    "steamAppId": 4836440,
+    "title": "The Chains Of Yme",
+    "sourceUrl": "https://store.steampowered.com/app/4836440/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836440/4173c3c1dc603a95d003535aafed8371bb21d1e0/header.jpg?t=1789068299",
+    "japaneseSupport": "none",
+    "shortDescription": "In this tactical roguelike you control five adventurers as you explore procedurally generated ruins to reach and conquer a Titan. Fight deadly monsters, utilize power-ups, and improvise while your knowledge of the world deepens. Persist when your adventurers are left behind, killed, or sacrificed.",
+    "aboutTheGame": "You were woken below the surface given only one command: Seize Yme, the Titan that chose treachery when they were needed the most. Recruit the expendable weirdos you come across to carry out your will, and do anything in your power to get just a little further in this grid-based strategy game. - Delve into the Ever-Changing Ruins - Levels are randomly assembled and filled with treasure, traps, and monsters. Your decisions about how to explore will have grave consequences. Do you attempt to dig straight to the exit? Do you fight your way through some monster or lure them away? Do you have enoug…",
+    "detectedAt": "2026-09-10T20:29:26.626Z"
+  },
+  {
+    "steamAppId": 4856120,
+    "title": "Be Gray, Do Crime",
+    "sourceUrl": "https://store.steampowered.com/app/4856120/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856120/a4cbd484a46ff25f6c75b64163535839a683f077/header.jpg?t=1789047044",
+    "japaneseSupport": "none",
+    "shortDescription": "A physics based online co-op game where you pull off bank heists as greedy and unprepared raccoons. Use grappling hooks to maneuver the treasure and yourself around lasers and traps while trying to find your way out. How many banks can you rob before your greed becomes your doom?",
+    "aboutTheGame": "Be Gray, Do Crime is a chaotic online 1-4 player co-op game where your raccoon gang is hired to commit bank heists through improvisation, grappling hooks and proximity chat. Get a specific target and as much treasure out as you can before the cops show up. Your employer, the notorious Rat King, is waiting for your successful return... GET. IT. OUT!!! You have ONE job. Every heist, the notorius Rat King assigns you a specific, extremely valuable, target with different attributes and quirks. If you fail to get it out in one piece, you’re safer in prison than returning back empty handed. GRAPPLIN…",
+    "detectedAt": "2026-09-10T20:29:27.193Z"
+  },
+  {
+    "steamAppId": 4864900,
+    "title": "Dyson Sphere: Desktop Factory",
+    "sourceUrl": "https://store.steampowered.com/app/4864900/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864900/b0700e2b503be533d564d922e3dc3d9bc7371a19/header.jpg?t=1789048969",
+    "japaneseSupport": "none",
+    "shortDescription": "Ignite your base on Tpler and forge your Dyson Sphere industrial wonder. Build automated desktop lines, deploy drone logistics, launch units to orbit. Draw tech perks for your build and boost output. Your custom Dyson Sphere orbit is exclusive live wallpaper, bringing cosmic romance to your desktop.",
+    "aboutTheGame": "This is a desktop idle automated‑construction game that combines roguelike modifiers and tower‑defense combat. Players build automated production lines on the desktop, deploy defensive structures, construct Dyson spheres, unlock technologies to gradually achieve a closed‑loop industrial system, and fend off invasions by alien creatures. Place production buildings on your desktop and deploy drone logistics! Deploy more drones to boost logistics efficiency! Launch units skyward to build stellar orbits! Draw tech perks, forge your build, and skyrocket production efficiency!",
+    "detectedAt": "2026-09-10T20:29:27.725Z"
   }
 ]
