@@ -1,286 +1,5 @@
 [
   {
-    "steamAppId": 5096020,
-    "title": "LYSSA: Goddess of Rage",
-    "sourceUrl": "https://store.steampowered.com/app/5096020/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "MM（Massively Multiplayer）",
-      "RPG",
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096020/de1882ac56f1723bf8d87fa9dab0d759ea2667f9/header.jpg?t=1787232202",
-    "japaneseSupport": "text",
-    "shortDescription": "Collect charismatic heroes, build your ultimate team, battle other players in real-time PvP, and make new allies in a vibrant casual RPG.",
-    "aboutTheGame": "Welcome to LYSSA: GODDESS OF RAGE , a casual RPG where charismatic heroes, tactical battles, and a vibrant world come together. Build your team by collecting unique heroes, each with their own personality, abilities, and backstory. Upgrade your favorites, experiment with different combinations, and create a squad that matches your playstyle. Explore the world, complete quests, take on new challenges, and strengthen your team as you progress. Face other players in real-time PvP battles, test different strategies, and prove what your heroes are capable of. But you don't have to fight alone. Join…",
-    "detectedAt": "2026-09-07T00:29:10.831Z"
-  },
-  {
-    "steamAppId": 5096100,
-    "title": "Siegecrawler",
-    "sourceUrl": "https://store.steampowered.com/app/5096100/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096100/c8432115fc662eeca954c525646417802349f06d/header.jpg?t=1788348358",
-    "japaneseSupport": "text",
-    "shortDescription": "自走する攻城兵器に7種の兵士を編成し、物理演算で崩れる城壁へ突撃！ 戦闘は全自動、あなたは魔法・3種の号令・破城槌の「会心」で戦局を導く。指揮官と誓約で毎回ちがうビルドを組むローグライク攻城戦。全30ステージ＋エンドレスモード。",
-    "aboutTheGame": "壁は、崩すためにある。 『Siegecrawler』は、自走式攻城兵器にファンタジー兵士を編成して城壁へ突撃する、物理演算×ローグライクの攻城シミュレーションです。 ■ 編成がビルドになる 騎士・弓手・魔導士・槍騎兵・僧侶・狂戦士・弩弓兵——7種の兵種を攻城塔と破城槌の上へ自由配置。「騎士2体で近接HP+20%」などの 兵種シナジー に加え、 どの帯に載せるか でも能力が変わります。 ■ 4騎の指揮官、そして誓約 ランの入り口で 指揮官 を選択。破城槌に全てを賭ける 破城王 （遠隔は編成不可）、魔法5種を持って始まる 魔導軍 、枠3つで倍の強さを得る 少数精鋭 ——入り口から別のゲームになります。道中の 誓約 は「与ダメ+50%／最大HP−25%」のように 得る代わりに失う 取引。数字を伸ばすだけの強化とは違う、尖った編成が生まれます。 ■ 戦闘は自動、介入はあなたの手で 出撃すれば兵器は自走し、兵士たちは勝手に戦います。あなたは クリック魔法5種 （それぞれ独立クールダウン）、右クリックの ターゲット指名 、 3種の号令 （進軍・後退・集中）でリアルタイムに戦局を操ります。そして破城槌が壁を叩く瞬間—— ゲージが満ちた刹那にSpace を押せば「会心」。時が一瞬止まり、威力と衝撃が跳ね上がります。 ■ 崩れる城壁の気持ちよさ 城壁は1ブロックずつHPを持つ物理オブジェクト。土台を…",
-    "detectedAt": "2026-09-07T00:29:11.345Z"
-  },
-  {
-    "steamAppId": 5096220,
-    "title": "Defend the Dragon Palace!",
-    "sourceUrl": "https://store.steampowered.com/app/5096220/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月8日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096220/1b3d65b2b9fd6d617c63503b541c875d17752235/header_japanese.jpg?t=1787752533",
-    "japaneseSupport": "text",
-    "shortDescription": "海底を掘ると、土から海獣が生まれます。ワカメをウニが食べ、ウニをタコが狩る。育った食物連鎖が、そのまま竜宮城の防衛線になります。海獣に命令はできません。できるのは掘ることだけ。乙姫をさらいに来る潜海者から、あなたが育てた海の生態系で守り抜いてください。",
-    "aboutTheGame": "掘って、育てて、守る。 海底洞窟を掘ると、土から海獣が生まれます。ワカメが茂り、ウニがそれを食べ、タコがウニを狩る。 プレイヤーが命令を出すことはありません。できるのは掘ることだけ。育った生態系そのものが、竜宮城の防衛線になります。 8種族が食べ合う、海の生態系 ワカメ・ウニ・タコ・ウミホタル・ウミウサギ・ニンギョ・ウミボウズ・スケルトン。 どれが生まれるかは「どの土を掘るか」で決まります。養分の多い土からはワカメやウニ、魔分の濃い土からはウミウサギやニンギョ。 海獣たちは自分の都合で歩き、食べ、増えます。一本道に誘い込むか、広間で囲むか。掘り方がそのまま戦術になります。 竜宮城を狙う侵入者「潜海者」 乙姫をさらいに海底へ潜ってくる者たち。漁師、銛打ち、僧、鎧武者、亀の娘、そして…まだ見ぬ強敵。 それぞれ得意な戦い方と弱点を持ち、倒すと墓が残ります。墓を掘り返せば、骨の兵として味方になります。 姫スキル 竜宮城の主・乙姫が使う力。ゲーム内コインを貯めて、タイトル画面のショップで購入・強化します。 海獣をまとめて癒す、仕掛けを吹き飛ばす、土を十字に掘り抜く。全8種・各レベル3まで。装備できるのは1つだけ。 遊びやすさ ゲームパッド完全対応。メニュー・図鑑・ショップまでパッドだけで遊べます マウス／キーボード／パッドそれぞれにキー割り当て可能 日本語 / English 内容 全8ステ…",
-    "detectedAt": "2026-09-07T00:29:11.861Z"
-  },
-  {
-    "steamAppId": 5096230,
-    "title": "GunGlyph",
-    "sourceUrl": "https://store.steampowered.com/app/5096230/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "LAN協力プレイ",
-      "共有／分割画面での協力プレイ",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096230/1c5dd98022ab6fdf648a84173200228343c81f0c/header.jpg?t=1787764567",
-    "japaneseSupport": "none",
-    "shortDescription": "A first-person voxel roguelite shooter. Descend, craft and temper your own guns, exploit ammo chemistry, fight unique enemies and face the bosses guarding every way down. Online co-op and local splitscreen.",
-    "aboutTheGame": "Every floor down was somebody's light. GunGlyph is a first-person voxel roguelite shooter about descending too far with guns you built yourself. Fight unique enemies through crypts, flooded cisterns, and burning foundries; craft and temper your arsenal on the clock; and burn what you loot to buy your way deeper. Alone, on the couch, or online with a friend. BUILD YOUR GUNS. THEN GAMBLE ON THEM. Find schematics in different handwriting and craft revolvers, scatterguns, arc coils, cinder cannons and stranger things at benches and forges. Temper a gun to roll a quirk onto it and re-roll until it…",
-    "detectedAt": "2026-09-07T00:29:12.388Z"
-  },
-  {
-    "steamAppId": 5096290,
-    "title": "ClearIt M4",
-    "sourceUrl": "https://store.steampowered.com/app/5096290/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月11日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096290/72e8733259a8f015d5bdc07ec3e3149441738096/header.jpg?t=1787230747",
-    "japaneseSupport": "text",
-    "shortDescription": "狙いを定める技術とパズルを解く力を試そう！カラーボールを発射して同じ色を揃え、連鎖反応を起こし、ユニークな障害物を突破しよう。難しいステージに挑み、特殊アイテムを駆使してコンピューターと対戦！",
-    "aboutTheGame": "さまざまなステージで、狙いを定める技術とパズルを解く力を試しましょう！フィールドの端からカラーボールを発射し、同じ色のボールに当ててフィールドをクリアしていきます。 ゲームを進めるにつれて、パズルはどんどん複雑になっていきます。爆発物、磁石、ロケット、トラップ、動く障害物、爆弾、ロック、バリアなど、さまざまな特殊要素がステージ攻略の方法を変化させます。それぞれの特徴を活用して連鎖反応を起こし、塞がれた道を開き、フィールドをクリアする最適な方法を見つけましょう。 ゲームの特徴 カラーボールを使ったゲームプレイ — フィールドの端からボールを発射し、同じ色のボールを破壊します。 多彩なギミックと障害物 — 新しい要素が登場するたびに、新たなチャレンジが待ち受けています。 戦略性の高いパズル — それぞれのショットの方向とタイミングを慎重に選びましょう。 強力な特殊アイテム — 爆発、ロケット、磁石、爆弾などを利用して広い範囲を一気にクリアできます。 動いたり変化したりするターゲット — 位置や色が変化するオブジェクトもあり、素早い判断と正確なショットが求められます。 多彩なクリア条件 — フィールドのクリア、特殊オブジェクトの起動、アイテムの収集、単語の完成など、さまざまな課題に挑戦できます。 対戦モード — コンピューターと同じステージで競争しましょう。プレイヤーとコンピューターには…",
-    "detectedAt": "2026-09-07T00:29:12.889Z"
-  },
-  {
-    "steamAppId": 5096340,
-    "title": "Polygrounds",
-    "sourceUrl": "https://store.steampowered.com/app/5096340/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096340/8f749682b00cf4b7572b095539748cb2da7286c1/header.jpg?t=1787675817",
-    "japaneseSupport": "none",
-    "shortDescription": "Master rally-car physics in a neon 2D roguelite physics shooter. Navigate procedural vector dungeons, survive claustrophobic ambushes, face interesting foes, pick new guns, and draft run-defining cards. Will you build a game breaking deck or face an untimely end?",
-    "aboutTheGame": "Your Movement is a Weapon. Forget rigid, pixel-perfect top down shooters. Your ship operates on custom anisotropic friction—meaning it handles like a rally car on a slick neon track. Slide sideways through narrow corridors, drift around swarms of geometric foes, and use your articulated manual-aim barrel to blast targets while your momentum carries you out of danger. Tie this all in with a 45 degree tron style twist allowing you to \"dash\" and quickly change direction but don't waste them all, they need to charge. Room-Locked Carnage There is no running backward to kite your enemies. As soon as…",
-    "detectedAt": "2026-09-07T00:29:13.415Z"
-  },
-  {
-    "steamAppId": 5096510,
-    "title": "Once In Sakartvelo: Out Of Service",
-    "sourceUrl": "https://store.steampowered.com/app/5096510/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096510/6e3cc8504954f38d8a9f96832ea900b4cc5933a8/header.jpg?t=1787340747",
-    "japaneseSupport": "none",
-    "shortDescription": "A short first-person horror game set in Tbilisi. A late-night walk to the metro turns tense as a slow-moving car tracks your every step. When you find the station closed, a desperate fight to escape begins.",
-    "aboutTheGame": "Once In Sakartvelo is an anthology of short, first-person horror games, each set in a real corner of Georgia. Episode One: Out of Service You missed the last train. It is past midnight in Nadzaladevi, on Tsotne Dadiani Street. The walk to the Metro should take five minutes, but someone has been following you at a steady distance ever since you left your friend’s apartment building. This is not a story about stopping a killer or solving a mystery. It is about one ordinary night on a real street, and what it took to survive the walk home. Key Features Real Location : Set on an actual, named stre…",
-    "detectedAt": "2026-09-07T00:29:14.075Z"
-  },
-  {
-    "steamAppId": 2993620,
-    "title": "Life in the Kingdom",
-    "sourceUrl": "https://store.steampowered.com/app/2993620/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "RPG",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993620/81139d04c1deabed3c6383c3bc4c4f05d9e813d1/header.jpg?t=1788751120",
-    "japaneseSupport": "text",
-    "shortDescription": "Take the throne at 18. Rule until you die. Marry, raise heirs, free your towns from scheming rivals, and carve through dungeons with an evolving arsenal — one ruler, one lifetime, one unforgettable reign. An adventure packed kingdom life-sim where every year counts.",
-    "aboutTheGame": "Most games give you endless lives. This one gives you one reign, and the legacy you leave behind. You're crowned at eighteen. From that first fateful morning until your final year, the kingdom moves on the same clock you do. Seasons pass. Children are born. Wars break out. Towns rise or fall. Friends grow old. Rivals make their move. Every choice becomes part of the life you've lived. There's no second ruler waiting behind the curtain. When your reign ends, the story is over, and the kingdom remembers. So the question is simple: What did you build with your life? 👑 ONE LIFE, LIVED FOR REAL Co…",
-    "detectedAt": "2026-09-07T04:29:06.788Z"
-  },
-  {
-    "steamAppId": 4258160,
-    "title": "Donauts",
-    "sourceUrl": "https://store.steampowered.com/app/4258160/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258160/91ae4bb6bdd47eafa431ef20c00007499cc12ee5/header.jpg?t=1788755080",
-    "japaneseSupport": "none",
-    "shortDescription": "Donauts is a 3rd-person Roguelike Bullet-Heaven where Geometric heroes fight for survival on a shrinking donut planet. Fight thousands of foes to stop the “Discontinuity” from destroying topology itself!",
-    "aboutTheGame": "Donauts is a 3rd-person Roguelike Bullet-Heaven where Geometric heroes fight for survival on a shrinking donut planet. Explore a strange and abstract toroidal world , and try to find a way to stop The Discontinuity from taking over. Tens of thousands of weird foes stand in your way, you'll need to equip yourself to cut through the massive swarms! Save the world yourself, or with a friend in online coop !",
-    "detectedAt": "2026-09-07T04:29:07.308Z"
-  },
-  {
-    "steamAppId": 4527880,
-    "title": "Hell's Handbook",
-    "sourceUrl": "https://store.steampowered.com/app/4527880/",
-    "price": "無料",
-    "tags": [
-      "ストラテジー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月22日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527880/5644409125c4934e7d82781aa08dd2dfb789c619/header.jpg?t=1788744037",
-    "japaneseSupport": "none",
-    "shortDescription": "With your trusty handbook, banishing monstrosities beyond mortal comprehension is as simple as 1-2-3!! In this turn-based tactics puzzle game, you lead a team of contractor ghost busters through a series of haunted houses, each with a different set of unidentified monstrosities.",
-    "aboutTheGame": "Welcome to Hell, or Household Entity Liquidation Liberation! We here at Hell are hard at work identifying and documenting the supernatural forces from beyond our world. In this turn-based tactics puzzle game, you lead a team of contractor ghost busters through a series of haunted houses, each with a different set of unidentified monstrosities. Be it a ghost or be it a ghast, banishment is as simple as 1-2-3! STEP 1: SURVIVE THE MONSTER As you enter the house, you will be immediately attacked by the monster. Prepare yourself accordingly by equipping and positioning your units against their atta…",
-    "detectedAt": "2026-09-07T04:29:07.813Z"
-  },
-  {
-    "steamAppId": 4919700,
-    "title": "Tumbal 1985",
-    "sourceUrl": "https://store.steampowered.com/app/4919700/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919700/2e9f90b6be2834315aae08f10c54cc7ccf81a2b0/header.jpg?t=1788751738",
-    "japaneseSupport": "none",
-    "shortDescription": "Uncover the truth behind a tobacco distributor office located in outskirts of city in Jakarta, Indonesia in year 1985. Explore, clean abandoned rooms, solve mysteries, and face the mystical being in this atmospheric horror game.",
-    "aboutTheGame": "Tumbal 1985 is a first-person psychological horror game set in year 1985 at a tobacco distributor's office on the outskirts of Jakarta, Indonesia. While the office appears completely normal—employees work, phones ring, and business continues as usual—a terrifying secret lies hidden behind its everyday routine. You will play as a newly hired janitor responsible for cleaning and organizing the office from late afternoon until night. On the first days, the job seems simple: tidy workspaces, clean meeting rooms, organize storage areas, and dispose of trash. But something isn't right. As the janito…",
-    "detectedAt": "2026-09-07T04:29:08.344Z"
-  },
-  {
-    "steamAppId": 4925240,
-    "title": "RULES OF RESIDENCE",
-    "sourceUrl": "https://store.steampowered.com/app/4925240/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925240/2786668e9be5a359d3838be36c16f90efb563e15/header.jpg?t=1788750001",
-    "japaneseSupport": "text",
-    "shortDescription": "35年ローンで手に入れた家族三人の夢の新居。だがそこは、独裁理事長が支配する異様なマンションだった。 服従と反逆に揺れる住民たちと交わり、時にルールで縛り、時にルールを書き換え、理想の生活環境を確立せよ。 問われるのは民主主義の真価。支配か、打倒か――決めるのはあなただ。",
-    "aboutTheGame": "あなたは理事 『RULES OF RESIDENCE』は、マンションの理事となってルールを書き換える、シミュレーションアドベンチャー。 35年ローンを組み、手に入れた家族三人の新居は、理事長の支配によって運営されていた独裁マンション。 理事のひとりに選ばれた新米ママであるあなたが、マンションの行く末をその手に握っています。 TRPG的な遊び心地のマンション運営シミュレーション 1ターンは1週間。理事が動けるのは、週に一手。 マンションには問題が山積みで、ひとりで処理するには到底不可能。 すべてをそつなくこなすには、住民の協力が不可欠だ。 住民・情報・資金などあらゆるリソースを適切に課題に割り当て、効率良く運営を行おう。 権威を持って支配せよ 理事会の権威は絶大だ。 嫌いな住民に鞭打つも、私的な理由の金集めも、ここでは全てが許される。 無論、支配がもたらす力は甘美が故、危うい毒にもなる。 周囲の不満が最高潮を迎えたとき、あなたの名声は地に堕ちるかもしれない。 その手綱をいかに握るかも、あなたに委ねられている。 ルールを変えて解放せよ 理性があなたを突き動かすならば、民衆と共に改革を計画するもよいだろう。 ただし理事会の力は強大だ。慎重に一歩ずつ計画を遂行することをお勧めする。 ひとつずつルールを定め、住民の暮らしを変え、協力を得ることが長い確実な道のりだ。 法はあなたを縛る鎖ではない…",
-    "detectedAt": "2026-09-07T04:29:08.864Z"
-  },
-  {
-    "steamAppId": 4932730,
-    "title": "麒麟刀",
-    "sourceUrl": "https://store.steampowered.com/app/4932730/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932730/9d2cd09e2de000fcd9e6e4a820a9e6bda55f06e4/header.jpg?t=1788744639",
-    "japaneseSupport": "text",
-    "shortDescription": "才能凡庸な武術少年が、ふとしたきっかけで麒麟の神兵器を手に入れ、最強の俠客への道を歩み始める。 刀・槍・剣・斧 全 4 種の武器を集めろ！組み合わせろ！ 数々の秘伝書の効果で超高ダメージを叩き出し、敵をなぎ倒せ！ 麒麟兵器を使いこなせ。ピンチの時に戦局を逆転させる切り札だ！",
-    "aboutTheGame": "百兵をカードに、己だけの武侠流派を築け 『麒麟刀』 は、武器によるデッキ構築を軸にした武侠ストラテジーカードゲームです。 毎ターン、デッキから刀、槍、剣、斧を引き、複数の武器をまとめてプレイ。武器スキル、属性ダメージ、秘伝書の効果を幾重にも連鎖させましょう。60種を超える武器を集め、100冊を超える秘伝書を修め、ルーンと丹薬を組み合わせ、唯一無二の麒麟武器を育てて各章を突破し、危険に満ちた心魔塔へ挑みます。 試験の敗北から、侠客の道へ 阿豪は、もともと人並みの才しか持たない武術修行中の少年で、武器試験に何度も失敗していました。ところがある偶然から伝説の麒麟武器を手に入れ、ついに試験を突破。初めて師匠や兄弟子たちを見返します。 しかし、真の侠客への道は、一振りの神兵だけに頼って進めるものではありません。師匠の導きで慣れ親しんだ道場を離れた阿豪は、百兵を集め、秘伝書を修め、強敵に挑む修行の旅へ出ます。 百兵を集め、一手ごとに構築する 収集できる武器は60種以上。刀、槍、剣、斧の4系統に分かれ、凡品から聖品まで6段階の品質があります。 武器ごとに基礎ダメージ、クールダウンターン、固有スキルが異なります。高品質な武器ほど強力な威力と能力を備える一方、再び戦闘に投入できるまでのクールダウンも長くなる傾向があります。 勝敗を決めるのは、1枚の武器の強さだけではありません。手札と敵の状態を見極め…",
-    "detectedAt": "2026-09-07T04:29:09.383Z"
-  },
-  {
-    "steamAppId": 4961100,
-    "title": "アルファディアF",
-    "sourceUrl": "https://store.steampowered.com/app/4961100/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961100/d818f688fb7785dd490b25281d27cdac48ef2634/header_japanese.jpg?t=1788745408",
-    "japaneseSupport": "text",
-    "shortDescription": "神に選ばれた勇者たちのRPG",
-    "aboutTheGame": "舞台は創造神ヌル・タウゼントが作り出した惑星「ヴァルハラード」。 この惑星は4つの国から成り立っており、人々は穏やかに暮らしていた。 しかし新セリシア歴6350年、天空から突如として6つの水晶が降り注いだことで世界は混沌に包まれていく…！ アレクサンド王国第七騎士団の小隊長ライファーと魔術師のトルテは、世界各地に散らばる水晶の探索と故郷ラドル村周辺の異変調査を命じられた。 なぜ世界に異変が生じたのか？水晶がもたらすものとは？ 新たなアルファディアの世界で神に選ばれた勇者たちの物語が幕を開ける……！ ◆ブレイクスキル 戦闘中に行動したりダメージを受けることでBG（ブレイクゲージ）がたまる。 BGをためて強力なブレイクスキルを使ってみよう！ ◆エナジドライブ エナジの力を解放し5ターンの間ステータスが大幅強化！ 使うタイミングを見極めて戦闘を有利に進めよう！ エナジドライブ中にしか使用できないブレイクスキルもあるようだ。 ◆料理 食材を使って料理を作ろう！ 食材を自由に選んで作る「創作料理」とレシピ通りに作る「レシピ料理」の2種類があるぞ！ レシピは旅の途中で入手できる。 運が良ければ効果の高い料理ができることも…？",
-    "detectedAt": "2026-09-07T04:29:09.947Z"
-  },
-  {
-    "steamAppId": 4961120,
-    "title": "METRO QUESTER ZERO",
-    "sourceUrl": "https://store.steampowered.com/app/4961120/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961120/c314098addf526639c6bb7875697e363dd8843ef/header.jpg?t=1788745399",
-    "japaneseSupport": "text",
-    "shortDescription": "失われた世界の真実に迫る ハクスラ＆ダンジョン探索RPG",
-    "aboutTheGame": "『METRO QUESTER ZERO』は漫画家・萩原一至が構築した退廃未来の世界観と加藤ヒロノリが設計した奥深いゲームシステム、80年代のパソコンゲームに感じたワクワクと驚きが楽しめるハックアンドスラッシュに特化したダンジョン探索RPGです。 ◆失われた世界の真実 なぜ世界は退廃し、クリーチャーたちはどこから現れたのか。青い髪の少女の正体は？ シリーズを通した様々な謎の真相に迫ります。 ◆フィールドワーク 行動に必要な燃料を戦闘報酬や採集で維持し、新たな拠点を確保したり、仲間を加えましょう。 探索中はオートマッピングによってマップが開拓されていきます。 ◆レイヤーターンバトル 戦闘では敵味方の各々が1ターンに複数回の行動をすることができます。 行動速度やヘイト値の見極めなど、奥深い戦術が求められながらもスピーディーに展開します。 ◆ハックアンドスラッシュ 敵のドロップやダンジョン内の金庫から多種多様な武装品を入手し、改造をすることで強化やランダム効果の追加といったハックアンドスラッシュの要素が楽しめます。 ◆新要素 新キャラ、スキルパネルによるキャラ構築、クエストシステム、賞金首などの新要素や、多層化されてボリュームアップしたマップなど。",
-    "detectedAt": "2026-09-07T04:29:10.481Z"
-  },
-  {
     "steamAppId": 4995880,
     "title": "CaTHaRSiS〜The last of atelier〜",
     "sourceUrl": "https://store.steampowered.com/app/4995880/",
@@ -7153,5 +6872,342 @@
     "shortDescription": "A short incremental about the worker that keep reality running. Extract memories from the souls on your bench, buy machines to automate production, and meet a quota that only grows. It starts cozy, only starts. No ads, no microtransactions.",
     "aboutTheGame": "Phonemae is a short narrative incremental. Souls pass through your workshop, and you need to fill quotas. Start by manually extracting their essence, then when you're tired, you buy machines to automate. At what cost? You have been appointed Manager of the works Reality runs on souls. Yours is the floor that keeps them rolling: the ones already out there pass through for upkeep, and the new ones are made to order, because the quota says so. Fall behind and reality overloads. The notes from upstairs are very clear about that. Extract memories, if you can afford to be gentle. And try not to read…",
     "detectedAt": "2026-09-10T00:28:53.668Z"
+  },
+  {
+    "steamAppId": 2121830,
+    "title": "Back to the Mine",
+    "sourceUrl": "https://store.steampowered.com/app/2121830/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121830/447bf3796b503b60784ff24118a59c6d4ce9368c/header.jpg?t=1789012856",
+    "japaneseSupport": "text",
+    "shortDescription": "洞窟を探索し、貴重な資源を採掘して、見つけたものを集めて売りに持ち帰ろう。装備をアップグレードし、各ステージで最高のパフォーマンスを発揮して、最高ランクを目指そう！",
+    "aboutTheGame": "採掘して、集めて、売ろう！ さまざまな鉱石を見つけ、鉱脈を掘り進めて資源を集めよう。そして、採掘したものをすべて地上へ持ち帰って売り、お金を稼ごう！ ランキング できるだけ多くの資源を集めて納品し、各ステージで最高のパフォーマンスを目指そう。 すべてのステージでSSランクを獲得できますか？ アップグレードを購入 稼いだお金を使ってお店でアップグレードを購入し、より優れた鉱山作業員になろう！ お店では、より優れたツルハシや便利な道具などを購入できます。そして……キャラクターのアップグレード？ あ、それはここにはありません。でも、隣の博物館でキャラクターを強化できます！ 洞窟 各ステージに広がる巨大な鉱山や洞窟を探索し、次へ進むために必要な鉱石を見つけよう。 資源を採掘して売り、目標を達成して次のステージへ進もう。ステージをクリアすると、進行状況に応じてパフォーマンスが評価され、 ランクが決まります！",
+    "detectedAt": "2026-09-10T04:29:18.993Z"
+  },
+  {
+    "steamAppId": 2894770,
+    "title": "PokerLines",
+    "sourceUrl": "https://store.steampowered.com/app/2894770/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894770/d7026998462eda2c66d5e32a2baeb0fb6484f7fd/header.jpg?t=1789001183",
+    "japaneseSupport": "text",
+    "shortDescription": "ちょっぴり新しいポーカーバトル",
+    "aboutTheGame": "♦ちょっぴり新しいポーカーゲーム♠ 縦、横、斜めで役を作ろう！ 一度に複数の役が出来ればコンボも発生 対戦では役を成立させるか、相手の役を阻止するか駆け引きが重要だ！",
+    "detectedAt": "2026-09-10T04:29:19.560Z"
+  },
+  {
+    "steamAppId": 3727790,
+    "title": "Winter’s Embrace",
+    "sourceUrl": "https://store.steampowered.com/app/3727790/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727790/bbc90a38aced580277787c56cc920461d9bd6ddb/header.jpg?t=1789012267",
+    "japaneseSupport": "none",
+    "shortDescription": "Winter's Embrace is a first-person single-player narrative horror game about discovering the story around the main character, Arthur. Explore the cabin, gather items, and prepare for the Winter Solstice while uncovering clues of your past secrets.",
+    "aboutTheGame": "Winter's Embrace In this short narrative horror game, you play as Arthur, a disgruntled man who is preparing for the Winter Solstice. Complete tasks and explore the cabin to reveal the story around Arthur and the forest. Gameplay This is a first-person experience that relies heavily on the story unfolding in the world. As you play though the lens of Arthur, interact with items and prepare for what lies in the forest. Key Features VHS Horror Aesthetic Interactable Story Items Hidden Lore Various Quests Atmospheric Environment",
+    "detectedAt": "2026-09-10T04:29:20.105Z"
+  },
+  {
+    "steamAppId": 4278650,
+    "title": "Dumb Ideas With Friends",
+    "sourceUrl": "https://store.steampowered.com/app/4278650/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278650/49094f056bd66131a7d52445aaf39e22ca525cbd/header.jpg?t=1789005593",
+    "japaneseSupport": "none",
+    "shortDescription": "Remember those super stupid ideas you used to have when you were a kid? Or maybe you still have them? Race shopping carts down a street, walk a plank high up between buildings, or try to trampoline over a house roof in your backyard! Call your friends...you got a really great dumb idea!",
+    "aboutTheGame": "Remember when someone would say, \"I have an idea,\" and five minutes later you were standing on a roof holding a skateboard? Dumb Ideas with Friends is a chaotic multiplayer game about reliving the reckless, ridiculous adventures you dreamed up as a kid. Grab some friends, ignore common sense, and attempt stunts that are clearly going to end badly. Race shopping carts down steep suburban streets. Bounce across rooftops using backyard trampolines. Balance on a wooden plank high between buildings. Climb unfinished construction sites, surf moving cars or launch your friend from a homemade cannon.…",
+    "detectedAt": "2026-09-10T04:29:20.618Z"
+  },
+  {
+    "steamAppId": 4467420,
+    "title": "妖怪バスター ナビ之介",
+    "sourceUrl": "https://store.steampowered.com/app/4467420/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467420/ae1fb5ea2d19c493fd98ad49271685dcf155a35f/header_japanese.jpg?t=1789000779",
+    "japaneseSupport": "text",
+    "shortDescription": "舞台は、妖怪と人間の均衡が崩れた古の日本。混迷を極める時代に、陰陽寮が極秘裏に生み出した切り札。それが、からくり人形の見習い陰陽生『ナビ之介』。彼は、現代に生きる「あなた」の魂を求めてやって来る。プレイヤーの魂は過去の世界へと転送され、ナビ之介と共に冒険することに。人間と機械、現代と過去、プレイヤーとの物語が重なり合い、封印と絆の冒険が今、幕を開ける！",
+    "aboutTheGame": "2000年代初頭、アーケードゲーム業界で活躍していたakio氏らのチームが、 密かに作り上げていたRPG『妖怪バスター ナビ之介』。 世に出ることなく眠っていたこの作品が、20年の時を越え、今ふたたび動き出す。 本作は、架空の古代日本を舞台に、からくり人形の見習い陰陽生『ナビ之介』が、 各地で巻き起こる妖怪騒動を解決していく2Dドット絵RPGです。 旅の途中で出会う200種類を超える多彩な妖怪たちは、時に敵として立ちはだかり、 時に心を通わせ、仲間として共に戦ってくれます。属性や式神システムを活用した戦略的なターン制バトルに、プレイヤー独自のパーティ編成で挑みます。 ●からくり陰陽生×妖怪が織りなす和風ファンタジー世界 現代の魂と繋がったからくり陰陽生が、古き日本の妖怪たちと世界を救う。 千年の時を越えて紡がれる壮大な和風タイムスリップRPG。古代と現代が融合した唯一無二の世界観と物語を体験しよう。 ●200体を超える個性豊かな妖怪を仲間にできる、パーティカスタマイズ要素を融合した独自のバトルシステム 旅の途中で出会う200種類を超える個性豊かな妖怪たちは、時に敵として立ちはだかり、時に心を通わせることで仲間となり、ともに戦ってくれます。属性や式神システムを活用した戦略性の高いターン制バトルを、プレイヤーならではの自由なパーティ編成で楽しめます。 ●職人技による高品質ピクセル表現…",
+    "detectedAt": "2026-09-10T04:29:21.151Z"
+  },
+  {
+    "steamAppId": 4770220,
+    "title": "天空の世界シェルテーラ",
+    "sourceUrl": "https://store.steampowered.com/app/4770220/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770220/805682920f9cf91e7bb1298c14ae05296a273fd7/header_japanese.jpg?t=1789003377",
+    "japaneseSupport": "text",
+    "shortDescription": "天空の世界を駆け巡る王道ファンタジーRPG！ 浮遊大陸は沈んでしまうのか、それとも……",
+    "aboutTheGame": "～ ストーリー ～ 穢れた地上から隔離された浮遊大陸『シェルテーラ』に住むクロード。 冒険者としての活躍を夢見る彼に、とある洞窟の案内依頼が舞い込んでくる。 洞窟内で起こった事件で、シェルテーラが地上に落下する危機にある事と、 彼の持つ喋る石イグニスの正体が、シェルテーラを救う精霊『アーティファクト』である事を知った彼は、 オルロック王家の仲間と共に、シェルテーラを救うべく立ち上がったが―― ▼天空の世界を救う為に 高き天空の世界で繰り広げられる冒険は、 ダンジョンや戦闘中でもその高さを感じる事ができます。 奥深さの感じられる世界を縦横無尽に駆け巡りましょう。 ▼スキルのラーニング 敵を攻撃するとスキルをラーニングできる事があります。 情報屋からラーニング情報を集め、冒険に役立つスキルを持っている敵を探し、 沢山のスキルをラーニングしてキャラクターを強化しましょう。 ▼アーティファクトの召喚 戦闘中にアーティファクトを召喚する事で、精霊を戦闘に加える事ができます。 精霊達は強力なスキルを使用し、キャラクターへの攻撃も肩代わりしてくれる頼もしい存在です。 重要な戦闘ではアーティファクトを召喚して派手に戦いましょう。",
+    "detectedAt": "2026-09-10T04:29:21.927Z"
+  },
+  {
+    "steamAppId": 4849460,
+    "title": "Pickie Grappy",
+    "sourceUrl": "https://store.steampowered.com/app/4849460/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849460/94f627182c5f2ce84f3e0632a0eaae8cace5191c/header.jpg?t=1789009529",
+    "japaneseSupport": "text",
+    "shortDescription": "一回一回のクリックが大事な、満足感たっぷりのクレーンゲーム・アーケードシム。タイミングを合わせてつかみ取り、レアな景品を追い求め、満足感のあるアイテムを次々捕まえて大金持ちになろう。",
+    "aboutTheGame": "クレーンゲームで遊ぼう！でも今回は、君が主導権を握る番だ。Pickie Grappyは、たった一つのことにこだわって作られたクレーンゲーム・アーケードシム。一回一回のクリックを気持ちよく感じさせること。タイミングを合わせてつかみ取り、レアな景品を追い求め、君の小さなアーケード帝国が育っていく様子を見届けよう、そしてクレーンゲームで大金持ちになろう！ たった一台の控えめな機械から始めて、購入可能なテーマ別クレーンゲーム機のコレクションを増やしながらレベルアップしていこう。それぞれの機械には個性的な景品のラインナップが用意されている、日常的な小物から、本当に珍しいお宝まで。捕まえた獲物はすべて永続コレクションに加わり、レアリティ（コモンからレジェンダリーまで）の段階ごとに、育っていくアイテムログに輝きが増していく。そしてもちろん、たくさん捕まえるほど、どんどん金持ちになれる! セッションの合間には、稼いだお金を奥深いスキルツリーに注ぎ込もう。クリック力を磨き、レアアイテムの確率を上げ、マシンをもっと遊びやすく親しみやすいものに調整し、遊んでいない間も溜まり続ける不労所得を解放しよう。実績を追いかけ、最後の一つまでアイテムを狩り尽くせば、やがてゲーム最強の垂涎の的である特別なマシンへのアクセス権を手に入れられる。 満足感のあるクレーンゲームプレイ。クリックのタイミングを合わせ、赤いゾーン…",
+    "detectedAt": "2026-09-10T04:29:22.456Z"
+  },
+  {
+    "steamAppId": 4901450,
+    "title": "Dungeon Jam",
+    "sourceUrl": "https://store.steampowered.com/app/4901450/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901450/ebe521206c372add644780149bb7491de97ed7d3/header.jpg?t=1789002107",
+    "japaneseSupport": "none",
+    "shortDescription": "Punch monsters, collect items and customise your combo in this dungeon crawler action roguelike.",
+    "aboutTheGame": "Dungeon Jam is an unhinged action roguelike where you punch your way through hoards of monsters. Cursed by an evil wizard to never stop punching, the hero must journey into his lair to break the spell.",
+    "detectedAt": "2026-09-10T04:29:23.079Z"
+  },
+  {
+    "steamAppId": 4941080,
+    "title": "She Tells Her Story",
+    "sourceUrl": "https://store.steampowered.com/app/4941080/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2028年10月6日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941080/aa11e69a42d2b86bd0aa3c6bbd5f7cf8610a3102/header.jpg?t=1789000584",
+    "japaneseSupport": "none",
+    "shortDescription": "She Tells Her Story is your narrative-driven visual novel and educational project about bullying and its long-term impact on mental health, identity, and personal growth.",
+    "aboutTheGame": "She Tells Her Story is your narrative-driven visual novel and educational project about bullying and its long-term impact on mental health, identity, and personal growth. The story follows Savanna , inspired by your own experiences, as she navigates school life, bullying, friendship, and recovery. Along the way, the game explores themes such as depression, burnout, fear of failure, loss, and resilience.",
+    "detectedAt": "2026-09-10T04:29:23.699Z"
+  },
+  {
+    "steamAppId": 4960570,
+    "title": "小贼修仙记",
+    "sourceUrl": "https://store.steampowered.com/app/4960570/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960570/5274c40eba3b411c14b7f72eb85dd53a862fc151/header.jpg?t=1789003229",
+    "japaneseSupport": "none",
+    "shortDescription": "An idle cultivation game on your desktop. Start as a street thief: auto-spot targets, steal loot, auction it. Learn chain stealing, invisibility, time-stop. Explore the Shadow Market, run an auction house and knock-off workshop, rise to the highest heavens—until anything can be stolen.",
+    "aboutTheGame": "Sneaky Cultivation Stolen things must be returned—eventually. But before that, why not auction them off? While other cultivators hunt demons and seek enlightenment, you work the streets. Sneaky Cultivation is an idle management game that lives at the bottom of your desktop. You start as a small-time thief, auto-spotting targets, lifting loot, and stacking it on your head before dumping it at your stash. Your Thief, Always On the Job Your character works automatically: watching, approaching, stealing. Want to step in? Pick a target yourself, click the stash to collect, and start building your f…",
+    "detectedAt": "2026-09-10T04:29:24.351Z"
+  },
+  {
+    "steamAppId": 4973610,
+    "title": "Train Sim",
+    "sourceUrl": "https://store.steampowered.com/app/4973610/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973610/fa047fb6fb5df8284ddbb1634c57d793c906183a/header.jpg?t=1789014005",
+    "japaneseSupport": "text",
+    "shortDescription": "Train Sim is a Train Simulator featuring 80+ realistic 3D Train Types, 50+ Train Rolling Stock Types, Missions & Ability to Create Custom Levels & Regular Content updates.",
+    "aboutTheGame": "With over 35M downloads, Train Sim is the realistic train game suitable for anyone who enjoys trains. Control more than 80 historical and modern trains which are perfectly recreated in 3D for your mobile device. Train Sim’s Features: ● Realistic 3D Graphics ● 80+ Realistic 3D Train Types ● 50+ Train Car Types ● 16 Realistic 3D Environments ● 1 Underground Subway Scene ● Build Custom Environments ● 3D Cab Interiors for all Trains ● Train derailments ● Realistic Train Sounds ● Easy Controls ● Regular Content Updates What You Can Do in This Train Game Whether looking to experience driving a train…",
+    "detectedAt": "2026-09-10T04:29:24.979Z"
+  },
+  {
+    "steamAppId": 5018790,
+    "title": "Lazy Drawer: Line Survivors",
+    "sourceUrl": "https://store.steampowered.com/app/5018790/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018790/096281dd5aa13d5eabb074e3e2c090843659116b/header.jpg?t=1789012049",
+    "japaneseSupport": "text",
+    "shortDescription": "銃も剣もない。武器は一本の線。マウスで描いた軌跡が敵を削り、線が閉じた瞬間、囲んだ群れがまとめて弾ける。10分を生き延び、ボスを倒し、お守りデッキを育てて再出勤。「描く」サバイバーライク。",
+    "aboutTheGame": "「描く」ことが武器のサバイバーライク。 自動攻撃はありません。マウスで描いた軌跡そのものが武器 — 線に触れた敵は削られ、ループが閉じた瞬間、中の敵がまとめて弾けます。多く捕らえるほど大きな一撃に。あなたの手さばきがビルドです。 線で削り、輪で爆発 — 大きく囲むか、小さく精密に処刑するか 30種以上のアップグレード+覚醒+隠しシナジー26種 お守り18種のデッキ構築メタ進行、セット効果で開幕ビルドを設計 プレイスタイルの異なるキャラクター5人+難易度3段階 ステージ10種 — それぞれ固有の敵ウェーブ+中ボス+ボス 1ラン10分。「もう一回だけ」が止まらない。",
+    "detectedAt": "2026-09-10T04:29:25.489Z"
+  },
+  {
+    "steamAppId": 5048450,
+    "title": "盗墓者手记 The Tomb Raider’s Journal",
+    "sourceUrl": "https://store.steampowered.com/app/5048450/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "RPG",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048450/2fb1930e3e63cc4ca351617ea5c1c154dda9dfc3/header.jpg?t=1789009105",
+    "japaneseSupport": "text",
+    "shortDescription": "This tomb adventure game mixes combat, farming, survival and crafting. Venture into dangerous tombs, fight feral creatures and undying sentinels. Hunt for ancient relics and rare treasures, gather resources, and craft supplies to survive these perilous wilds.",
+    "aboutTheGame": "Venture into wildlands dotted with ancient ruins and explore age-old tombs buried deep underground. Gather resources, forge gear, and build outposts. This is a tomb-adventure game blending combat, survival and construction. Across this ruin-littered realm, you may build a secure camp to stock up on expedition supplies at your leisure; or delve into shadowy tombs to fight to the death against twisted tomb guardians. You can craft implements, set traps, erect fortifications, and hunt for long-lost relics. Survival Scant supplies, lethal miasma, roaming beasts, and undying sentinels lurking withi…",
+    "detectedAt": "2026-09-10T04:29:25.993Z"
+  },
+  {
+    "steamAppId": 5063690,
+    "title": "The Wandering Earth: The Last Full Moon",
+    "sourceUrl": "https://store.steampowered.com/app/5063690/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063690/0a77f2f076d8f56814f37bcd8ec9b60f2e99e069/header.jpg?t=1789008780",
+    "japaneseSupport": "none",
+    "shortDescription": "The Wandering Earth: The Last Full Moon is a story-driven third-person sci-fi shooter adapted from Liu Cixin’s The Wandering Earth. Near the end of the Stop Cycle Era, head to the Moon to complete a critical mission and uncover the truth behind the lunar crisis.",
+    "aboutTheGame": "Within several centuries, the Sun will undergo a helium flash and destroy Earth. In response, humanity launches the Wandering Earth Project. Spanning 2,500 years, the plan calls for the construction of more than ten thousand planetary engines to carry Earth toward humanity’s new home. The “Stop Cycle Era” marks the first phase of the Wandering Earth Project. Humanity uses planetary engines to gradually halt Earth’s rotation and adjust its orientation, preparing the planet to break away from its original orbit. The 15th day of each lunar month traditionally marks the full moon. Near the end of…",
+    "detectedAt": "2026-09-10T04:29:26.496Z"
+  },
+  {
+    "steamAppId": 5083910,
+    "title": "You Only Dream Once - Unknown Player’s Island Adventure",
+    "sourceUrl": "https://store.steampowered.com/app/5083910/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083910/68a62a5f9a54d2fa8eac49e4e2126bb4233ac025/header.jpg?t=1789001740",
+    "japaneseSupport": "none",
+    "shortDescription": "**017 Debut 10th‑Anniversary Game** Pixel‑art story‑driven adventure mixing RPG and puzzle gameplay. Ten years, ten islands. On each island, experience stories, solve puzzles, gather parts to unlock the next isle. Build & upgrade your pocket‑space base, and uncover the truth behind this adventure…",
+    "aboutTheGame": "Late summer, 2016. A classroom. You wake from a long nap. A note lies on your desk: “Wanna give it a try?” So you set off. Step into the shoes of a 16‑year‑old girl and live through her fantastical decade. Ten memory islands float across the sea of dreams, mirroring her growth from 16 to 26: departures, struggles, companionship, farewells, rivalry, doubt, lows, triumphs, stepping out of comfort zones toward endless horizons. This pixel‑art story‑driven adventure blends RPG and puzzle‑solving. Ten years, ten islands. On each isle you experience stories, solve puzzles, collect parts to unlock th…",
+    "detectedAt": "2026-09-10T04:29:27.029Z"
+  },
+  {
+    "steamAppId": 5093810,
+    "title": "Digsum",
+    "sourceUrl": "https://store.steampowered.com/app/5093810/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5093810/4b212321fc68953b8ab7d59e26806219af7f19de/header.jpg?t=1789013158",
+    "japaneseSupport": "none",
+    "shortDescription": "A relaxed incremental mining game about digging deeper, unlocking upgrades, and uncovering ancient artifacts.",
+    "aboutTheGame": "Discover ancient artifacts! Unique upgrades for every building! Level up your miner skills! Dig deep into the earth and uncover riches, ancient artifacts, and forgotten secrets! Active incremental gameplay Relaxed, satisfying progression Build up your mining operation with lots of upgrades Discover ancient artifacts to assist you on your mission Reach your goal, complete your expedition, and uncover what lies beyond",
+    "detectedAt": "2026-09-10T04:29:27.711Z"
+  },
+  {
+    "steamAppId": 5105620,
+    "title": "玻璃温室の薬舗（はりおんしつのくすりほ）",
+    "sourceUrl": "https://store.steampowered.com/app/5105620/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月15日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105620/9e933c2763611837fce3fbf5d9e12096da60d891/header_japanese.jpg?t=1788797103",
+    "japaneseSupport": "text",
+    "shortDescription": "小さなレッサーパンダの薬師となり、忘れられた玻璃温室で薬草を育て、収穫した素材から薬や薬草茶を調合しましょう。街の住人の悩みに合う薬を届けて報酬を集め、温室と薬舗を少しずつ拡張。新しい栽培区画、珍しい植物、便利な調合設備を解放し、自分だけの店を作れます。季節と植物の成長を見守り、組み合わせを試し、依頼に応える。植物と柔らかな灯りに包まれた静かな世界を、自分のペースで楽しめる温室×薬屋経営シミュレーションです。",
+    "aboutTheGame": "『玻璃温室の薬舗』は、忘れられた温室を再生しながら薬草を育て、調合し、街の住人へ薬を届ける癒やし系の温室×薬屋シミュレーションゲームです。 小さなレッサーパンダの薬師となり、植物に水をやり、収穫した薬草を組み合わせてさまざまな薬を作りましょう。依頼を達成して得た報酬で温室を拡張すれば、新しい栽培区画や珍しい植物、調合設備が少しずつ解放されます。 【主な特徴】 ・季節と成長を見守る薬草栽培 ・素材の組み合わせを試す薬の調合 ・街の住人から届く依頼と小さな物語 ・自分のペースで広げられる温室と薬舗 ・植物と灯りに包まれた、静かで幻想的な世界 育てる、調合する、届ける。あなただけの玻璃温室を完成させてください。",
+    "detectedAt": "2026-09-10T04:29:28.333Z"
+  },
+  {
+    "steamAppId": 5105640,
+    "title": "Sleep It Off",
+    "sourceUrl": "https://store.steampowered.com/app/5105640/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105640/a763ef5ff36690bead1e7aba32668e18f726e84a/header.jpg?t=1788681405",
+    "japaneseSupport": "none",
+    "shortDescription": "A first-person anomaly detection horror about grief. Live one more day in a widower's apartment: tidy up, take your pills, and spot what shouldn't be there before you go to sleep. Miss too much and the place stops being yours. 60+ anomalies, five endings.",
+    "aboutTheGame": "Sleep it off is a first-person anomaly detection game about grief. You are a widower living alone in a two-storey apartment. Every day you wake up, tidy the place, take your medication, and try to get through the day. Some of the things around you are yours. Some of them are hers. And she isn't here anymore. Find what shouldn't be there. Then go to sleep. If you were wrong, tomorrow will be worse. How it works Each day the apartment is almost the same as yesterday. Almost. Something has moved, appeared, or changed - a cup on the wrong shelf, a coat on the hook, a light that was off. Your job i…",
+    "detectedAt": "2026-09-10T04:29:28.895Z"
+  },
+  {
+    "steamAppId": 5105650,
+    "title": "『愛と死と、私の娘』",
+    "sourceUrl": "https://store.steampowered.com/app/5105650/",
+    "price": "無料",
+    "tags": [
+      "RPG",
+      "シミュレーション",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105650/8a9fec149a177937c2c88df9649861f9ac73d5e6/header.jpg?t=1788912219",
+    "japaneseSupport": "text",
+    "shortDescription": "『愛と死と、私の娘』は、無料で遊べる短編のピクセルアート・ナラティブゲームです。雨の墓地を歩き、不具合を修復し、記憶と記録をたどってください。かすかな恐怖と歪みの中で、ひとりの母親が遺した愛を知る物語です。",
+    "aboutTheGame": "どんなゲーム？ 『Love, Death & My Daughter』は、仮想デスクトップの探索、リソース管理、インタラクティブなイラストシーンを組み合わせた、無料のシングルプレイ向けナラティブゲームです。リニアな物語体験が中心で、想定プレイ時間は2～3時間です。 世界を席巻したウイルスの大流行から長い年月が過ぎたある日、物語は雨の中の墓碑のそばから始まります。短いプロローグとチュートリアルを終えると、古びたソフトウェアシステムに入り、損傷した記憶を探して修復していきます。記憶を取り戻すたびに、忘れ去られた過去が少しずつつながり、母が残した愛の意味が新たに見えてきます。 ゲームで何をするの？ 仮想OS内のファイルやプログラムを探索し、点在するテキスト記録を読みながら、チャプターごとに記憶の修復を進めます。各チャプターをクリアすると、新たな記憶の断片や、インタラクティブなイラストシーンが解放されます。 各記憶チャプターは主にテキストアドベンチャー形式で進み、選択肢を選ぶたびに「Heart」とバッテリー電力を消費します。一部のリソースは物語の進行に合わせて回復します。使いすぎた場合は、回復ミニゲームをクリアすることで補充できます。リソースを使うタイミングを見極め、すべての記憶を修復して物語の全貌を明らかにしつつ、自分の「Heart」を守りましょう。 主な特徴 レトロなコンピューターソフ…",
+    "detectedAt": "2026-09-10T04:29:29.447Z"
   }
 ]
