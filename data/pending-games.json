@@ -1,281 +1,5 @@
 [
   {
-    "steamAppId": 5101140,
-    "title": "EGO X The Truth",
-    "sourceUrl": "https://store.steampowered.com/app/5101140/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101140/1f8bbcf86675b79d01e956548d0263d09898e294/header.jpg?t=1788212728",
-    "japaneseSupport": "none",
-    "shortDescription": "12 characters, countless choices, and an identity shaped by your decisions. EGO X The Truth remembers what you say; contradict yourself and your character may suffer, lose their sanity, and see reality begin to fracture.",
-    "aboutTheGame": "Who are you? Are the things you say truly what you believe, or are they simply the answers you choose to give in that moment? EGO X The Truth is a narrative-driven journey in which, instead of controlling a predefined character, you shape your own identity through the answers you give throughout the game. The 12 different NPCs you encounter do more than simply tell you a story. Each one challenges you with different ideas, beliefs, values, and perspectives. The answers you give during these conversations gradually define who your character becomes. But the game remembers what you say. Contradi…",
-    "detectedAt": "2026-09-08T04:29:31.859Z"
-  },
-  {
-    "steamAppId": 5101180,
-    "title": "The World's Shortest Horror Game",
-    "sourceUrl": "https://store.steampowered.com/app/5101180/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月22日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101180/3ba10df677af0cc1d07fc23bfc27d4c41d51c91b/header.jpg?t=1788202598",
-    "japaneseSupport": "text",
-    "shortDescription": "ボタンをひとつ押す。すぐに後悔する。数分で遊び終え、配信でリアクションを狙い、あるいは小さな裏切りとして友達に贈るための極小アナログホラーコメディ。やることはただひとつ、ボタンを押すだけ。長い冒険も寄り道もありません。短く、意地が悪く、何も説明せず友達に遊ばせるのに最適です。できれば画面を共有してもらい、その反応を最後まで見届けてください。ヘッドホンを強く推奨。友情の保証も責任もありません。幸運を。",
-    "aboutTheGame": "ボタンはひとつ。最悪のアイデア。 スタート からエンドクレジットまでに、恐怖はどれだけ詰め込める？ The World's Shortest Horror Game は、ほんの数分で終わる極小のホラーコメディです。やることは、ただひとつ。 ボタンを押せ。 席に着く。ヘッドホンをつける。音量を確認する。ボタンを見つめる。準備はできたと決める。できていないと気づく。 それでも押す。 これ以上話すと、ゲームの半分がネタバレになってしまいます。今は、アナログホラー、悪意たっぷりにタイミング調整された音、とびきり嫌なサプライズ、そして何もかもを必要以上に大ごとにするエンドクレジットが待っている、とだけ知っておいてください。 これはマイクロゲームです。 長く遊ぶ昔ながらのホラーアドベンチャーではありません。数分で遊び終え、友達に回し、配信でリアクションを狙い、あるいはプレゼントに化けた小さないたずらとして送りつけるために作られました。 もう押した。次は友達の番だ。 友達にプレゼントしましょう。 詳しいことは言わないでください。 「すごく短いゲームを見つけた」とだけ伝えましょう。 ヘッドホンをつけてもらいましょう。 できれば、画面も共有してもらいましょう。 あとはゆっくり座って、友情がこれに耐えられるか確かめてください。 待ち受けるもの ひとつのボタンと、最悪のアイデア。 水増しなし。短く、きっ…",
-    "detectedAt": "2026-09-08T04:29:32.381Z"
-  },
-  {
-    "steamAppId": 5101300,
-    "title": "Sideways Motorways",
-    "sourceUrl": "https://store.steampowered.com/app/5101300/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年1月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101300/0a6710e597a611a94c47df6f1ae23dc5d2f43f6c/header.jpg?t=1788815602",
-    "japaneseSupport": "none",
-    "shortDescription": "Turns and corners? No thank you! In this traffic-simulation game all roads are straight and cars never brake. A smart city planner like you would do the sensible thing and move the houses around instead, to avoid intersections. Or would you rather take the thrill of a close call for a higher score?",
-    "aboutTheGame": "Do ideas like \"acceptable number of traffic collisions\" or \"taking the shortest path possible (i.e., straight through) even if it means danger\" make you shiver? Well, then maybe this game is not for you! Sideways Motorways is a cheeky traffic simulation with cars and roads and houses, but roads are straight and houses are movable. Cars forgot how to slow down at intersections, so try and time them across. Succeeding at this earns you bonus score. Or you can try taking the easy way out and avoid an intersection altogether... Learn the ropes on a simple map and hone your skills throughout many m…",
-    "detectedAt": "2026-09-08T04:29:32.911Z"
-  },
-  {
-    "steamAppId": 5101320,
-    "title": "First-Person Jigsaw",
-    "sourceUrl": "https://store.steampowered.com/app/5101320/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101320/ee389611071a3e239cd6207e2f4679f1d477c71d/header.jpg?t=1788625074",
-    "japaneseSupport": "text",
-    "shortDescription": "一人称視点でジグソーパズルをやろう。膨大な量のピースを整理、組み立てつづけてチルしよう。マルチプレイは最大16人で同時プレイが可能！画像を取り込めばオリジナルのジグソーパズルをプレイしたり、オンラインで共有したりできます。",
-    "aboutTheGame": "First-Person Jigsawは、FPSのような一人称視点でジグソーパズルを楽しむゲームです。 ジグソーパズル初心者のための数ピースから数十ピースの簡単なパズルから、整理整頓系ゲームが好きな方のための数百ピースから数千ピースの巨大なパズルまで、幅広い種類のジグソーパズルを整理し、考えて、組み立てることができます。 オンラインマルチプレイでは、最大16人でジグソーパズルに挑戦できます。 さらに、PCに保存されている画像を取り込んで、オリジナルのジグソーパズルを作ることも可能。 作ったパズルもオンラインでフレンドといっしょにプレイできます。",
-    "detectedAt": "2026-09-08T04:29:33.422Z"
-  },
-  {
-    "steamAppId": 5101340,
-    "title": "Eye of the Giant",
-    "sourceUrl": "https://store.steampowered.com/app/5101340/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年3月25日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101340/f72a0ebd2fbcbb4d192e7bd8eba84d71530ddfc4/header.jpg?t=1788722997",
-    "japaneseSupport": "text",
-    "shortDescription": "Put history on trial in a cosmic courtroom. Manipulate Sanity, Guilt, and Arrogance to psychologically dismantle legendary figures, uncover the truth, and deliver your verdict in this roguelike deckbuilder.",
-    "aboutTheGame": "PUT HISTORY ON TRIAL Eye of the Giant is a roguelike deckbuilder about interrogation, judgment, and psychological warfare. You sit as Judge in a courtroom outside of time. Your defendants are not monsters or fictional villains. They are the figures who shaped history: Isaac Newton. Genghis Khan. Odin. They cannot be killed. They can only be broken down, card by card, until they confess. Or until you decide they should be forgiven. The verdict is yours. THEY DON'T HAVE HEALTH BARS. THEY HAVE PRIDE. Every defendant enters the courtroom with four psychological states instead of HP: SANITY — Their…",
-    "detectedAt": "2026-09-08T04:29:33.995Z"
-  },
-  {
-    "steamAppId": 5101400,
-    "title": "再遇有时",
-    "sourceUrl": "https://store.steampowered.com/app/5101400/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101400/ab80c8e037a18e7d1f07d7321af49479226c15a6/header.jpg?t=1788360178",
-    "japaneseSupport": "none",
-    "shortDescription": "Reunion in Time is a school-life visual novel set in an authentic senior year. Attend classes, hang out with classmates, and make choices that subtly shape your relationships and the ending. Casual mini-games offer a light break.",
-    "aboutTheGame": "《再遇有时》is a school-life visual novel. During senior year class reshuffling, three new students arrive—one being someone you haven't seen in years. Experience classes, exams, and daily moments with companions. Your choices will quietly change the story's course.",
-    "detectedAt": "2026-09-08T04:29:34.571Z"
-  },
-  {
-    "steamAppId": 5101550,
-    "title": "Kaartel",
-    "sourceUrl": "https://store.steampowered.com/app/5101550/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101550/93d2960aefab5c3431710856846efd3574f9fa8c/header.jpg?t=1788174534",
-    "japaneseSupport": "none",
-    "shortDescription": "A hidden-movement strategy game: analyze the map, track the thief across Europe, catch them before they escape.",
-    "aboutTheGame": "KAARTEL — part Dutch kaart (“map”), part cartel: a criminal gang turning Europe into their getaway map. Thieves are somewhere in Europe. You don't know where. Ask questions to narrow the search, travel across the map to change what you can learn, and use tactical blocks to cut off escape routes. Every answer gets you closer — but your suspect is moving too. ASK THE RIGHT QUESTION You can't search every city. Instead, interrogate the suspect. Are they north of you? Near the coast? In a country that uses the euro? Is it Sunny today ? So you have Red Foxes around ? But all questions are relative,…",
-    "detectedAt": "2026-09-08T04:29:35.107Z"
-  },
-  {
-    "steamAppId": 5101560,
-    "title": "Mellow Flavor Alley",
-    "sourceUrl": "https://store.steampowered.com/app/5101560/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101560/fcabdf711af69be1f675a2f18b87a1b91f477609/header.jpg?t=1788797674",
-    "japaneseSupport": "text",
-    "shortDescription": "画面の下でそっと動きつづける、小さなごはん屋さんの路地。お客さんがやってきて、席について、食べて、お会計をして帰っていきます。材料さえ置いておけば、あとは路地が勝手に回ってくれます。作業中も、動画を見ている間も。",
-    "aboutTheGame": "画面の下に小さな路地ができます 起動すると、小さなウィンドウが画面の下にちょこんと収まります。前に飛び出してくることも、通知で呼んでくることもありません。 ただそこにいます。作業している間も、動画を見ている間も、路地はひとりで一日を過ごしています。 お客さんがひとり歩いてきます。 気に入ったお店の前でぴたりと止まって、扉を開けて、するっと入って席につきました。 料理が出てきたらおいしそうに食べて、お会計をして、満足そうな顔でまた路地へ出ていきます。 そうしているうちに朝が昼になり、夕焼けが落ちて、夜が来ます。路地はずっとそこにあります。 見るものがどんどん増えていきます お店15軒 — 小さなトースト屋さんから始まって、カフェ、バーガー、麺、ピザ、寿司、カレー、餃子、パンケーキまで。 料理45種 — お店ごとに自慢の料理があって、お客さんごとに好みがあります お客さん18種 — 通うお店もお財布事情もそれぞれ。 朝から夜まで — 時間帯によって路地の色が変わり、行き交うお客さんも変わります もっと踏み込みたくなったら 路地全体で 8x8のパントリーひとつ を共有します。どのお店の材料も、すべてここから出ていきます。 材料が切れたら？ お客さんはそのまま座って待ちつづけます。いつまでも。座席がひとつ、まるごと塞がってしまいます。 材料54種 をどこに置くか — どのお店が何をどれだけ…",
-    "detectedAt": "2026-09-08T04:29:35.610Z"
-  },
-  {
-    "steamAppId": 5101630,
-    "title": "Dwellune: A Cozy Focus Room",
-    "sourceUrl": "https://store.steampowered.com/app/5101630/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101630/cc1a90f7eef750fc9f3147e9d8cd817e025d63bd/header.jpg?t=1787329707",
-    "japaneseSupport": "none",
-    "shortDescription": "Dwellune is a cozy pixel-art room decorating game for focus and relaxation. Arrange furniture, decor, floors, and walls to create a space that suits your routine. Pick music and ambient sounds, save room layouts, and read, study, work, or slow down at your own pace.",
-    "aboutTheGame": "Create a cozy pixel-art room that feels like your own. Arrange furniture, decorate every corner, and choose floors and walls to shape a space around your mood and routine. Pick music and ambient sounds for reading, studying, working, or simply slowing down. Save different room layouts and switch between them whenever your mood changes. From a warm retro nook to a clean modern focus space or a soft, sweet bedroom, collect and combine items to build a little place to call your own. Features • Freely arrange furniture and decorations • Multiple room themes, floors, walls, and functional items • M…",
-    "detectedAt": "2026-09-08T04:29:36.190Z"
-  },
-  {
-    "steamAppId": 5101670,
-    "title": "Chaos & Seek",
-    "sourceUrl": "https://store.steampowered.com/app/5101670/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101670/e3719db9a0ce7e155aff8ef76656db7ee5101831/header.jpg?t=1788002870",
-    "japaneseSupport": "none",
-    "shortDescription": "3v3 multiplayer chaos: three invisible ghosts trash a house while three hunters track them by radar and suck them up with vacuums. You can't see the ghosts — only hear the crashing. Catch all three, or wreck the place before the three-minute clock runs out.",
-    "aboutTheGame": "Chaos & Seek Six players. One house. Three minutes to ruin it. Somebody has to make a mess, and somebody has to stop it. Chaos & Seek is a 3v3 multiplayer game of invisible mischief and desperate cleanup, where three ghosts tear a house apart lamp by lamp while three hunters sweep the halls with vacuums and hope for the best. You cannot see the ghosts. You can only hear the crashing, watch the radar, and start running. PLAY AS THE GHOSTS You are fast, you are invisible, and you are extremely rude. Your job is simple: fill the Chaos Meter to 100%. Grab whatever isn't nailed down — vases, chairs…",
-    "detectedAt": "2026-09-08T04:29:36.708Z"
-  },
-  {
-    "steamAppId": 5101750,
-    "title": "Ramen Haven",
-    "sourceUrl": "https://store.steampowered.com/app/5101750/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101750/f891f33f0c6d504904b0f2a4d56a63eb78b5c062/header.jpg?t=1787384303",
-    "japaneseSupport": "none",
-    "shortDescription": "Turn a humble ramen cart into the shop of your dreams in this cozy cooking and management game. Prepare delicious ramen, delight customers, unlock new recipes, upgrade and decorate your space, and grow your small business into a thriving restaurant.",
-    "aboutTheGame": "Turn a humble ramen cart into a thriving restaurant. Build and manage your own cozy ramen business, starting with a simple street cart and growing into a bustling restaurant. Prepare delicious ramen, fulfill customer orders, and provide warm, welcoming service. As your reputation grows, reinvest your earnings to expand the business, improve your equipment, unlock new recipes, and welcome more customers. Watch your business flourish through rewarding stages of progression. Expand your dining area, bring personality to your surroundings, and finally open the ramen shop of your dreams. As your re…",
-    "detectedAt": "2026-09-08T04:29:37.212Z"
-  },
-  {
-    "steamAppId": 5101780,
-    "title": "Carve The Cave Together",
-    "sourceUrl": "https://store.steampowered.com/app/5101780/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年11月10日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101780/d389128f6654381a462452e96a680ccd56088c5e/header.jpg?t=1787329567",
-    "japaneseSupport": "none",
-    "shortDescription": "友達と二人で、洞窟をマスひとつずつ掘り進める。無重力の岩盤にボールを投げれば、止まることはない——洞窟が広がるほど、すべてが遠くまで飛ぶ。鉱石を採掘し、機械に流し込み、掘り方の異なるボールを解放しよう。",
-    "aboutTheGame": "友達と二人で、ひとつの洞窟をマスひとつずつ掘り進める協力型インクリメンタルゲーム。 ここに重力はない。投げたボールを止めるものは岩だけだ。壁にボールを投げる。もう一度投げる。ゲームはそれだけ—— 洞窟が広がるほど、投げたものはより遠くまで届く。 ボールは決して止まらない 一投ごとに、次の一投が強くなる 同じ掘り方をするボールはない 鉱石を入れ、クレジットが出る 誰かを連れてこよう",
-    "detectedAt": "2026-09-08T04:29:37.731Z"
-  },
-  {
-    "steamAppId": 5101820,
-    "title": "カスペナ〜カスタムペナント野球",
-    "sourceUrl": "https://store.steampowered.com/app/5101820/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シミュレーション",
-      "スポーツ",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月22日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101820/e9e9f35f9e7c34670d9e4f3883ccd6d5da4cbd76/header_japanese.jpg?t=1788265352",
-    "japaneseSupport": "full",
-    "shortDescription": "本格的な球団運営ゲームです。選手を操作する場面は一度もなく、ドラフトで誰を指名し、誰と契約を延ばし、誰を放出するかを決めます。そして見た目は全部差し替えられます。球団のロゴも選手の顔も自分で用意した画像にでき、球団名・略称・本拠地・球団色・紋章は画面から直せます。中身も同じで、球団数もDHの有無も試合数も、球の反発係数まで、ルールを決める数値はすべて公開されています。入っているのは架空のリーグ。自分のリーグは一から作れます。",
-    "aboutTheGame": "あなたは、試合に出ない 打つのも投げるのも選手の仕事です。あなたの仕事は、誰を採り、誰に金を払い、 誰を切るかを決めることだけ。決めたあとは、選んだ選手たちが勝ったり負けたりするのを 見ていることしかできません。それがGMの仕事です。 決めることは、すべてあなたに委ねられます ドラフト — 誰を指名するか。他球団と重なれば抽選になります 契約更改 — 渋るか、相場どおりに払うか、戦力のために予算を割るか FA — 出ていく選手を止めるか、余所から採るか トレード — 持ちかけられた話を受けるか。こちらから持ちかけることもできます 二軍 — 育てるのか、勝ちにいくのか 起用方針 — 誰を一軍に置き、どう使うか 経営 — 予算の中で年俸をどう配るか。球場と街に投資するか 面倒なところだけ任せることもできます。すべて任せても、全部自分で決めても、 どちらでも同じように一年が進みます。 見た目は、全部差し替えられます ファイルを触る必要はありません。 ゲームの画面の中で直せます。 球団のロゴ — 自分で用意した画像をそのまま置けます。大きさと位置も調整できます 選手の顔 — 一人ずつ画像を入れられます。一覧にも並びます 紋章 — 形と地の模様を選べます。画像を入れないときはこれが顔になります 帽子の印 — 3文字まで。選手の顔の見本を隣に出しながら決められます 名前まわり — 球団名、表で…",
-    "detectedAt": "2026-09-08T04:29:38.230Z"
-  },
-  {
-    "steamAppId": 5101840,
-    "title": "Teverim",
-    "sourceUrl": "https://store.steampowered.com/app/5101840/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "RPG",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101840/3f37b1db632102b64ccf8b779f4efdc722c06fa1/header.jpg?t=1788287438",
-    "japaneseSupport": "none",
-    "shortDescription": "Teverim is a solo-developed game whose idea is to create a roguelite focused on building and managing a squad of adventurers. In this turn-based 2D game, you have to clear the levels using the available items and the skills of your party members to fight monsters until you reach the highest floor.",
-    "aboutTheGame": "Teverim is a turn-based RPG roguelite in which you must assemble the ultimate party of adventurers and lead them through a perilous ascent. Throughout your journey, you will be able to upgrade, equip, and replace your party members to create the most effective team in battle. Climb through multiple floors until you face the final boss or until your party is defeated. Collect treasures, discover powerful synergies, and build the best team possible to reach the summit.",
-    "detectedAt": "2026-09-08T04:29:38.793Z"
-  },
-  {
-    "steamAppId": 5101860,
-    "title": "Angry Tanks",
-    "sourceUrl": "https://store.steampowered.com/app/5101860/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101860/e5d095e84fc621f65755c4b24d0fed89b9b38124/header.jpg?t=1787242739",
-    "japaneseSupport": "text",
-    "shortDescription": "Angry Tanksはアーケードスタイルの戦車シューティングゲームです。前進し、華麗な宙返りを決め、敵戦車を破壊しましょう。",
-    "aboutTheGame": "鮮やかなポリゴンの世界で繰り広げられる、ダイナミックな戦車バトル！ 物理法則を武器に、敵を圧倒するダイナミックな3D戦車アーケードゲームへようこそ。機動性に優れ、重装甲の戦車を操り、様々なバイオームで敵の大群を粉砕せよ！ ### 主な特徴： 重力に逆らう戦闘アクション：あなたの戦車はただの重砲ではありません。驚異的な前宙返りも可能！タイミングをマスターして空中で宙返りし、飛来する敵の砲弾をパリィし、防御を華麗な反撃へと繋げよう。 簡単なモジュール式アップグレード：生き残るために適応せよ。ゲームを進めるにつれてポイントを獲得し、戦車のステータスをアップグレードしよう。ゲームを進めると、難攻不落のエネルギーシールド、一時的なニトロブーストによるスピードアップ、その他戦車を強化し威嚇する様々な改造パーツがアンロックされる。 鮮やかなローポリゴンサンドボックス：美しく詳細に描かれた広大な島を探索しよう。島は3つの異なるバイオームに分かれている。灼熱の砂丘で戦い、緑豊かな森林地帯を駆け抜け、容赦ない雪原ツンドラで生き残れ。 多彩な敵：独自の戦闘行動を持つ様々な特殊ユニットと戦おう。ミサイルを発射する古典的な戦車を出し抜き、要塞化された機関銃戦車を突破し、地面から出現してプレイヤーを粉砕しようとする攻撃的な二連装ドリルをかわせ。 壮大なボス戦：様々なボス戦車に挑み、己の腕を試せ。高速で重装甲、…",
-    "detectedAt": "2026-09-08T04:29:39.302Z"
-  },
-  {
     "steamAppId": 5101960,
     "title": "Dungeons & Dynasties",
     "sourceUrl": "https://store.steampowered.com/app/5101960/",
@@ -8621,5 +8345,384 @@
     "shortDescription": "Dicey Darlings is a dark-cute board-game roguelite—fantasy as placement and pressure, not another climb-and-stack. Move acrylic standees; settle talk and fights with dice on the table. Clear maps and build from spells and trinkets each run: a rarer branch where one roll rewrites the board.",
     "aboutTheGame": "A board game roguelike featuring acrylic pieces and multi-sided dice! Experience the creative synergy of various items and their combinations—each class offers multiple roguelike builds to explore. Enjoy intense, satisfying gameplay where every trigger unleashes a cascade of physical dice rolls, or nail a series of consecutive successful checks at the last moment for an exhilarating burst of action. There are multiple ways to clear the stage. What if you're unlucky and fail to form a powerful team? Use the weather, use the terrain, use the environment. Cooperate, compete, or betray? Each game…",
     "detectedAt": "2026-09-12T12:28:45.115Z"
+  },
+  {
+    "steamAppId": 323080,
+    "title": "Flesh & Bone",
+    "sourceUrl": "https://store.steampowered.com/app/323080/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第3四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323080/01208a6b2ca34f22dc21c1b06c639de710f00050/header.jpg?t=1789222605",
+    "japaneseSupport": "none",
+    "shortDescription": "In a world filled with strange machines, battle flying swarms - a first in VR - and, if you survive long enough, get obliterated by the MOTHER OF SWARM. FLESH & BONE is the most brutal, 90s survival arena with exactly ZERO hand holding, with the freedom to chose your play style.",
+    "aboutTheGame": "FLESH & BONE is the most BRUTAL , 90s SURVIVAL arena with exactly ZERO hand holding. Chose your play style: HAND OF BONE to wield NECROMAGIC for range combat and hijacking enemy brains into being your army. HAND OF FLESH to wield TECHNOMANCY for acrobatic melee combat and turret defense! Or combine both. Upgrade your puny life from victim to a LEAPING GOD OF DEAH . Unleashing destruction high up above the battlefield. Run faster than the enemy and impose decisive PACIFICATION ! Features: ZERO TUTORIAL OR OPTIONS because hand holding is for babies SWARMS of thousands of enemies on-screen, with…",
+    "detectedAt": "2026-09-12T16:28:39.497Z"
+  },
+  {
+    "steamAppId": 4220120,
+    "title": "BrosLand",
+    "sourceUrl": "https://store.steampowered.com/app/4220120/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4220120/964250efb251f2571da6f5503aeaf88076f1064a/header.jpg?t=1789220459",
+    "japaneseSupport": "none",
+    "shortDescription": "Two brothers go to spend the holidays at their older brother's house. The next morning, he's gone! His AI assistant, Xiron, is here to help find him. BrosLand is a local co-op platformer about doing together what neither can do alone.",
+    "aboutTheGame": "Two brothers go to spend the holidays at their older brother's house. The next morning, he's gone ! His AI assistant Xiron is here to help find him. BrosLand is a local co-op platformer about doing together what neither of them can do alone. Push the crate while the other climbs on it, hold the button and see if they make it across the platforms in time, stand on your brother's shoulders to reach that high ledge... OR step aside at exactly the right moment and see what happens. No level goes by with a single player, and that's not a design detail, it's the whole game. Come up with strategies,…",
+    "detectedAt": "2026-09-12T16:28:40.059Z"
+  },
+  {
+    "steamAppId": 4226700,
+    "title": "YerAna: The Tree of Life",
+    "sourceUrl": "https://store.steampowered.com/app/4226700/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4226700/ed3239c55ae97c63157df339e8a017e9f588a35e/header.jpg?t=1789225349",
+    "japaneseSupport": "none",
+    "shortDescription": "A story-driven action-adventure blending exploration, platforming, puzzles, and combat. Join young apprentice Ana in the corrupted layers of the Tree of Life to find her lost master. Wield Yada Stones, cross Sky Portals, and restore nature's broken balance.",
+    "aboutTheGame": "THE CALL OF THE TREE OF LIFE Ana, a young apprentice shaman (kam), answers the call of the Tree of Life after her master, Brave Ece, the Daughter of Fire, mysteriously disappears within it. She ventures into the Tree’s perilous layers to find her. However, malevolent beings have invaded the Tree, disrupting the balance between its layers and corrupting the essence of nature. Ana’s rescue mission soon becomes a struggle to complete her spiritual journey, restore the ancient balance, and stop the darkness consuming the Tree of Life. The Tree of Life is calling. The balance is breaking. Ana’s jou…",
+    "detectedAt": "2026-09-12T16:28:40.605Z"
+  },
+  {
+    "steamAppId": 4403890,
+    "title": "Peekaboom",
+    "sourceUrl": "https://store.steampowered.com/app/4403890/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403890/6a9ba743eb97dfbf11b4901f878dd23f626dedd3/header.jpg?t=1789220153",
+    "japaneseSupport": "none",
+    "shortDescription": "A chaotic multiplayer battle royale where standing still makes you invisible. Hide, ambush and outsmart your enemies to become the last one standing!",
+    "aboutTheGame": "Welcome to Peekaboom is a fast-paced multiplayer battle royale where movement will reveal your position! When you stand still, you disappear from view. The moment you move, you reveal yourself. But staying in one place for too long isn't an option either, or you will freeze and everyone can see you! Outsmart your opponents, ambush them when they least expect it, and be the last player (or team) standing! Features Multiplayer battle royale with a unique visibility mechanic 20 + different attacks to choose from Fast and chaotic matches Simple controls with plenty of room for strategy Play mind g…",
+    "detectedAt": "2026-09-12T16:28:41.149Z"
+  },
+  {
+    "steamAppId": 4759360,
+    "title": "Stem The Tide",
+    "sourceUrl": "https://store.steampowered.com/app/4759360/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4759360/1f553161d28c21cb52a92349b4106e5078123967/header.jpg?t=1789223456",
+    "japaneseSupport": "text",
+    "shortDescription": "オートバトラーとローグライトを融合した本作で、群れに立ち向かう最後の砦を率いよう。拠点を築き、ユニットを雇用・融合し、勢力シナジーを生み出し、戦士たちを強化しながら、プロシージャル生成されるモンスターの波を生き延び、世界を破滅から救え！",
+    "aboutTheGame": "スウォームに対する最後の砦 「Stem The Tide」は、オートバトラー、RTS、ベースビルダー、ローグライトを融合させたゲームです。生存者のキャンプを管理し、経済を発展させ、並外れた軍隊を編成して、プロシージャルに生成されるバトルで迫り来るスウォームの脅威を退けましょう。 派閥や遺物の選択、軍隊の士気、またはユニットの犠牲など、すべての決断が生存を左右します。 主な特徴 オートバトラー、RTS、ベースビルダー、ローグライトのハイブリッド 広範な派閥とシナジーシステム プロシージャルに生成されるバトルとマップ 戦闘に影響を与えるダイナミックな地形と天候 ユニットの合成と昇格 軍隊を強化する140種類以上の遺物 70種類以上の雇用可能なユニット キャンプに建設できる60種類以上の建物 高いリプレイ性と複数の進行ルート 壮大なボス戦 メタプログレッションと永続的なアンロック キャンプの建設と発展 充実したキャンプ管理フェーズで、次のウェーブに備えましょう。建物を建設することで、プレイスタイルに影響を与える新しい技術、ユニットクラス、専門分野をアンロックできます。 選択した進行ルートに基づいて戦士を雇用し、経済と軍隊の士気を管理し、代替の技術やユニットへのアクセスを制限する可能性のある派閥の決断を下します。 あなたの要塞は生きているように感じられます。建物は物理的なスペースを占有し、…",
+    "detectedAt": "2026-09-12T16:28:41.755Z"
+  },
+  {
+    "steamAppId": 4771050,
+    "title": "Gake of Cliff",
+    "sourceUrl": "https://store.steampowered.com/app/4771050/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771050/0ae6a7494d3b2c9c7a6f3a217ecc04b6b62325fe/header.jpg?t=1789228624",
+    "japaneseSupport": "text",
+    "shortDescription": "地形を活かした立ち回りと戦略的な戦闘が楽しめる、PvE/PvPアクションゲームです。",
+    "aboutTheGame": "【ゲーム概要】 本作において崖や急斜面は、単なる障害物ではありません。「崖ステップ」を活用することで、本来登れないような急勾配も足場として移動可能になります。高所を確保して優位に立つか、斜面を利用して奇襲をかけるか。地形を活かした立ち回りがPvE・PvPでの勝利の鍵となります。 【主な特徴】 崖ステップがもたらす立体的なアクション 通常では登れない急斜面や崖を、ステップでスムーズに登り切る移動アクション。高所からの奇襲や素早い離脱など、地形を活かした立ち回りが可能です。 PvE エネミーの挙動を見極め、状況に応じた立ち回りで攻略を目指すモードです。 PvP プレイヤー同士ならではの駆け引きと、機動力を活かしたスピーディーな対戦を楽しめます。 ランダムに変化する戦況 フィールド上の石像や魔法陣などの配置が変化するため、試合ごとに異なる立ち回りや戦術が求められます。 モジュラーキャラクター 装備やパーツの組み合わせにより、自身のスタイルに合わせたカスタマイズが可能です。",
+    "detectedAt": "2026-09-12T16:28:42.346Z"
+  },
+  {
+    "steamAppId": 4832160,
+    "title": "Snap Shifter",
+    "sourceUrl": "https://store.steampowered.com/app/4832160/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832160/2f7d78b3776d6de66c04a401bf8ff43532d2fc9c/header.jpg?t=1789216938",
+    "japaneseSupport": "none",
+    "shortDescription": "Four houses race to create the finest snapshot album, discovering meaningful and creative moments to fill its pages. The finest album will help shape the conscience of a new world. What moments will you choose to capture and preserve?",
+    "aboutTheGame": "You play as a Snap Shifter who capture moments with your camera and transform their frames into magical spells and abilities. As a student of Snap Shifter Academy, you’ll attend classes, master powerful spells, delve into dungeons, solve clever puzzles, build meaningful friendships, pursue romance, and explore a world filled with mystery, magic, and adventure. Features Attend classes and learn powerful new spells. Explore dungeon filled with puzzles. Capture memorable moments with your camera. Use memorable frames to cast powerful spells. Build friendships with follow students by trading frame…",
+    "detectedAt": "2026-09-12T16:28:42.922Z"
+  },
+  {
+    "steamAppId": 5065500,
+    "title": "Vinculum",
+    "sourceUrl": "https://store.steampowered.com/app/5065500/",
+    "price": "価格情報なし",
+    "tags": [
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065500/ccf421815abb76cab57c4148db8486370276bbc9/header.jpg?t=1789229829",
+    "japaneseSupport": "none",
+    "shortDescription": "Do the math and survive the aftermath. An easy-to-learn card battler: pull off math combos, get stuck in a fraction, stack functions until the numbers go absurd, break the enemy lines, try not to divide by zero. Real, modern, correct math. But when math isn't enough, resort to more arcane means...",
+    "aboutTheGame": "0⁰ = 1 |√−9| = 3 x ÷ (−n)! = 0 … still reading?! Then welcome to Vinculum is a fast-paced, easy-to-learn card battler built on real math. Use incredible mathematical tricks and combos to get out of even the toughest traps. Come back from debuffs, break enemy lines, stack functions ad absurdum. No limits, maybe just a little computer melty. And if math cards alone aren't enough, you can always resort to more... arcane cards. Plan your next move to be sure. And if math is so unbelievably crazy that you can't believe your eyes, you can even check with an external math engines! 26 arcane cards , e…",
+    "detectedAt": "2026-09-12T16:28:43.855Z"
+  },
+  {
+    "steamAppId": 5080170,
+    "title": "Riftmaw",
+    "sourceUrl": "https://store.steampowered.com/app/5080170/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080170/1c641b9e5424baf972fd5256b75f83b33ac26f12/header.jpg?t=1789222930",
+    "japaneseSupport": "none",
+    "shortDescription": "Hold the portal. Enemies swarm from every direction. Level up, reshape your build, and conquer new worlds — or craft your loadout and take on the Campaign.",
+    "aboutTheGame": "Riftmaw is a fast-paced tower defense roguelite built around one idea: a single portal-tower at the center of the battlefield. Enemies close in from every side. Each level-up forces a choice that reshapes how you grow stronger. In Campaign , craft a loadout from your upgrades, then take it through curated courses with their own maps, enemies, and bosses.",
+    "detectedAt": "2026-09-12T16:28:44.403Z"
+  },
+  {
+    "steamAppId": 5107120,
+    "title": "02:17 The Trader’s Path",
+    "sourceUrl": "https://store.steampowered.com/app/5107120/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107120/c208ae139254e4de8dc9c6f3ee701bdf3474dce8/header.jpg?t=1789042040",
+    "japaneseSupport": "text",
+    "shortDescription": "無名のトレーダーから頂点を目指し、ストーリー重視のトレーディング体験を通じて自分だけの道を築こう。シミュレートされた市場で取引し、リスクを管理し、旅を左右する選択を重ねながら、02:17の裏に隠された物語と謎を解き明かそう。",
+    "aboutTheGame": "02:17 THE TRADER’S PATH は、野心、リスク、プレッシャー、そしてトレーダーとしての道を形作る選択を描いた、ストーリー重視のトレーディングゲームです。 あなたが最初に持っているのは、1台の画面とわずかな資金、そしてもっと大きなものを築き上げたいという野心だけ。完全にシミュレートされた市場で取引を行い、リスクを管理し、口座資金を増やし、新たなチャンスをアンロックし、周囲の環境をアップグレードしながら、キャリアの成長とともに難しさを増していく決断に立ち向かいます。 しかし、 02:17はただのトレーディングゲームではありません 。 成功への道の裏側では、あなたの成長とともに一つの物語が展開していきます。新たな登場人物、出来事、場所、そして選択の結果が、旅の意味を少しずつ変えていきます。最初は単なる経済的成功への挑戦に見えたものが、やがてさらに深い何かを明らかにし始めます。 そして、 02:17 。 不可解な信号が現れ始めます。テクノロジーが、本来あり得ない反応を示すようになります。かつては無関係に見えた出来事が少しずつつながり始め、あなたを市場のはるか先にある謎へと導いていきます。 あなたの決断、成長、そして選んだリスクのすべてが、この道の一部です。 ゲーム内に登場する市場、価格、チャート、取引、結果はすべてシミュレーションされたものであり、ゲーム内部のシステムによ…",
+    "detectedAt": "2026-09-12T16:28:45.407Z"
+  },
+  {
+    "steamAppId": 5107200,
+    "title": "72 Seconds",
+    "sourceUrl": "https://store.steampowered.com/app/5107200/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107200/7f2085028c565d94b92cbc37fee89f6032ad7eb4/header.jpg?t=1788202752",
+    "japaneseSupport": "none",
+    "shortDescription": "72 Seconds is a fast-paced isometric action RTS where tactical squad micro meets ARPG progression. Command specialized units, build defenses, upgrade skill trees, and battle hostile alien threats. Adapt to randomized enemy affixes and survive high-stakes campaign permadeath.",
+    "aboutTheGame": "72 Seconds is a fast-paced, high-stakes isometric RTS that blends retro micro-heavy combat with modern ARPG progression and base building. Command elite squads on hostile sci-fi battlefields where victory depends on rapid positioning, smart tech expansion, and tactical unit micro. Every campaign tests your adaptability as enemy forces spawn with unpredictable stat affixes and aggressive tactics. KEY FEATURES • Fast-Paced Action RTS Combat Master precision micro and tactical positioning. Control specialized squads in intense real-time engagements against relentless alien forces. • ARPG Squad Pr…",
+    "detectedAt": "2026-09-12T16:28:46.031Z"
+  },
+  {
+    "steamAppId": 5107230,
+    "title": "Fluxgates",
+    "sourceUrl": "https://store.steampowered.com/app/5107230/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107230/40e2d8cedeea7679a3825d958dd4bde91beb5806/header.jpg?t=1788796108",
+    "japaneseSupport": "none",
+    "shortDescription": "A roguelike where every run is a factory you wire together on a canvas. Draft nodes, connect them into a production line, then press Run and find out. Each room demands more than the last - build the combo engine that keeps up, or stall three ticks from the target.",
+    "aboutTheGame": "Every run is a factory you've never built before. Draft nodes. Wire them together. Resources flow. Rooms demand throughput. Drag, wire, press ▶ Run Production. What you do Each room sets one objective — collect 400 energy, hold ≥20 matter/tick for 20 ticks in a row, clear every track before the run ends — and hands you a credit budget. Nothing is on a timer while you build. Wire sources into amplifiers into sinks, buy the piece you're missing from the room shop, take as long as you want. When the pipeline looks right, press ▶ Run Production . The simulation runs a fixed number of ticks and sco…",
+    "detectedAt": "2026-09-12T16:28:46.588Z"
+  },
+  {
+    "steamAppId": 5107260,
+    "title": "Sukmantos Kitchen 1990",
+    "sourceUrl": "https://store.steampowered.com/app/5107260/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月15日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107260/7aece97417b160d9a73eb17ec1bfb72d973d6068/header.jpg?t=1788972689",
+    "japaneseSupport": "none",
+    "shortDescription": "A psychological horror game about a young police officer trapped inside a haunted house hiding dark secrets of satanic rituals, cannibalism, and murder. Explore its dark halls, uncover disturbing secrets, and something is watching your every move.",
+    "aboutTheGame": "Sukmantos Kitchen 1990 is a psychological horror game about a young police officer named Septi Cahyati . Although she is still a junior officer, her Commander assigns her to investigate a criminal case on her own. During the mission, Septi is captured by the criminals, kidnapped, and imprisoned. She awakens inside a haunted house filled with disturbing evidence of previous victims. A ruthless psycho enemy relentlessly patrols the house and searching every room for his next victim. Explore dark hallways, collect useful items, and carefully manage your movements to avoid being caught. Every deci…",
+    "detectedAt": "2026-09-12T16:28:47.187Z"
+  },
+  {
+    "steamAppId": 5107310,
+    "title": "Nicotine & Knives",
+    "sourceUrl": "https://store.steampowered.com/app/5107310/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107310/fc14cf2fb8a6f354ec988b2fb80be6b263e28f1e/header.jpg?t=1788791092",
+    "japaneseSupport": "none",
+    "shortDescription": "Nicotine & Knives is a top-down pixel roguelike where every run pushes you deeper across shifting dimensions. Fight brutal bosses, wield weapons and items with wild unique bonuses, and gamble your own stats for a shot at power.",
+    "aboutTheGame": "Nicotine & Knives is a top-down pixel roguelike where every run pushes you deeper across shifting dimensions. Fight brutal bosses, wield weapons with wild unique bonuses, and gamble your own stats for a shot at power. Multiple gambling elements, +100 unique items, various enemies ranging from police officers up to celestial beings. If you don't like the roulette wheel or the cup game, don't worry! We have many gambling games you WILL love! Descend through multiple hand-crafted dimensions, each with its own dangers, secrets, and boss encounters waiting to tear your run apart. No two attempts fe…",
+    "detectedAt": "2026-09-12T16:28:47.743Z"
+  },
+  {
+    "steamAppId": 5107380,
+    "title": "Spirit Fox",
+    "sourceUrl": "https://store.steampowered.com/app/5107380/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年12月22日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107380/4dd16c30aee2ded1080925c6dbffc24eae74759d/header.jpg?t=1789215469",
+    "japaneseSupport": "none",
+    "shortDescription": "Spirit Fox is a short, atmospheric, third-person narrative adventure in which you step into the paws of a young fox who, following an unexpected tragedy, finds himself completely alone in an unfamiliar place. What lies in store in this place?",
+    "aboutTheGame": "Spirit Fox is a short and atmospheric narrative adventure in which you take on the role of a young fox who, after an unexpected tragedy, finds himself completely alone in an unfamiliar place. The story begins with the fox alongside his family. Everything seems normal until an accident occurs that changes his life forever. In the middle of the confusion, the fox ends up falling into a river and is swept away by the current. The water carries him farther and farther away from his home as he struggles to stay afloat and survive the force of the river. When he finally manages to get out of the wat…",
+    "detectedAt": "2026-09-12T16:28:48.301Z"
+  },
+  {
+    "steamAppId": 5107410,
+    "title": "Void God",
+    "sourceUrl": "https://store.steampowered.com/app/5107410/",
+    "price": "¥989",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月10日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107410/8e696c49dded74273e74e034a6af1d036d5e8ce9/header.jpg?t=1789027321",
+    "japaneseSupport": "none",
+    "shortDescription": "Every weapon you pick up can act as a weapon when equipped in a weapons hardpoint. Or as an ability when equipped there. Or as a support when equipped in one of the rare support slots. Destroy the guardians as quickly as you can. Gather the rewarded weapons. Slot them in and keep shooting.",
+    "aboutTheGame": "Assault the Void. Destroy the guardians. Upgrade your Void Ship. Kill the Void God. Waves of angry guardians will try to destroy you. And they will succeed. But death is just an opportunity to grow. Use the resources you gathered from their destruction and upgrade your weapons, abilities and Void Ship. Every weapon can act as a Weapon when equipped in a weapons hardpoint. Or as an ability when equipped there. Or as a support when equipped in one of the rare support slots.",
+    "detectedAt": "2026-09-12T16:28:48.923Z"
+  },
+  {
+    "steamAppId": 5107450,
+    "title": "SILENT TRACKS",
+    "sourceUrl": "https://store.steampowered.com/app/5107450/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107450/ccaf9513f4e4d3ca0893899037be85cebe9d7a6d/header.jpg?t=1787797455",
+    "japaneseSupport": "text",
+    "shortDescription": "情報力が火力と同じく命取りとなるターン制戦術シミュレーション。限られた予算で部隊を編成し、戦ความの霧をスキャンで暴き、敵のレーダーを妨害。アクショントークンをやりくりして敵の裏をかけ！",
+    "aboutTheGame": "戦術的な戦車戦と、高いリスクを伴う情報戦が fused（融合）する。SILENT TRACKS（サイレント・トラックス）において、勝利とは単なる火力（ダメージ）だけではない。戦ความの霧（フォグ・オブ・ウォー）の中で敵の裏をかき、アクションのやりくりを管理し cascade、敵が最も油断している瞬間を突くことなのだ。 部隊を編成せよ 戦闘が始まる前に、10クレジットの予算を使ってあなたの打撃部隊を構築しよう。機動性に優れた偵察機で盤面を制圧するか、それとも重砲に頼るか？ P0 軽戦車 (1.5クレジット): 視界半径1を持つ機敏な偵察機。ヘックス（六角形マス）の下に隠し地雷を設置し、 aggressive（攻撃的）な進軍を返り討ちにする。 B2 指揮戦車 (2.0クレジット): 視界半径2を持つ戦略的なユーティリティの要。隠されたタイルをスキャンし、敵のレーダーを妨害し、破壊的な遠距離「ヌーク（核）攻撃」を放つことができる。 D8 重戦車 (2.5クレジット): HP 2を誇り、敵の装甲を撃ち抜く致命的な「ダブルショット」アビリティを備えた頑丈なブロウラー（ brawl 兵）。 戦ความの霧をマスターせよ 情報こそが力だ。限られたリソースを駆使して敵を暴き出し、自軍のユニットは暗闇の中に潜ませ続けろ。 無料スキャン: 各ラウンドで3回の無料タイルスキャンを獲得し、アクション w…",
+    "detectedAt": "2026-09-12T16:28:49.489Z"
+  },
+  {
+    "steamAppId": 5107510,
+    "title": "Chainball",
+    "sourceUrl": "https://store.steampowered.com/app/5107510/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "スポーツ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107510/b3c5889dcca60eb35f09bfd01fe389c3feff0cc9/header.jpg?t=1789210108",
+    "japaneseSupport": "none",
+    "shortDescription": "Chainball is a physics-driven couch sports brawler for up to four players, where animal champions swing, throw, and reel in chained flails to smash the ball into the opposing goal... and each other!",
+    "aboutTheGame": "A BALL. A CHAIN. NO RULES AGAINST HITTING THE OTHER TEAM Chainball is a fast, physics-driven arena sport where animal champions compete using massive chained flails. Dash across the court, build momentum, then swing, throw, and reel in your weapon to smash the ball into the opposing goal... or knock a rival out of the play. Every loose ball creates a new scramble. Bank shots off the arena walls, intercept attacks, defend your goal, and turn unpredictable chain physics into spectacular plays. Glowing pickups can transform your flail with spikes, rockets, or a ticking bomb, while weapons such as…",
+    "detectedAt": "2026-09-12T16:28:50.053Z"
+  },
+  {
+    "steamAppId": 5107570,
+    "title": "RecQuiem",
+    "sourceUrl": "https://store.steampowered.com/app/5107570/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "無料プレイ",
+      "マルチプレイヤー",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107570/f7120cb5ac7d7f7e833d26928fd84d7269780b4f/header.jpg?t=1787997803",
+    "japaneseSupport": "none",
+    "shortDescription": "An online multiplayer social game where you hang out with friends and play games together. Join the fun for free!",
+    "aboutTheGame": "Miss Rec Room? Good news! RecQuiem is an online multiplayer game that aims to restore the fun feeling that Rec Room had! Hang out with friends in the all new Rec Center, or meet up with neighbours in the all new dorm corridor! RecQuiem is an all new experience tailored to the veterans of Rec Room. Make friends. Play games. Make memories. Welcome to RecQuiem . The next chapter starts here.",
+    "detectedAt": "2026-09-12T16:28:50.777Z"
+  },
+  {
+    "steamAppId": 5107590,
+    "title": "ANT SIMULATOR: stock market game",
+    "sourceUrl": "https://store.steampowered.com/app/5107590/",
+    "price": "無料",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年9月3日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107590/5fe44b6c00982dcbe4e5712888c96e9af77072d9/header.jpg?t=1788450953",
+    "japaneseSupport": "text",
+    "shortDescription": "韓国で小口の個人投資家は「アリ（개미）」と呼ばれます。あなたはその一匹。韓国株式市場をモデルにした、変動の激しい金融サバイバルシミュレーションを生き抜きましょう。チャートの奥にあるマクロの流れを読み、資産を配分し、予測不能な暴落を耐え抜くのです。ソロでも、最大4人が同じ市場で成績を競うマルチプレイでも。",
+    "aboutTheGame": "韓国では、小口の個人投資家は「アリ（개미）」と呼ばれます。機関投資家や大口に比べて力は弱く体も小さい――けれど、市場に無数に群がる存在。ANT SIMULATORでは、あなたはその一匹です。 今このときから、あなたは一匹のアリとして過酷な金融市場を生き抜かねばなりません。リスクを取って全財産を高リスク商品に賭けることも、安全のためにポートフォリオを管理し、ヘッジによって下落相場でも無傷で切り抜けることもできます。ただ一つ心に留めておいてください。これは熾烈なサバイバルシミュレーションです。市場に負けても恥ではありません。どう攻略し、どうリスクを管理するかを考え抜きましょう。 特徴 ANT SIMULATORは、韓国株式市場の次のような側面を反映しています。 増幅されたボラティリティ ANT SIMULATORの市場は実際の韓国市場をモデルにしていますが、数か月の流れを10〜40日に圧縮しているため、ボラティリティも実際より意図的に大きく設定しています。短い時間の中で上昇相場も下落相場も体験できるようにするためです。 ANTPIの日次ボラティリティ中央値： 2.08% ANTPIの年率換算ボラティリティ中央値： 33.04% （下位5%〜上位95%：26.49%〜39.04%） 参考までに、実際の2025年のKOSPIの日次ボラティリティはおよそ0.5〜0.7%、年率換算で8〜11%…",
+    "detectedAt": "2026-09-12T16:28:51.312Z"
   }
 ]
