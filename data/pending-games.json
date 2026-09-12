@@ -1,279 +1,5 @@
 [
   {
-    "steamAppId": 5101960,
-    "title": "Dungeons & Dynasties",
-    "sourceUrl": "https://store.steampowered.com/app/5101960/",
-    "price": "価格情報なし",
-    "tags": [
-      "RPG",
-      "シミュレーション",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101960/b410c700f03fb3f65478e393cf864f90e7a1a57c/header.jpg?t=1788466136",
-    "japaneseSupport": "text",
-    "shortDescription": "『Football Manager』×D&D。英雄は死に、王朝は興る。領域はその両方を記憶する。すべての対戦がダンジョンとなる生きた世界で冒険者ギルドを率いよう。英雄は誰もが死に得る。そして、すべてのシーズンが歴史として記される。",
-    "aboutTheGame": "このゲームについて 72のライバルギルドが競う6部制リーグを駆け上がろう。創設者である英雄たちよりも長く残るものを築き、その王朝の歴史を読み返す。そこに書かれる物語は脚本ではなく、シミュレーションそのものが生み出したものだ。 問うべきは、伝説が生まれるかどうかではない。 あなたのギルドが、伝説を生み出せるほど長く生き残れるかどうかだ。 🗺️ 王なき領域 王冠は戦争によって失われた。最後まで残った組織はギルドだけだった。生き延びるために即席で作られた継承制度は、やがて競争へと姿を変えた。Crucible の勝者が、次の勝者が現れるまで領域を治める。その戦いの舞台は、かつて王座があった地、Ninefold Vale だ。 The Realm を開けば、そのキャンペーンのためだけにコードで生成された、手描き風の世界地図が現れる。固有の人々が暮らす7つの地域。山々、水没した海岸、森、川。 72のギルドはすべて、その地図上に実在する町を本拠地としている。そして町の数はギルドより少ない。つまり、最初の対戦が始まる前から憎み合っているライバルと、同じ街を分け合うこともある。 それがダービーだ。 英雄たちもこの土地の出身だ。戦争が起きれば、被害は地域全体に及ぶ。家族がそこにいる者は無関心ではいられない。故郷を守るために進軍すれば、彼らは新たな決意を胸に戦う。救援要請を無視すれば、誰が残ったのかを…",
-    "detectedAt": "2026-09-08T04:29:39.838Z"
-  },
-  {
-    "steamAppId": 2270670,
-    "title": "Backrooms:Betrayal",
-    "sourceUrl": "https://store.steampowered.com/app/2270670/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年10月28日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2270670/a5ffd624e6b09c5f8786aefad754ce5501db2106/header.jpg?t=1788850996",
-    "japaneseSupport": "none",
-    "shortDescription": "Maintain reality or watch it collapse. Backrooms: Betrayal is a co-op liminal horror game where the environment is the antagonist. Stabilize shifting sectors against a tide of entropy, but watch your team. Every failure has an explanation, but not every explanation is innocent.",
-    "aboutTheGame": "We are barely holding reality together long enough to survive. Backrooms: Betrayal is an intense, systemic cooperative multiplayer horror game centered on the desperate maintenance of reality within unstable Backrooms sectors. Players must explore shifting, procedurally-flavored spaces to calibrate generators, restore geometry, and contain an ever-accelerating wave of environmental collapse. The danger isn’t just lurking in the dark—it is the room itself.",
-    "detectedAt": "2026-09-08T08:29:42.244Z"
-  },
-  {
-    "steamAppId": 4433700,
-    "title": "過去でバズってVTuber -2018からならバズれるんじゃ！？",
-    "sourceUrl": "https://store.steampowered.com/app/4433700/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433700/6a9a1d134d48fa526192fe711478c59add7bc884/header_japanese.jpg?t=1788852368",
-    "japaneseSupport": "text",
-    "shortDescription": "VTuber黎明期の2018年へタイムリープ！？ 事務所が乱立する前のあの時代で、1年かけて「バズる」を目指す育成シミュレーション。ウィンドウや仮想カメラを取り込めば、あなた自身のアバターがゲーム内の配信画面に立ちます。目標を落としても時間は巻き戻せる——スキルだけは体が覚えたまま、何周でも。",
-    "aboutTheGame": "2018年。VTuber黎明期へ、タイムリープ。 事務所も、決まったやり方も、まだ何も無かったあの時代。 時間を巻き戻したあなたは、誰も知らないVTuberとして配信をはじめます。 1年間 で、登録者ゼロから「バズる」までたどり着けるか。 鍛えて、配信して、バズる トーク・制作・ゲーム・イラスト・歌—— 5つのステータスを上げながら配信を重ねる 、 シンプルな育成シミュレーションです。 その週のトレンドを読み、仕込みを重ねたぶんだけ「バズ」の目が上がる。 一発跳ねれば、数字は一気に変わります。 自分のアバターが、ゲームの中で配信する ウィンドウや仮想カメラをそのまま取り込める のが本作の芯です。 OBS / VTube Studio はもちろん、お使いの配信ソフトの画面をそのまま持ち込めます。 配信画面にもルーム画面にも、あなた自身のモデルが立ちます。 配信者でない方は、同梱のサンプル素材（シルエット）でそのまま遊べます。 落としても、時間は巻き戻せる 目標に届かなければタイムリープ。登録者もお金も消えますが、 スキルは体が覚えている 。回数制限はありません。何周でも強くなって戻れます。 そしてクリア後に待ち受ける「現実モード」 頑張れば夢が叶う——通常モードはそういうゲームです。 現実モードは違います。伸びない。報われない。 それでも配信を続ける人たちの重さを、体験として置いてあ…",
-    "detectedAt": "2026-09-08T08:29:42.776Z"
-  },
-  {
-    "steamAppId": 4516140,
-    "title": "Don't Let Granny Die!",
-    "sourceUrl": "https://store.steampowered.com/app/4516140/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516140/6532d88abcae4a0b468285719d50bbf412ff69ce/header.jpg?t=1788854236",
-    "japaneseSupport": "none",
-    "shortDescription": "Keep Granny alive during an increasingly chaotic shift while angry neighbours sabotage her home. Complete tasks, heal Granny and unlock roguelike upgrades in this crazy, absurd caretaking simulator.",
-    "aboutTheGame": "Wow, you just have the worst luck, don't you? You have been assigned to care for Mrs. Schroder, the meanest, craziest bag of bones your caretaking company looks after. She is extremely ungrateful and demanding, her neighbours are trying to kill her, the home she lives in is falling apart and for some reason she keeps calling you a pervert! Keep Mrs. Schroder alive during an increasingly chaotic shift in this absurd caretaking simulator with roguelike elements. Crazy Caretaking Simulator Ever wished you could clean up after a miserable old woman? Well now you can! Clean the home. Repair broken…",
-    "detectedAt": "2026-09-08T08:29:43.319Z"
-  },
-  {
-    "steamAppId": 4885400,
-    "title": "箱押しマスター",
-    "sourceUrl": "https://store.steampowered.com/app/4885400/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885400/fed67481a8ed357bc8f7b9cbc20b19095319a29a/header_japanese.jpg?t=1788846198",
-    "japaneseSupport": "text",
-    "shortDescription": "『箱押しマスター』は、美しく構築された3D空間で伝統的な倉庫番スタイルのパズルを楽しめる3Dブロックパズルゲームです。ルールは「箱は押すことしかできない」という極めてシンプルなものですが、舞台が3Dになったことでパズルとしての手応えと視覚的な楽しさが大幅にパワーアップ。プレイヤーは3D空間ならではの奥行きや様々なカメラ視点をフルに活かしながら、多角的な思考で最適なルートを見つけ出す必要があります。初心者からコアゲーマーまでじっくり楽しめる奥深い立体パズルです。",
-    "aboutTheGame": "『箱押しマスター』は、シンプルながらも奥が深い3Dパズルゲームです。ルールは極めてシンプル。ステージ上にあるすべての「箱」を、指定された「ゴール」まで押し進めるだけ。しかし、3Dによる、視覚的な楽しさとパズルとしての手応えがきもちいい！ ◆ ゲームの特徴 直感的かつ立体的な3Dパズル：従来の2Dパズルとは異なり、3D空間ならではの奥行きやカメラワークを活かしたステージ構成。多角的な視点からルートを見つけ出す爽快感が味わえます。 シンプルかつ洗練されたルール：「箱は押すことしかできない（引くことはできない）」という倉庫番ライクな基本ルールはそのまま。パズルゲーム初心者から、頭脳派のコアゲーマーまで誰でもすぐに楽しめます。 じっくり考えられる親切設計：時間制限やお手上げになる心配はありません。一歩戻す機能やリトライ機能を駆使して、自分のペースでじっくりと最適な解法を導き出すことができます。 簡単そうに見えて、一筋縄ではいかない。あなたの知恵と空間認識能力をフルに活用し、すべてのステージをクリアして「真の箱押しマスター」を目指しましょう！",
-    "detectedAt": "2026-09-08T08:29:43.828Z"
-  },
-  {
-    "steamAppId": 5020120,
-    "title": "钓穿云海：天穹求生",
-    "sourceUrl": "https://store.steampowered.com/app/5020120/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020120/30f8445a67442b599fd39be0e3e3b01610264389/header.jpg?t=1788851199",
-    "japaneseSupport": "none",
-    "shortDescription": "Fishing Through Clouds: Sky Survival is a strategic survival game combining fishing‑survival, sky‑island building, Roguelike and innovative tower defense. Fish for resources by day, repel interdimensional monster hordes with allies at night, and build your own sky stronghold within the 28‑day cycle.",
-    "aboutTheGame": "Everything Begins With One Cast. All you possess is a lonely island, and a fishing rod. Below you lies a bottomless sea of ​​clouds. And there, the entire world is buried. Forget Mining. Forget Chopping. Just Cast. Every Cast Makes Home Bigger. Monsters Don't Walk Around Them. They Walk Through Them. DESIGN HOW THEY DIE. One Cast，One world Cast. Build. Survive. Everything Comes From Fishing. Your Allies Are The Path. Design How They Die. Above The Clouds.",
-    "detectedAt": "2026-09-08T08:29:44.364Z"
-  },
-  {
-    "steamAppId": 5101990,
-    "title": "CHROMATIC CRISIS",
-    "sourceUrl": "https://store.steampowered.com/app/5101990/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101990/f24ec4815c980e0473a9d709fd5a55896c80962c/header.jpg?t=1788627558",
-    "japaneseSupport": "none",
-    "shortDescription": "CHROMATIC CRISIS is a colorful metroidvania with unique mechanics! Try to get out of these artificial biomes and save the colors of the real world!",
-    "aboutTheGame": "Explore an interconnected world with glowy pixel graphics and an original electronic soundtrack! EXPLORE THE WORLD Discover a colorful glowing world full of mechanisms Progressively unlock new locations as you get closer to your ultimate goal DESTROY THE VESSELS Face off against unique bosses that require you to use your new skills Dodge creative attacks and analyze your enemies' weaknesses USE YOUR POWERS Discover unusual mechanics Combine your different powers to overcome new challenges RECOVER THE COLORS Bring back the colors by breaking the vessels Save the world from grayness",
-    "detectedAt": "2026-09-08T08:29:44.988Z"
-  },
-  {
-    "steamAppId": 5102180,
-    "title": "文艺战线 Cultural Front",
-    "sourceUrl": "https://store.steampowered.com/app/5102180/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102180/60c5e5cbc5e5ec5ecd7fef4768030f924d00a593/header.jpg?t=1788236635",
-    "japaneseSupport": "none",
-    "shortDescription": "Comrade, half China fallen, million dead. Can last pen be weapon? Rally literary stars—pen as knife, faith as sword. Fascists break pens; you turn it into a gun!",
-    "aboutTheGame": "“In the face of invaders, literature and art cannot stop bullets. But they can make more people pick up guns.” During the War of Resistance, the nation was shattered. As a left‑wing underground Party member, can you protect the pens of the Chinese people, so that in the darkest and most humiliating years, they write the hottest and sharpest words? Lu Xun’s criticism, Cao Yu’s plays, Tian Han’s lyrics, Xiao Hong’s novels—can you use them to awaken the nation’s hatred and spur the people’s resistance? Zhang Henshui’s popular fiction, Zhang Ailing’s free‑spirited prose, Wen Yiduo’s polemics, Yu D…",
-    "detectedAt": "2026-09-08T08:29:45.512Z"
-  },
-  {
-    "steamAppId": 5102190,
-    "title": "YokaiRou: Shoppe of Mystique",
-    "sourceUrl": "https://store.steampowered.com/app/5102190/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102190/ab3a68eef014dee1c969e32eab23c4f5b99061ef/header.jpg?t=1788623523",
-    "japaneseSupport": "none",
-    "shortDescription": "A cozy supernatural mystery about listening to your customers' stories, uncovering the yokai troubling them through divination and deduction, and finding the right ritual to set things right.",
-    "aboutTheGame": "Customers come to your shop carrying stories , secrests ... and sometimes yokai . Run a quiet shop in Japan where the supernatural is part of everyday life. Listen to your customers' stories and uncover clues through tea leaf reading , aura sensing , dream scrying , crystal attunement , and more . Uncover what happened in their lives. Don't let the yokai mislead you . Piece together what’s really going on and choose the right ritual to cleanse what haunts them. Prepare teas , grow and grind herbs , brew potions , and make the shop and garden your own. You may even get a visit from a mysterious…",
-    "detectedAt": "2026-09-08T08:29:46.061Z"
-  },
-  {
-    "steamAppId": 5102300,
-    "title": "STARLINERS",
-    "sourceUrl": "https://store.steampowered.com/app/5102300/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102300/d04500309ea9f3bee7f61291e8eac58e780667cd/header.jpg?t=1788724639",
-    "japaneseSupport": "none",
-    "shortDescription": "From Earth to the Moon and beyond, build and manage the infrastructure of a growing civilization. Colonize the planets and moons of the Solar System, establish interplanetary logistics, and construct an ark ship to carry humanity beyond the stars.",
-    "aboutTheGame": "Build a Civilization Across the Solar System Build infrastructure across the planets and moons of the Solar System. Extract resources, develop industries, and establish colonies as humanity expands beyond Earth. Connect Your Worlds Manage your fleet of ships and transport resources between your colonies. Build an interplanetary logistics network and keep your growing civilization supplied. Discover New Technologies Earn different fields of science to unlock new buildings, production chains, and upgrades. Improve your infrastructure and gradually automate your logistics with advanced technologi…",
-    "detectedAt": "2026-09-08T08:29:46.573Z"
-  },
-  {
-    "steamAppId": 5102340,
-    "title": "地底の味わい",
-    "sourceUrl": "https://store.steampowered.com/app/5102340/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102340/86a1596dae678dc27655302662620daa0f8fb9c0/header.jpg?t=1788474045",
-    "japaneseSupport": "none",
-    "shortDescription": "Flavours Beneath is an active incremental game where you shoot roots into a moving track and match them into dishes. Earn bottle caps and use them to upgrade the underground tavern your aunt left behind.",
-    "aboutTheGame": "Flavours Beneath is an active incremental game. You take over the old tavern your aunt left behind and start making a living underground. Fire roots into a moving track, match them up to make dishes, sell what you cook, then put the bottle caps you earn right back into the restaurant. Run things well enough, and a few potatoes might just grow into a proper business. Let's make something to eat Fire potatoes, radishes, sweet potatoes, and other root vegetables into the track. Get enough of the same ingredient together, and they'll turn into a dish! A good match pulls the track back together, op…",
-    "detectedAt": "2026-09-08T08:29:47.086Z"
-  },
-  {
-    "steamAppId": 5102380,
-    "title": "Fish & Chips",
-    "sourceUrl": "https://store.steampowered.com/app/5102380/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102380/5e2e0db3c3fc1a0679dc3f764475e2b8e8a16f4a/header.jpg?t=1788198708",
-    "japaneseSupport": "none",
-    "shortDescription": "Fish & Chips is a board-game inspired fishing game where you’ll fulfill your dream of becoming a fisherman. By learning the fishes pattern you could master each zone and buy upgrades to unlock new ones. Get hooked by its addictive incremental loop as you uncover mysteries and fill your encyclopedia.",
-    "aboutTheGame": "Fish & Chips is a board-game inspired fishing game where you’ll fulfill your dream of becoming a fisherman. By learning the fishes pattern you could master each zone and buy upgrades to unlock new ones. Get hooked by its addictive incremental loop as you uncover mysteries and fill your encyclopedia. Key Features: Keep track of all the species captured in your own encyclopedia. Fish and sell species with individualized patterns of movement. All of the cards of the game are hand drawn. Casual game with mysteries to uncover. Build your deck through an incremental loop and discover new achievement…",
-    "detectedAt": "2026-09-08T08:29:47.720Z"
-  },
-  {
-    "steamAppId": 5102590,
-    "title": "Champions Of Thaloria",
-    "sourceUrl": "https://store.steampowered.com/app/5102590/",
-    "price": "無料",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102590/d1da12726f943e186cb4f968d1b852bbf9004b8e/header.jpg?t=1788461877",
-    "japaneseSupport": "text",
-    "shortDescription": "An online fantasy RPG in a city built on the scar where two gods destroyed each other. Fight in real-time party combat as a Paladin, Wizard, or Fallen outcast, clear dungeons, upgrade your gear at the forge — and step into a PvP Arena where every cosmetic bonus is switched off.",
-    "aboutTheGame": "⚠️ IN DEVELOPMENT Champions of Thaloria is being built by a single developer and is still in active development. Everything shown on this page — screenshots, video and artwork — comes from a work-in-progress build. Interfaces, systems and visuals will keep changing before release, and features may be added, reworked or removed along the way. What you see here is where the game is today, not where it will be at launch. TWO GODS DESTROYED EACH OTHER. HUMANITY BUILT ITS LAST CITY UPON THE RUINS. Long before recorded history, Aethel-Sol, the Blinding Light, and Syren-Gha, the Untamed Wild, waged a…",
-    "detectedAt": "2026-09-08T08:29:48.239Z"
-  },
-  {
-    "steamAppId": 5102610,
-    "title": "ピニャータをボコせ！",
-    "sourceUrl": "https://store.steampowered.com/app/5102610/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102610/18d445bce240aad9ed401f2c0cf4065a16894d0d/header.jpg?t=1788743812",
-    "japaneseSupport": "text",
-    "shortDescription": "このカラフルなインクリメンタルゲームで頼もしいバットを手に取り、ピニャータを叩き潰そう。 武器を購入し、アップグレードをし、リバースして奇妙な家を建設。 全てが可愛くて、何もかも順調。 だがピニャータは絶対に生きてない。",
-    "aboutTheGame": "『ピニャータをボコせ！』は、ピニャータを叩き潰し、キャンディを集め、武器を強化し、プレイを重ねるごとに強くなっていくピクセルアートのインクリメンタルゲームです。 爽快な破壊感 武器を手に取り、叩き潰そう！ アップグレードを重ねるごとにパワーアップし、さらに多くのキャンディが飛び散り、あの心地よい「ポコン！」という音が耳に響きます。 リバース＆家づくり リバースすると以前よりも強くなって再スタートし、お家に建設できる新しいアイテムがアンロックされます。 これにより、プレイを重ねるごとにさらに先へ進むことができます。 心配無用 全て正常、大丈夫。 ここには奇妙なことは何も起きていません。 だからリラックスして、ピニャータを叩き潰しながら楽しい時間を過ごしましょう。 特徴 爽快な破壊 — ピニャータを叩き潰し、キャンディを集め、スコアが伸びていくのを見届けましょう。 段階的な成長 — 武器やアップグレードを購入して、どんどん強くなっていこう。 リバースシステム — 進行状況をリセットして、永続的なメリットや新しいコンテンツをアンロックしよう。 お家の建設 — 進行に合わせて、奇妙で新しいアイテムをアンロックしてお家に追加していこう。 プレイ時間、約3時間 — 隠された秘密を探りながら楽しめる、コンパクトな段階的成長型ゲーム体験。 彼らは生きてなんかいないよ！(笑)",
-    "detectedAt": "2026-09-08T08:29:48.763Z"
-  },
-  {
-    "steamAppId": 5102620,
-    "title": "与樱羽艾玛相迎的终点",
-    "sourceUrl": "https://store.steampowered.com/app/5102620/",
-    "price": "無料",
-    "tags": [
-      "RPG",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102620/42a8b46cca0ab0ca6bc16eea4b162d14aa3c28b8/header.jpg?t=1787670483",
-    "japaneseSupport": "none",
-    "shortDescription": "“大家都去死、就最好了吗？”...预备魔女们的故事告一段落，未来与幸福归返。可在【某处】，尚且有灵魂处于沉沦...镜头重新聚焦于堕为非人之物，本不能迎来救赎的她。无穷苦难中，些许因由堆叠， 与那残破不堪的心相牵连，由此书写另一种可能——【本作系魔法少女的魔女审判的免费同人游戏，一起作为共犯传播魔女因子吧！】",
-    "aboutTheGame": "🌸🌸🌸 请注意！本作系《魔法少女的魔女审判》的免费同人游戏，您亦可在steam对其进行搜索，品味预备魔女们的物语。 本游戏不包含任何带有商业性质，旨在谋取收益的付费内容，且不能代表官方的塑造或表达，请注意甄别，避免混淆！ 已向原作方详细求询，能够确保在合规前提下活动，您亦可查阅官方网站上的二创指南条款进行确认。 《魔法少女的魔女审判》是由来自日本的Acacia制作，Re，AER发行，于2025年7月18日上线的推理ADV游戏。 在此，向带来美好回忆的故事创作者与各位玩家致以最大的敬意，请一起成为【共犯】，传播魔女因子吧！ 恳请您务必支持正版，以适当且良好的方式享受二次创作的乐趣。另外，敬请期待筹备中的多语言版本！ 『桜羽エマと求め合う終焉』は、『魔法少女ノ魔女裁判』のファンによる非公式無料同人ゲームです。『魔法少女ノ魔女裁判』は、Acaciaが制作し、Re・AERが配信を行う推理ゲーム作品です。本ゲームには、有料コンテンツは一切含まれておりません。本作につきましては、二次創作としての適合性（コンプライアンス）に関して、敬愛する権利元様に詳細なご相談をさせていただき、本作の活動が公式ガイドラインに適合していることを確認しております。あわせて、公式二次創作ガイドラインもご参照ください。なお、本作はいかなる公式の設定・表現を代表するものではございませんので、十分にご甄別いただき、混…",
-    "detectedAt": "2026-09-08T08:29:49.269Z"
-  },
-  {
     "steamAppId": 5102640,
     "title": "Pawn'd Chess",
     "sourceUrl": "https://store.steampowered.com/app/5102640/",
@@ -8724,5 +8450,422 @@
     "shortDescription": "韓国で小口の個人投資家は「アリ（개미）」と呼ばれます。あなたはその一匹。韓国株式市場をモデルにした、変動の激しい金融サバイバルシミュレーションを生き抜きましょう。チャートの奥にあるマクロの流れを読み、資産を配分し、予測不能な暴落を耐え抜くのです。ソロでも、最大4人が同じ市場で成績を競うマルチプレイでも。",
     "aboutTheGame": "韓国では、小口の個人投資家は「アリ（개미）」と呼ばれます。機関投資家や大口に比べて力は弱く体も小さい――けれど、市場に無数に群がる存在。ANT SIMULATORでは、あなたはその一匹です。 今このときから、あなたは一匹のアリとして過酷な金融市場を生き抜かねばなりません。リスクを取って全財産を高リスク商品に賭けることも、安全のためにポートフォリオを管理し、ヘッジによって下落相場でも無傷で切り抜けることもできます。ただ一つ心に留めておいてください。これは熾烈なサバイバルシミュレーションです。市場に負けても恥ではありません。どう攻略し、どうリスクを管理するかを考え抜きましょう。 特徴 ANT SIMULATORは、韓国株式市場の次のような側面を反映しています。 増幅されたボラティリティ ANT SIMULATORの市場は実際の韓国市場をモデルにしていますが、数か月の流れを10〜40日に圧縮しているため、ボラティリティも実際より意図的に大きく設定しています。短い時間の中で上昇相場も下落相場も体験できるようにするためです。 ANTPIの日次ボラティリティ中央値： 2.08% ANTPIの年率換算ボラティリティ中央値： 33.04% （下位5%〜上位95%：26.49%〜39.04%） 参考までに、実際の2025年のKOSPIの日次ボラティリティはおよそ0.5〜0.7%、年率換算で8〜11%…",
     "detectedAt": "2026-09-12T16:28:51.312Z"
+  },
+  {
+    "steamAppId": 3104950,
+    "title": "Seamies",
+    "sourceUrl": "https://store.steampowered.com/app/3104950/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3104950/aba2b65b45ea50d50ad7cd91046e47873ed08411/header.jpg?t=1789235547",
+    "japaneseSupport": "none",
+    "shortDescription": "Build and decorate your dream island home. Trade with the locals, farm, fish, or go treasure hunting. Upgrade your island by completing unique jobs. Or simply relax by cooking for your friends.",
+    "aboutTheGame": "Customize your Seamies with your friends, live on an island with other animal or fantasy inhabitants, build your house wall by wall freely, and decorate it with all kinds of furniture. Trade with the inhabitants: sell fish or vegetables from your farm; buy fertilizers, trees, and all kinds of plants to create the garden of your dreams. Craft better tools with minerals from caves and upgrades found in treasures. Explore the Seamies islands! Have fun with your friends cooking advanced recipes to get more energy or health, try to catch the biggest fish, the best from your farm, and complete your…",
+    "detectedAt": "2026-09-12T20:28:59.120Z"
+  },
+  {
+    "steamAppId": 3824140,
+    "title": "Evomon World",
+    "sourceUrl": "https://store.steampowered.com/app/3824140/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824140/6c164ede9bff0be956c298e2e6ec816e8ec4453b/header.jpg?t=1789233039",
+    "japaneseSupport": "none",
+    "shortDescription": "Guide player and your monster friend on an journey of discovery, adventure and exploration.",
+    "aboutTheGame": "Meet Your New Best Friends ! Welcome to Evomon World a Monster Taming RPG - Cute and cool creatures to discover, collect, tame, and train. - Breed or cross monsters to create stronger offspring with unique special abilities - Battle in an innovative auto-battle system where you, as the trainer, can command, heal, and even capture monsters - Rare and special “Ara Evomons” monsters “Where Wild Things Brawl” When thieves kidnap Tuya, the town elder, and flee to the mysterious Black Rock, Evotopia’s young hero Flynn is swept up in a great adventure. Flynn must recruit, train, and raise the most po…",
+    "detectedAt": "2026-09-12T20:28:59.810Z"
+  },
+  {
+    "steamAppId": 4507180,
+    "title": "Aegis Of Kings",
+    "sourceUrl": "https://store.steampowered.com/app/4507180/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507180/7f424d396082917049fae1dd45f0ba4f7257b1bf/header.jpg?t=1789236802",
+    "japaneseSupport": "text",
+    "shortDescription": "Lead your kingdom to victory in this sandbox grand strategy RPG. Command heroes and monsters, capture castles, and customize your forces to your needs. Fight for the Aegis solo, join friends in co-op, or face rivals head-to-head.",
+    "aboutTheGame": "Lead your kingdom to battle in Aegis of Kings , a grand strategy RPG that blends kingdom-wide conquest with strategic battles. Assemble armies of commanders and monsters, defend your borders, and attack enemy strongholds. Plan your campaign across a world map, then command your forces on the battlefield, where positioning, army composition, and each unit’s strengths can turn the tide of war. Develop your commanders through battle, unlock advanced classes, and combine abilities through multi-classing. Shape each hero’s progression to build an army that reflects your strategy. Class up your comm…",
+    "detectedAt": "2026-09-12T20:29:00.463Z"
+  },
+  {
+    "steamAppId": 4695990,
+    "title": "$pell $lot",
+    "sourceUrl": "https://store.steampowered.com/app/4695990/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695990/47b81b0df526ce612abaa4d85345b54e6739c256/header.jpg?t=1789240847",
+    "japaneseSupport": "none",
+    "shortDescription": "ETS! CASH! AND LOAN SHARKING! ABSURD AMOUNTS OF CASH IN YOUR ACCOUNT ARE WHAT KEEP EVERYONE'S LIFE SPINNING IN $PELL $LOT! A PLACE WHERE MONEY IS TIME — OR RATHER, LIFETIME! FEED YOUR VICES AND BET IT ALL TO, PROBABLY, GAIN POWER AND EVEN MORE CASH!",
+    "aboutTheGame": "BETS! CASH! AND LOAN SHARKS! Welcome to $PELL $LOT, a chaotic survival game where money is power and luck is everything! Fight endless waves of enemies, collect cash, and spin the roulette to get powerful buffs that can completely change your run. Take risks, and gamble your way to the top. THE HOUSE DOESN'T ALWAYS WIN.",
+    "detectedAt": "2026-09-12T20:29:01.030Z"
+  },
+  {
+    "steamAppId": 4811850,
+    "title": "ドラゴンブラッド～竜の呪いで神に復讐を誓うRPG～",
+    "sourceUrl": "https://store.steampowered.com/app/4811850/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811850/8a732f8c6dfaa61455f6e12ac0893e95b54c62f7/header_japanese.jpg?t=1789244913",
+    "japaneseSupport": "text",
+    "shortDescription": "On that day, the dragons incurred the wrath of God and their village was burned to the ground, bereaving a half-dragon girl of everything she held dear. On that day, Iris swore revenge.",
+    "aboutTheGame": "On that day, the dragons incurred the wrath of God and their village was burned to the ground, bereaving a half-dragon girl of everything she held dear. On that day, Iris swore revenge. Years later as a woman, Iris sets out on a journey to gain the power she needs to kill God so that she and her kin can finally know peace and pass from this world. Play as Iris, a half-dragon who travels the world seeking Dragon Relics so that she may kill them and accept their power and their curse. With each one, she takes another step closer to her ultimate goal of slaying God, but in her way stands his oppr…",
+    "detectedAt": "2026-09-12T20:29:01.565Z"
+  },
+  {
+    "steamAppId": 4823660,
+    "title": "MMORPG Sandbox",
+    "sourceUrl": "https://store.steampowered.com/app/4823660/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823660/c48454cce2808e1fb85527295aa9fd92258aa954/header.jpg?t=1789232993",
+    "japaneseSupport": "none",
+    "shortDescription": "Make your own 3D MMORPG and play it with others. Create custom classes, quests, items, skills, loot. Build classic-style MMORPG worlds in a real-time synced multiplayer editor. Share a link to your MMORPG to make it instantly available online.",
+    "aboutTheGame": "MMORPG Sandbox is a game where you build your own 3D MMORPG. You can instantly play it online with others. You can also build together in the same sandbox. Changes to the terrain, NPCs, items and more are instantly playable live as you make them. Features & Gameplay Item Editor Custom Classes NPC Maker Quest Maker Zone Editor Condition Editor Custom Stats and Spell Schools Customize NPCs encounter mechanics Customize NPC skill behavior Optional Multi-class Real-time multiplayer Builder Mode Third / First Person Modes",
+    "detectedAt": "2026-09-12T20:29:02.111Z"
+  },
+  {
+    "steamAppId": 4828330,
+    "title": "Pixel Run",
+    "sourceUrl": "https://store.steampowered.com/app/4828330/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828330/46c82dc330bb15d4008a1ecad749168a247ea5f4/header.jpg?t=1789234419",
+    "japaneseSupport": "none",
+    "shortDescription": "Choose your weapons, create your build, and survive chaotic pixel art runs against waves of enemies.",
+    "aboutTheGame": "Choose your weapons, create your build, and survive chaotic pixel art runs against waves of enemies. Level up during each run, collect experience, unlock powerful upgrades, and combine different weapons to fight through increasingly dangerous enemies. Every run gives you a new chance to grow stronger and push further. Pixel Run is designed around fast, replayable runs with simple controls, different characters, and screen-filling action. Developer Note: Pixel Run is being developed by a solo student developer. I’m still improving the game step by step, so feedback, suggestions, and comments ar…",
+    "detectedAt": "2026-09-12T20:29:02.662Z"
+  },
+  {
+    "steamAppId": 4922180,
+    "title": "Payday Poker",
+    "sourceUrl": "https://store.steampowered.com/app/4922180/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4922180/2234d40ca49a60a3dc1da1148769e2260d4e34f9/header.jpg?t=1789236176",
+    "japaneseSupport": "none",
+    "shortDescription": "Play a fresh spin on traditional Poker with Payday Poker. Play as one of several outlaws all wagering their own cut of the spoils as you duke it out to take the entire stack home. Are you ready? NOW DRAW!",
+    "aboutTheGame": "Payday Poker is a new way to play Poker. Choose to keep your 8 card hand or discard cards and redraw to get a better set. You battle it out with other members of the Iron Diamonds Gang as you fight to take the biggest cut of them all, the whole Payday! Play Poker like you've never played it before! Payday Poker takes what you love about traditional Poker and adds a fresh twist to the card game. Play with 8 cards in hand and 3 total discards over two hands. Use skill and luck to discard the right cards and create a legendary poker hand to crush your opponents and take the payday for yourself. T…",
+    "detectedAt": "2026-09-12T20:29:03.235Z"
+  },
+  {
+    "steamAppId": 4952180,
+    "title": "ToFaYun 2000",
+    "sourceUrl": "https://store.steampowered.com/app/4952180/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952180/b16397c0bbeb30e64e5655d4b57c0826964255ed/header.jpg?t=1789235115",
+    "japaneseSupport": "none",
+    "shortDescription": "《桃花源二千: 離律之源》是一款香港漫畫風格的推理視覺小說。二千年前的桃花源至今仍然存在，只是暗中觀察著現世的變遷，發展出另一種世界文明。你將化身玄族人，透過道法與現世科技融的「手乩」搜集線索、選擇走向與推理劇情。然而玄族官府的高壓管治，令人變得相當警惕，你必需注意言行，在適當時候切換「謹慎模式」，否則會令人對你起疑，甚至招來橫禍。另一方面，自然界無處不在的「泛靈」，在對你作出誘導的同時，背後似乎有著某種不明的動機。你能否從不起眼的細節，找出恐怖襲擊的元兇，阻止一場人為災難？",
+    "aboutTheGame": "《桃花源二千: 離律之源》是一款香港漫畫風格的推理視覺小說。二千年前的桃花源至今仍然存在，只是暗中觀察著現世的變遷，發展出另一種世界文明。你將化身玄族人，透過道法與現世科技融的「手乩」搜集線索、選擇走向與推理劇情。然而玄族官府的高壓管治，令人變得相當警惕，你必需注意言行，在適當時候切換「謹慎模式」，否則會令人對你起疑，甚至招來橫禍。另一方面，自然界無處不在的「泛靈」，在對你作出誘導的同時，背後似乎有著某種不明的動機。你能否從不起眼的細節，找出恐怖襲擊的元兇，阻止一場人為災難？",
+    "detectedAt": "2026-09-12T20:29:03.783Z"
+  },
+  {
+    "steamAppId": 5043330,
+    "title": "Snake Echos",
+    "sourceUrl": "https://store.steampowered.com/app/5043330/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年10月15日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043330/8ec8506e77a26978acb10572cdcd4f49688e16fe/header.jpg?t=1789231548",
+    "japaneseSupport": "none",
+    "shortDescription": "\"Snake Echos: your trail hardens into deadly walls. Loop enemies into your own path, level up with Magnet/Fireball/Scythe abilities, survive escalating chaos with blocks and lasers. Solo leaderboard + Duel mode. 3 difficulty tiers.",
+    "aboutTheGame": "--- SNAKE ECHOS Your trail is your weapon. Snake, but your own tail turns against you. Lay down a trail and a few seconds later it hardens into a wall — one that can kill you if you double back into it, but that you can also lure enemies into. Time your loops right and your own path becomes your best weapon; get greedy and it becomes the thing that ends your run. Solo Mode Kill enemies, gain XP, and level up. Each level-up offers three cards: two random picks from Magnet, Fireball, Scythe, or a stackable Aura/star-charge, plus Score Boost — always available, a guaranteed +5% score-per-level fo…",
+    "detectedAt": "2026-09-12T20:29:04.421Z"
+  },
+  {
+    "steamAppId": 5080410,
+    "title": "Cinema Tycoon",
+    "sourceUrl": "https://store.steampowered.com/app/5080410/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080410/3a288c271d91237d9617677c9e779ed1bfa26786/header.jpg?t=1789235913",
+    "japaneseSupport": "none",
+    "shortDescription": "Build and manage your own cinema empire in Cinema Tycoon. License movies, plan screenings, hire and train staff, run the food court, launch marketing campaigns, compete with rival cinemas, expand to new locations, and grow your reputation on the way to becoming the best cinema owner in the world.",
+    "aboutTheGame": "Build Your Own Cinema Empire Start with a single cinema and turn it into a growing entertainment business. In Cinema Tycoon , you manage everything behind the scenes — from choosing movies and setting showtimes to hiring staff, running the food court, advertising your cinema, and competing with rival companies. Choose What to Show Build your movie library by purchasing licenses for different films. Keep an eye on genre trends, popularity, ratings, and audience interest when deciding what deserves a place on your screens. Movies won't stay popular forever, so changing your lineup is an importan…",
+    "detectedAt": "2026-09-12T20:29:05.184Z"
+  },
+  {
+    "steamAppId": 5083880,
+    "title": "The Community Notes Are Wrong",
+    "sourceUrl": "https://store.steampowered.com/app/5083880/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083880/f46fa9e29fc28274764cca81573442d26cb01cbe/header.jpg?t=1789240937",
+    "japaneseSupport": "none",
+    "shortDescription": "A bisexual singer goes viral after being caught kissing a man, shattering the image her fans built around her. Navigate fame, social media, biphobia, and messy romance in this otome/yuri visual novel.",
+    "aboutTheGame": "Ayla Solace rose to fame through raw, emotional songs about the woman she loved. Her fans see her as the perfect \"lesbian icon.\" Her agency sees her as a brand that should stay easy to sell . Though the lesbian label never accurately described her, Ayla leaned into it to avoid disappointing her community… and to appease her ex-girlfriend, who didn't like the word bisexual . Ayla's world shatters when a quiet date with a male barista is caught on camera and goes viral. Her bisexual identity suddenly public, Ayla must now navigate the intense biphobia and scrutiny of a social media firestorm. Pl…",
+    "detectedAt": "2026-09-12T20:29:05.728Z"
+  },
+  {
+    "steamAppId": 5086090,
+    "title": "Papercut Warzone",
+    "sourceUrl": "https://store.steampowered.com/app/5086090/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086090/ecd553d885a5f8843ddd143301390178a2ea6d8d/header.jpg?t=1789241088",
+    "japaneseSupport": "none",
+    "shortDescription": "Take command of a papercut tank and build your legend one duel at a time. Land the perfect shot, seize game-changing support, claim trophies from defeated rivals, and master an endless Career across a papercut theatre of war.",
+    "aboutTheGame": "TAKE COMMAND The curtain rises. Your tank rolls onto a papercut stage, its next rival waiting across the battlefield. Move into position, read the room, and decide how this duel will be remembered. MAKE THE SHOT COUNT Every shell begins with a choice. Adjust the barrel, study the live arc, hold to build power, and release when the shot feels right. Your rival can move and answer, so each exchange demands a fresh firing solution. TURN THE BATTLE When a supply drop descends, the duel changes. Seize it to launch an FPV drone, call bomber support, mount anti-aircraft defense, or repair in the fiel…",
+    "detectedAt": "2026-09-12T20:29:06.285Z"
+  },
+  {
+    "steamAppId": 5107680,
+    "title": "Arena Immortalis",
+    "sourceUrl": "https://store.steampowered.com/app/5107680/",
+    "price": "無料",
+    "tags": [
+      "MM（Massively Multiplayer）",
+      "RPG",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年9月7日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107680/fb7315f8fab0cd26ff43b6f6a33044f7506bbf12/header.jpg?t=1788866754",
+    "japaneseSupport": "none",
+    "shortDescription": "基本プレイ無料のブラウザ剣闘士RPG。育てる戦士は一人だけ。オフライン中も訓練させ、実プレイヤーとELOを賭けて戦う。十幕のストーリー、力に必ず代償が伴う29種のユニーク装備、ローマ属州を巡る養成所同士の戦争。同じ相手に2回負ければ、そいつはあなたのネメシスになる。",
+    "aboutTheGame": "剣闘士は一人。あなたが離れている間も、彼は鍛え続ける。 Arena Immortalisは、独自の時間で動き続ける基本プレイ無料の剣闘士RPG。育てるのはたった一人の戦士。やることを指示したら、タブを閉じていい。訓練は完了し、遠征隊は戻り、闘技場の順位は動く。戻ってきたとき、何かが起きている。 1回のプレイは数分。夜を丸ごと使う必要はない。それでもこの剣闘士とは、数か月付き合うことになる。 一日の流れ ステータス訓練とミッションをセット。スタミナは闘技場に注ぐか、ダンジョン攻略に使う。眠っている間に養成所（ルドゥス）で何が揉めていたのかを読む。保有する属州を襲われる前に、金貨を金庫へ預ける。 あとは放っておくだけ。ゲームは進み続ける。 四つの戦い方 ムルミロ は盾を構え、一歩も引かない。 レティアリウス は網の間合いで戦い、こちらの刃は決して届かない。 ディマカエルス は二刀を握り、防御は一切ない。 ベスティアリウス は獣を連れてくる。 ステータスは6種類。どれも戦闘の計算式を書き換える。「筋力」は一撃の重さ、「器用」は勝負を終わらせるクリティカル、「敏捷」は刃が落ちる場所にいないための力、「耐久」は判断ミスを生き延びる力、「知力」は敵の切っ先を鈍らせ、「魅力」は死体から引き出す金貨を増やす。レベル10まで振り直しは無料。早いうちに試して、あとで腹を決めればいい。 何度も君を倒して…",
+    "detectedAt": "2026-09-12T20:29:07.004Z"
+  },
+  {
+    "steamAppId": 5107720,
+    "title": "G.O.T.",
+    "sourceUrl": "https://store.steampowered.com/app/5107720/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107720/5db2d570bb901843835cd856954be5f512e9fd12/header.jpg?t=1788278399",
+    "japaneseSupport": "none",
+    "shortDescription": "A reimagining of a 1990s classic. Battle enemy tanks, destroy bases, and earn points to spend on upgrades, bonuses, and new vehicles. You can also train your tank crew using earned experience points",
+    "aboutTheGame": "A reimagining of a 1990s classic. Top-down shooter on random generated levels. Your goal is to destroy opponent's base. You will loose if your base is destroyed Features you can upgrade and buy new tank parts lile cannon, chassis and turret buy, sell or collect various bonuses, which you can use on level train your crew using experience points erned on level",
+    "detectedAt": "2026-09-12T20:29:07.564Z"
+  },
+  {
+    "steamAppId": 5107740,
+    "title": "大英博士物語",
+    "sourceUrl": "https://store.steampowered.com/app/5107740/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107740/081e002e10ffe2e82b39371be027218a7d12c77f/header_japanese.jpg?t=1788838300",
+    "japaneseSupport": "text",
+    "shortDescription": "イギリスで博士号を生き延びるピクセルアート生活シミュレーション。時間をやりくりし、論文を書き、釣りをし、恋をして、カジノで運を試すこともできる。手厳しい査読者、迫る締め切り、そして最後の口述試問は、すべてターン制のカードバトルになる。自分の研究からデッキを組んで、どこまで行けるか試そう。",
+    "aboutTheGame": "『大英博士物語』は、イギリスで博士課程を送る中国人留学生の日常を描いたピクセルアート生活シミュレーションです。論文の締め切りに追われ、指導教員に会い、故郷を懐かしむ。そこにカードバトルが加わります。あらゆる議論、あらゆる口述試問、あらゆるゼミ発表が、申し込んだ覚えのないボス戦になるのです。 学費を払い、荷物をまとめ、ヒースローからシェフィールドの下宿までのどこかで、あなたは博士課程の学生になっていました。生き延びるのにカードが要るとは、誰も教えてくれませんでした。 論文の進捗だけでなく、一日そのものを管理する ——起きている一時間一時間がすべて意味を持ちます。書く、読む、料理する、運動する、あるいはただぼんやりする。ですが時計と締め切りは、あなたを待ってはくれません 論文の外にも、一日はまだ長い ——公園の湖畔で午後いっぱい釣りをし、カジノでサイコロに二度ばかり賭け、バイトで稼いで腰を痛めない椅子を買う。どれも論文は進みませんが、次の大一番にどんな状態で臨むかを決めるのはこちらです 自分の論点でデッキを組む ——指導教員ごとに異なる系統のスキルカードを学び、限られた枠の中で厳選し、あらゆる学術的危機をターン制の勝負に変えましょう 本物の絆を、ときには絆以上のものを ——個性豊かな研究仲間や友人には、それぞれ専用の深い対話が用意されています。雨の日に「たまたま」傘を差してあなたの下宿…",
+    "detectedAt": "2026-09-12T20:29:08.116Z"
+  },
+  {
+    "steamAppId": 5107750,
+    "title": "Project Legend",
+    "sourceUrl": "https://store.steampowered.com/app/5107750/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "RPG",
+      "シミュレーション",
+      "スポーツ",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107750/9632c2c7914681d5e9367538b235d3590080b07b/header.jpg?t=1789051181",
+    "japaneseSupport": "text",
+    "shortDescription": "クラブ経営ではなく、一人のサッカー選手のキャリアを生きよう。出場時間を勝ち取り、監督の考えを読み、すべての契約を交渉し、確かなのは自分の能力値だけという世界を進め。686クラブ、30か国、約23,900人の選手が動き続ける世界で、若き有望株からレジェンドまで一つの人生を築こう。",
+    "aboutTheGame": "一人の選手。ひとつの巨大なサッカー世界。 Project Legendは、一人のサッカー選手に焦点を当てたキャリアシミュレーターです。スタメンを決めるのではなく、そこに入るために戦います。監督に信頼されるか、どんな契約を結ぶか、どのクラブを去るか、どの国を代表するか、そして何を歴史に残すか。毎シーズン、一人の選手として決断を重ねます。 正確に把握できるのは自分の数値だけ 自分の選手の能力値は正確に表示されます。他の選手は範囲で示され、共に練習するチームメイト、一度対戦した相手、代理人が調査した獲得候補など、実際に知識を得ることで初めて範囲が狭まります。すべてを見通せる万能データベースはありません。本物の選手と同じように、限られた情報から競争相手となるチームを判断します。 監督は数値スライダーではなく、一人の人間 686人の監督全員にプロフィール、好みのスタイル、気質があります。1試合に1つだけ指示を出す監督もいれば、3つ出す監督もいます。練習目標を設定し、改善すべき点を明確にし、期限付きで評価期間を設けることもあります。役割が明確なら安定してプレーできますが、新監督が就任して立場が分からなくなると、調子も揺れ始めます。 試合には舞台、観客、そして主審がいる スタジアムと観客数、その月の天候、カードの出しやすさを実際に左右する主審の個性、ダービーや首位攻防戦ならではの重み。PK、フリ…",
+    "detectedAt": "2026-09-12T20:29:08.671Z"
+  },
+  {
+    "steamAppId": 5107780,
+    "title": "Chaos Runner: Duskfall",
+    "sourceUrl": "https://store.steampowered.com/app/5107780/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "レース",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107780/2b242bcb00d372b0b3483658b8e8789613640184/header.jpg?t=1787489147",
+    "japaneseSupport": "full",
+    "shortDescription": "A fast-paced 2D cyberpunk action game built around high-speed movement, precision parries, and time rewind. Chain jumps, slides, wall movement, and rolls, deflect enemy fire, cut through foes with charged Iai strikes, and unlock abilities that change the rules of combat.",
+    "aboutTheGame": "ABOUT THIS GAME CHAOS RUNNER: DUSKFALL is a fast-paced 2D cyberpunk action game built around high-speed movement, time rewind, split-second decisions, and precise counterattacks. In a futuristic city fractured by temporal anomalies and endless cycles of violence, you take control of a swordsman with a mechanical prosthetic arm, cutting through gunfire and blades as you uncover the truth behind a world trapped in repetition and collapse. This is not a battlefield that waits for you to stop and think. Double jumps, rolls, slides, wall movement, and other traversal techniques can be chained toget…",
+    "detectedAt": "2026-09-12T20:29:09.214Z"
+  },
+  {
+    "steamAppId": 5107870,
+    "title": "貓貓盒CATBOX",
+    "sourceUrl": "https://store.steampowered.com/app/5107870/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107870/ad40aa9aae8503df0e64e62dea6658ab0a4b27e3/header.jpg?t=1789144325",
+    "japaneseSupport": "none",
+    "shortDescription": "A cozy desktop pet game full of cats! They wander around, do silly things, and react to your cursor or laser. Build freely on your desktop, create custom buildings, play quick mini-games, or tuck everything into a box when things get too chaotic.",
+    "aboutTheGame": "A cozy casual desktop pet game all about cats! Your cats will usually wander around on their own, and sometimes they might do some absolutely ridiculous things. But they’re adorable, so it’s fine!! If your screen starts feeling a little too chaotic, or you just want the cats to settle down for a bit, you can temporarily tuck the cats and buildings away into a box. There’s also a building system that lets you freely create things on your desktop. And if the buildings we provide aren’t quite your style, you can make your own custom buildings by drawing them directly or uploading your own images.…",
+    "detectedAt": "2026-09-12T20:29:09.928Z"
+  },
+  {
+    "steamAppId": 5107900,
+    "title": "ゴミの島",
+    "sourceUrl": "https://store.steampowered.com/app/5107900/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107900/4586d4a643cc10bda1a814eab68c8fd768b2cb4d/header.jpg?t=1787411815",
+    "japaneseSupport": "text",
+    "shortDescription": "ゴミだらけの島で、1人でも最大4人の協力プレイでも冒険に出よう！ゴミを集めて粉砕し、役立つ素材へ変換。シェルターを建て、廃材からボートを作り、海へ出て漂流する貴重な資源を探そう。",
+    "aboutTheGame": "ゴミに埋め尽くされた島、果てしなく広がる海、そしてゼロから築いていく新しい暮らし。 ゴミの島 へようこそ！ 1人でプレイすることも、最大4人で協力して遊ぶこともできます。ゴミを集め、分別し、粉砕して役立つ素材へと変換しましょう。島を掃除する中で見つかるほとんどのものが、新しい生活を築くための貴重な資源になります。 集めて、加工して、作ろう 古いプラスチック、金属くず、木の板など、さまざまなゴミが島中に散らばっています。 ゴミを集め、分別し、粉砕して使える素材に変えましょう。一見すると価値がなさそうなものも加工すれば、新しいアイテムを作るための材料になります。少しずつ、自分なりの暮らしの仕組みを整えていきましょう。 ゴミの島では、本当に無価値なゴミなど存在しません。まだ使っていない素材があるだけです。 自分だけのゴミの島を築こう 集めたものをただ捨てるだけではありません。それらを使って、実際に暮らせる場所を作りましょう。 小さなシェルターを建て、作業スペースを整え、保管場所を作りながら、島をさらに発展させていきます。 集めるゴミが多いほど、使える素材も増えていきます。そして素材が増えるほど、作れるものも増えていきます。 海へ漕ぎ出そう 冒険は海岸で終わりではありません。 島で見つけた廃材を使って自分のボートを作り、海へ出ましょう。水面を漂う残骸を探し、貴重な素材を見つけて島へ持ち帰り…",
+    "detectedAt": "2026-09-12T20:29:10.476Z"
+  },
+  {
+    "steamAppId": 5107930,
+    "title": "VIRSTEX ENDSTRAIN",
+    "sourceUrl": "https://store.steampowered.com/app/5107930/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107930/aaf194876de1eba1b5e496234e979f38ddbe12c4/header_japanese.jpg?t=1788593681",
+    "japaneseSupport": "text",
+    "shortDescription": "未知の感染が猛威を振るう研究施設を舞台にした、テンポの速い2D横スクロール型ラン＆ガンゲーム。8方向への射撃、ダッシュ、シールド、スマートボム、そして強力な近接攻撃を駆使して、感染した研修生や変異した生物、そして強大なボスたちから生き延びよう。",
+    "aboutTheGame": "『VIRSTEX ENDSTRAIN』は、近未来の崩壊世界を舞台にした、軍事SF×バイオホラーの2D横スクロールアクションゲームです。 プレイヤーは軍訓練学校に所属する青年「霧島 海」となり、銃撃、近接攻撃、ガード、ダッシュ、特殊装備を使い分けながら、感染者と軍の強化兵が待ち受ける戦場を突破します。 突如として発生した大規模な施設事故。 暴走した感染者との戦闘を切り抜けた海は、敵から謎の言葉を告げられます。 「FIRST……逃げろ」 なぜ敵は海を「FIRST」と呼んだのか。 軍が保護する「MOTHER」とは何なのか。 仲間たちと真相を追う中で、海は自身の身体に隠された秘密と、人類を強制的に進化させる極秘計画「VIRSTEX」の存在に近づいていきます。 【多彩なアクションを組み合わせて戦場を突破】 ライフルによる全方向への射撃、マチェットを使った近接攻撃、敵の攻撃を防ぐガード、高速ダッシュなどを組み合わせて戦います。 救急キット、抑制剤、スマートボムなどの限られた装備を適切なタイミングで使用することも、生存するための重要な判断になります。 【変化に富んだ全7ステージ】 物語の舞台は、軍訓練学校から始まり、封鎖された市街地、崩壊した高速道路、地下鉄と汚染水路、巨大隔離防壁、そしてVIRSTEX研究施設へと移っていきます。 通常の横スクロール戦闘だけでなく、施設からの緊急脱出、防衛戦、時…",
+    "detectedAt": "2026-09-12T20:29:11.026Z"
+  },
+  {
+    "steamAppId": 5107940,
+    "title": "骰御三军:三国",
+    "sourceUrl": "https://store.steampowered.com/app/5107940/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107940/88368860c5ba88f5933ecc8a7360e759e3ca3ecf/header.jpg?t=1788743960",
+    "japaneseSupport": "none",
+    "shortDescription": "A dice-driven Three Kingdoms roguelite card strategy game. Roll to shape your fate, adapt to the battlefield, build powerful hands and General synergies, unleash explosive multipliers, and defeat formidable foes in an age of chaos.",
+    "aboutTheGame": "The Die Rules All Armies: Three Kingdoms is dice-driven Three Kingdoms roguelite card strategy game. Recruit renowned Generals, roll the dice to shape your plans, build powerful hands, and command three battle formations. Use unit counters, General skills, Artifact bonuses, and layered synergies to defeat formidable foes on an ever-changing campaign. Roll the Dice, Adapt to the Battle Every General has a unique dice loadout and skill set. Will you choose high rolls for more Action Points, or keep the right values to trigger decisive Dice Skills? Limited rerolls, shifting hands, and enemy actio…",
+    "detectedAt": "2026-09-12T20:29:11.612Z"
   }
 ]
