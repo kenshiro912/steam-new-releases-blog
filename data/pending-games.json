@@ -1,287 +1,5 @@
 [
   {
-    "steamAppId": 4859010,
-    "title": "Sphene",
-    "sourceUrl": "https://store.steampowered.com/app/4859010/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859010/aa212cc577d19fe378ab32b9845033a9afa7996c/header.jpg?t=1788825945",
-    "japaneseSupport": "none",
-    "shortDescription": "Enter the ultimate penguin showdown! Battle in fast-paced multiplayer FPS matches with outrageous weapons, ridiculous gadgets, and explosive action. Customize your penguin, master unique abilities, and outwit your opponents in chaotic battles where anything can happen.",
-    "aboutTheGame": "Welcome to the ultimate penguin showdown, where icy determination, oversized firepower and complete chaos collide. Jump into fast-paced multiplayer FPS battles as a heavily armed penguin and fight to prove who truly rules the ice. Blast your opponents with outrageous weapons, unleash ridiculous gadgets, and use your penguin’s unique abilities to turn every encounter into an unpredictable spectacle. One moment you are lining up the perfect shot; the next, the battlefield has erupted into feathers, explosions, and total mayhem. Victory takes more than quick reflexes. Learn how to combine your we…",
-    "detectedAt": "2026-09-08T00:29:33.676Z"
-  },
-  {
-    "steamAppId": 4864120,
-    "title": "Haunt Initiation",
-    "sourceUrl": "https://store.steampowered.com/app/4864120/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864120/3cd0daaf8ad57a8f5706e2240e7d7d796f06f520/header.jpg?t=1788826002",
-    "japaneseSupport": "none",
-    "shortDescription": "The agency has found another source of corruption. Together, your team investigates a haunted manor, uncovers powerful relics, upgrades your weapons, and solves supernatural mysteries. But beware... when midnight strikes, one agent becomes a deadly monster with one goal: HUNT DOWN SURVIVORS.",
-    "aboutTheGame": "H.A.U.N.T A dark secret has been hidden from society. Dark supernatural corruption plagues areas across the world. These nightmarish anomalies will take over if left unchecked. You and your team of operatives work for H.A.U.N.T. , a secret organization tasked with containing paranormal threats before they spill into the civilian world. Every mission sends your team into cursed locations filled with ancient entities, forbidden relics, and unspeakable horrors related to the monster inside. Search for clues. Solve occult puzzles. Gather weapons, spells, and artifacts powerful enough to keep you a…",
-    "detectedAt": "2026-09-08T00:29:34.272Z"
-  },
-  {
-    "steamAppId": 4946400,
-    "title": "ARCHMAGE",
-    "sourceUrl": "https://store.steampowered.com/app/4946400/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "LAN協力プレイ"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946400/59dde0ae5dbbb5c6401b375ea67486a7fb69abad/header.jpg?t=1788821847",
-    "japaneseSupport": "none",
-    "shortDescription": "ARCHMAGE is a multiplayer retro dark fantasy rougelike where you play as an all-powerful Mage on a journey to become the Archmage. Discover myriad spells and increase your knowledge of the arcane arts by exploring ancient dungeons, haunted forests and the fortresses of powerful beings.",
-    "aboutTheGame": "ARCHMAGE is a multiplayer rougelike dungeon crawler where you play as an all-powerful Mage. Players explore a variety of randomly generated levels, casting spells and collecting artifacts on their journey to become the Archmage. There are many spells to find, such as fireballs, lightning bolts, tornadoes, creature summons, countermagic, team-boosting effects... There are five colors of magecraft: Wizardry, Sorcery, Warlockry, Clericism and Druidism. Combining the disciplines of two schools creates entirely new effects. Spells can be further modified with runes, which modify the spell's attribu…",
-    "detectedAt": "2026-09-08T00:29:34.799Z"
-  },
-  {
-    "steamAppId": 4962950,
-    "title": "Lab Rats",
-    "sourceUrl": "https://store.steampowered.com/app/4962950/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962950/cda5a8b425483f988d60d6f14b806c9933774ec7/header.jpg?t=1788823456",
-    "japaneseSupport": "none",
-    "shortDescription": "Fall in love with a mad scientist who kidnaps you or will you try to escape his grasp?",
-    "aboutTheGame": "A psychological horror visual novel where every conversation matters. You awaken in a secluded underground laboratory with no clear memory of how you arrived. The only other inhabitant is Dr. Damien, a mad scientist convinced he can save you from something you don't yet understand. As the days pass, the walls of the laboratory begin to reveal more than abandoned experiments. Through hidden notes, fragmented recordings, and unsettling discoveries, you'll uncover a story shaped by grief, obsession, and the desperate need to survive. Build or destroy your relationship with Damien through meaningf…",
-    "detectedAt": "2026-09-08T00:29:35.308Z"
-  },
-  {
-    "steamAppId": 4999440,
-    "title": "Wreck & Profit",
-    "sourceUrl": "https://store.steampowered.com/app/4999440/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第1四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4999440/a1c364b07b397d8a3aac19910402e3e392db7156/header.jpg?t=1788814322",
-    "japaneseSupport": "none",
-    "shortDescription": "Swing a wrecking ball, knock down buildings, and get paid for every brick. Buy machines that do the swinging for you, sell the company, and take on a bigger city. A short idle game with real physics and an actual ending.",
-    "aboutTheGame": "About This Game You run a demolition company. Right now the whole company is you and a wrecking ball. Wind it up, let it fly. Buildings come apart brick by brick, and every brick pays. Spend the money on a heavier ball, a longer chain, or a drone that picks at walls while you work. Add a second crane that swings itself, demo charges and a magnet in the sky that peels buildings open. Eventually your machines out-wreck you. You handle the tough spots; they handle the volume. When a job’s too big for your gear, sell the company and start over with a better reputation. The next city has taller bui…",
-    "detectedAt": "2026-09-08T00:29:35.826Z"
-  },
-  {
-    "steamAppId": 5029800,
-    "title": "三国志：群雄集結 ",
-    "sourceUrl": "https://store.steampowered.com/app/5029800/",
-    "price": "価格情報なし",
-    "tags": [
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029800/85b9ef9802bc2f84e80c3a9624fe3bc404310d8d/header_japanese.jpg?t=1788825439",
-    "japaneseSupport": "text",
-    "shortDescription": "リアルタイム戦略『三国志』。ターンを待つ時代は終わった。 内政も外交も朝議も合戦も、すべてが同時に動く。 最大8人が同じ天下に。友と夜を明かす三国志。 三国志の新たな歴史を、あなたの手で。",
-    "aboutTheGame": "このゲームについて ターン制を越えたリアルタイム戦略。舞台は東アジア全土へ。 順番を待つ必要はない。大陸が秒単位で動き、内政も建設も国政も大規模会戦も 同時に進行する。ひとりでも、最大8人でも。 あなたが内政を見て城壁を積んでいる間に、敵はすでに国境を越えて陣を整えている。 迷っている時間はない。 主な特徴 8人リアルタイムマルチプレイ — 部屋を立ててコードを渡すだけで、すぐに参戦 できる。誰かが途中で抜けてもAIが即座にその勢力を引き継ぐので盤は止まらず、 保存したマルチプレイの戦役は後から再開できる。 選べる勢力が広がった — 魏・蜀・呉だけではない。同時代の高句麗・百済・新羅・ 伽耶を率いて、呂布・関羽・張飛と中原の覇を争う。 同じ能力値体系で、補正もペナルティもない。武将128人、半島の史書に基づく歴史イベント21編を 収録。東アジア全体を舞台にした、自由度の高い戦略シミュレーション。 自分で書く外交 — 使者に持たせる要求（貢物、都市の割譲など）とメッセージを 自分で書ける。同盟を脅すのも、大胆な提案を投げるのも自由。交渉が決裂した瞬間、 その文書はそのまま戦争になる。 十二の作戦相性と手動部隊操作 — 野戦、水戦、攻城戦、一騎討ち。伏兵・誘引・ 突撃など十二の作戦が互いを封じ合う。AIの戦い方がもどかしければ、部隊を自分で 掴んでRTSのように動かし、戦局をひっくり返…",
-    "detectedAt": "2026-09-08T00:29:36.346Z"
-  },
-  {
-    "steamAppId": 5100320,
-    "title": "The Rumble Pit",
-    "sourceUrl": "https://store.steampowered.com/app/5100320/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第3四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100320/860f614d3a8834925724112bb91f315d7b21431c/header.jpg?t=1787482417",
-    "japaneseSupport": "none",
-    "shortDescription": "Behind every great victory is someone who got the roles right. Forge five adventurers, arm them, plot out their talents, build the party — then send them into twelve dungeons and find out whether you saw it coming.",
-    "aboutTheGame": "You do the preparing. The fight takes care of itself. One camp, five adventurers, twelve dungeons. You control nothing once a fight starts. You choose who goes down, with which gear, with which talents. Then you watch, and you find out whether your preparation held. Every defeat is a sentence about what you should have planned for. Ten classes, twenty paths Warrior, Ranger, Priest, Paladin, Ninja, Cleric, Orc, Druid, Mage, Duelist. Each one swears to one of their two paths, and swearing one closes the other: a Paladin will hold the wall or heal, never both. The trees are not lists of bonuses.…",
-    "detectedAt": "2026-09-08T00:29:36.876Z"
-  },
-  {
-    "steamAppId": 5100390,
-    "title": "AURANTIUM",
-    "sourceUrl": "https://store.steampowered.com/app/5100390/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100390/8e09c044266ee437f3832a1156c9b439cd70132f/header.jpg?t=1788465610",
-    "japaneseSupport": "none",
-    "shortDescription": "Aurantium is a chaotic PvP experience where you loot spellbooks across the arena and cast magic by performing real hand gestures (via Camera or Keyboard). Weave the right sigils, steal your opponents' essence, wipe them from the arena, and be the last mage standing!",
-    "aboutTheGame": "Aurantium is an innovative, physics-based PvP magic arena where you fight for survival against your rivals. Your only hope is to loot the spellbooks scattered across the arena before your opponents do. But finding a book isn't enough; to unleash its magic, you must draw the sigils with your very own hands! Cast spells using real hand gestures and combos, either through your keyboard or by turning on your webcam. Defeat your enemies to steal their essence, feed your Sacred Fire, and use unforgiving physics to wipe everyone from the arena. Only the mage who weaves the right sigils and remains th…",
-    "detectedAt": "2026-09-08T00:29:37.403Z"
-  },
-  {
-    "steamAppId": 5100410,
-    "title": "Pigeon Valera",
-    "sourceUrl": "https://store.steampowered.com/app/5100410/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100410/89ab8c0e4eb3b2eceeee4e98c13a8f8da20b86da/header.jpg?t=1787409402",
-    "japaneseSupport": "none",
-    "shortDescription": "You are Valera the pigeon: slingshot off a roof, flap through the city, and chase distance while stamina lasts. Grab seed packets, smash windows for a boost, bounce power lines, take a babushka yeet — just don’t wipe out on a car.",
-    "aboutTheGame": "A pixel rooftop courier flight. You are Valera the pigeon: slingshot off a roof, flap through the city, and chase distance while stamina lasts. Grab seed packets, smash windows for a boost, bounce power lines, take a babushka yeet — just don’t wipe out on a car. Short “one more” runs, upgrades between flights, and silly skins. Distance climbs, city chunks densify, and seeds bank up for launch power, magnet, and air control. KEY FEATURES: SLINGSHOT + FLIGHT. Aim, release, flap. CITY CHUNKS. Windows, wires, grandmas, cars, rooftop seeds. UPGRADES. Launch power, stamina, bounce, magnet, air contr…",
-    "detectedAt": "2026-09-08T00:29:37.925Z"
-  },
-  {
-    "steamAppId": 5100440,
-    "title": "Thief Simulator 3: First Loot",
-    "sourceUrl": "https://store.steampowered.com/app/5100440/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シミュレーション",
-      "無料プレイ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100440/8c03e478225303cbe86343dc2a18b6c1f4c046c7/header.jpg?t=1788782054",
-    "japaneseSupport": "text",
-    "shortDescription": "プロのように盗みを働く方法を学ぼう！情報収集、お宝の窃盗、質屋での換金といった基本から、ハイテク機器の操作まで。ソロプレイ、または最大4人での協力プレイで、泥棒としての人生を体験しよう。",
-    "aboutTheGame": "泥棒が新たなスタイルで帰ってきた――そして今回は、一人じゃない！このプロローグ版で裏社会の生活をいち早く体験しよう。 しかし、君は一人で働くわけではない。ソロでプレイするか、最大4人の協力プレイモードでチームを組もう。協力してターゲットを調べ、役割を分担し、誰が注意をそらして誰が戦利品を持って逃げるかを決めよう。街全体はまだ封鎖されているものの、このプレビュー版では最初の大仕事をやってのけるために必要なすべてが揃っている。 共に盗み出せ もう一人でこそこそする必要はない。4人協力プレイで力を合わせ、仲間と役割を分担し、注意をそらし、大胆な仕事を一緒に成し遂げよう。隣人をストーキングして警備の弱点を見つけ出すという、新しい絆の深め方を体験しよう。協力し合うことで、逃走がスムーズになることもあれば…はるかに困難になることもある。 汚い手を使え 卑劣なガジェットや即席の道具を使って、住人の裏をかけ。 服を装備しろ 新しい道具や装備でステータスやスキルをアップグレードしよう。ふさわしい身なりを整えよう――泥棒だってカッコつけたいものだからだ。 新しいスニーカーやその他の服を身につければ、より速く、よりスタイリッシュに走ることができるようになる。（哀れな被害者と警察を）魅了するような着こなしをしよう。 ユニークなロケーション チャンスに満ちた最初のサンドボックスマップを探索しよう。",
-    "detectedAt": "2026-09-08T00:29:38.435Z"
-  },
-  {
-    "steamAppId": 5100460,
-    "title": "Heroes of Aetheria: Crystal Siege",
-    "sourceUrl": "https://store.steampowered.com/app/5100460/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月6日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100460/41882c133c4ad7be8ff19937f6af8580eed6e807/header.jpg?t=1788168697",
-    "japaneseSupport": "text",
-    "shortDescription": "虚無が国境を押し寄せ、城壁を打ち砕き、都市を灰燼に帰す。従来の防衛ゲームでは、あなたは受動的な傍観者の役割に追いやられていた。だが、ここルールが変わる。 歴戦の剣士であれ、魔術の使い手であれ、今こそ自ら戦場へと降り立つのだ！",
-    "aboutTheGame": "Heroes of Aetheria: Crystal Siege 「タワーが戦うのをただ見ているだけなのはもう終わりです。武器を取り、英雄となり、装備を鍛え上げ、防衛を指揮して侵略を撃退せよ。」 門を叩く混沌 エターナル・イージスの王国は炎に包まれている。虚無の大群が国境を押し寄せ、城壁を打ち砕き、都市を灰塵に帰している。従来のタワーディフェンスゲームは、あなたを受動的な傍観者にしてきた。だが、ここでのルールは違う。 あなたは選ばれしチャンピオンだ。歴戦の剣士であれ、深奥の魔術師であれ、戦場に降り立ち、建造物を手助けし、敵の攻撃を受け止め、あるいは一発の強力な呪文で大軍を壊滅させよう。 ⚡ 主な特徴（熱狂的なゲームプレイ） リアルタイム・アクティブディフェンス： 受動的な待機はもう忘れよう。タワーネットワークを管理しつつ、戦場の中心で英雄を細かく操作し、戦闘のあらゆる瞬間を最大限に活かせ。 専用装備＆戦利品システム： 伝説のアーティファクト（武器、防具、タリスマン）を集めて鍛え上げよう。すべての装備品がステータスを変化させ、ビルドを再定義し、周囲の防御に壊滅的なボーナスをもたらす。 タワー×英雄の完全シナジー： 元素魔法と建造物を組み合わせよう。テスラタワーの足元で敵を凍結させ、大いなる連鎖反応を引き起こせ。 タレントツリーと成長： プレイスタイルに合わせてチャンピオンを育成しよ…",
-    "detectedAt": "2026-09-08T00:29:38.997Z"
-  },
-  {
-    "steamAppId": 5100500,
-    "title": "Broom Doom",
-    "sourceUrl": "https://store.steampowered.com/app/5100500/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100500/d7fd731b706e5918e2b57af353bc659e4a4b730b/header.jpg?t=1788769066",
-    "japaneseSupport": "none",
-    "shortDescription": "Broom Doom is a co-op horror-comedy cleaning game for 1-4 players. You’re magical brooms sweeping a haunted mansion clean. Survive heavy-metal monsters and scrub cursed trash before the Witch Mistress turns your crew into kindling.",
-    "aboutTheGame": "You and your friends are brooms. You're enchanted. And you've just been handed a new cleaning job in the magical world: scrub a monster-infested mansion spotless, or get turned into kindling trying. WE’RE ALL BROOMS HERE It ain’t easy being sticks and bristles! Physics-based broom movement means every dash, swing, and stumble has consequence. Sweeping up a pile of dust is just as likely as sending your crewmates flying onto a monster. Master the art of broomery (yes, this is a word) before this magical party turns into slapstick chaos and your Witch Mistress chops you into firewood! METAL HORR…",
-    "detectedAt": "2026-09-08T00:29:39.563Z"
-  },
-  {
-    "steamAppId": 5100510,
-    "title": "Heart Harvest: A Detective Game",
-    "sourceUrl": "https://store.steampowered.com/app/5100510/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月3日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100510/493bd3bd7923686edaedf5e8667f438f708b25eb/header.jpg?t=1787920845",
-    "japaneseSupport": "none",
-    "shortDescription": "Passionate murders. Ripped out hearts. And something crawling within the walls. Find clues, gather the evidence and connect the dots in this point and click detective thriller game. Solve each murder and uncover the horror linking them all..",
-    "aboutTheGame": "You play as Arthur, a young detective who as a child lost his mother to a murderous father. But police lacked the evidence to charge the father with homicide. Now with your newfound skills you are working to solve murder cases so that you may find justice for others. There is something eerie about these cases, a pungent vanilla scent, victims with their heart torn out of their chest.. Unveil the horror that binds the murders. Will you catch the horrifying harvester? Or will it harvest you first? Will you dare to open that hatch? To look into that dark air vent? To peer into the cracks in the w…",
-    "detectedAt": "2026-09-08T00:29:40.080Z"
-  },
-  {
-    "steamAppId": 5100520,
-    "title": "Ashworth",
-    "sourceUrl": "https://store.steampowered.com/app/5100520/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100520/16a43a32d3c93e72494526db1b7fedbfc303acca/header.jpg?t=1787473417",
-    "japaneseSupport": "none",
-    "shortDescription": "Something has been waiting for you. Explore a forgotten place buried beneath the earth, solve twisted puzzles, and piece together a dark story one clue at a time. But the deeper you go, the more it wakes. Survive what hunts you, or become part of Ashworth's story.",
-    "aboutTheGame": "A Horror Puzzle Experience Ashworth is a story-driven horror puzzle game where exploration, puzzle solving, and survival go hand in hand. Explore a forgotten place buried beneath the earth and uncover the story hidden within its halls. Solve puzzles, search for clues, and slowly piece together what happened here but be careful. The deeper you go, the more the place begins to reveal things that were never meant to be found. Uncover the Story The story isn't given to you all at once. Discover letters, hidden details, solve puzzles. Each discovery adds another piece to the mystery, gradually reve…",
-    "detectedAt": "2026-09-08T00:29:40.611Z"
-  },
-  {
-    "steamAppId": 5100550,
-    "title": "ManiWheel",
-    "sourceUrl": "https://store.steampowered.com/app/5100550/",
-    "price": "価格情報なし",
-    "tags": [
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100550/5dd07c4370a5c73f70ef7f459e60705f2feb5f5b/header.jpg?t=1787223348",
-    "japaneseSupport": "text",
-    "shortDescription": "マニ車とは、チベット仏教において使用される、回転する事で経文を読んだのと同じ徳を得られる仏具です。 このゲームでは、自由に文字を配置したマニ車を回し、徳と慈悲を積み上げ、何度も生まれ変わりましょう。文字同士の相互作用を見つけ、自分だけの悟りを開きましょう。",
-    "aboutTheGame": "回して、組んで、生まれ変わる。 『マニ車』は、文字の組み合わせを考えながら徳と慈悲を積み上げていく、放置型インクリメンタルゲームです。 マニ車とは、チベット仏教で用いられる、回転させることで経文を読んだのと同じ徳を得られるとされる仏具です。本作では、マニ車にさまざまな文字を配置し、回転によって発動する効果をつなげながら、自分だけの徳生産盤面を組み上げていきます。 文字を組み合わせ、自分だけのマニ車を作る 文字には、徳を生むもの、回転を加速するもの、隣接する文字を強化するもの、文字を生成するものなど、さまざまな効果があります。 単体では小さな効果でも、置く位置や発動順、上下左右のつながりによって結果は大きく変化します。新しい文字を手に入れ、配置を試し、より強い相互作用を見つけましょう。 霊魂を漂わせ、表と裏を重ねる ゲームを進めると、マニ車の周囲に漂う「霊魂」や、1枚の文字に2つの効果を持たせる「文字合成」が開放されます。 霊魂は単独では何も生みませんが、対応する文字と組み合わせることで徳や慈悲、文字生成へとつながります。高位の文字同士を合成すれば、表と裏が順番に発動する、さらに複雑な文字を作れます。 慈悲を使い、転生の道を開く 慈悲を得たら転生マップを開きましょう。隣接するマスを少しずつ開放し、マニ車を永続的に強化したり、次の転生へ持ち越す文字を保管したりできます。 転生を重ねるた…",
-    "detectedAt": "2026-09-08T00:29:41.119Z"
-  },
-  {
     "steamAppId": 5100560,
     "title": "Deepstrata",
     "sourceUrl": "https://store.steampowered.com/app/5100560/",
@@ -8310,5 +8028,427 @@
     "shortDescription": "Build a cosy Scottish fishing village, manage a hardworking fleet, and grow a thriving coastal community inspired by real locations across Scotland.",
     "aboutTheGame": "Tiny Fishing Villages is a cosy city-builder inspired by the fishing communities of Scotland. Build, grow, and care for a small coastal settlement as you balance fishing, trade, and village life in a gentle, relaxing management experience. From repairing boats and managing catches to importing vital supplies, every decision helps your village thrive. Inspired by real Scottish locations, Tiny Fishing Villages celebrates the hardworking communities that bring food from sea to shore. Game Modes Play your way with two distinct modes: Sandbox Mode Build freely and create the fishing village of your…",
     "detectedAt": "2026-09-12T00:29:17.840Z"
+  },
+  {
+    "steamAppId": 1730600,
+    "title": "Bolero: The Lost Isle",
+    "sourceUrl": "https://store.steampowered.com/app/1730600/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "RPG",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2028年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1730600/c002ed3975f359a80bda13dc1aa8f8b014192666/header.jpg?t=1789174428",
+    "japaneseSupport": "none",
+    "shortDescription": "In a genre defying blend of Tactics-Adventure gameplay, unravel the story of the four adventurers who braved the unknown and solved the mystery of the The Shifting Isle.",
+    "aboutTheGame": "You've finally found it - The Bolero. Chapter XVII, The Shifting Isle: From the hillside settlements of the northern clans to the bustling marketplaces of the Erlantian capital, most every child is told the tale of The Shifting Isle, a land filled with extraordinary magics and disquieting specters which will surely pluck them from their beds if they don't do as they are told. Now, in this first age of nations, rumor spreads that the legend has become reality. Somewhere within the waves and whirlpools of the central archipelago, an island blanketed in ruins has appeared along with inexplicable…",
+    "detectedAt": "2026-09-12T04:28:49.823Z"
+  },
+  {
+    "steamAppId": 4113000,
+    "title": "MELTY BLOOD: TWI-LUMINA",
+    "sourceUrl": "https://store.steampowered.com/app/4113000/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2027年4月21日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113000/4b9a782a306c0c1193f9feddba7ab6028ae55b7a/header.jpg?t=1789181965",
+    "japaneseSupport": "full",
+    "shortDescription": "進化したバトルシステムと新たなキャラクターの参戦により月夜の狂騒は、次なる舞台へ。 夢の中で再び戦いの物語が動き出す──",
+    "aboutTheGame": "◆ゲーム内容 TYPE-MOONが手掛ける『月姫』の世界観で描かれる、 シリーズ累計100万本を突破した『MELTY BLOOD』シリーズの最新作。 進化したバトルシステムと新たなキャラクターの参戦により月夜の狂騒は、次なる舞台へ。 ◆グランドシナリオとキャラクター レンなどの新たなキャラクターに加え『MELTY BLOOD: TYPE LUMINA』で登場したキャラクターをリニューアル！ そして本作では奈須きのこの手によって遠野志貴を中心とした新たな物語が紡がれる。 シナリオ内ではキャラクターとの対戦を進めながら、総耶の街を駆け巡る。",
+    "detectedAt": "2026-09-12T04:28:50.416Z"
+  },
+  {
+    "steamAppId": 4214920,
+    "title": "Mary-san（メァリーさん）",
+    "sourceUrl": "https://store.steampowered.com/app/4214920/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214920/454918dff53e697edbb06eea62bc24608dc6233f/header.jpg?t=1789184750",
+    "japaneseSupport": "full",
+    "shortDescription": "She's back. かわいいフランス人形となって、路地や家の中を探索。失くした体のパーツを取り戻せば、新たな道が拓ける。すべての体のパーツを取り戻すアクションアドベンチャーゲーム。",
+    "aboutTheGame": "ゲームの概要 手足を失い、ゴミ捨て場に打ち捨てられたフランス人形。 もう一度お家へ帰って、失った身体のパーツを取り戻す大冒険の始まりです。 誰もが知っている普通の家は、人形から見ると巨大な世界。 人間に見つかってしまえば、またゴミ捨て場に捨てられてしまいます。 人間に見つかりそうになったら、「ただの人形のフリ」をしましょう。 もし見つかってしまったら、捕まる前に物陰へ隠れてください。 人間に直接立ち向かうことはできません。 その代わり、ポルターガイストを起こして人間を気絶させたり、 別の場所へ誘導したりすることができます。 花瓶を頭上に落として気絶させる。 電話を鳴らして、音のする方向へ誘導する。 身の回りにあるものを利用して、人間の目をかいくぐりましょう。 ゲームプレイの特徴 身体のパーツが揃っていないあなたは、走ることも跳ぶこともままなりません。 家のいたるところに隠されたパーツを取り戻すことで、使えるアクションが増え、 これまで行けなかった場所へ進めるようになります。 路地、公園、居間、台所……。 さまざまな場所を舞台に、小さなフランス人形の大冒険が繰り広げられます。 前作「Ichima-san」からさらにパワーアップ 本作は、ステルスアクションアドベンチャーゲーム「Ichima-san（いちまさん）」の制作経験をもとに、 好評だった要素をさらに磨き上げ、よりわかりやすく、よ…",
+    "detectedAt": "2026-09-12T04:28:50.944Z"
+  },
+  {
+    "steamAppId": 4457450,
+    "title": "Toymare",
+    "sourceUrl": "https://store.steampowered.com/app/4457450/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4457450/4950176ef51fb905aeaab2f604dd57a1d6ca2131/header.jpg?t=1789175241",
+    "japaneseSupport": "none",
+    "shortDescription": "Toymare is a 2D Puzzle shooter game that delivers a delightful and unique experience, blending mysterious pictorial puzzles with fast-paced action. Help Nox complete all his deliveries!",
+    "aboutTheGame": "Help Nox become the fastest delivery cat in town by managing toy orders and reacting swiftly to mischievous toys. Nox is the finest delivery cat in town. However, when an evil magic scatters toys into fragments, he must reassemble every order on time for his buyers and impress his boss with greater profits. Toymare delivers a delightful and unique experience, blending mysterious pictorial puzzles with fast-paced action. Help Nox complete all his deliveries!",
+    "detectedAt": "2026-09-12T04:28:51.466Z"
+  },
+  {
+    "steamAppId": 4546090,
+    "title": "危ノコ",
+    "sourceUrl": "https://store.steampowered.com/app/4546090/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546090/e672915f82405d138e0f7c5c01623bb4f675f2f1/header_japanese.jpg?t=1789185316",
+    "japaneseSupport": "text",
+    "shortDescription": "キノコを操作して、危ノコを避けながら頂上を目指す登りゲームです。様々な障害物を乗り越え、慎重な操作で上へと進みましょう。一度のミスで、大きく下まで落ちてしまうことがあります。登るほど危険は増えていき、あなたの操作力と忍耐力が試されます。",
+    "aboutTheGame": "『危ノコ』は、危険なキノコを避けながら頂上を目指す登りゲームです。 様々な障害物を乗り越えながら、ひたすら上へと登っていきます。 上に進むほど難易度は高くなり、一度のミスで大きく下まで落ちてしまうこともあります。 そして、道中に存在する**「危ノコ」には絶対に触れないでください。 危ノコに触れると罰ゲームが発生します。 感染した 危ノコのウイルスを取り除くまで、元のゲームに戻ることはできません。 さらに、登っている途中で 爆弾を持ってしまうことがあります。 爆弾を持った場合は、導火線が燃え尽きる前にセーフゾーンへ入り、爆弾を解除する必要があります。 落ちない。触れない。爆発させない。 様々な危険を乗り越え、頂上を目指してください。",
+    "detectedAt": "2026-09-12T04:28:51.968Z"
+  },
+  {
+    "steamAppId": 4710880,
+    "title": "Type Crisis",
+    "sourceUrl": "https://store.steampowered.com/app/4710880/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第2四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710880/384fb428d4f3c07757b2d3a4cfc9dc0e9ea7ab19/header.jpg?t=1789178613",
+    "japaneseSupport": "none",
+    "shortDescription": "Calling all keyboard cowboys! Type Crisis is a wacky, hand-drawn typing game: you're stuck on a spaceship, involuntarily contracted to Yee Haw Systems Corporation, until you can complete enough jobs to hit quota and earn your freedom. Your cute robot supervisor kinda sorta hates you. Mamma mia!",
+    "aboutTheGame": "Yee Haw Systems Corporation is thrilled you're here You wake up from cryosleep on a spaceship, contracted to a faceless corporation and supervised by a cigarette-smoking robot until you've hit quota. Type Crisis is a wacky typing game. You're an involuntarily employed contract worker with a lot of work to do: Redact a document you weren't cleared to read. Help sort out a colorful mix-up at a paint store. Did you think autocorrect was a computer program? It's actually done manually by humans, and guess what, pal... you're responsible! We got criminal cows, ghosts with cocktail orders, Eggmen wi…",
+    "detectedAt": "2026-09-12T04:28:52.501Z"
+  },
+  {
+    "steamAppId": 4880860,
+    "title": "ゾンビちゃんはXXになりたい (ZZXX)",
+    "sourceUrl": "https://store.steampowered.com/app/4880860/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880860/72f9ad2722d25f8840704c2c6050f01aa4c0691d/header.jpg?t=1789174846",
+    "japaneseSupport": "text",
+    "shortDescription": "未完成の少女を直接操作する、30日間の3Dアクション育成アドベンチャー。昼は封鎖された島を探索し、戦いながら遺伝子素材を集め、夜は素材をDNAに加工して少女を育てる。ロボットR-01、そして島に戻ってきた人々。30日間の選択と絆が、ゾンビちゃんが何になるかを決める。",
+    "aboutTheGame": "1年前、人里離れた島の遺伝子治療研究所で事故が起きた。人々は去り、島は封鎖された。 嵐の夜、落雷によって研究所の非常用電源が再び動き出す。ポッドの中で、未完成のまま残されていたひとりの実験体が目を覚ます。 人は、その子を「ゾンビ」と呼ぶだろう。 30日後、その子が何になっているかは、あなた次第。 『ゾンビちゃんはXXになりたい』は、か弱く、まだ何もかもがおぼつかないゾンビ少女を直接操作し、育てながら30日間を生き抜く3Dアクション育成アドベンチャーです。 昼は危険な島へ連れ出し、戦い、素材を集める。夜は生還の成果を、成長へと変えていく。今日はどこまで欲張るか。いつ引き返すか。誰を信じるか。その一つひとつが、ゾンビちゃんの体と人間関係、そして結末を変えていきます。 昼 — 自分の手で連れ出す探索 指示を出して見守るだけの放置型育成ではありません。研究所から森、村、海辺、洞窟へと続く島を、ゾンビちゃんを直接操作して歩きます。 1日に使える移動ポイントには限りがあります。奥へ進むほど良い素材が手に入りますが、倒れるとその日に集めたものを失います。 今、引き返すか。もうひと区画だけ進むか。 毎日、その判断をするのはあなたです。 夜 — 今日の素材が、明日の体になる 拠点に戻ったら、昼に集めた遺伝子素材をDNAに加工します。素材の品質によって加工結果は変化。手に入れたDNAは、パッシブ・近接…",
+    "detectedAt": "2026-09-12T04:28:53.019Z"
+  },
+  {
+    "steamAppId": 4966790,
+    "title": "魚楽: 釣りとアクアリウム",
+    "sourceUrl": "https://store.steampowered.com/app/4966790/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4966790/f870ec620551904d24f8e4c80b9db88e01680e95/header_japanese.jpg?t=1789179438",
+    "japaneseSupport": "full",
+    "shortDescription": "『魚楽: 釣りとアクアリウム』は、デスクトップで楽しむ放置系釣り・水槽育成ゲームです。 海水・淡水の4モードで、魚410/326種、その他の生物437/122種を収集。 船65隻、釣り人16人、エサ14種を組み合わせ、釣り場19か所と島31種を探索。 サンゴ394種、水草28種、淡水レイアウト46種、海水レイアウト23種で自由に水槽を造景。 底砂、水色、背景、照明を調整し、自分だけの水槽を作れます。 ブラインドボックスでは、魚、サンゴ、水草の未収集品を解放できます。",
+    "aboutTheGame": "『魚楽: 釣りとアクアリウム』は、デスクトップで楽しむ放置系釣り・水槽育成ゲームです。 海水・淡水の4モードで、魚410/326種、その他の生物437/122種を収集。 船65隻、釣り人16人、エサ14種を組み合わせ、釣り場19か所と島31種を探索。 サンゴ394種、水草28種、淡水レイアウト46種、海水レイアウト23種で自由に水槽を造景。 底砂、水色、背景、照明を調整し、自分だけの水槽を作れます。 ブラインドボックスでは、魚、サンゴ、水草の未収集品を解放できます。",
+    "detectedAt": "2026-09-12T04:28:53.558Z"
+  },
+  {
+    "steamAppId": 4989270,
+    "title": "fresh fish",
+    "sourceUrl": "https://store.steampowered.com/app/4989270/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989270/55534476a5cb99ef4e845b97b096080651ae1b62/header.jpg?t=1789185359",
+    "japaneseSupport": "none",
+    "shortDescription": "fresh fish is a fishing parkour FPS. As the Legendary Fisherman, only you can save this world from fish. Grapple with your trusty harpoon and fly through the ocean, skewering any aquatic being that dare meet your gaze.",
+    "aboutTheGame": "fresh fish is a fishing parkour FPS. You are the Legendary Fisherman, a man on a mission to make the Deadliest Catch with speed and style. Features Fly through the ocean with precision grappling mechanics, spearing fish along the way to use new movement abilities. Compete with your friends for the best times, discovering and executing shortcuts through creative and skillful grappling and resource management. Explore the vast ocean, encountering strange environments and stranger faces.",
+    "detectedAt": "2026-09-12T04:28:54.107Z"
+  },
+  {
+    "steamAppId": 5003210,
+    "title": "Creewe!",
+    "sourceUrl": "https://store.steampowered.com/app/5003210/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003210/fc7a3b65b7a0d061e3a05d7885da696667837138/header.jpg?t=1789175262",
+    "japaneseSupport": "none",
+    "shortDescription": "Creewe! is a chaotic party game where you take on the role of a Creewe, a crew member responsible for keeping an airport running… even though everything is on the verge of collapse.",
+    "aboutTheGame": "Would you trust your friends to run an airport? Creewe! is a chaotic party game where you step into the shoes of a Creewe, a crew member tasked with keeping an airport running… even though everything is on the verge of collapse. In the first level, you’ll work in the check-in area, managing passengers: check their tickets, verify their identity and spot fake documents. If anyone tries to sneak in… you can send them straight down a trapdoor. Meanwhile, you’ll have to weigh and tag luggage correctly; if it exceeds the limit, decide which items to leave behind. But here’s the twist: the airport n…",
+    "detectedAt": "2026-09-12T04:28:54.660Z"
+  },
+  {
+    "steamAppId": 5003940,
+    "title": "Paralyzed Penguins",
+    "sourceUrl": "https://store.steampowered.com/app/5003940/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5003940/9cc3ba78fac5380d50c1a4fcdbcfdc6fc97bae82/header.jpg?t=1789172980",
+    "japaneseSupport": "none",
+    "shortDescription": "Paralyzed penguins is a roguelite shooter game where you can only move by shooting. Explore randomly generated rooms with hundreds of possible layout fighting enemies and bosses along the way. You can unlock new characters and upgrades to make it farther in your next run.",
+    "aboutTheGame": "Paralyzed penguins is a roguelite shooter game where you can only move by shooting. You explore randomly generated rooms and fight bosses climbing the tower collecting upgrades as you go. You can unlock new characters and upgrades over playthroughs.",
+    "detectedAt": "2026-09-12T04:28:55.224Z"
+  },
+  {
+    "steamAppId": 5039280,
+    "title": "One Fleet",
+    "sourceUrl": "https://store.steampowered.com/app/5039280/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039280/333b76a2cf36d2e1dfb7750451d2175f5c7d47f5/header.jpg?t=1789186803",
+    "japaneseSupport": "none",
+    "shortDescription": "A war fought in pencil on a single sheet of paper. Your fleets are marks drawn by your Hand. Command sketched ships in real-time battles, alone across a conquest campaign, or online with friends.",
+    "aboutTheGame": "Draw your fleet. Take it to war. ONE FLEET is a real-time space-battle game fought in pencil on paper. Graphite hulls sketched on a desk, color only where the shooting starts. You draw your first ship, and from that line you fight your way across the Page. Bring up to three friends into a standoff or a wave run and you command one fleet between you, four hands on the same sheet, disagreeing about it in real time. Five ways to fight Conquest. A solo campaign across a galaxy. Gather graphite, build an armada, and push outward node by node, burying rivals in the strata of the ones who held those…",
+    "detectedAt": "2026-09-12T04:28:55.747Z"
+  },
+  {
+    "steamAppId": 5072600,
+    "title": "Family Time",
+    "sourceUrl": "https://store.steampowered.com/app/5072600/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/4584069ef5af5221d75a0e82de25155ea32a61d7/header.jpg?t=1789160617",
+    "japaneseSupport": "none",
+    "shortDescription": "Build a family with thousands of wolf children with your own wolf partner!",
+    "aboutTheGame": "You're a Father Now All of a sudden you have to take care of dozens of wolf children! Every night their number grows! Fail to do so and your partner, the Wolf Mama, will kill you! How many can you sustain? Shelter Your Family! Build houses for them, or command them to build them for you! Feed your Family! Farm food for them or go out hunting with them! Pamper your Family! Keep them snug in their own beds to not anger the Wolf Mama! Can you support 10 children? 100? 1000? 10,000? Find out.",
+    "detectedAt": "2026-09-12T04:28:56.308Z"
+  },
+  {
+    "steamAppId": 5075750,
+    "title": "Mortality... Please",
+    "sourceUrl": "https://store.steampowered.com/app/5075750/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月25日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075750/c5fd796f4a51f9db2e8a04e9dbdc63b76d2bd34a/header.jpg?t=1789173758",
+    "japaneseSupport": "none",
+    "shortDescription": "Penelope falls for a nineteen-year-old who has not aged in over a century. His face survives in yearbooks, VHS tapes, and dead forum pages. Then an elderly woman arrives with a photograph of herself beside him. A short psychological horror VN about eternal youth and the people it leaves behind.",
+    "aboutTheGame": "Kyte has been nineteen for more than a century. In Mortality... Please , a short (~30 minute) psychological horror visual novel, you follow Penelope, a university student who falls for a hoodie-wearing boy seemingly untouched by adulthood, career panic, or the pressure to become somebody. During an ordinary history seminar, Kyte corrects the lecturer. He remembers the smell of a burned building, the name of someone missing from the official record, and an argument that happened away from every camera. He speaks like a witness. Osiris searches the campus archive and finds Kyte's unchanged face…",
+    "detectedAt": "2026-09-12T04:28:56.835Z"
+  },
+  {
+    "steamAppId": 5092670,
+    "title": "NULL VECTOR",
+    "sourceUrl": "https://store.steampowered.com/app/5092670/",
+    "price": "無料",
+    "tags": [
+      "アクション",
+      "インディー",
+      "ストラテジー",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "2026年11月29日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092670/936fa39fac9d092ffffdfb1732bbf51e94fbde98/header.jpg?t=1789144173",
+    "japaneseSupport": "text",
+    "shortDescription": "ネオン幾何学で描かれるサバイバル・タワーディフェンス。中央のコアを守りながらプレイヤーを直接操作し、移動、照準、射撃、アクティブスキルを駆使。防衛施設を建築し、研究と敵能力モジュールでビルドを強化しよう。変化するボスを倒してエンドレスモードを解放するか、最大4人のオンライン協力で独立した30ウェーブの防衛戦に挑め。",
+    "aboutTheGame": "NULL VECTORは、ネオン幾何学で描かれるトップダウン型サバイバル・タワーディフェンスです。中央のコアを守りながら、オペレーターユニットを直接操作し、移動、照準、射撃、アクティブスキルを駆使して敵の突破を阻止します。 防衛網を構築 コア、プレイヤー、システムを研究し、準備フェーズで防衛施設を配置。武器、アクティブスキル、パッシブ強化を戦況に合わせて組み替えます。敵はシールド、回復、ダッシュ、分裂、遠距離攻撃など複数の能力を同時に持つことがあります。 能力モジュールを収集 特殊能力を持つ敵を倒すと、対応するモジュールを獲得できることがあります。限られたスロットに移動、弾薬、防御、制御、資源系の効果を組み合わせ、自分だけのビルドを作成。入手済みモジュールはオペレーターに永久保存されます。 キャンペーンとエンドレス防衛 全15ウェーブのソロキャンペーンで、第10ウェーブの特殊ボスと第15ウェーブの最終ボスに挑戦。クリア後はエンドレスモードが解放され、敵は際限なく強化され、ランダムな能力を持ち、10ウェーブごとにボスが出現します。 最大4人のオンライン協力 最大4人でコアを共同防衛。マルチプレイは独立した30ウェーブ進行、共有建築コスト、戦利品プールと終了時の分配を採用し、敵とボスの数は参加人数に応じて増加します。",
+    "detectedAt": "2026-09-12T04:28:57.349Z"
+  },
+  {
+    "steamAppId": 5099160,
+    "title": "After School Sparkles: Complete Edition",
+    "sourceUrl": "https://store.steampowered.com/app/5099160/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099160/396459d006dd6c3f16e69a299feaaa579f76e69a/header.jpg?t=1789186706",
+    "japaneseSupport": "none",
+    "shortDescription": "※日本語には対応していません。高校を舞台にした学園恋愛ビジュアルノベル。4つの物語で出会う少女たちと放課後を過ごし関係性を築いていく。部活で汗を流し、生徒会の選挙戦に奔走し、舞台の稽古に明け暮れて、オカルトな噂に振り回される。全15話の物語が4作品、ヒロインは12人。",
+    "aboutTheGame": "※本作は日本語に対応していません。 収録言語は英語・ドイツ語・スペイン語・フランス語・イタリア語・ポルトガル語です。原作モバイル版の収録言語をそのまま引き継いでいるためで、原作に無い言語への対応は検討中です。 高校を舞台にした学園恋愛ビジュアルノベル。 4つの物語で出会う少女たちと放課後を過ごし関係性を築いていきます。 もとはモバイル向けに配信されていた作品を、買い切りの1本としてPCへ移植しました。 独立した4つの物語 ヒロインはあわせて12人。 どれも単体で完結していて最初から読めるので、気になったものから始められます。 After School Sparkles — 運動部編 全15話 体を動かさずに済む毎日を、それなりに上手くやってきた。組み上げた生活が狂いだしたのは一匹の野良猫のせいだ。 おかげで運動神経を学校中に知られてしまい、しつこい部長が三人、代わる代わる勧誘に来る。悪い話ばかりでもない——三人とも学年で指折りの美人なのだから。 どの部に入るか決めればいいだけ。そのはずが気持ちが混ざると話は簡単に終わらない。 Student Council — 生徒会編 全15話 新学期。やり過ごし方は心得ている——教室のいちばん後ろで息をひそめていればいいんだ。 ポスターを一枚手伝っただけのはずだった。気づけば学校でいちばん当選から遠い生徒会長候補の選挙参謀にされている。 滑り出…",
+    "detectedAt": "2026-09-12T04:28:57.882Z"
+  },
+  {
+    "steamAppId": 5102670,
+    "title": "Elastic Rabbit",
+    "sourceUrl": "https://store.steampowered.com/app/5102670/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "MM（Massively Multiplayer）",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102670/5e9a9047f00be5803b28d014c6e6b3d8f996bd30/header.jpg?t=1789146632",
+    "japaneseSupport": "none",
+    "shortDescription": "Elastic Rabbit is a fast-paced indie physics brawler where rubbery movement meets explosive combat! Sling across a hand-drawn world, dodge mines, and team up with friends to protect the safe in high-octane, beat-synced mayhem.",
+    "aboutTheGame": "Elastic Rabbit Stretchy Physics. Pure Chaos. Welcome to Elastic Rabbit , the fast-paced indie physics brawl where rubbery physics meet explosive combat! Strap in, sling across a chaotic world, and blast your way through intense solo battles, competitive leaderboards, and co-op action. Game Features Snap & Sling Physics: Master the wobbly, elastic movement of your rabbit! Slingshot around obstacles, dodge incoming attacks, and launch yourself across the screen at high speeds. Co-Op \"Protect the Carrots\": Team up with friends to guard the central carrots against waves of incoming hazards, bombs,…",
+    "detectedAt": "2026-09-12T04:28:58.405Z"
+  },
+  {
+    "steamAppId": 5105260,
+    "title": "AVXRPG",
+    "sourceUrl": "https://store.steampowered.com/app/5105260/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105260/2360ed61e5077ed893b5c25b93eab6d5be00a4a5/header.jpg?t=1789133990",
+    "japaneseSupport": "none",
+    "shortDescription": "A 2D action RPG of short expeditions from a home town: fight, gather, complete stage quests, and forge your way forward.",
+    "aboutTheGame": "A 2D action RPG of short expeditions from each stage’s town: fight, gather, complete its quests, and forge your way forward. Every stage puts a town under your feet and something dangerous outside it. You don’t live there. You kit up, pick a Scout, a Mission, or an Assault, and you go. Out there the fighting is close and simple. You move, you swing, you dash and you dodge. Between fights you collect wood, stone, and berries, because the next piece of gear is made from what you drag home, not from a level-up screen. Each stage wants its quests done. Finish them and the next stage opens: a diffe…",
+    "detectedAt": "2026-09-12T04:28:59.053Z"
+  },
+  {
+    "steamAppId": 5106320,
+    "title": "Slot Heroes",
+    "sourceUrl": "https://store.steampowered.com/app/5106320/",
+    "price": "無料",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106320/6e03fc3057c7c52514a4edabe9438eb4c4f9551d/header.jpg?t=1789028012",
+    "japaneseSupport": "none",
+    "shortDescription": "デスクトップオーバーレイで楽しめる、カジュアルな放置型ディフェンスゲーム。日常の合間に気軽に楽しみながら、次々と押し寄せるモンスターやボスを撃退しよう。 英雄たちを仲間にして強化し、無限に押し寄せるモンスターやボスから守り抜こう。",
+    "aboutTheGame": "Slot Heroesへようこそ！ 絶えず強くなり続けるモンスター軍団が、あなたの村へ押し寄せてきます。 難易度が上がり続ける戦いの中で、戦略的な配置と強化を駆使して村を守り抜きましょう。 それぞれ異なる能力を持つ強力なボスたちも、あなたを待ち受けています。 新たな英雄を仲間にして、自分だけのパーティを完成させよう。 さまざまなクラスの英雄たちを集め、育てていきましょう。 レアからエピック、レジェンダリーまで、新たな英雄を手に入れるたびに戦略の幅が広がります。 英雄たちのアクティブスキルとパッシブスキルを組み合わせて、自分だけの最強パーティを作り上げましょう。 オーバーレイ機能で、戦いを任せよう。 あなたが他の作業をしている間も、戦闘は止まりません。 オーバーレイ機能を使えば、画面の片隅でパーティが戦い続ける姿を楽しめます。 その場を離れている間もゴールドは貯まり続け、戻ってきたときには、さらに強くなった英雄たちがあなたを迎えてくれます。 実力を競い合おう。 PvE攻略に慣れてきたら、他のプレイヤーと実力を競いましょう。 非同期PvPとリアルタイムPvP、2つのモードであなたのスロット戦略を試すことができます。",
+    "detectedAt": "2026-09-12T04:28:59.555Z"
+  },
+  {
+    "steamAppId": 5106420,
+    "title": "杠杆地产开发商",
+    "sourceUrl": "https://store.steampowered.com/app/5106420/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106420/0e8c55d547344864211f1341c11b27420d20b626/header.jpg?t=1789147086",
+    "japaneseSupport": "none",
+    "shortDescription": "Become an ambitious, ruthless real estate tycoon. Borrow, mortgage, or go public to build your empire with other people’s money. Raise funds, buy land, build, and sell—all with simple clicks—and watch your capital snowball at incredible speed.",
+    "aboutTheGame": "Embark on a Journey of Capital Expansion You’ll begin your first project as a small-time contractor, then work your way up step by step into a world-class real estate tycoon with trillions in wealth—and just as much debt, if you want to keep fueling your growth with leverage. Build a portfolio of hundreds of properties across the world’s major economic hubs. Perhaps, in the end, you’ll even monopolize all of humanity’s wealth and buy up the entire planet. Leverage Your Way to Faster Expansion Time is the most valuable resource. A great steward of capital must do everything possible to maximize…",
+    "detectedAt": "2026-09-12T04:29:00.063Z"
+  },
+  {
+    "steamAppId": 5106490,
+    "title": "彼女のミルク、僕のコーヒー",
+    "sourceUrl": "https://store.steampowered.com/app/5106490/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106490/27da1ecc0070c479dd773a9eb352f11670679863/header.jpg?t=1788035402",
+    "japaneseSupport": "text",
+    "shortDescription": "一番おいしいコーヒーはミルクで作る。いや、正確には彼女のミルクで……コーヒーを淹れて、いろいろな材料を加え、猫たちに提供して、お金を稼ごう。そして、たくさんのお金が必要になる。なぜなら、そのお金を全部、牛娘とのデートに持っていくプレゼントに使うことになるからだ。",
+    "aboutTheGame": "一番おいしいコーヒーはミルクで作る。いや、正確には彼女のミルクで…… コーヒーを淹れて、いろいろな材料を加え、猫たちに提供して、お金を稼ごう。そして、たくさんのお金が必要になる。なぜなら、そのお金を全部、牛娘とのデートに持っていくプレゼントに使うことになるからだ。 彼女は喫茶店のオーナーで、君のミューズで、君の上司でもある。ああ、それにコーヒーのミルクも彼女が提供してくれる…… 一生懸命働けば、いつか彼女と結婚できるかもしれない！ 特徴 牛娘との恋愛シミュレーション 甘いペイストリーがたくさん 本格的なコーヒーレシピ たくさんの猫たち 水彩画風のイラスト",
+    "detectedAt": "2026-09-12T04:29:00.750Z"
+  },
+  {
+    "steamAppId": 5106540,
+    "title": "Dojo of a Thousand Lives",
+    "sourceUrl": "https://store.steampowered.com/app/5106540/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月18日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106540/387bf021ab7980dbbd2d0ebd0bf12fcf1cfbe39b/header.jpg?t=1788950276",
+    "japaneseSupport": "none",
+    "shortDescription": "Dojo of a Thousand Lives is an incremental game where you train a lineage of fighters guided by Kano. Face powerful bosses, develop your talent tree, and pass on your legacy. Each life brings you closer to absolute mastery. How far will your lineage go?",
+    "aboutTheGame": "In Dojo of a Thousand Lives , a single lifetime will not be enough to achieve mastery. Guided by Kano, an ancient master as mysterious as he is kind, you lead a lineage of fighters against increasingly powerful opponents. Train, improve your abilities, and face formidable bosses as you push your fighter’s limits further with every battle. But every life eventually reaches its limits. When the time comes, pass the experience you have gained on to a new generation. Your journey begins again, but your legacy remains: develop an extensive tree of permanent talents, master ancient techniques, and g…",
+    "detectedAt": "2026-09-12T04:29:01.287Z"
+  },
+  {
+    "steamAppId": 5106570,
+    "title": "Zombie X",
+    "sourceUrl": "https://store.steampowered.com/app/5106570/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月5日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106570/81be53a18fdd01491ded710a8856bbba4125cdee/header.jpg?t=1788494156",
+    "japaneseSupport": "none",
+    "shortDescription": "Endless arcade shooter. Survive shifting zombie arenas, chain kills, swap weapons, and beat your high score",
+    "aboutTheGame": "Zombie X is an endless arcade shooter. There is no campaign to finish and no final level. You drop into the arena, stay alive, and push the score as high as it will go. The run gets harder the longer it lasts. Zombies pack tighter. The pace climbs. One mistake ends the attempt — then you jump back in and try to beat the number. Points come from clean hits, kill streaks, and surviving each new stretch of the fight. Stay in rhythm and the score climbs faster. Weapons change how a run feels. A pistol holds range. A shotgun clears the circle around you. A rifle pins a wave. Heavy guns rip through…",
+    "detectedAt": "2026-09-12T04:29:01.829Z"
   }
 ]
