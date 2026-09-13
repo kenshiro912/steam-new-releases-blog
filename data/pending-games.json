@@ -1,284 +1,5 @@
 [
   {
-    "steamAppId": 5103420,
-    "title": "Punctual Monsters",
-    "sourceUrl": "https://store.steampowered.com/app/5103420/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103420/9a62ed9bc2ab571e9f42903ddaf201c814efb9e3/header_japanese.jpg?t=1788628339",
-    "japaneseSupport": "text",
-    "shortDescription": "A cute puzzle game about sleepy monsters and their alarm clocks. Every monster wakes up on its own number. Place your monsters and get everyone up on time.",
-    "aboutTheGame": "Plan then Run Every monster sleeps with an alarm clock, and the number printed on it is the moment it wakes. Drop a few monsters onto the board, choose their numbers, then press run and watch the whole board count down from 5 to 1. Satisfy All Kinds Of Requirements Some boards want a box on a plate. Others need a bullet on target, or a beam held in exactly the right place. Monsters Are Movable As Well Boxes are not the only things that move. Push a monster before it wakes and it acts from its new position - or bend its beam with a mirror. Make It Explode Crash two bullets together at exactly t…",
-    "detectedAt": "2026-09-08T12:29:30.522Z"
-  },
-  {
-    "steamAppId": 5103500,
-    "title": "Valdivia AllStars",
-    "sourceUrl": "https://store.steampowered.com/app/5103500/",
-    "price": "無料",
-    "tags": [
-      "スポーツ",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月5日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103500/da77ceb8091bd2d96e7ae8d646aaf780e0005418/header.jpg?t=1788608480",
-    "japaneseSupport": "none",
-    "shortDescription": "Fast, no-nonsense 1-on-1 arcade basketball set in Valdivia, a cradle of Chilean hoops. Pick your idol, take on your rival and win the duel bucket by bucket — with a live play-by-play announcer who calls every play, loses it over your threes and cranks up the hype.",
-    "aboutTheGame": "Valdivia AllStars Fast, no-nonsense 1-on-1 arcade basketball: pick your idol, hit the court and win the duel bucket by bucket. Set in Valdivia — a cradle of Chilean basketball — and called LIVE by an announcer who won't miss a single play. No teams, no filler: just you, your rival and the rim. Easy to pick up, hard to put down. Every match feels like a TV broadcast, with a roaring crowd, real history and an announcer who turns up the volume when things heat up. Features Arcade 1-on-1 duels — Fast, accessible matches. Fakes, layups and buzzer-beating threes: easy to reach, a whole other thing t…",
-    "detectedAt": "2026-09-08T12:29:31.053Z"
-  },
-  {
-    "steamAppId": 5103590,
-    "title": "Hockey Game",
-    "sourceUrl": "https://store.steampowered.com/app/5103590/",
-    "price": "価格情報なし",
-    "tags": [
-      "スポーツ",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "2026年10月1日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103590/4c136224634e1d489ea2af50d3501870785386c3/header.jpg?t=1787785414",
-    "japaneseSupport": "none",
-    "shortDescription": "Fast 2D hockey arcade style game. Pick light, medium, or heavy skaters, throw checks, win fights, and bury one-timers. Build custom teams, chase a season title, and play a friends online or locally.",
-    "aboutTheGame": "Hockey Game is arcade hockey in the late-80s style: four skaters and a goalie per side, a small rink, and matches that finish in minutes. On the ice Three skater builds. Light skaters fly but bounce off everyone. Heavies flatten people at a jog and shoot hard off a quick windup. Mediums split the difference. Charged shots: hold past full power and the shot gets faster but can sail wide. Poke checks Fights break out after big hits. Mash to win. Your stick moves your goalie too. Every input is a decision about two players at once. Faceoff scrambles, icing (toggleable), golden goal overtime, and…",
-    "detectedAt": "2026-09-08T12:29:31.616Z"
-  },
-  {
-    "steamAppId": 5103760,
-    "title": "Sans Issue",
-    "sourceUrl": "https://store.steampowered.com/app/5103760/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103760/f95eaada1844d54a4d77724ffcb6a72e88c64fce/header.jpg?t=1787312208",
-    "japaneseSupport": "none",
-    "shortDescription": "Sans Issue is a 2D game mixing chess and card-deck building. Use cards to summon new pieces, move your pieces in new ways, and change the board's terrain. Earn new cards via the campaign, create custom decks using the deckbuilder, and play against your friends both locally and over Steam.",
-    "aboutTheGame": "Sans Issue is a 2D game mixing chess and card-deck building games, where you build decks and use cards to have an advantage over an opponent. At the beginning of each game, you start with a king, three pawns, and three cards. These cards can be played by using tokens, which are earned every turn (you also get a bonus token if you capture a piece). There is a wide variety of cards to play - you can summon other chess pieces, transport your pieces around the map, and even throw bombs onto empty spaces. In Sans Issue, the game ends not when you checkmate someone, but when you capture their king .…",
-    "detectedAt": "2026-09-08T12:29:32.338Z"
-  },
-  {
-    "steamAppId": 5103770,
-    "title": "The Northern Blade",
-    "sourceUrl": "https://store.steampowered.com/app/5103770/",
-    "price": "無料",
-    "tags": [
-      "アクション",
-      "MM（Massively Multiplayer）",
-      "RPG",
-      "無料プレイ",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103770/7f91860291b8f10267f94aefeeee066a86d7d55b/header.jpg?t=1788788478",
-    "japaneseSupport": "none",
-    "shortDescription": "A free-to-play action MMORPG set in a harsh fantasy world of open PvP. Aim your attacks, fight for territory, and carve a path through a war-torn southern continent where every journey beyond the city walls can turn into battle.",
-    "aboutTheGame": "Aenor's War for Survival The Northern Blade is a free-to-play action MMORPG focused on responsive combat, open-world PvP, and character progression in a harsh fantasy world. After catastrophe drives the people of Aenor from their northern homeland, they land on a dangerous southern continent. Survival means fighting hostile factions, giant creatures, roaming enemies, and rivals from within the empire itself. Key Features Action combat without target lock - Aim your attacks, time your skills, and stay mobile in fast fights. Open PvP beyond city walls - Outside protected areas, any encounter can…",
-    "detectedAt": "2026-09-08T12:29:32.889Z"
-  },
-  {
-    "steamAppId": 5103780,
-    "title": "Assault Commander RTS",
-    "sourceUrl": "https://store.steampowered.com/app/5103780/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第2四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103780/c952b93575f2305c128d7907b59587352aa48d2a/header.jpg?t=1788288643",
-    "japaneseSupport": "none",
-    "shortDescription": "Assault Commander RTS is a fast-paced real-time military strategy game. Fight a 30+ mission campaign with two distinct factions, build and defend your base, command land, air, and naval forces, unleash super weapons, and climb the ranked Conflict leaderboards.",
-    "aboutTheGame": "Assault Commander RTS is a fast-paced real-time military strategy game. Built on the foundations of the turn-based classic Assault Commander Rearmed, the battlefield now runs in real time: raise your base, field your army, and outfight the enemy in isometric 3D, backed by a player profile, a research system, and a challenging computer opponent. Fight through the single-player campaign on 6 difficulty levels. Command your forces across more than 30 missions. Primary objectives are randomized per playthrough, and optional side objectives, random battlefield events, and escalating enemy waves mak…",
-    "detectedAt": "2026-09-08T12:29:33.430Z"
-  },
-  {
-    "steamAppId": 5103800,
-    "title": "Last Ranger",
-    "sourceUrl": "https://store.steampowered.com/app/5103800/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "LAN協力プレイ",
-      "共有／分割画面での協力プレイ",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103800/57d83758a7c56e497b9f5ee1608b391a02a4c1ce/header.jpg?t=1788619410",
-    "japaneseSupport": "none",
-    "shortDescription": "Return to a mountain reserve abandoned after the storms. Restore its radio network, repair roads, survive the wilderness, and follow a nine-year-old transmission into the sealed North Range. Play alone, online, or in local split-screen co-op.",
-    "aboutTheGame": "RETURN TO RESERVE FOUR Nine years ago, weeks of rain destroyed the roads through Reserve Four. The region was evacuated, declared temporarily closed and never reopened. Now the Ranger Service has sent you to investigate. You are a Ranger candidate assigned to reopen the abandoned station, restore five emergency radio relays, and determine whether the reserve can operate again. Your pickup is your mobile base, the weather controls every journey, and help is not around. Then the first restored relay receives a transmission. It is an evacuation order from nine years ago, still repeating from some…",
-    "detectedAt": "2026-09-08T12:29:33.950Z"
-  },
-  {
-    "steamAppId": 5103820,
-    "title": "Veibyn's GunGame",
-    "sourceUrl": "https://store.steampowered.com/app/5103820/",
-    "price": "¥238",
-    "tags": [
-      "アクション",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "2026年9月2日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103820/3167c4a5620fee1024afa6ab9092503a6275941b/header.jpg?t=1788340926",
-    "japaneseSupport": "none",
-    "shortDescription": "A fast-paced arena shooter where every kill makes you stronger. Stack powerful upgrades, create ridiculous builds, battle players and bots, and survive increasingly chaotic zombie hordes.",
-    "aboutTheGame": "Veibyn's GunGame is a fast, chaotic arena shooter where every kill brings a new opportunity to become more powerful. Instead of simply progressing through a list of weapons, kills allow you to choose between three random upgrades. Increase your fire rate, movement speed, damage, health, projectile count and more — then stack upgrades together to create increasingly ridiculous builds. No two matches have to play the same way. KILL. UPGRADE. REPEAT. Every kill pushes your build further. Choose one of three upgrades and decide how you want your fighter to evolve. Focus on raw damage, turn your we…",
-    "detectedAt": "2026-09-08T12:29:34.485Z"
-  },
-  {
-    "steamAppId": 5103830,
-    "title": "Your Desktop Companion - Lumi",
-    "sourceUrl": "https://store.steampowered.com/app/5103830/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103830/2bcd6502948d7b3ef03a0a520ca20f53d5c69739/header.jpg?t=1788693623",
-    "japaneseSupport": "none",
-    "shortDescription": "Lumi is a local-first 3D AI companion that lives directly on your Windows desktop. Chat by text or voice, build a relationship over time, react to your music, and keep the core AI experience running locally on your PC.",
-    "aboutTheGame": "Meet Lumi — an AI companion who actually lives on your desktop. Lumi is a fully animated 3D AI companion designed to stay by your side while you work, browse, play games, listen to music or simply relax. Unlike a traditional chatbot locked inside a browser window, Lumi appears directly on your Windows desktop as a transparent, interactive character. A Relationship That Grows Talk with Lumi through text or voice and build a persistent relationship over time. Lumi can remember relevant details from previous conversations, recognize when you've been away, and gradually become warmer and more fami…",
-    "detectedAt": "2026-09-08T12:29:35.016Z"
-  },
-  {
-    "steamAppId": 5103870,
-    "title": "Anywhere RPG",
-    "sourceUrl": "https://store.steampowered.com/app/5103870/",
-    "price": "価格情報なし",
-    "tags": [
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "シミュレーション",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103870/8a3f412ea2afbb0779ac91580e5e2d3c165d60f8/header.jpg?t=1788392112",
-    "japaneseSupport": "none",
-    "shortDescription": "An AI-directed RPG that unfolds in real time.",
-    "aboutTheGame": "Play any character, in any world, doing anything. Anywhere RPG is a real-time, top-down 2D sandbox RPG where an AI director acts as your personal game master. Instead of picking from a menu of preset actions, simply type what you want to do — \"pickpocket the merchant,\" \"convince the guard I'm the king's cousin,\" \"attack the bandit\" — and the AI judges whether it's plausible, rolls the dice, narrates the outcome, and changes the world accordingly. Nothing is scripted; everything is generated and resolved live as you play. Generate a world from a single idea Describe any setting — a medieval vil…",
-    "detectedAt": "2026-09-08T12:29:35.679Z"
-  },
-  {
-    "steamAppId": 5103890,
-    "title": "Idle Clacker",
-    "sourceUrl": "https://store.steampowered.com/app/5103890/",
-    "price": "¥810",
-    "tags": [
-      "カジュアル",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月6日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103890/31d4f99b6f8aaacae8618f1ff086e51111a16d8a/header.jpg?t=1788740359",
-    "japaneseSupport": "none",
-    "shortDescription": "Learning to touch type takes thousands of repetitions. This one scores every single one. Master a key and it counts for more forever. Spend the points on upgrades that raise it further and let Otto, a robot who runs only on the battery your typing charged, keep scoring while you rest.",
-    "aboutTheGame": "Learning to touch type takes thousands of repetitions. This one scores every single one. Every keystroke earns points. Every key you master permanently raises what the next keystroke is worth. Points buy upgrades that raise it further so the grind that actually builds muscle memory comes with a number going up. Points never buy progression Idle income, offline earnings and shop upgrades accelerate the number. They never touch the curriculum. Moving past a lesson always means typing its keys correctly, at 92% accuracy or better, until its repetition target is met. The game can make you rich. On…",
-    "detectedAt": "2026-09-08T12:29:36.243Z"
-  },
-  {
-    "steamAppId": 5103900,
-    "title": "Spooky Land Defenders",
-    "sourceUrl": "https://store.steampowered.com/app/5103900/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年10月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103900/6ac0d803de891189e34e0cd44a278b2186823ba6/header.jpg?t=1788412921",
-    "japaneseSupport": "none",
-    "shortDescription": "A spooktacular strategic monster defense roguelite. Protect your haunted house from interdimensional corporate real estate investors by collecting horrific monsters, dreadful decor, terrible traps, and bizarre curios. Easy to sink your fangs into, but also a FRIGHTENINGLY deep strategy game!",
-    "aboutTheGame": "Menacing Monsters Psychic Vampires, Bewitching Skeletons, Moldy Ghosts, Antiquarian Zombies, Haunted Werewolves, Apothecary Mummies, oh my! Each monster you choose is paired with a random modifier which changes how you will utilize them in each build. 200 unique combinations make for truly special little monster squads every time. Cursed Curios and Deadly Decor 30+ Curios which provide passive synergistic bonuses that alter the way you play. Decorate your haunted house with animated suits of armor, falling chandeliers, trap doors, exploding jack o lanterns and more. Rest assured, you will be w…",
-    "detectedAt": "2026-09-08T12:29:36.776Z"
-  },
-  {
-    "steamAppId": 5103950,
-    "title": "One’s Trash Another’s Treasure",
-    "sourceUrl": "https://store.steampowered.com/app/5103950/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シミュレーション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5103950/be0a5e35faee0804e41c9e042002a85243c1d527/header.jpg?t=1787310294",
-    "japaneseSupport": "text",
-    "shortDescription": "有り金すべてで持ち主不明の貨物50万箱を購入。あとは一箱残らず開けるだけ。箱を砕き、決して満たされない穴に流し込み、それをビジネスプランと呼ぶ一人称インクリメンタルゲーム。道具、ドローン、自動化を買い揃えよう。残りたったの499,997箱。もうすぐ終わる。",
-    "aboutTheGame": "500,000個の箱を買ってしまった オークションで有り金すべてをはたいて、持ち主不明の貨物50万箱を落札した。あとは全部処理して、この賭けを利益に変えるだけだ。 箱を砕け。穴に流し込め。金をもらえ。 箱をグラインダーに放り込む。出てきたものを穴に落とす。穴が金を払ってくれる。そういう契約だ。 最初はとにかく遅い。素手で箱をひとつずつ運ぶしかない。だが報酬が入るたびに、より良い道具が買える。 すべてを自動化しろ 掃除機、ゴミ袋、扇風機、ベルトコンベアをアンロック。箱を集めてくれるドローンを購入。勝手に回る仕組みを作り上げ、山積みの箱がついに減っていくのを眺めよう。 初日に1時間かかった作業が、やがて数秒で終わる。 箱の中身は？ ほとんどはガラクタ。でも全部じゃない。どの箱も誰かのものだった。今は全部、君のものだ。 特徴 50万個の箱を片付ける一人称視点のインクリメンタルゲーム 箱を砕き、穴に流し込んで稼ぐ 掃除機、扇風機、コンベア、ゴミ袋、ドローンをアンロック 働いている間も金を稼ぐ自動化ラインを構築 箱に隠されたレアアイテムを発見",
-    "detectedAt": "2026-09-08T12:29:37.381Z"
-  },
-  {
-    "steamAppId": 5104020,
-    "title": "Splatter Piece",
-    "sourceUrl": "https://store.steampowered.com/app/5104020/",
-    "price": "¥589",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP"
-    ],
-    "releaseDate": "2026年9月7日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5104020/49899c1f263beb51a09d66741a905045b7bb03c3/header.jpg?t=1788800680",
-    "japaneseSupport": "none",
-    "shortDescription": "1〜8人のオンライン対戦お絵かきパーティゲーム。ゴッホ、フェルメール、モネの名画をイーゼルの前で時間内に模写しよう。正確さは自動採点、好きな絵に投票し、ライバルを蹴り飛ばし、世界ランキングを駆け上がれ。ひとりでも、友達とでも遊べます。",
-    "aboutTheGame": "『Splatter Piece』は一人称視点のパーティゲーム。1〜8人が同じ美術館になだれ込み、それぞれイーゼルを一つ確保して、時間切れになる前に名画を模写します。ここに本物の画家は一人もいません——それがこのゲームの魅力です。 1ラウンドの流れ 名画が美術館の壁に掛かり、全員が自分のイーゼルで模写を始めます。 時間との勝負。3種類の筆先、カラーパネル、スポイト、消しゴム、ガイドグリッド、そして多段階の取り消しが使えます。 時間が来ると、すべてのキャンバスが原画と比較され、正確さのスコアが自動で算出されます。 正確さが技術的な勝者を決め、ハートがその部屋のお気に入りを決めます。 1マッチで選んだコレクションを最後まで遊び、各ラウンドの優勝作品は美術館の優勝者の壁に飾られます。 真剣勝負、そしてパーティのノリ 美術館をうろついている最中、絶妙なタイミングの一蹴りでライバルを床に沈められます。 1マッチに一度、キャンディが館内に落ちてきます。先に拾った人が投げる権利を得て、着弾点はペンキまみれ。誰のスコアにも影響しません——友達をイライラさせるためだけに存在します。 ウォームアップ中は、ペンキはキャンバスの上だけのものではありません。床も、柱も、友達さえも塗れます。 エモートホイールで目立つもよし、コンガの列に加わるもよし、ソファに沈み込んで慌てふためく他人を眺めるもよし。 本格的な道…",
-    "detectedAt": "2026-09-08T12:29:37.907Z"
-  },
-  {
-    "steamAppId": 5104040,
-    "title": "Dice Roll Society",
-    "sourceUrl": "https://store.steampowered.com/app/5104040/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5104040/1a3d8fd38e995f18fb005526241fdf7d954e1688/header.jpg?t=1788516720",
-    "japaneseSupport": "text",
-    "shortDescription": "すべてのロールが得点につながる、ダイスクラフト・ローグライト。スコアマシンを組み上げ、5個のダイスを1面ずつ鍛え上げろ。ロール回数を使い切る前にボスを倒し、そのダイスを奪い取れ。",
-    "aboutTheGame": "すべてのロールが得点になる スコアプレートとチップを置けば、テーブルの仕組みができあがる。5個のダイスを1面ずつ鍛え、ロールのたびにコンボの連鎖を巻き起こせ。高まり続けるステークスを突破して強力な報酬を集めれば、スコアマシンはやがてハウスさえ打ち破る。 どの役で得点するかは自分で決める 必要なダイスを残してほかを振り直し、より大きな役を狙え。ペアをキープするか、フルハウスを追うか、それとも完璧な一投にすべてを賭けるか。スコアプレートとチップが同時に得点すれば、たった一度のロールでテーブル全体の報酬が一斉に発生する。 5個のダイスを1面ずつ鍛える ダイス面パックを開き、面を1つずつ入れ替えろ。同じ目、連番、大きな目、強力な特殊面を詰め込み、5個のカスタムダイスを作り上げろ。ボステーブルを制覇して固有のダイスを手に入れ、完璧なビルドに組み込め。",
-    "detectedAt": "2026-09-08T12:29:38.523Z"
-  },
-  {
     "steamAppId": 5104050,
     "title": "Note Bounce – Sheet Music Game & Video Creator",
     "sourceUrl": "https://store.steampowered.com/app/5104050/",
@@ -8999,5 +8720,407 @@
     "shortDescription": "猫の保護施設を運営する、心温まる放置系ゲーム。庭でモフモフの猫たちを捕まえ、世界中から届く心温まる依頼をこなし、幸せな結末のアルバムを集めよう — そして Jane の心を掴もう。かわいさ、ピクセル、ゴロゴロ音。あなたがいない間も、勝手にプレイしてくれます！",
     "aboutTheGame": "Kitty Needs a Home! は、世界中の猫たちに家を見つける、小さな庭のあたたかい物語です。 Jane は遠くの保護施設を救うために飛び立ち、庭をあなたに預けました。猫を捕まえ、施設を整え、手紙を読みましょう — スケートリンクの雪だるまから、バッテリー切れの UFO に乗った宇宙人まで — そして、それぞれのおヒゲさんに完璧な家を見つけてあげましょう。 🐾 捕まえて、里親を見つけよう。 数十種類の猫たち — ふつうのやんちゃな子から、奇跡から紡がれた伝説級まで。それぞれに性格があります：甘えん坊、遊び好き、のんびり屋。 💌 44 人の依頼主 — 44 の小さな物語。 プログラマー、バレリーナ、消防士、ロックスター、そして、とても孤独なゾンビハンターが 1 人。依頼を達成すると — 結末アルバムに貼るポストカードがもらえます。 🌍 世界にやさしさを届けよう。 ジオゾーンをアップグレードして、ロンドン、東京、ヒューストン、ドバイへ猫たちを送り出しましょう。 🔮 分岐するクエスト。 光る不思議な草、UFO、そして夜にしか届かない手紙…… いくつかの物語は、向こうからあなたを訪ねてきます。 😴 あなたが眠っている間も、遊んでくれます。 保護施設はあなたがいなくても動き続けます：ハートは溜まり、手紙は積み重なります。「キャッチモード」は、ゲームを画面の隅にいる愛らしい…",
     "detectedAt": "2026-09-13T00:29:26.125Z"
+  },
+  {
+    "steamAppId": 4606480,
+    "title": "Nozie Tower Defense XL",
+    "sourceUrl": "https://store.steampowered.com/app/4606480/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606480/415aea8ea3add80a17c3115ea226a96c7116039c/header.jpg?t=1789260273",
+    "japaneseSupport": "none",
+    "shortDescription": "Defend against waves of invading balloons in this colorful tower defense adventure. Place and upgrade 8 unique towers, including fire, slow, explosive, and sniper types, across 20 challenging levels. Mix strategies, complete goals, and try to beat the developer’s high score!",
+    "aboutTheGame": "Nozie Tower Defense XL is a colorful, chaotic tower defense game where you stop waves of balloons from escaping! Place towers, upgrade them, and mix abilities to defend winding tracks against bigger and tougher balloon swarms. The goal is simple but the path to victory is not! Build a strong defense, survive each wave, and keep the balloons from getting through. How you play: Study the path, then strategically place towers to stop each wave Earn money by popping balloons and spend it on new towers or upgrades Bonus money is awarded after each wave, the less you spend the larger the bonus Combi…",
+    "detectedAt": "2026-09-13T04:29:14.822Z"
+  },
+  {
+    "steamAppId": 5059380,
+    "title": "SubQuest",
+    "sourceUrl": "https://store.steampowered.com/app/5059380/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年12月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059380/fef4fdb8fa41078e1ebea8ccc13181cec6a07e8d/header.jpg?t=1789270192",
+    "japaneseSupport": "text",
+    "shortDescription": "SubQuest is a productivity game that grows with you, right on your desktop. Cute characters, endless adventures, and a diorama where your heroes rest between quests — decorate it however you like! Notes, to-dos, Time-Quests — get your work done side by side with your hero party!",
+    "aboutTheGame": "About SubQuest SubQuest is a productivity game where a party of heroes moves to the rhythm of your input. Meet your cute hero party, keep notes, to-dos, and a calendar right on your desktop — and head out on an adventure for as long as you choose! Your party's Time-Quests guarantee a short break after every focused stretch of work, keeping you at your most productive. 1. Pomodoro: Time-Quests Set out with your party for a set stretch of time! While you focus on your work, your party keeps pace with your input — defeating enemies and growing stronger. When the adventure ends, collect the spoils…",
+    "detectedAt": "2026-09-13T04:29:15.512Z"
+  },
+  {
+    "steamAppId": 5108980,
+    "title": "Petal and Blade",
+    "sourceUrl": "https://store.steampowered.com/app/5108980/",
+    "price": "¥530",
+    "tags": [
+      "アクション",
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108980/23a27f384985adb3c243674fdcf6012b83e9e243/header.jpg?t=1788373512",
+    "japaneseSupport": "none",
+    "shortDescription": "Petal and Blade is a turn-based roguelike deckbuilder featuring four distinct playable characters. Build powerful decks, discover card synergies, adapt your strategy, and overcome challenging battles with each new run.",
+    "aboutTheGame": "Petal and Blade is a turn-based roguelike deckbuilder where every decision shapes your deck and the outcome of each battle. Choose one of four distinct playable characters, master their unique cards and abilities, strengthen your deck throughout your journey, and create powerful combinations to overcome the enemies standing in your way. Four Distinct Characters Each character offers a different playstyle and card pool. Experiment with offense, defense, and unique mechanics to discover the strategy that suits you best. Build Your Deck Earn new cards, discover powerful synergies, and shape your…",
+    "detectedAt": "2026-09-13T04:29:16.149Z"
+  },
+  {
+    "steamAppId": 5109000,
+    "title": "Master Heroes",
+    "sourceUrl": "https://store.steampowered.com/app/5109000/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "LAN協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109000/677535dda282c1ba1829135426bcb7b59ef76a43/header.jpg?t=1787998328",
+    "japaneseSupport": "none",
+    "shortDescription": "Side-scrolling beat-'em-up in a fallen fantasy kingdom: ten heroes crowned themselves kings while the demon Iblees strangles the land. As Haytham, defeat and UNITE all ten — each becomes playable — then take the war to Iblees. 12 heroes, 5 modes, 1–4 players, local & LAN co-op and versus.",
+    "aboutTheGame": "Master Heroes is a side-scrolling beat-'em-up in the classic 2000s arcade style with Rich Story, great music, grown to kingdom scale: a story campaign about defeating and UNITING ten rival hero-kings, and a battlefield layer of armies you summon, pay and command. Play alone or with up to four on one team — locally and over LAN — across five modes. The Kingdom of Dreams has fallen The army that marched on the dark demon Iblees was shattered. The ten strongest heroes of the era survived — and, starved for the power to rival him, each seized a region and crowned himself a petty king. Old King Daw…",
+    "detectedAt": "2026-09-13T04:29:16.685Z"
+  },
+  {
+    "steamAppId": 5109050,
+    "title": "AstroTennis",
+    "sourceUrl": "https://store.steampowered.com/app/5109050/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "スポーツ",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109050/b6007bd018ca667f6adc3f58c6fb8ac272a2640f/header.jpg?t=1788553751",
+    "japaneseSupport": "none",
+    "shortDescription": "Choose your suit and play against the most famous astronauts. Beat all of them to win the tournament or play with a friend in local multiplayer.",
+    "aboutTheGame": "Beat astronauts on the tournament to unlock their suits and get to face against the hardest rival: Laika! The objective is simple: don't let the ball bounce twice on your field. First to 7 points wins. Also available to play against your friends in local multiplayer! Features: Single player tournament: Beat 8 astronauts and 1 dog to win and unlock all suits Local PvP: Play against a friend. 5 astronaut suits to unlock",
+    "detectedAt": "2026-09-13T04:29:17.472Z"
+  },
+  {
+    "steamAppId": 5109060,
+    "title": "Hardware Store: Tidy Up",
+    "sourceUrl": "https://store.steampowered.com/app/5109060/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月21日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109060/d748de1486d12e8466bad1520640cf7fa83384a4/header.jpg?t=1788974386",
+    "japaneseSupport": "none",
+    "shortDescription": "散らかった金物屋を落ち着いて片付けていく、心地よい整理整頓シミュレーター。工具を手に取り、しかるべき棚を見つけ、整理整頓の心地よいリズムを楽しみましょう。",
+    "aboutTheGame": "混沌を秩序へと変えよう 『Hardware Store: Tidy Up!』の穏やかで心満たされる世界へようこそ！ 日々の忙しさから解放され、散らかった金物屋を掃除し、整頓し、きれいに並べ替えることだけを目的とした心地よい整理整頓の体験に没頭しましょう。 気持ちいい整理整頓メカニクス: ネジを分類し、ペンキ缶を we 色合いごとに並べ、電動工具をしかるべき場所に収めましょう。 ストレスフリーで心地よいプレイ: 制限時間もハイスコアもありません。心地よいBGMに包まれながら、純粋でリラックスできる整理整頓を楽しめます。 街の金物屋からメガストアまで: さまざまなサイズのマップが用意されており、それぞれにユニークな配置の課題や新しいアイテムが登場します。 手応えのある体験: 箱がぴったりと収まり、棚が完璧に整うたびに得られる満足感を味わってください。 あなたはこの究極の金物屋に秩序を取り戻すことができるでしょうか？ バインダーを手にとって、さっそく片付けを始めましょう！",
+    "detectedAt": "2026-09-13T04:29:18.026Z"
+  },
+  {
+    "steamAppId": 5109150,
+    "title": "Please Stop Breeding the Ducks",
+    "sourceUrl": "https://store.steampowered.com/app/5109150/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109150/388ed348b7b0bd563d407a70c172f9f01da2074d/header.jpg?t=1787374238",
+    "japaneseSupport": "none",
+    "shortDescription": "Run your very own duck ranch and store! Breed ducks, hatch new generations, set your own prices, serve customers, hire staff, and expand your humble shop into a thriving duck empire.",
+    "aboutTheGame": "Please Stop Breeding the Ducks A Co-Op Duck Breeding & Shop Simulator Y’all ever wanna just retire, run your own ranch, watch your animals complete nature’s cycle, then sell their eggs and newborns to the general public? Well, this is the game for you! BREEEEED Engage in strategic cross-breeding to create stronger and unique ducks! See what the next generation inherits. Every duck can pass down different genetics, including: Body and eye colors Wing shapes Size and weight Accessories and equipment Combat stats Bloodline strength Rare mutations Experiment with different pairings, chase desirabl…",
+    "detectedAt": "2026-09-13T04:29:18.696Z"
+  },
+  {
+    "steamAppId": 5109330,
+    "title": "C3 Nightfall",
+    "sourceUrl": "https://store.steampowered.com/app/5109330/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年2月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109330/2488bc2f47465460fb6e63d885b2c6596c933783/header.jpg?t=1788281806",
+    "japaneseSupport": "none",
+    "shortDescription": "Collect relics. Combine their powers. Forge magical weapons. Fight monsters from beyond the skies in a third-person medieval fantasy adventure. Survive the night, harvest Cosmic Crystals, and reclaim the King's castle from the creatures that fell from the comet cloud.",
+    "aboutTheGame": "COLLECT. COMBINE. COMBAT. Collect the relics. Combine their powers. Combat the monsters and gather enough cosmic crystals. COLLECT Search the castle grounds as mysterious relics rain down from the comet cloud. COMBINE Learn how different relics can be combined to create powerful magical weapon. COMBAT Put your creations to the test as the monsters arrive. The Story Twenty years ago, royal wizard Lazaar attempted to harness the power of a comet and open a portal to another world. The spell succeeded—but something went terribly wrong. A mysterious cloud formed above the castle, raining powerful…",
+    "detectedAt": "2026-09-13T04:29:19.271Z"
+  },
+  {
+    "steamAppId": 5109390,
+    "title": "ShapePack",
+    "sourceUrl": "https://store.steampowered.com/app/5109390/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109390/c73ee2ed53faafe61b6018cf941271ea19f0858d/header.jpg?t=1789059257",
+    "japaneseSupport": "none",
+    "shortDescription": "Pack colorful pieces into a tiny backpack, then rebuild each target across 120 handcrafted logic puzzles filled with portals, conveyors, bombs, ghosts, rotating shapes, speed challenges, trophies, and seven inventive boss battles.",
+    "aboutTheGame": "Every piece has somewhere to go — but there may not be enough room to carry it there. ShapePack is a colorful logic game built around one deceptively simple rule: pieces cannot be dragged around the board. Pick them up, fit them into a limited backpack, and place them back in the right order to recreate the target picture. The first puzzles teach the idea in seconds. Then the board starts fighting back. Conveyors shove pieces across restricted zones. Portals move them between distant cells. Lifts jump walls. Buttons demand the right color. Explosive pieces crack open blocked routes, phantom pi…",
+    "detectedAt": "2026-09-13T04:29:20.057Z"
+  },
+  {
+    "steamAppId": 5109420,
+    "title": "The Black King",
+    "sourceUrl": "https://store.steampowered.com/app/5109420/",
+    "price": "¥655",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月7日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109420/a6f4852cc74d415fdf30bf1933bc607a2f076aab/header.jpg?t=1788801079",
+    "japaneseSupport": "none",
+    "shortDescription": "Wield Kindness. Cut The Void. Court the Queens.",
+    "aboutTheGame": "THE BLACK KING — Reality Crux Point Dagger You are the Black King. In your hand rests the Reality Crux Point Dagger — a weapon that does not cut flesh, but the void itself. Raise Kindness. Hold to Cut. Fulcrum to Unmake. Descend into the dark. Court the Queens who wait beyond the edge of reality. Each one holds a fragment of what was lost… and what must be remade. There are no maps. There are only runs. Depth. And the quiet power of Kindness. Features Wield the Reality Crux Point Dagger in a ritual of cutting and unmaking Raise Kindness as both power and path Court a pantheon of Queens across…",
+    "detectedAt": "2026-09-13T04:29:20.610Z"
+  },
+  {
+    "steamAppId": 5109460,
+    "title": "Desktop Ball（デスクトップボール）",
+    "sourceUrl": "https://store.steampowered.com/app/5109460/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月12日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109460/9b65868550d9ebcb3f424b9dc59a2c95b56f6700/header.jpg?t=1789137713",
+    "japaneseSupport": "full",
+    "shortDescription": "デスクトップの上に住みつく小さな物理おもちゃ。手持ち無沙汰を解消して、ストレスを発散して、変なボールたちで好き放題やる。ぶん投げて、跳ね返らせて、ダンクを決めて、爆発させて、小さな海でバシャバシャやるだけでもいい。",
+    "aboutTheGame": "デスクトップに住んでる。 デスクトップの上に住んでる小さなおもちゃ。デジタル版ハンドスピナーみたいなもの。 マッチング待ち、会議中、ビルド中、レンダリング中、手が暇なときならいつでも。つかんで、ぶん投げて、モニターの端で跳ね返らせる。遊ぶのをやめたら勝手にどいてくれるから、下にあるものは普通に使える。 ストレス、たまってる? だよね... それなら超新星だ。 モニターの端に押しつけると 危険なくらい熱くなる 。そのまま続けると、 激しい熱核爆発 でドカン。しばらくは壁紙にいい感じの焦げ跡が残る。 ダンク、決めたくない? バスケットボールには専用のゴールが付いてくる。モニターの横からスライドして出てくるやつだ。 画面の上のほうで跳ね返らせて、 神業をつなげて 、倍率を積み上げる。 完璧なダンクを決めるとボールが燃える 。そのあとに まったく必要のない量の紙吹雪 。 小さな海、いる? スポンジ。画面が物理シミュレーションの小さな海になる。 カーソルでちょっかいを出せる魚の群れがいて、スポンジはスポンジらしく水を吸う。 放り込んで、重くなるまで待って、つかんでモニターの端で絞る 。もしくは水を思いっきりかき回すだけでもいい（魚は大喜び!） つかんですぐ遊べる つかみたくなったら、いつでもそこにいる 全画面にすると自分から隠れる。マグネットコーナーに押し込んでおくのもあり 今のところボール…",
+    "detectedAt": "2026-09-13T04:29:21.176Z"
+  },
+  {
+    "steamAppId": 5109520,
+    "title": "Swinging Pier Clean Simulator",
+    "sourceUrl": "https://store.steampowered.com/app/5109520/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "早期アクセス",
+      "シングルプレイヤー",
+      "マルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109520/1be4fde869e2a7a13b438d93a36565af628be963/header.jpg?t=1787874151",
+    "japaneseSupport": "text",
+    "shortDescription": "揺れる足場に乗って摩天楼の間を渡り歩き、仲間と一緒に泡と高圧洗浄機で何年分もの汚れを吹き飛ばそう。ただし、仲間を落とさないように気をつけて。一人でのんびり掃除するもよし、4人で大混乱するもよし——選ぶのはあなた次第",
+    "aboutTheGame": "ようこそ、この街で最悪(そして最高)の仕事へ あなたとチームは薄給で働きづめの窓拭き職人。オフィス代わりは、路上はるか数百メートル上空に吊るされた揺れる足場だ。一歩踏み出すだけで足場のバランスが崩れ、落としたバケツが同僚を巻き込んで落下させることもある。建物を掃除するのが仕事——だが本当の試練は、互いに生き延びることだ。 揺れろ、でも落ちるな Swinging Pierの足場は物理演算で動く生きた舞台。重量配分、勢い、そして仲間たちの最悪の判断が、足場がどう揺れ、傾き、よろめくかを決める。仕事シミュレーターに組み込まれた物理コメディ・カオス——一歩間違えれば、チーム全員(バケツやはしごもろとも)が転落する。 泡をかけて、洗い流して、また繰り返す 泡をたっぷり塗って、高圧洗浄機で吹き飛ばし、何十年分もの汚れが少しずつ消えていくのを眺めよう。お馴染みの掃除シミュレーターの爽快感はそのまま——ただし「職場」は40階の高さで風に揺られている。 清掃帝国を築こう 求人掲示板から仕事を受注し、稼いだお金でホースや泡ガン、車両をアップグレードしよう。自分だけの車両を購入・カスタマイズし、拡大のためにローンを組み、スキルを磨いて——一文無しの新人から、誰もが頼る足場会社へ成長していく。 みんなでやればもっと楽しい(そしてもっと大混乱) 一人でのんびり瞑想的な掃除を楽しむもよし、オンラインで最大3人…",
+    "detectedAt": "2026-09-13T04:29:21.724Z"
+  },
+  {
+    "steamAppId": 5109530,
+    "title": "Vitro : Bloodstream",
+    "sourceUrl": "https://store.steampowered.com/app/5109530/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109530/f7538467b3df0c413af0b148d978ee92b4babcd4/header.jpg?t=1788283838",
+    "japaneseSupport": "none",
+    "shortDescription": "Vitro: Bloodstream is a satisfying action-upgrade game where you guide a targeting field through a living bloodstream - neutralize evolving biological threats, earn Bio Energy, and adapt your procedure with research, boosts, auxiliaries, and permanent upgrades.",
+    "aboutTheGame": "Defend. Adapt. Neutralize. Enter the bloodstream in a satisfying, upgrade-driven action game where every procedure pushes you deeper into the body. Guide your Probe Targeting Field across a living, shifting bloodstream to neutralize threats, collect Bio Energy, and make the next run stronger. In short, focused procedures, you’ll face bacteria, viruses, cancer cells, parasites, and stranger hazards—each with its own behavior to learn and overcome. Build your approach through persistent upgrades, research newly encountered threats, evolve your understanding of the bloodstream, and unlock deeper…",
+    "detectedAt": "2026-09-13T04:29:22.304Z"
+  },
+  {
+    "steamAppId": 5109550,
+    "title": "ALL EYES ON ME",
+    "sourceUrl": "https://store.steampowered.com/app/5109550/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109550/0e49626606ef9b53feb1486f437f2beb83032fb5/header.jpg?t=1788884023",
+    "japaneseSupport": "text",
+    "shortDescription": "みなが同じものを見ている。お前は違う。数千の眼に追われるバレットヘヴン系ローグライト。その視線こそが、最強の武器をチャージする。装備を集めてビルドを組み、チャレンジに挑み、ローカル協力プレイやオンライン征服で戦え。",
+    "aboutTheGame": "みなが同じものを見ている。お前は違う。 かつて、見るという行為はひとつひとつが固有の光だった。同じ世界の像が何十億とあり、そのどれもが嘘ではなかった。やがてひとつの声が、あらゆる争いの終わりを約束した。すべての者にひとつの像を。それを平和と呼んだ。 自分の像を手放さなかった者は、殺されはしなかった。ただ閉じられた。分類された。鎮められた。 見下ろし視点のバレットヘヴン系ローグライト。一回の降下は約10分。 収録内容 5人のキャラクター。それぞれ固有の初期武器と2つのアビリティ 1画面2人のローカル協力プレイ。Remote Play Togetherにも対応 武器は最大強化で進化 与えると同時に奪う9つのレリック。体力を削って火力を、防御を削って戦利品を 守護者とボスが落とす装備。強化、融合、分解 2つのキャンペーン、12体のボス、30種類以上の敵 最終ボスの後に解放されるエンドレスモード。ルールは重ねがけされる オンライン征服。他のプレイヤーが保持する領地に攻め込み、そのビルドをボスとして相手取る デイリーとウィークリーのチャレンジ、さらに自作用のビルダー 暗室では残像を一晩かけて焼き付け、翌朝その結果を受け取る 全キャラクターにアンロック可能なスキン マイクロトランザクションなし ゲーム内のものはすべてプレイして手に入れる。課金通貨なし、バトルパスなし、広告なし。買い切り。 すべ…",
+    "detectedAt": "2026-09-13T04:29:22.887Z"
+  },
+  {
+    "steamAppId": 5109570,
+    "title": "The Hairy Man",
+    "sourceUrl": "https://store.steampowered.com/app/5109570/",
+    "price": "¥135",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月7日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109570/d7756e77b0c8b714455316412ef33cea99a99da0/header.jpg?t=1788783138",
+    "japaneseSupport": "none",
+    "shortDescription": "Meet the Hairy Man. He will stalk you through the woods, your campsite, a warehouse, and a campground bathroom in the pursuit of your flesh. You must lure him into traps in order to collect four pictures of him, and eventually find the self defense razor to ensure survival.",
+    "aboutTheGame": "In this survival horror game, you decide to investigate the myth of the Hairy Man. He will follow you through the woods, your campsite, the campgrounds bathroom, and a warehouse. Your goal is to take four pictures of him for evidence, and the hairy man progressively gets faster the more pictures you take. After you collect four pictures, you have to find the large self defense razor in the bathroom to ensure survival. Use mouse 2 to zoom in on your camera, and mouse 1 to take a picture. To take a picture of the hairy man, you must first walk up to a highlighted area on the ground and press E.…",
+    "detectedAt": "2026-09-13T04:29:23.432Z"
+  },
+  {
+    "steamAppId": 5109610,
+    "title": "Istanbul Cats",
+    "sourceUrl": "https://store.steampowered.com/app/5109610/",
+    "price": "¥265",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109610/2214fb13920005c63d5cd42b1968f390b9192c3c/header.jpg?t=1788342860",
+    "japaneseSupport": "none",
+    "shortDescription": "A cosy hidden object game about the street cats of Istanbul. Search six storybook neighbourhoods for 104 cats dozing on awnings, peering through railings and hiding behind flower pots. No timers, no failing, no rush. Just you, the city at golden hour, and a lot of cats.",
+    "aboutTheGame": "A city full of cats, and all of them are hiding Istanbul has more cats than it has people who admit to feeding them. This is a game about finding them. Six storybook neighbourhoods, from the steep streets under the Galata Tower to the arches of the Grand Bazaar and the ferry docks at Karakoy. Every scene is packed with the small business of a city at golden hour: crates of fruit, hanging lanterns, laundry, tea glasses, barrels, bicycles. And somewhere in all of it, cats. On awnings, behind railings, inside baskets, watching from upstairs windows. How it plays Look, and click. Drag to pan, scro…",
+    "detectedAt": "2026-09-13T04:29:23.991Z"
+  },
+  {
+    "steamAppId": 5109620,
+    "title": "Esports Dynasty Manager",
+    "sourceUrl": "https://store.steampowered.com/app/5109620/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "スポーツ",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109620/22c05889aa05ce33366a6a58e6f6ce2a35a8e3d1/header.jpg?t=1787410733",
+    "japaneseSupport": "text",
+    "shortDescription": "競争の激しいMOBAの世界で、eスポーツ組織を率いよう。選手を集め、才能を育成し、ドラフトとメタゲームを制覇し、財政とインフラを管理し、主要な選手権で競い合い、真の王朝を築き上げよう。",
+    "aboutTheGame": "このゲームについて Esports Dynasty Manager は、架空のプロMOBAシーンを舞台に、eスポーツ組織を運営するマネジメントゲームです。 仕事は5人の選手を選ぶだけではありません。最適なロスターを構築し、新たな才能を発掘し、スタッフを雇用し、給与やスポンサーを管理し、施設を強化し、対戦相手を分析して、すべてのシリーズに向けてチームを準備します。 自分だけの王朝を築け 偉大な組織は、難しい決断の積み重ねから生まれます。目先の結果と長期的な成長のバランスを取り、投資先を選び、不調のシーズンやメタの変化、タイトル獲得へのプレッシャーにも耐えられる組織を作り上げましょう。 最適なロスターを編成 各選手には、それぞれ異なる特徴、潜在能力、得意分野、ヒーロープールがあります。Hard Carry、Mid、Offlane、Support 4、Support 5のバランスを考えながらロスターを組み、選手の成長を追い、契約更新、交渉、新たなスター選手の獲得を判断します。 鍛え、適応し、成長する トレーニングの優先順位を設定し、疲労を管理しながら、個人能力とチーム力を伸ばしていきます。メタは変化し、ヒーローの優先度も上下します。今日最強だった戦略が、次の大型大会では通用しないこともあります。 計画を持ってドラフトへ 対戦相手を分析し、各選手のシグネチャーヒーローを考慮し、シナジーを構…",
+    "detectedAt": "2026-09-13T04:29:24.575Z"
+  },
+  {
+    "steamAppId": 5109630,
+    "title": "Orbit Anomaly",
+    "sourceUrl": "https://store.steampowered.com/app/5109630/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "LAN協力プレイ"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109630/78d7c97a9b6e86e467ad5a4708adac694f6d34d2/header.jpg?t=1788555017",
+    "japaneseSupport": "none",
+    "shortDescription": "Orbit Anomaly is a cooperative sci-fi horror game about robots exploring abandoned space facilities, scavenging scrap to upgrade their base, and trying not to become prey for the monsters lurking within.",
+    "aboutTheGame": "Orbit Anomaly is a cooperative sci-fi horror game about robots exploring abandoned space facilities, scavenging scrap to upgrade their base, and trying not to become prey for the monsters lurking within. Game Features: Expeditions - head out on missions, collect scrap, and evacuate back to your ship. Base Upgrades - dismantle collected scrap into resources and use them to improve your spaceship. Character Customization - draw any face you want on your robot’s 32×32 pixel display, and choose hats, accessories, and colors. Anomalies - random events that can change the course of an expedition. Pe…",
+    "detectedAt": "2026-09-13T04:29:25.141Z"
+  },
+  {
+    "steamAppId": 5109640,
+    "title": "Gas Station Horror",
+    "sourceUrl": "https://store.steampowered.com/app/5109640/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109640/6048c469c3583a0f156ec60d3c3a70445a9bbd01/header.jpg?t=1788087783",
+    "japaneseSupport": "none",
+    "shortDescription": "Gas Station Horror is a psychological, atmospheric 30-minute horror game where all the action takes place during a single night shift at a gas station",
+    "aboutTheGame": "Perform routine work tasks Fuel up cars, submit checklists, take out the trash, and other mundane work tasks Talk with NPC customers A variety of different outcomes that will give you additional tasks or affect the game's ending. Interact with objects Several different items around the gas station that play a role in the game's story.",
+    "detectedAt": "2026-09-13T04:29:25.676Z"
+  },
+  {
+    "steamAppId": 5109770,
+    "title": "Dropper",
+    "sourceUrl": "https://store.steampowered.com/app/5109770/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109770/089c4d2bef35f48224d4b9c42f548bb1b0ae26ad/header.jpg?t=1788819765",
+    "japaneseSupport": "none",
+    "shortDescription": "Dropper is simple. Gather your friends and fall down dynamically spawned towers, filled with Hazards. This game has been done before.. But not like this!",
+    "aboutTheGame": "THE ONLY WAY OUT IS DOWN Twenty of you are standing on a platform with a hole in the middle of it. Race to the bottom, avoiding hazards. Or you reset from the top! Finish the round as the victor, to earn cosmetics and emotes to flex on your buddies. FALLING IS A SKILL You are never just falling. You steer the entire way down. Learning the hazards and memorizing the seed. Everyone has the same job, but you have the chance to be the best. Show off your skills on multiple modes, and trillions of generated seeds. GAME MODES 'Race' drops the lobby into a full tower on a three-second countdown, gran…",
+    "detectedAt": "2026-09-13T04:29:26.244Z"
+  },
+  {
+    "steamAppId": 5109810,
+    "title": "Punching a Dirty Wizard",
+    "sourceUrl": "https://store.steampowered.com/app/5109810/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109810/882bda4cf7cd815aea739a13fcbdfcafd534447c/header.jpg?t=1788996036",
+    "japaneseSupport": "none",
+    "shortDescription": "The Dirty Wizard wants you to punch him, he wants you to kill him. One strike at a time.",
+    "aboutTheGame": "Punching a Dirty Wizard is a dark incremental narrative game where you beat an old man to death. He is far from innocent, and something seems to be haunting him. Now it's haunting you too. A spiritual successor to CLICKOLDING Features A 45 minute to 1 hour of a insanely silly yet truly haunting tale designed for a single sitting. 5000 punches and a really shiny health bar. Fully voice acted entirely by the developer. Super weird sense of humor inspired by Rick and Morty. A really ****ing creepy monster.",
+    "detectedAt": "2026-09-13T04:29:26.792Z"
+  },
+  {
+    "steamAppId": 5109820,
+    "title": "Flesh Pit",
+    "sourceUrl": "https://store.steampowered.com/app/5109820/",
+    "price": "価格情報なし",
+    "tags": [
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109820/0b9dd935523176f0d4bd6fd0f97b73877a4daa4d/header.jpg?t=1788798743",
+    "japaneseSupport": "none",
+    "shortDescription": "A short first-person incremental horror game about dumping gibs into a hole. Use your miserable wages to buy upgrades and tools. The Flesh Pit must be spotless.",
+    "aboutTheGame": "Flesh Pit is a decremental horror game about tossing human gibs into a hole. It's the Boss's orders: The Flesh Pit needs to be emptied. DISPOSE OF THE FLESH Toss flesh into the hole to earn cash. Unlock tools and upgrades to funnel more flesh into that dang hole. UNBOX COOL LOOT! Yeah, it's all just flesh. We've got boxes of the stuff. Tons if it. As in.. TONNES. Take it. Take everything. CLEAR THE FLESH PIT 80,000 human remains. Don't ask where it came from.. just GET RID OF IT ALL!!",
+    "detectedAt": "2026-09-13T04:29:27.399Z"
   }
 ]
