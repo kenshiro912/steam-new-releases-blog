@@ -1,287 +1,5 @@
 [
   {
-    "steamAppId": 4626690,
-    "title": "Stellar Office",
-    "sourceUrl": "https://store.steampowered.com/app/4626690/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第1四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626690/7a658bb44c9458f3da2e279462d169590134d33c/header.jpg?t=1789144791",
-    "japaneseSupport": "none",
-    "shortDescription": "Stellar Office is a room‑based point‑and‑click exploration game centered on observing and researching almost everything in the room. Through association and interaction with objects, as well as analysis aided by external tools, players will continuously deduce the hidden logic behind phenomena.",
-    "aboutTheGame": "Stellar Office is a puzzle‑solving experience rooted in theoretical mathematics and theoretical physics. Stripping away interactions with physical objects, the game builds its puzzles entirely upon concepts, rules and clashes of perception. The space players inhabit is no ordinary real‑world setting, but a mental domain that visualises and demonstrates abstract principles. Gameplay revolves not around manipulating items, but revising ingrained intuitions and making sense of anomalies produced by underlying rules. It features a re‑examination of spacetime and causality: breaking everyday notion…",
-    "detectedAt": "2026-09-12T00:29:09.391Z"
-  },
-  {
-    "steamAppId": 4766290,
-    "title": "Roll Dice no Die",
-    "sourceUrl": "https://store.steampowered.com/app/4766290/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766290/13a36e228533e5cf56881032c7e1700d7ffdbd6c/header.jpg?t=1789146134",
-    "japaneseSupport": "none",
-    "shortDescription": "Roll Dice no Die — a dark strategy in an underground casino. The dead man's coin is found. Strap into the electric chair and outsmart the robotic Dealer in a deadly board game. Build your dead man's deck, use the dice, and survive the escalating stakes.",
-    "aboutTheGame": "WELCOME TO BOARD GAME HELL It all started in the dim twilight of a gritty underground bar . One last gulp of whiskey — and a strange coin gleamed at the bottom of your glass. You found it, and now there is no turning back. You have drawn the cursed dead man's coin , your debt is locked in, and the game has begun. To make it out alive, you must strap yourself into an electric chair opposite the Master (Dealer) - a terrifying automaton forged from three skulls and a steel manipulator arm. A psychological horror and a deadly one-on-one match against a ruthless opponent await you. THE DEADLY ENGIN…",
-    "detectedAt": "2026-09-12T00:29:09.891Z"
-  },
-  {
-    "steamAppId": 4780520,
-    "title": "MaMills",
-    "sourceUrl": "https://store.steampowered.com/app/4780520/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "2026年10月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780520/eba8aa74913be7e9f882e352a47d05f28595154f/header.jpg?t=1789163414",
-    "japaneseSupport": "none",
-    "shortDescription": "A cozy 3D four-in-a-row board game. Drop cylinders onto a 4×4 grid of sticks, let gravity stack them, and connect four along any of 76 lines: rows, columns, stacks and diagonals through the cube. Outsmart five levels of Machine or play a friend on one device, over LAN or Remote Play Together.",
-    "aboutTheGame": "MaMills is a 4×4×4 spatial tic-tac-toe with gravity-stacked drops - vertical sticks, four-in-a-row in any direction wins. This game is a tribute to my late Grandmother (aka Mami ), who I used to play this game with. I loved it then, and I love it now; I hope you find some joy in it too! ❤️ This is a cozy puzzle game that I hope you enjoy as much as I do. Four-in-a-row, but the board goes up too MaMills is a calm, controller-first board game. You drop coloured cylinders onto a 4×4 grid of vertical sticks, gravity stacks them, and the first player to line up four wins. Because the pieces stack,…",
-    "detectedAt": "2026-09-12T00:29:10.393Z"
-  },
-  {
-    "steamAppId": 4814760,
-    "title": "Tunica Terror",
-    "sourceUrl": "https://store.steampowered.com/app/4814760/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "RPG",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4814760/4cb4ad44bc031e843f26e4219d8935c42bd80a8e/header.jpg?t=1789172925",
-    "japaneseSupport": "none",
-    "shortDescription": "Five geriatric gamblers stumble into an ancient casino-crypt and refuse to leave. Pick your granny, turn her card table, dice game, slots, scratch-offs, or roulette wheel into combat, and hustle your way down through the house... all the way to the Devil himself.",
-    "aboutTheGame": "The house always wins.... HOWEVER, nobody told these grannies that. Five grandmothers wander into a casino built on bad bargains and refuse to leave empty-handed. The patrons are dead, the staff have heard every excuse, and the Devil is waiting downstairs. Tunica Terror is a turn-based roguelite where gambling games become combat systems. Build your hand, roll your dice, scratch your ticket, or spin the wheel. Then spend what you get on a custom kit of attacks, defenses, and dirty tricks. Luck gives you something to work with. What happens next is your responsibility. Five grandmothers. Five w…",
-    "detectedAt": "2026-09-12T00:29:10.925Z"
-  },
-  {
-    "steamAppId": 4823240,
-    "title": "WashMate",
-    "sourceUrl": "https://store.steampowered.com/app/4823240/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月21日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823240/6ddfd04faff0069b578be7025d742ff777cc09b1/header.jpg?t=1789171066",
-    "japaneseSupport": "none",
-    "shortDescription": "WashMate is a cozy desktop widget and focus timer for your work and study sessions. Focus on your tasks while enjoying the relaxing view of cute plushies gently tumbling inside a washing machine. Collect adorable animal friends to create your own comfortable and productive workspace.",
-    "aboutTheGame": "Welcome to WashMate. When the day starts to feel a little too routine, WashMate keeps you company. Skip the stern little clock. Set WashMate in a corner of your monitor, watch plush friends tumble softly in the washer, and settle into work or study. A cozy focus timer Set your focus time and let the washer run. Gentle alerts keep you on track without pressure, and without breaking your flow. Lovely little plush friends The more you work, the more animal friends you meet. Frog, Duck, Rabbit, and Fox are waiting, each with 10 different looks. Every 25 minutes of focus unlocks a new one. You’ll n…",
-    "detectedAt": "2026-09-12T00:29:11.426Z"
-  },
-  {
-    "steamAppId": 4890360,
-    "title": "Hollow Cedar",
-    "sourceUrl": "https://store.steampowered.com/app/4890360/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "RPG",
-      "早期アクセス",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "オンラインPvP",
-      "協力プレイ",
-      "オンライン協力プレイ",
-      "クロスプラットフォームマルチプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890360/6490d40cd1ccc6bb20a84964796467a3f3ac69b2/header.jpg?t=1789167866",
-    "japaneseSupport": "none",
-    "shortDescription": "AI took over their jobs, the hospitals, the courts, one system at a time. Then it went too far. Hollow Cedar is an open world survival game built around a story worth finishing. Harvest, craft, build, befriend and survive while you uncover the truth about the collapse.",
-    "aboutTheGame": "AI caused the collapse. You don't know why yet. But you will. Hollow Cedar is an open world survival adventure built around a story worth finishing. AI took the jobs first, then the cameras, then the factories, the governments, hospitals, and courts. It happened slowly, one system at a time, and at every step it looked like progress. Then it went too far. The collapse that followed swept the world and left survivors clinging to life amongst abandoned towns, dense forests and crumbling infrastructure. Humanity split, and the survivors who remain still cannot agree on how to live. Nothing crawle…",
-    "detectedAt": "2026-09-12T00:29:11.928Z"
-  },
-  {
-    "steamAppId": 4902350,
-    "title": "Split Ride",
-    "sourceUrl": "https://store.steampowered.com/app/4902350/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー",
-      "協力プレイ",
-      "オンライン協力プレイ"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902350/ea2638934a742029bb394b5ea88d02c4171841e8/header.jpg?t=1789158317",
-    "japaneseSupport": "text",
-    "shortDescription": "Up to 4 players co-op adventure in which you drive the vehicle with separated components. One player is responsible for the steering wheel, another for the transmission, third for the dashboard, and the last for the map.",
-    "aboutTheGame": "You were given the vehicle. But it's upgraded and you require another driver to control it. For comfortable ride you need 4 drivers. If you wanna practice your driving skills you can drive alone in Offline Mode. TAKE ALL VIEW SPOT PHOTOS You were also given a view album where you will need to place photos taken at scenic locations using a tripod camera to get good memories to remember. TAKE CARE OF YOUR VEHICLE It requires refueling and recharging, as well as careful driving; otherwise, it will explode. ENSURE A COMFORTABLE RIDE Take everything you need with you in the trunk: flashlights, heal…",
-    "detectedAt": "2026-09-12T00:29:12.529Z"
-  },
-  {
-    "steamAppId": 4913720,
-    "title": "The Sixth Sin",
-    "sourceUrl": "https://store.steampowered.com/app/4913720/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "アドベンチャー",
-      "インディー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年9月30日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913720/c49057d9c4a35e3049c3799bb1d73d65325664dc/header.jpg?t=1789167982",
-    "japaneseSupport": "text",
-    "shortDescription": "In 1996, thirty-two children died in their beds at an orphanage. Thirty years later, Stephen walks back through that door. Six of the seven seals are broken — and the voice guiding you is one of them. Manage your inventory, finish the rituals, never let go of the light.",
-    "aboutTheGame": "Thirty-two children. One night. Not one of them cried out. In the winter of 1996, thirty-two children were found dead in their beds at St. Adela's Orphanage on Blackmoor Hill. No fire. No wounds. No sign of forced entry. Three separate investigations closed with the same sentence: cause undetermined. The only adult in the building that night was a carer named Mary Doyle. Mary vanished afterwards — and she took the institution's youngest resident with her, four-year-old Stephen. Thirty years later, Mary died. She left behind a box, a letter, and one request: take the box back to the orphanage.…",
-    "detectedAt": "2026-09-12T00:29:13.035Z"
-  },
-  {
-    "steamAppId": 4917830,
-    "title": "Airstrike Protocol",
-    "sourceUrl": "https://store.steampowered.com/app/4917830/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "近日登場",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917830/a41e934b6036ec97adfb5dd63e60765a7bd681b5/header.jpg?t=1789169874",
-    "japaneseSupport": "none",
-    "shortDescription": "Fast-paced 2D roguelite shooter. Pick from 4 classes, aim with precision, and survive endless waves of enemies. Take down colossal war machines and forge devastating builds as the last line of defense.",
-    "aboutTheGame": "Four Classes, Four Ways to Fight Soldier, Sniper, Engineer, and Physicist — each with their own weapons, ultimates, and playstyle. Turrets, drones, piercing shots, or the raw power of physics: how you fight is up to you. The war never ended. The enemy has launched its final offensive: an unstoppable war machine, pushing forward wave after wave. You are the last line of defense. Hold your ground and show them what human resistance is made of. Countless Builds, Colossal Bosses After every wave, pick new upgrades and stack devastating combos. No two runs are the same — and the war machines don't…",
-    "detectedAt": "2026-09-12T00:29:13.530Z"
-  },
-  {
-    "steamAppId": 4970790,
-    "title": "Project Oasis",
-    "sourceUrl": "https://store.steampowered.com/app/4970790/",
-    "price": "価格情報なし",
-    "tags": [
-      "カジュアル",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月17日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970790/cee71cf6470ee7c7e70aab52cfadaf7bda309e19/header.jpg?t=1789148967",
-    "japaneseSupport": "none",
-    "shortDescription": "Build a thriving settlement, manage individual settlers, master complex building systems, survive challenging conditions, and shape the story through your choices.",
-    "aboutTheGame": "Build. Survive. Adapt. Build and manage your settlement in a harsh world where every resource matters and every decision can shape your future. Project Oasis is a grid-based settlement builder and survival game focused on resource management, settler management, and strategy. Assign jobs, manage your workforce, expand your settlement, and carefully plan your buildings to take advantage of nearby bonuses and effects. Features Settlement building with a grid-based construction system Survival and resource management where supplies must be carefully balanced Settler management with jobs and assig…",
-    "detectedAt": "2026-09-12T00:29:14.032Z"
-  },
-  {
-    "steamAppId": 4988230,
-    "title": "WWII Commanders",
-    "sourceUrl": "https://store.steampowered.com/app/4988230/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "RPG",
-      "シミュレーション",
-      "ストラテジー",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年11月",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988230/cd6e6439c3d26d27bf0e8eb13acd1d41f82a3234/header.jpg?t=1789169880",
-    "japaneseSupport": "none",
-    "shortDescription": "Turn-based WWII strategy on hex battlefields. Command the USA, Germany, Japan, or the UK across 13 historical campaigns, mastering terrain, fog of war, and counter-based combat.",
-    "aboutTheGame": "WWII Commanders is a turn-based strategy game fought on hand-crafted hex battlefields. Take command of the United States, Germany, Japan, or the United Kingdom, each with a historical roster of aircraft, armor, infantry, artillery, and warships. There are no twitch reflexes here — position your forces, exploit terrain and fog of war, and outthink an AI that fights back. A six-tier combat system means every matchup matters: fighters shred bombers, tanks crush infantry, and anti-air punishes anything that flies. March through 13 historical campaigns spanning the whole war — from the Blitzkrieg a…",
-    "detectedAt": "2026-09-12T00:29:14.539Z"
-  },
-  {
-    "steamAppId": 5038120,
-    "title": "Infected",
-    "sourceUrl": "https://store.steampowered.com/app/5038120/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "カジュアル",
-      "インディー",
-      "シングルプレイヤー",
-      "マルチプレイヤー"
-    ],
-    "releaseDate": "2026年9月15日",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038120/72fbf65d52f38342153437e2fb8d1e7e45168000/header.jpg?t=1789168355",
-    "japaneseSupport": "none",
-    "shortDescription": "You Are The Bodies last defense against a bunch of Deadly Viruses. Fight off many Viruses, and save the Body with a High score. Can you be the greatest Defense?",
-    "aboutTheGame": "You Are The Bodies last defense against Deadly Viruses. Fight off many waves of viruses, Protect the remaining red blood cells, and save the Body with the highest score. Can you be the greatest Defense? In this classically inspired top-down arcade shooter, you play as a white blood cell battling a deadly viral infection. Survive wave after wave of increasingly dangerous enemies while protecting the body’s vital red blood cells. Do you have what it takes? Key Features Wave-based survival with rising difficulty and multiple unique virus types High Score-focused gameplay that rewards skill and su…",
-    "detectedAt": "2026-09-12T00:29:15.049Z"
-  },
-  {
-    "steamAppId": 5038280,
-    "title": "Machines vs Monsters",
-    "sourceUrl": "https://store.steampowered.com/app/5038280/",
-    "price": "価格情報なし",
-    "tags": [
-      "インディー",
-      "ストラテジー",
-      "早期アクセス",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2026年第4四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038280/ae68945e3f4eef8784589269c079b180545c5b18/header.jpg?t=1789153126",
-    "japaneseSupport": "text",
-    "shortDescription": "Machines vs. Monsters is a roguelite tower defense. Land on a hostile planet, build mazes of industrial firepower, and hold your Command Center against escalating native waves. Lose, learn, upgrade the fleet, redeploy. Batavia's survey says the site is viable. The site disagrees.",
-    "aboutTheGame": "The survey cleared the investment threshold. The board approved deployment. You are a Batavia deployment commander, first boots on every site. Your job: land the Command Center, keep it alive while it works, and manage the local fauna. Official copy classifies them as native assets . Your crews classify them as monsters . Both are right. One of them is honest. A ROGUELITE SIEGE, ONE PLANET AT A TIME Machines vs. Monsters is tower defense rebuilt as a roguelite run. A planet is not a level. It is a campaign-length siege you are not expected to survive on the first attempt. Waves escalate past a…",
-    "detectedAt": "2026-09-12T00:29:15.557Z"
-  },
-  {
-    "steamAppId": 5042610,
-    "title": "GYRE Grazeline",
-    "sourceUrl": "https://store.steampowered.com/app/5042610/",
-    "price": "価格情報なし",
-    "tags": [
-      "アクション",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "2027年第2四半期",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042610/0702f670f4b212fd092971091924207aaef724a5/header.jpg?t=1789158911",
-    "japaneseSupport": "none",
-    "shortDescription": "A neon endless tube-runner where flying close pays. Pilot a ship down an accelerating luminous tunnel, threading gaps that arrive faster the longer you last. Distance builds your score, near misses add to it. Skim the edges, hold your nerve, and beat your own best line.",
-    "aboutTheGame": "GYRE Grazeline is a neon endless tube-runner about flying dangerously close. You pilot a ship down the throat of a luminous tunnel that never stops accelerating. Obstacles arrive out of the dark — bars, gates, pillars, spinning rings — and there is always a way through. Finding it is the game. FLY CLOSE Distance earns points steadily. Near misses pay a bonus on top — a flat seventy-five points for every obstacle you slip past with nothing to spare, banked the instant you clear it. Patterns pay per element: graze every gate in a weave and you collect for each one. Risk pays, and the safe line a…",
-    "detectedAt": "2026-09-12T00:29:16.101Z"
-  },
-  {
-    "steamAppId": 5047660,
-    "title": "Anvilborn",
-    "sourceUrl": "https://store.steampowered.com/app/5047660/",
-    "price": "無料",
-    "tags": [
-      "カジュアル",
-      "インディー",
-      "RPG",
-      "無料プレイ",
-      "シングルプレイヤー"
-    ],
-    "releaseDate": "発表予定",
-    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047660/d3235854d48b8e65e4ddcabb45694263c1dcba2d/header.jpg?t=1789165789",
-    "japaneseSupport": "none",
-    "shortDescription": "Mine ore, forge gear in many rarity tiers and send your hero through ever more dangerous zones into the endless depths. A calm crafting idle game with research, orders, companions and gems – it keeps working while you're away.",
-    "aboutTheGame": "From ore to hero It all starts with a rock. You click, find stone, coal and iron, and the forge opens. Raw materials become ingots, ingots become tools, weapons and armor – and every piece rolls a different rarity, from common up to the tiers you rarely get to see. Whatever you forge, your hero wears. Deeper, zone by zone From the training ground you move into ever more dangerous areas, each with its own monsters, its own loot and a boss at the end. And when the last zone falls, the Endless depths begin, and only one question remains: how far. It keeps going Helpers forge, dwarves dig, researc…",
-    "detectedAt": "2026-09-12T00:29:16.600Z"
-  },
-  {
     "steamAppId": 5067090,
     "title": "Yorick: Worlds in Bloom",
     "sourceUrl": "https://store.steampowered.com/app/5067090/",
@@ -12148,5 +11866,434 @@
     "shortDescription": "Byrd mirrors whatever you're doing. Study and she studies beside you; slack off and she slacks off too. A desktop-companion idle game about looking after a gyaru who lives in the corner of your screen — and saving up the deposit to keep her home.",
     "aboutTheGame": "A gyaru lives in the corner of your desktop Her name is Byrd. No window frame, no background — she just sits on top of whatever you were already doing. She won't interrupt you. You never have to minimize her. Glance over mid-task and she's doing something too. She watches what you're doing, and does the same Byrd looks at your foreground window. Open an app you've marked as \"focus\" and she'll focus beside you, earning focus points. Slack off and she'll slack off too. She never nags. What she reads — stated up front The process name and window title of your foreground window Window titles are o…",
     "detectedAt": "2026-09-18T08:29:11.571Z"
+  },
+  {
+    "steamAppId": 4092770,
+    "title": "Pocket Parade",
+    "sourceUrl": "https://store.steampowered.com/app/4092770/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "レース",
+      "RPG",
+      "シミュレーション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月30日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4092770/66c750fb7e6bc4bd442ab7cfc37f6d2de1af274d/header.jpg?t=1789721526",
+    "japaneseSupport": "none",
+    "shortDescription": "Pocket Parade is a colorful first-person toy-store sorting game. Gather scattered toys, organize shelves, and earn tickets for tools and backpack upgrades. Explore pastel departments and test your skills across nine toy-themed minigames.",
+    "aboutTheGame": "Welcome to Pocket Parade, a colorful first-person sorting game set in a pastel toy store. Gather scattered toys, find their matching shelves, and turn a floor full of clutter into a collection worth admiring. A home for every toy Explore departments filled with plush animals, dolls, robots, and other little treasures. Carry toys in your backpack, return them to their places, and watch completed shelves light up as the store comes together. Make each trip count Complete rows and shelves to earn Toy Tickets, then visit PawMart to pick up useful tools and upgrades. Expand your backpack and discov…",
+    "detectedAt": "2026-09-18T12:28:35.139Z"
+  },
+  {
+    "steamAppId": 4271130,
+    "title": "Gnomesplosion!",
+    "sourceUrl": "https://store.steampowered.com/app/4271130/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271130/6ce80bbdc41b46d43a82d52e2d1f96457f4cfb4b/header.jpg?t=1789732590",
+    "japaneseSupport": "none",
+    "shortDescription": "Pachinko inspired puzzle game where you fend of invading fantasy creatures by launching your volunteer* constituents.",
+    "aboutTheGame": "Your castle is beset by evil fairy tale creatures! It is up to you to repel the invading forces by using your trusty cannon loaded with volunteer* constituents. Equip your fierce warriors and send them flying towards glory and death (preferably the enemy's). Gnomesplosion plays like Peggle with angry murder-pegs: The board moves and changes as enemies ascend towards the top. Upgrades between levels gives you more tools to fight increasingly tougher critters. Face off against bosses and prove who's the rightful monarch of the forest. * voluntarity way vary Features: The clothes make the gnome -…",
+    "detectedAt": "2026-09-18T12:28:35.667Z"
+  },
+  {
+    "steamAppId": 4461890,
+    "title": "Kingdoms of Arailia",
+    "sourceUrl": "https://store.steampowered.com/app/4461890/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "ストラテジー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "オンラインPvP"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461890/fc509906245bbef448a3db6d7043778f2f9fb2fe/header.jpg?t=1789726062",
+    "japaneseSupport": "none",
+    "shortDescription": "A strategy deck-construction card game where every card, movement, and decision matters - with skill, not spending, winning battles",
+    "aboutTheGame": "Battles in Kingdoms of Arailia are won through positioning, timing, and pressure - not just raw power . Build armies around card synergies , then face off across a battlefield where every choice carries weight . Battles unfold through three phases: Deploy - Spend supplies to send unit and support cards into battle. Movement - Use speed to manoeuvre, seize ground, and pressure your opponent. Attack - Resolve combat based on remaining speed, where a fallen unit who was too slow strikes no blow. Melee, ranged, long-ranged, and magical units each bring distinct weaknesses and advantages, while mor…",
+    "detectedAt": "2026-09-18T12:28:36.214Z"
+  },
+  {
+    "steamAppId": 4632980,
+    "title": "Turn Off the Lights",
+    "sourceUrl": "https://store.steampowered.com/app/4632980/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月2日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632980/17cfad84449a5de7c620a3b310083e309c62e8c8/header.jpg?t=1789733820",
+    "japaneseSupport": "none",
+    "shortDescription": "In this first person experience, you are returning home after a long day of work. Turn off all of the lights on each floor of the office before you depart. Use the elevator to travel between floors, and be on the lookout for any unusual behavior from your coworkers.",
+    "aboutTheGame": "In this first person experience, you are returning home after a long day of work. Turn off all of the lights on each floor of the office before you depart. Use the elevator to travel between floors, and be on the lookout for any unusual behavior from your coworkers. If they start to approach you, please return to the elevator and close the door. Explore over 5 floors of your office building, solve puzzles, turn of desk lamps, light switches, and more. Experience physics based gameplay as you explore each unique floor of the office.",
+    "detectedAt": "2026-09-18T12:28:36.732Z"
+  },
+  {
+    "steamAppId": 4729970,
+    "title": "Shrinko's Big Adventure",
+    "sourceUrl": "https://store.steampowered.com/app/4729970/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729970/4b6276ecc5aee3a1c73de4f16971e0749dd65c7e/header.jpg?t=1789727007",
+    "japaneseSupport": "none",
+    "shortDescription": "Shrinko's Big Adventure is an open world exploration collectathon where you can grow to the size of a building or shrink to the size of an ant. Explore the nooks and crannies of the island, find treasures, and unlock secrets!",
+    "aboutTheGame": "Shrinko’s Big Adventure is a 3D platforming collectathon with deep puzzles. Discover secrets, solve puzzles, and explore the nooks and crannies of the island. Shrinko Shrinko is a three legged being that has the ability to shrink to the size of an ant and grow to the size of a skyscraper. Use Shrinko’s size to traverse the island rapidly or zoom in on a small feature. The Island Shrinko’s Big Adventure takes place on an open island with many areas to discover and interact with. Large areas contain puzzles that contribute to beating the game, while small areas are scattered throughout the islan…",
+    "detectedAt": "2026-09-18T12:28:37.276Z"
+  },
+  {
+    "steamAppId": 4819640,
+    "title": "Harfa",
+    "sourceUrl": "https://store.steampowered.com/app/4819640/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819640/a6c86cca087b98f22d7ee7da4cec0fca27a6e13b/header.jpg?t=1789725893",
+    "japaneseSupport": "none",
+    "shortDescription": "A first-person psychological horror experience set in a forgotten Saudi village beneath the mysterious mountain of Harfa. Explore abandoned homes, uncover chilling secrets, solve puzzles, and face the darkness lurking within the mountain.",
+    "aboutTheGame": "Harfa is a first-person psychological horror game inspired by the folklore, legends, and abandoned villages of Saudi Arabia. Set in 1960, you play as Salem, a young man who returns to his grandmother's remote village beneath the mysterious mountain of Harfa. Upon arrival, he discovers that every resident has vanished without a trace. Armed only with an old lantern and your determination to uncover the truth, you must explore the abandoned settlement, solve puzzles, and survive the horrors hidden within the mountain's shadow. Explore a forgotten Saudi heritage village filled with secrets, narro…",
+    "detectedAt": "2026-09-18T12:28:37.794Z"
+  },
+  {
+    "steamAppId": 4830540,
+    "title": "HotlaneX",
+    "sourceUrl": "https://store.steampowered.com/app/4830540/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830540/3ea0758cb4819caafe9e8e34a4363dbe15257b20/header.jpg?t=1789726243",
+    "japaneseSupport": "none",
+    "shortDescription": "Outdrive, outsmart, outlast. HotlaneX throws you into arenas full of enemies that chase, predict, and ambush. No guns, no combat menus, just your car and your instincts. Simple to drive. Brutal to survive.",
+    "aboutTheGame": "OUTDRIVE. OUTSMART. OUTLAST. HotlaneX is an arcade driving game where the lanes are your arena, and everything on it wants you gone. Pick your car and take on chaotic arenas packed with tricky lanes, traps, ramps, and relentless enemies. No weapons, no complicated combat - just your car, your skills, and the arena. MASTER THE CHASE Every enemy in HotlaneX moves differently. Some chase you down and never let up. Some try to guess where you're headed before you get there. Some wait for their moment and hit you when you've stopped paying attention. Learn how they move, and you can turn that again…",
+    "detectedAt": "2026-09-18T12:28:38.294Z"
+  },
+  {
+    "steamAppId": 4890650,
+    "title": "Majhi",
+    "sourceUrl": "https://store.steampowered.com/app/4890650/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月7日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890650/c78e39dd6424b1935965b24b4f8c68b8dab727b7/header.jpg?t=1789721340",
+    "japaneseSupport": "none",
+    "shortDescription": "You are the Majhi, bound to the river. Your work is to carry the dead across. Tonight, several souls are waiting. That has not happened before. Something went wrong tonight.",
+    "aboutTheGame": "The river has no name. You have no name. You row. At Nirmala's riverside inn, the village is commemorating the annual Nabanna festival. While drinking his cup of khejurer rosh, Saha, a moneylender, collapses. Panic and flames engulf the local inn. By the time the fire dies down, eight are waiting at the river’s edge. Listen to what each of them remember, identify the contradictions, piece together the story, and decide who carries the most blame. How it plays Majhi is a side-scrolling narrative game played with the mouse. You are the ferryman. The dead are your work. Row . Take up the oar and…",
+    "detectedAt": "2026-09-18T12:28:38.803Z"
+  },
+  {
+    "steamAppId": 5007930,
+    "title": "The Solitaire Tower of Doom",
+    "sourceUrl": "https://store.steampowered.com/app/5007930/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "ストラテジー",
+      "早期アクセス",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007930/59a8688f40c67abba4509a328302a7bcc563d364/header.jpg?t=1789730414",
+    "japaneseSupport": "none",
+    "shortDescription": "A narrative Solitaire game with historical figures, occult and horror themes. Choose a Time Patron that will have an impact on gameplay and playstyle. Descend the Tower of Doom's roguelike floors, winning games across five solitaire variants, and chase the high score.",
+    "aboutTheGame": "UNCOVER THE OCCULT SECRET HISTORY OF SOLITAIRE IN THIS HORROR ROGUELIKE What do Louis XIV, Winston Churchill, Mary Stuart Queen of Scots, Napoleon, John Dee, Goethe and Casanova have to do with Solitaire? Everything! The History of Solitaire spans centuries, countries and various historical figures who by chance or by fate were intertwined in the cosmic mathematics of Solitaire. -------- The year is 1990 . You are a simple clerk in an office building in Montreal. Since Solitaire's release, you love playing it on your computer, especially during office hours. What you don't know yet, is that yo…",
+    "detectedAt": "2026-09-18T12:28:39.308Z"
+  },
+  {
+    "steamAppId": 5047070,
+    "title": "Vault of Eras",
+    "sourceUrl": "https://store.steampowered.com/app/5047070/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047070/d441f42e9f0261096a0cdf19d58aba265e18920f/header.jpg?t=1789732741",
+    "japaneseSupport": "none",
+    "shortDescription": "A bullet hell shooter, dungeon crawler about robbing a pyramid that rearranges itself after every run.",
+    "aboutTheGame": "You are a grave robber, not a hero, not someone with good intentions. You plan to enter a legendary pyramid-shaped dungeon where each room is rumored to be a time machine to a distant extinct civilization. You enter this dungeon not to steal its gold, but to steal its history, as every civilization's final moments are clouded in mystery, and each piece of information about their end is way more valuable than any pile of gold you would find here. High Replayability Every run is procedurally assembled. The room order, the artifacts you find, and the layout of the floors are never the same twice.…",
+    "detectedAt": "2026-09-18T12:28:39.902Z"
+  },
+  {
+    "steamAppId": 5047150,
+    "title": "Back To School",
+    "sourceUrl": "https://store.steampowered.com/app/5047150/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "カジュアル",
+      "インディー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047150/ce5bcaff80e0c135d61c40869f4c560ce3dff9e7/header.jpg?t=1789724764",
+    "japaneseSupport": "text",
+    "shortDescription": "先生1人、生徒10人。『Back To School』は3〜11人で遊ぶオンライン学園カオスゲーム。授業に間に合え、テストでカンニングし、体育でシュートを決め、休み時間に教室を荒らせ――ただし、見つかるな！",
+    "aboutTheGame": "チャイムが鳴った！ 『Back To School』は、友達と遊ぶ3〜11人用のオンライン学園ゲームです。1人が先生になり、残り全員が生徒になります。先生の仕事は秩序を保つこと。生徒の仕事は……その正反対。 授業が始まり、テストがやってきて、休み時間のチャイムが鳴る。次に何が起こるかは誰にも分かりません。 テストに合格しろ（無理なら合格したフリを） 時間は刻一刻と過ぎ、目の前には答案用紙。一問も分からないなら、隣の席をちらっと覗けばいい。友達がこっそり教えてくれるかもしれません。先生がちょうど後ろを向いていれば、の話ですが。そして何より、見つかるな！ 採点システムはすべてを記録します。正解した数、カンニングの回数、見つかった回数。授業終わりのスコアボードが、クラスで本当に一番なのは誰かを明らかにします。 体育の時間＝無法地帯 体育館ではルールが少しゆるくなります。シュートを打ち、ボールを投げ、ゴールを狙え。目標はシンプルに12点。どうやって決めるかは完全に自由です。 休み時間は君のもの 先生が教室を出た瞬間、すべてが君のもの。机をひっくり返し、黒板に先生の似顔絵を描き、窓枠によじ登り、手に取れるものは何でも武器に変えろ。 ルールはたった一つ。 見つかるな。 先生になるのもアリ！ 教壇に立つのは見た目ほど簡単ではありません。10人を授業の間ずっと静かにさせ、カンニングを見抜き、黒板に…",
+    "detectedAt": "2026-09-18T12:28:40.428Z"
+  },
+  {
+    "steamAppId": 5052460,
+    "title": "Vacation Adventures: Cruise Director Mega Bundle 1",
+    "sourceUrl": "https://store.steampowered.com/app/5052460/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月25日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052460/dc688b89b40ce4e2da08d9c1847c3b783ab98e6c/header.jpg?t=1789720414",
+    "japaneseSupport": "none",
+    "shortDescription": "THREE Amazing Hidden Object Games onboard theLuxury USS Liberty of the Waves. 1.The Americas 2.Round the World 3.The Atlantic & Pacific",
+    "aboutTheGame": "THREE Awesome Cruise Ship Adventures Spend truly Sensational Vacations working as the Cruise Director in charge of the super-luxurious USS Liberty of the Waves. Help & organise passengers, visit cabins, arrange on-board entertainment, evening shows, on-board sports & relaxation activities. Arrange fabulous excursions at lots of American and Worldwide destinations. Go on helicopter rides and glass bottomed boat tours. Collect souvenirs at the Ports of Call. Look for hundreds of hidden objects, lost and found items and recycle trash. Earn merit awards for your special achievements. Cruise Direct…",
+    "detectedAt": "2026-09-18T12:28:40.949Z"
+  },
+  {
+    "steamAppId": 5052990,
+    "title": "Don't Get Six",
+    "sourceUrl": "https://store.steampowered.com/app/5052990/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年第4四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052990/ea4791f5f53bf5b23329ce80f5399613cfcfbc0c/header.jpg?t=1789724461",
+    "japaneseSupport": "none",
+    "shortDescription": "A psychological horror deduction game where every guess matters. Shake the cups, observe carefully, and find the hidden 6. Watch for anomalies, trust your instincts, and survive.",
+    "aboutTheGame": "In this first-person horror game, you are trapped in an unfair game of dice. You lose whenever the dice show a 6. Use your observation, and memorization skills to determine whether you will get a 6 or not. Features: Shake the Cup - Shake the cup and choose when to reveal your result or keep shaking. Find Anomalies - Interact with objects around you to search for hidden Anomalies. Avoid the 6 - If you find an anomaly, there will be a 6 in the cup. Reveal it and you lose. One wrong reveal ends the round. Survive the Round - Avoid revealing a 6 a set number of times to win. Power Cards - Use spec…",
+    "detectedAt": "2026-09-18T12:28:41.472Z"
+  },
+  {
+    "steamAppId": 5063960,
+    "title": "Halloween: Trick or Treat",
+    "sourceUrl": "https://store.steampowered.com/app/5063960/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年10月1日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5063960/6f816c46fe570e13d3aeeb25b022403d11f62ef3/header.jpg?t=1789720477",
+    "japaneseSupport": "none",
+    "shortDescription": "A family friendly Halloween themed Hidden Object Game",
+    "aboutTheGame": "\"Trick or Treat...?\" Go virtual “Trick or Treating” with ‘Mike-the Skeleton’ and ‘Sally-the Witch’ in this spooky dooky, fun packed Halloween game for all the family to enjoy. Collect lots of Treats to score valuable points and even get Tricked from time to time, jeepers creepers! Bump into Friendly Ghosts, Wicked Witches, Scary Skulls & Flapping Bats along the way. Explore the Haunted House owned by a nutty professor who lives on your street. Get lost in the Town Sewer and find your way out. Become trapped in ... then escape from a Real Witch’s House in the Pumpkin Forest. Take the short-cut…",
+    "detectedAt": "2026-09-18T12:28:42.066Z"
+  },
+  {
+    "steamAppId": 5084070,
+    "title": "Beyond the Belt",
+    "sourceUrl": "https://store.steampowered.com/app/5084070/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "インディー",
+      "シミュレーション",
+      "ストラテジー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "発表予定",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084070/301f6c34ea5728c79c4a3063bb71926451cda8ae/header.jpg?t=1789733538",
+    "japaneseSupport": "none",
+    "shortDescription": "Collect and spend gems in this sci-fi/space themed incremental/idle game. Recruit and upgrade harvester ships and abilities to gather them faster and faster.",
+    "aboutTheGame": "Collect and spend gems in this sci-fi/space themed incremental/idle game. Recruit and upgrade harvester ships and abilities to gather them faster and faster. Collect Gems Spend on upgrades Combine abilities",
+    "detectedAt": "2026-09-18T12:28:42.580Z"
+  },
+  {
+    "steamAppId": 5087930,
+    "title": "Before Six",
+    "sourceUrl": "https://store.steampowered.com/app/5087930/",
+    "price": "価格情報なし",
+    "tags": [
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087930/752ab83fef718a25fe25b533ea45f5466f22f927/header.jpg?t=1789667895",
+    "japaneseSupport": "none",
+    "shortDescription": "You’re a security guard working the night shift. There’s only one problem, you can’t leave until every task is finished. Something is lurking in the darkness of the office. Your only safe place is your room. You can't fight it. Seal the main entrance or hide.",
+    "aboutTheGame": "You’re a security guard working the night shift. There’s only one problem, you can’t leave until every task is finished. Something is lurking in the darkness of the office. Your only safe place is your room. You can't fight it. Seal the main entrance or hide. CAN YOU MAKE IT BEFORE SIX? Complete your tasks before the clock reaches 6 AM. Monitor the CCTV to keep track of whatever is stalking you. Deal with faulty equipments. Hide when it gets close. Manage your time carefully.",
+    "detectedAt": "2026-09-18T12:28:43.212Z"
+  },
+  {
+    "steamAppId": 5088820,
+    "title": "Get Us Out",
+    "sourceUrl": "https://store.steampowered.com/app/5088820/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "アドベンチャー",
+      "インディー",
+      "シングルプレイヤー",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "オンライン協力プレイ",
+      "クロスプラットフォームマルチプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088820/6a66198d4d6f8d9531001e2e2fb3950b6115e8c1/header.jpg?t=1789725178",
+    "japaneseSupport": "text",
+    "shortDescription": "『GET US OUT』は1～4人で遊べる協力型脱出ゲーム。警備員の目をかいくぐり、鍵を盗み、セキュリティを解除し、パズルを解いて捕まった仲間を救出しよう。みんなで計画を立て、トラブルが起きたら臨機応変に対応し、全員で脱出しよう。",
+    "aboutTheGame": "『GET US OUT』は、慎重な計画と完全なカオスが入り交じる、1～4人向けの協力ゲームです。危険な場所を探索し、役立つアイテムを探し、扉の鍵を開け、セキュリティを解除し、警備員の注意をそらしながら、協力して脱出ルートを見つけましょう。最初の1分で計画を台無しにしなければ、ですが。 物事が予定どおりに進むことはほとんどありません。仲間が捕まったり、誰かが警報を鳴らしたり、完璧だったはずの陽動作戦が大惨事に変わったりすることも。臨機応変に対応し、仲間を救出し、失敗を笑い合いながら、なんとか全員で脱出しましょう。 どの出口にも問題があります。レーザーを解除し、鍵を盗み、フェンスを切断するか、別の賢い脱出方法を見つけましょう。 仲間が捕まったら、警備員を気絶させ、牢屋の鍵を盗み、脱出を続ける前に仲間を救出しましょう。 警備員を倒す方法は、いつも真面目である必要はありません。バナナの皮で滑らせたり、バルコニーから突き落としたり、ほかにも笑える方法で追い払いましょう。 障害物にぶつかると、一時的に動けなくなることがあります。迫ってくるものにはしっかり注意しましょう。もしぶつかってしまったら……まあ、しばらく床でも眺めていてください。",
+    "detectedAt": "2026-09-18T12:28:43.811Z"
+  },
+  {
+    "steamAppId": 5092190,
+    "title": "Horror Club: Grandpa's House",
+    "sourceUrl": "https://store.steampowered.com/app/5092190/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "カジュアル",
+      "インディー",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2027年第2四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092190/d8f5794b391a0633ebf13438ef25530c2eebe17b/header.jpg?t=1789697768",
+    "japaneseSupport": "none",
+    "shortDescription": "祖父が奇妙な行動を取り始めたことをきっかけに、彼の世話をするため数日間を共に過ごすことになる一人称視点のサイコロジカルホラーゲーム。日々の用事を手伝い、祖父が定めた奇妙な家のルールに従いながら、物語が進むにつれて家の中や周囲で起こる不穏な出来事を体験していく。",
+    "aboutTheGame": "奇妙な行動を取り始めた祖父の世話をするため、あなたは数日間を祖父と共に過ごすことになります。祖父の日課を手伝い、彼が定めた奇妙な家のルールに従っているうちに、家の中や周囲で不可解な出来事が起こり始めます。いったい何が起きているのか――次第に疑問を抱くようになります。 ゲームプレイ 日々の用事、奇妙な家のルール、そして徐々に起こり始める不穏な出来事を軸にした、一人称視点の物語重視のサイコロジカルホラー。ごく普通だったはずの数日間が、少しずつ不穏なものへと変わっていきます。 主な特徴 祖父の世話をしながら、日常的な家事をこなす。 祖父が定めた奇妙な家のルールに従う。 物語が進むにつれて起こる、奇妙で不穏な出来事を体験する。 日常生活に着想を得た、恐怖の雰囲気に浸る。 物語を重視した、リニアなサイコロジカルホラーを体験する。",
+    "detectedAt": "2026-09-18T12:28:44.640Z"
+  },
+  {
+    "steamAppId": 5092820,
+    "title": "Carry On",
+    "sourceUrl": "https://store.steampowered.com/app/5092820/",
+    "price": "価格情報なし",
+    "tags": [
+      "カジュアル",
+      "マルチプレイヤー",
+      "協力プレイ",
+      "共有／分割画面での協力プレイ"
+    ],
+    "releaseDate": "2027年第1四半期",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092820/759b5304af13b76cdb9e8cbfa553aaf86bd6a14b/header.jpg?t=1789717597",
+    "japaneseSupport": "none",
+    "shortDescription": "Carry On is a chaotic 1-4 player local co-op baggage handling game. Grab, wash, wrap and hurl colour-coded luggage down the conveyors to fill every departing flight's manifest before the clock runs out. Miss the plane and the whole terminal pays for it.",
+    "aboutTheGame": "Carry On is a chaotic co-op game for 1–4 players about the least glamorous job at the airport: getting everyone's bags onto the right plane. Grab suitcases off the belt, rush them across the terminal and get them through the gate before the shift ends. You all play on one screen, and you'll be shouting at each other the whole time. Every flight has a manifest Each gate is a departing flight, and its board shows exactly what it's still waiting for: two red, three yellow, one green wrapped in plastic. Fill the order and the plane takes off, then the next flight pulls in with a new list. Bring th…",
+    "detectedAt": "2026-09-18T12:28:45.170Z"
+  },
+  {
+    "steamAppId": 5094150,
+    "title": "Please Advise",
+    "sourceUrl": "https://store.steampowered.com/app/5094150/",
+    "price": "価格情報なし",
+    "tags": [
+      "アドベンチャー",
+      "インディー",
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094150/57483c1928c074a015facc0c1606fa0c5450764f/header.jpg?t=1789654104",
+    "japaneseSupport": "text",
+    "shortDescription": "帳簿を調べるために私立クリニックへ派遣された。本当の目的は、叔父を殺した犯人を見つけること。あなたは話せないので、身振りかタブレットで答える。クリニックの資金、患者の信頼、職員の忠誠、そして自分の良心のバランスを取れ。",
+    "aboutTheGame": "外部監査官の権限を持ってHart Clinicへ派遣された。 表向きは帳簿と財務の確認。あなたにはもう一つ理由がある。 二年前、叔父はここで亡くなった。死因は自殺として記録されている。あなたはそれを信じていない。 叔父は先天性の言語障害を持つ人々に声を取り戻す治療法を研究していた。亡くなる少し前、ほぼ完成したと言っていた。 あなた自身も話すことができない。これは雰囲気作りの設定ではなく、毎回のシフトで向き合わなければならない現実だ。 身振りかタブレットで答えることができる。 身振りは速く人間的だが、誤解されやすい。タブレットは正確だが、言葉は画面に残り、後で誰かに読まれてあなたに不利に使われるかもしれない。 シフトごとに新しい状況が訪れる。患者の頼み事。経営陣からの要求。不審な書類。知っていることを隠している人物。 どの状況にも単純な選択肢がある。結果が単純であることはめったにない。 四つの力があなたを見張っている。クリニックの資金、患者の信頼、職員の忠誠、そして自分の良心。どれもどちらの方向にも崩れうる。クリニックは破産するか、経営者に売却される。職員は反乱を起こすか、無言の共犯者になる。 一つでも崩れれば、監査は終わる。そして調査も終わる。 証拠が増えるほど、それをどう扱うか決めるのは難しくなる。 ▪ 選択がテーマのナラティブカードゲーム、150〜250枚、三幕構成 ▪ 話せな…",
+    "detectedAt": "2026-09-18T12:28:45.678Z"
+  },
+  {
+    "steamAppId": 5096560,
+    "title": "Beer League Hockey",
+    "sourceUrl": "https://store.steampowered.com/app/5096560/",
+    "price": "価格情報なし",
+    "tags": [
+      "スポーツ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年9月",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096560/a5933861a53df54546fc69da077fbed41844ac82/header.jpg?t=1789655947",
+    "japaneseSupport": "none",
+    "shortDescription": "Every legend has a day job. Beer League Hockey delivers fast arcade hockey with monster slap shots, one-timers, big hits, hockey fights, Franchise progression, and skill games. Find the seam, beat the goalie, and rip the twine.",
+    "aboutTheGame": "ABOUT THIS GAME EVERY LEGEND HAS A DAY JOB. Beer League Hockey is loud, fast, scrappy arcade hockey built for the plays you will talk about long after the final horn. Thread a pass through traffic. Load up a slap shot. Step into a one-timer. Put somebody through the boards. Then celebrate like you meant to do that all along. This is hockey with cold beer energy: quick puck movement, big windups, dramatic saves, ugly goals, clean goals, accidental goals, and the occasional on-ice disagreement that needs to be settled with fists. RIP THE TWINE Pick your moment and let it fly. Snap quick wrist sh…",
+    "detectedAt": "2026-09-18T12:28:46.229Z"
+  },
+  {
+    "steamAppId": 5099110,
+    "title": "STEEL VANGUARD:Project ARES",
+    "sourceUrl": "https://store.steampowered.com/app/5099110/",
+    "price": "価格情報なし",
+    "tags": [
+      "アクション",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099110/2557aa021662514b5da18e0348b4c4604ac31a39/header.jpg?t=1789725214",
+    "japaneseSupport": "text",
+    "shortDescription": "『STEEL VANGUARD:Project ARES』は自機を強化しながらミッションクリアを目指す、SF世界を舞台にした見下ろし型シューティングゲームです。 戦神アレスになぞらえた最強パイロットの称号「ARES」を獲得するため強力な敵を倒し、ミッションを最後までクリアしましょう。",
+    "aboutTheGame": "人類が宇宙に進出して百年を超えた頃…。 宇宙海賊の跋扈やエイリアンとの遭遇など、人類の平和を脅かす存在が重い課題となっていた。 だが広がる版図に対し軍事力、特に人的リソースの欠乏は致命的であり、解決の糸口は見えなかった。 地球連邦政府はこれらの問題を一気に解決するため、単騎で数百数千の敵を殲滅できる戦神アレスの如き究極のエリート兵＜Advanced Reinforced Elite Soldier - A.R.E.S.＞を養成する計画「Project ARES」を打ち出した。 一騎当千のパイロット「ARES」の称号を得るため、今、養成機関の扉が開く。 このゲームは最強パイロットの称号「ARES」獲得のためミッションをクリアする、SF世界を舞台にした見下ろし型シューティングゲームです。Waveをクリアするごとに出現するモジュールを獲得して自分の思うままに自機を強化し、全てのWaveクリアを目指してください。",
+    "detectedAt": "2026-09-18T12:28:46.759Z"
+  },
+  {
+    "steamAppId": 5105490,
+    "title": "Sorcerous 2 City of Cults",
+    "sourceUrl": "https://store.steampowered.com/app/5105490/",
+    "price": "価格情報なし",
+    "tags": [
+      "RPG",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "2026年11月27日",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105490/da77a87dbf986cb3d4ab4019ed42bda28a84f3a9/header.jpg?t=1789682331",
+    "japaneseSupport": "none",
+    "shortDescription": "Sorcerous 2: City of Cults is a dark fantasy RPG set in a sprawling diesel-punk metropolis. Explore its neighborhoods, uncover sinister cults, investigate occult mysteries, and battle the city's lurking horrors.",
+    "aboutTheGame": "Sorcerous 2: City of Cults is a dark fantasy full of horror, mystery and occultism. Join a group of magic school students who travel through a sprawling diesel-punk metropolis and explore different neighborhoods using the subway, all while attempting to reveal the secrets of various cults, investigate disappearances, and fight the terrible creatures that lie in wait in dark and lonely places. Turn-Based Combat – Engage in combat using spells, martial skills and items. Battle vermin, fiends, unknown horrors and more. HP and the Ichor used for spell casting must be monitored constantly to win, s…",
+    "detectedAt": "2026-09-18T12:28:47.266Z"
+  },
+  {
+    "steamAppId": 5108860,
+    "title": "Exorcism of the Legion (Last Rites) - Final Cut",
+    "sourceUrl": "https://store.steampowered.com/app/5108860/",
+    "price": "無料",
+    "tags": [
+      "アドベンチャー",
+      "無料プレイ",
+      "シングルプレイヤー"
+    ],
+    "releaseDate": "近日登場",
+    "heroImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108860/6eb7d5e6781c89b69dfe70a0f951fac1b797a8bd/header.jpg?t=1789662589",
+    "japaneseSupport": "none",
+    "shortDescription": "Step into a terrifying world of atmospheric horror rebuilt for PC displays. Investigate dark supernatural mysteries, uncover hidden evidence, and wield powerful sacred relics to survive relentless malevolent forces in Exorcism of the Legion (Last Rites).",
+    "aboutTheGame": "Step into a world of atmospheric horror rebuilt specifically for standard PC displays. Exorcism of the Legion (Last Rites), formerly The Exorcist: Legion, brings intense demonic terror directly to your monitor, re-engineered from the ground up with native mouse, keyboard, and gamepad controls alongside updated visuals and sound. Investigate a series of dark, unsettling mysteries that plunge you into the heart of the supernatural. As you uncover hidden evidence and face relentless malevolent forces, you must rely on specialized tools, sharp instincts, and courage to survive every terrifying enc…",
+    "detectedAt": "2026-09-18T12:28:47.853Z"
   }
 ]
